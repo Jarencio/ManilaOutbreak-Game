@@ -1,0 +1,880 @@
+﻿Log file open, 08/21/24 16:48:24
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: MarilaOubreaks
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.250845
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +8:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Pentium(R) Silver N6000 @ 1.10GHz, GPU: Intel(R) UHD Graphics
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2024.08.21-08.48.24:894][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2024.08.21-08.48.24:894][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2024.08.21-08.48.24:894][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/alexi/Downloads/ManilaOutbreak-Game/MarilaOubreaks/Saved/Config/Windows/Engine.ini]
+[2024.08.21-08.48.24:894][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2024.08.21-08.48.24:894][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/alexi/Downloads/ManilaOutbreak-Game/MarilaOubreaks/Saved/Config/Windows/Engine.ini]
+[2024.08.21-08.48.24:894][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/alexi/Downloads/ManilaOutbreak-Game/MarilaOubreaks/Saved/Config/Windows/Engine.ini]
+[2024.08.21-08.48.24:894][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2024.08.21-08.48.24:894][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2024.08.21-08.48.24:894][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2024.08.21-08.48.24:894][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2024.08.21-08.48.24:894][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2024.08.21-08.48.24:894][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2024.08.21-08.48.24:894][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2024.08.21-08.48.24:894][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2024.08.21-08.48.24:895][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2024.08.21-08.48.24:895][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2024.08.21-08.48.24:895][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2024.08.21-08.48.24:895][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2024.08.21-08.48.24:895][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2024.08.21-08.48.24:895][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/alexi/Downloads/ManilaOutbreak-Game/MarilaOubreaks/Saved/Config/Windows/Engine.ini]
+[2024.08.21-08.48.24:895][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2024.08.21-08.48.24:895][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2024.08.21-08.48.24:895][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2024.08.21-08.48.24:895][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2024.08.21-08.48.24:895][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2024.08.21-08.48.24:895][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2024.08.21-08.48.24:895][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2024.08.21-08.48.24:895][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2024.08.21-08.48.24:895][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2024.08.21-08.48.24:895][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2024.08.21-08.48.24:895][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2024.08.21-08.48.24:895][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2024.08.21-08.48.24:895][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2024.08.21-08.48.24:896][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/alexi/Downloads/ManilaOutbreak-Game/MarilaOubreaks/Saved/Config/Windows/Engine.ini]
+[2024.08.21-08.48.24:896][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/alexi/Downloads/ManilaOutbreak-Game/MarilaOubreaks/Saved/Config/Windows/Engine.ini]
+[2024.08.21-08.48.24:900][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/alexi/Downloads/ManilaOutbreak-Game/MarilaOubreaks/Saved/Config/Windows/Scalability.ini]
+[2024.08.21-08.48.24:900][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2024.08.21-08.48.24:900][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2024.08.21-08.48.24:900][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/alexi/Downloads/ManilaOutbreak-Game/MarilaOubreaks/Saved/Config/Windows/Scalability.ini]
+[2024.08.21-08.48.24:900][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2024.08.21-08.48.24:900][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/alexi/Downloads/ManilaOutbreak-Game/MarilaOubreaks/Saved/Config/Windows/Scalability.ini]
+[2024.08.21-08.48.24:900][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2024.08.21-08.48.24:900][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2024.08.21-08.48.24:900][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2024.08.21-08.48.24:900][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2024.08.21-08.48.24:900][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2024.08.21-08.48.24:900][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2024.08.21-08.48.24:901][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2024.08.21-08.48.24:901][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2024.08.21-08.48.24:901][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2024.08.21-08.48.24:901][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2024.08.21-08.48.24:901][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2024.08.21-08.48.24:901][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2024.08.21-08.48.24:901][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2024.08.21-08.48.24:901][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2024.08.21-08.48.24:901][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2024.08.21-08.48.24:901][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2024.08.21-08.48.24:901][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2024.08.21-08.48.24:901][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2024.08.21-08.48.24:901][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/alexi/Downloads/ManilaOutbreak-Game/MarilaOubreaks/Saved/Config/Windows/Scalability.ini]
+[2024.08.21-08.48.24:901][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2024.08.21-08.48.24:901][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2024.08.21-08.48.24:901][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2024.08.21-08.48.24:901][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2024.08.21-08.48.24:901][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2024.08.21-08.48.24:901][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2024.08.21-08.48.24:901][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2024.08.21-08.48.24:901][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2024.08.21-08.48.24:901][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2024.08.21-08.48.24:901][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2024.08.21-08.48.24:901][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2024.08.21-08.48.24:901][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2024.08.21-08.48.24:901][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2024.08.21-08.48.24:901][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2024.08.21-08.48.24:901][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2024.08.21-08.48.24:901][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2024.08.21-08.48.24:901][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2024.08.21-08.48.24:901][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2024.08.21-08.48.24:901][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2024.08.21-08.48.24:901][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2024.08.21-08.48.24:901][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2024.08.21-08.48.24:901][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2024.08.21-08.48.24:901][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2024.08.21-08.48.24:901][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2024.08.21-08.48.24:901][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2024.08.21-08.48.24:901][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2024.08.21-08.48.24:901][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2024.08.21-08.48.24:901][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2024.08.21-08.48.24:901][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2024.08.21-08.48.24:901][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2024.08.21-08.48.24:901][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/alexi/Downloads/ManilaOutbreak-Game/MarilaOubreaks/Saved/Config/Windows/Scalability.ini]
+[2024.08.21-08.48.24:901][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2024.08.21-08.48.24:901][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2024.08.21-08.48.24:901][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2024.08.21-08.48.24:901][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2024.08.21-08.48.24:901][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2024.08.21-08.48.24:902][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2024.08.21-08.48.24:902][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2024.08.21-08.48.24:902][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2024.08.21-08.48.24:902][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/alexi/Downloads/ManilaOutbreak-Game/MarilaOubreaks/Saved/Config/Windows/Scalability.ini]
+[2024.08.21-08.48.24:902][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2024.08.21-08.48.24:902][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2024.08.21-08.48.24:902][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2024.08.21-08.48.24:902][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2024.08.21-08.48.24:902][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2024.08.21-08.48.24:902][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2024.08.21-08.48.24:902][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2024.08.21-08.48.24:902][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2024.08.21-08.48.24:902][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2024.08.21-08.48.24:902][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2024.08.21-08.48.24:902][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2024.08.21-08.48.24:902][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2024.08.21-08.48.24:902][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2024.08.21-08.48.24:902][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/alexi/Downloads/ManilaOutbreak-Game/MarilaOubreaks/Saved/Config/Windows/Scalability.ini]
+[2024.08.21-08.48.24:902][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2024.08.21-08.48.24:902][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2024.08.21-08.48.24:902][  0]LogInit: Selected Device Profile: [Windows]
+[2024.08.21-08.48.24:902][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2024.08.21-08.48.24:912][  0]LogHAL: Display: Platform has ~ 8 GB [8386174976 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2024.08.21-08.48.24:912][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2024.08.21-08.48.24:913][  0]LogInit: Going up to parent DeviceProfile []
+[2024.08.21-08.48.24:913][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/alexi/Downloads/ManilaOutbreak-Game/MarilaOubreaks/Saved/Config/Windows/Scalability.ini]
+[2024.08.21-08.48.24:913][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2024.08.21-08.48.24:913][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2024.08.21-08.48.24:913][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/alexi/Downloads/ManilaOutbreak-Game/MarilaOubreaks/Saved/Config/Windows/Scalability.ini]
+[2024.08.21-08.48.24:913][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2024.08.21-08.48.24:913][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/alexi/Downloads/ManilaOutbreak-Game/MarilaOubreaks/Saved/Config/Windows/Scalability.ini]
+[2024.08.21-08.48.24:913][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2024.08.21-08.48.24:913][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2024.08.21-08.48.24:913][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2024.08.21-08.48.24:913][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2024.08.21-08.48.24:913][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2024.08.21-08.48.24:913][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2024.08.21-08.48.24:913][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2024.08.21-08.48.24:913][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2024.08.21-08.48.24:913][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2024.08.21-08.48.24:913][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2024.08.21-08.48.24:913][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2024.08.21-08.48.24:913][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2024.08.21-08.48.24:913][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2024.08.21-08.48.24:913][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2024.08.21-08.48.24:913][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2024.08.21-08.48.24:913][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2024.08.21-08.48.24:913][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2024.08.21-08.48.24:913][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2024.08.21-08.48.24:913][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/alexi/Downloads/ManilaOutbreak-Game/MarilaOubreaks/Saved/Config/Windows/Scalability.ini]
+[2024.08.21-08.48.24:913][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2024.08.21-08.48.24:913][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2024.08.21-08.48.24:913][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2024.08.21-08.48.24:913][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2024.08.21-08.48.24:913][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2024.08.21-08.48.24:913][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2024.08.21-08.48.24:913][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2024.08.21-08.48.24:913][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2024.08.21-08.48.24:913][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2024.08.21-08.48.24:913][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2024.08.21-08.48.24:913][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2024.08.21-08.48.24:913][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2024.08.21-08.48.24:913][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2024.08.21-08.48.24:913][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2024.08.21-08.48.24:913][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2024.08.21-08.48.24:913][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2024.08.21-08.48.24:913][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2024.08.21-08.48.24:913][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2024.08.21-08.48.24:913][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2024.08.21-08.48.24:913][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2024.08.21-08.48.24:913][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2024.08.21-08.48.24:913][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2024.08.21-08.48.24:913][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2024.08.21-08.48.24:913][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2024.08.21-08.48.24:913][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2024.08.21-08.48.24:913][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2024.08.21-08.48.24:913][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2024.08.21-08.48.24:913][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2024.08.21-08.48.24:913][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2024.08.21-08.48.24:913][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2024.08.21-08.48.24:913][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/alexi/Downloads/ManilaOutbreak-Game/MarilaOubreaks/Saved/Config/Windows/Scalability.ini]
+[2024.08.21-08.48.24:913][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2024.08.21-08.48.24:913][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2024.08.21-08.48.24:913][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2024.08.21-08.48.24:913][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2024.08.21-08.48.24:913][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2024.08.21-08.48.24:913][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2024.08.21-08.48.24:913][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2024.08.21-08.48.24:913][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2024.08.21-08.48.24:913][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/alexi/Downloads/ManilaOutbreak-Game/MarilaOubreaks/Saved/Config/Windows/Scalability.ini]
+[2024.08.21-08.48.24:913][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2024.08.21-08.48.24:913][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2024.08.21-08.48.24:913][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2024.08.21-08.48.24:913][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2024.08.21-08.48.24:913][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2024.08.21-08.48.24:913][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2024.08.21-08.48.24:913][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2024.08.21-08.48.24:913][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2024.08.21-08.48.24:914][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2024.08.21-08.48.24:914][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2024.08.21-08.48.24:914][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2024.08.21-08.48.24:914][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2024.08.21-08.48.24:914][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2024.08.21-08.48.24:914][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/alexi/Downloads/ManilaOutbreak-Game/MarilaOubreaks/Saved/Config/Windows/Scalability.ini]
+[2024.08.21-08.48.24:914][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2024.08.21-08.48.24:914][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2024.08.21-08.48.24:914][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2024.08.21-08.48.24:914][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2024.08.21-08.48.24:914][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2024.08.21-08.48.24:914][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/alexi/Downloads/ManilaOutbreak-Game/MarilaOubreaks/Saved/Config/Windows/Engine.ini]
+[2024.08.21-08.48.24:914][  0]LogInit: Computer: ALEXISLAPTOP
+[2024.08.21-08.48.24:914][  0]LogInit: User: alexi
+[2024.08.21-08.48.24:914][  0]LogInit: CPU Page size=4096, Cores=4
+[2024.08.21-08.48.24:914][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2024.08.21-08.48.24:914][  0]LogMemory: Memory total: Physical=7.8GB (8GB approx)
+[2024.08.21-08.48.24:914][  0]LogMemory: Platform Memory Stats for Windows
+[2024.08.21-08.48.24:914][  0]LogMemory: Process Physical Memory: 99.28 MB used, 99.28 MB peak
+[2024.08.21-08.48.24:914][  0]LogMemory: Process Virtual Memory: 91.91 MB used, 91.91 MB peak
+[2024.08.21-08.48.24:914][  0]LogMemory: Physical Memory: 4626.77 MB used,  3370.91 MB free, 7997.68 MB total
+[2024.08.21-08.48.24:914][  0]LogMemory: Virtual Memory: 4641.11 MB used,  134213088.00 MB free, 134217728.00 MB total
+[2024.08.21-08.48.24:935][  0]LogInit: Using OS detected language (en-US).
+[2024.08.21-08.48.24:935][  0]LogInit: Using OS detected locale (en-PH).
+[2024.08.21-08.48.24:936][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2024.08.21-08.48.25:114][  0]LogInit: Setting process to per monitor DPI aware
+[2024.08.21-08.48.25:174][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2024.08.21-08.48.25:174][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2024.08.21-08.48.25:412][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2024.08.21-08.48.25:412][  0]LogD3D11RHI: D3D11 adapters:
+[2024.08.21-08.48.25:609][  0]LogD3D11RHI:    0. 'Intel(R) UHD Graphics' (Feature Level 11_0)
+[2024.08.21-08.48.25:609][  0]LogD3D11RHI:       128/0/3998 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2024.08.21-08.48.25:612][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2024.08.21-08.48.25:612][  0]LogD3D11RHI:       0/0/3998 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2024.08.21-08.48.25:612][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2024.08.21-08.48.25:619][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2024.08.21-08.48.25:619][  0]LogD3D11RHI:     GPU DeviceId: 0x4e71 (for the marketing name, search the web for "GPU Device Id")
+[2024.08.21-08.48.25:619][  0]LogWindows: EnumDisplayDevices:
+[2024.08.21-08.48.25:619][  0]LogWindows:    0. 'Intel(R) UHD Graphics' (P:1 D:1)
+[2024.08.21-08.48.25:620][  0]LogWindows:    1. 'Intel(R) UHD Graphics' (P:0 D:0)
+[2024.08.21-08.48.25:620][  0]LogWindows:    2. 'Intel(R) UHD Graphics' (P:0 D:0)
+[2024.08.21-08.48.25:620][  0]LogWindows: DebugString: FoundDriverCount:3 
+[2024.08.21-08.48.25:620][  0]LogD3D11RHI:     Adapter Name: Intel(R) UHD Graphics
+[2024.08.21-08.48.25:620][  0]LogD3D11RHI:   Driver Version: 27.20.100.9079 (internal:27.20.100.9079, unified:27.20.100.9079)
+[2024.08.21-08.48.25:620][  0]LogD3D11RHI:      Driver Date: 12-11-2020
+[2024.08.21-08.48.25:620][  0]LogRHI: Texture pool is 1489 MB (70% of 2127 MB)
+[2024.08.21-08.48.25:780][  0]LogD3D11RHI: Async texture creation enabled
+[2024.08.21-08.48.25:784][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2024.08.21-08.48.25:784][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2024.08.21-08.48.25:784][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2024.08.21-08.48.25:787][  0]LogD3D11RHI: GPU Timing Frequency: 19.200000 (Debug: 2 0)
+[2024.08.21-08.48.26:235][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2024.08.21-08.48.26:254][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2024.08.21-08.48.26:273][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2024.08.21-08.48.26:292][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2024.08.21-08.48.26:311][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2024.08.21-08.48.26:329][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2024.08.21-08.48.26:348][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2024.08.21-08.48.26:366][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2024.08.21-08.48.26:375][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2024.08.21-08.48.26:475][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2024.08.21-08.48.26:475][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2024.08.21-08.48.26:475][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2024.08.21-08.48.26:475][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2024.08.21-08.48.26:475][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2024.08.21-08.48.26:475][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2024.08.21-08.48.26:475][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2024.08.21-08.48.26:475][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2024.08.21-08.48.26:475][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2024.08.21-08.48.26:475][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2024.08.21-08.48.26:475][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2024.08.21-08.48.26:475][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2024.08.21-08.48.26:475][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2024.08.21-08.48.26:475][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2024.08.21-08.48.26:475][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2024.08.21-08.48.26:475][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2024.08.21-08.48.26:475][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2024.08.21-08.48.26:475][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2024.08.21-08.48.26:478][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2024.08.21-08.48.26:536][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2024.08.21-08.48.26:536][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2024.08.21-08.48.26:567][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2024.08.21-08.48.26:567][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2024.08.21-08.48.26:583][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2024.08.21-08.48.26:599][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2024.08.21-08.48.26:615][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2024.08.21-08.48.26:632][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2024.08.21-08.48.26:697][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2024.08.21-08.48.26:697][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2024.08.21-08.48.26:697][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2024.08.21-08.48.26:714][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2024.08.21-08.48.26:806][  0]LogShaderCompilers: Guid format shader working directory is -29 characters bigger than the processId version (../../../../../../Users/alexi/Downloads/ManilaOutbreak-Game/MarilaOubreaks/Intermediate/Shaders/WorkingDirectory/14712/).
+[2024.08.21-08.48.26:806][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/alexi/AppData/Local/Temp/UnrealShaderWorkingDir/AAC3E579497E529E72A2128770189336/'.
+[2024.08.21-08.48.26:810][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2024.08.21-08.48.26:810][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2024.08.21-08.48.26:810][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2024.08.21-08.48.27:837][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2024.08.21-08.48.27:894][  0]LogDerivedDataCache: Loaded boot cache 0.06s 71MB C:/Users/alexi/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2024.08.21-08.48.27:894][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/alexi/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2024.08.21-08.48.27:894][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/alexi/Downloads/ManilaOutbreak-Game/MarilaOubreaks/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2024.08.21-08.48.27:895][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2024.08.21-08.48.27:895][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/alexi/Downloads/ManilaOutbreak-Game/MarilaOubreaks/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2024.08.21-08.48.27:895][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2024.08.21-08.48.27:907][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2024.08.21-08.48.27:908][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2024.08.21-08.48.27:908][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2024.08.21-08.48.27:921][  0]LogDerivedDataCache: Using Local data cache path C:/Users/alexi/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2024.08.21-08.48.27:921][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2024.08.21-08.48.27:921][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2024.08.21-08.48.27:949][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2024.08.21-08.48.27:950][  0]LogSlate: Using FreeType 2.6.0
+[2024.08.21-08.48.27:951][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2024.08.21-08.48.28:047][  0]LogAssetRegistry: FAssetRegistry took 0.0364 seconds to start up
+[2024.08.21-08.48.28:515][  0]LogInit: Selected Device Profile: [Windows]
+[2024.08.21-08.48.28:596][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2024.08.21-08.48.28:596][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2024.08.21-08.48.28:596][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2024.08.21-08.48.28:596][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2024.08.21-08.48.28:596][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2024.08.21-08.48.28:733][  0]LogNetVersion: MarilaOubreaks 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 2523874334)
+[2024.08.21-08.48.29:321][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.067566 seconds
+[2024.08.21-08.48.29:331][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2024.08.21-08.48.29:331][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2024.08.21-08.48.29:331][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2024.08.21-08.48.30:429][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2024.08.21-08.48.30:444][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2024.08.21-08.48.30:575][  0]SourceControl: Source control is disabled
+[2024.08.21-08.48.30:575][  0]SourceControl: Source control is disabled
+[2024.08.21-08.48.30:577][  0]SourceControl: Source control is disabled
+[2024.08.21-08.48.30:579][  0]SourceControl: Source control is disabled
+[2024.08.21-08.48.30:590][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2024.08.21-08.48.30:591][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2024.08.21-08.48.30:688][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2024.08.21-08.48.30:763][  0]LogOcInput: OculusInput pre-init called
+[2024.08.21-08.48.31:598][  0]LogEngine: Initializing Engine...
+[2024.08.21-08.48.31:599][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2024.08.21-08.48.31:600][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2024.08.21-08.48.31:856][  0]LogInit: Initializing FReadOnlyCVARCache
+[2024.08.21-08.48.31:881][  0]LogAIModule: Creating AISystem for world Untitled
+[2024.08.21-08.48.31:892][  0]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2024.08.21-08.48.32:480][  0]LogInit: FAudioDevice initialized.
+[2024.08.21-08.48.32:480][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2024.08.21-08.48.32:555][  0]LogDerivedDataCache: Saved boot cache 0.07s 71MB C:/Users/alexi/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2024.08.21-08.48.32:559][  0]LogInit: Texture streaming: Enabled
+[2024.08.21-08.48.32:584][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2024.08.21-08.48.33:741][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM4
+[2024.08.21-08.48.33:742][  0]LogInit: Transaction tracking system initialized
+[2024.08.21-08.48.33:773][  0]BlueprintLog: New page: Editor Load
+[2024.08.21-08.48.33:880][  0]LocalizationService: Localization service is disabled
+[2024.08.21-08.48.34:941][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2024.08.21-08.48.34:941][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2024.08.21-08.48.35:272][  0]LogFileCache: Scanning file cache for directory 'C:/Users/alexi/Downloads/ManilaOutbreak-Game/MarilaOubreaks/Content/' took 0.02s
+[2024.08.21-08.48.35:272][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2024.08.21-08.48.35:272][  0]LogCook: Display: Mobile HDR setting 1
+[2024.08.21-08.48.35:527][  0]SourceControl: Source control is disabled
+[2024.08.21-08.48.35:527][  0]Cmd: MAP LOAD FILE="../../../../../../Users/alexi/Downloads/ManilaOutbreak-Game/MarilaOubreaks/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2024.08.21-08.48.35:528][  0]LightingResults: New page: Lighting Build
+[2024.08.21-08.48.35:531][  0]MapCheck: New page: Map Check
+[2024.08.21-08.48.35:531][  0]LightingResults: New page: Lighting Build
+[2024.08.21-08.48.35:565][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2024.08.21-08.48.35:770][  0]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData'
+[2024.08.21-08.48.35:770][  0]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData' while loading NULL.
+[2024.08.21-08.48.35:784][  0]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData'
+[2024.08.21-08.48.35:784][  0]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData' while loading NULL.
+[2024.08.21-08.48.35:787][  0]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData'
+[2024.08.21-08.48.35:787][  0]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData' while loading NULL.
+[2024.08.21-08.48.35:787][  0]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData'
+[2024.08.21-08.48.35:787][  0]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData' while loading NULL.
+[2024.08.21-08.48.35:803][  0]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData'
+[2024.08.21-08.48.35:803][  0]LoadErrors: Failed to load /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData Referenced by PersistentLevel
+[2024.08.21-08.48.35:804][  0]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData' while loading NULL.
+[2024.08.21-08.48.36:021][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2024.08.21-08.48.36:041][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.08.21-08.48.36:093][  0]LogUObjectHash: Compacting FUObjectHashTables data took   3.86ms
+[2024.08.21-08.48.36:094][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.08.21-08.48.36:094][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.333ms to complete.
+[2024.08.21-08.48.36:094][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.567
+[2024.08.21-08.48.36:174][  0]LogWorld: Changing Feature Level (Enum) from 3 to 2
+[2024.08.21-08.48.36:258][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.08.21-08.48.36:268][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.08.21-08.48.36:277][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.08.21-08.48.36:286][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.08.21-08.48.36:295][  0]LogCollectionManager: Loaded 0 collections in 0.002111 seconds
+[2024.08.21-08.48.36:312][  0]LogFileCache: Scanning file cache for directory 'C:/Users/alexi/Downloads/ManilaOutbreak-Game/MarilaOubreaks/Saved/Collections/' took 0.01s
+[2024.08.21-08.48.36:312][  0]LogFileCache: Scanning file cache for directory 'C:/Users/alexi/Downloads/ManilaOutbreak-Game/MarilaOubreaks/Content/Developers/alexi/Collections/' took 0.00s
+[2024.08.21-08.48.36:312][  0]LogFileCache: Scanning file cache for directory 'C:/Users/alexi/Downloads/ManilaOutbreak-Game/MarilaOubreaks/Content/Collections/' took 0.00s
+[2024.08.21-08.48.36:312][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2024.08.21-08.48.36:324][  0]LogContentBrowser: Native class hierarchy populated in 0.0112 seconds. Added 2732 classes and 659 folders.
+[2024.08.21-08.48.36:332][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2024.08.21-08.48.36:333][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.08.21-08.48.36:334][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.08.21-08.48.36:334][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.08.21-08.48.36:335][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.08.21-08.48.36:335][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.08.21-08.48.36:336][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.08.21-08.48.36:336][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.08.21-08.48.36:337][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.08.21-08.48.36:338][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.08.21-08.48.36:338][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.08.21-08.48.36:339][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.08.21-08.48.36:339][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.08.21-08.48.36:340][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.08.21-08.48.36:340][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.08.21-08.48.36:341][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.08.21-08.48.36:341][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.08.21-08.48.36:342][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.08.21-08.48.36:342][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.08.21-08.48.36:343][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.08.21-08.48.36:344][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.08.21-08.48.36:344][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.08.21-08.48.36:345][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.08.21-08.48.36:346][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.08.21-08.48.36:347][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.08.21-08.48.36:347][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.08.21-08.48.36:348][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.08.21-08.48.36:390][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2024.08.21-08.48.36:397][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2024.08.21-08.48.36:414][  0]LogSlate: Took 0.000656 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2024.08.21-08.48.36:417][  0]LogSlate: Took 0.000238 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2024.08.21-08.48.36:422][  0]LogSlate: Took 0.000275 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2024.08.21-08.48.36:531][  0]LogRenderer: Reallocating scene render targets to support 964x428 Format 10 NumSamples 1 (Frame:1).
+[2024.08.21-08.48.36:634][  0]LogSlate: Took 0.000307 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.08.21-08.48.36:733][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2024.08.21-08.48.36:733][  0]LogLoad: (Engine Initialization) Total time: 13.88 seconds
+[2024.08.21-08.48.36:733][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2024.08.21-08.48.37:176][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2024.08.21-08.48.37:187][  0]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2024.08.21-08.48.37:302][  1]LogAssetRegistry: Asset discovery search completed in 9.2786 seconds
+[2024.08.21-08.48.37:306][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2024.08.21-08.48.37:306][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000082 seconds (updated 0 objects)
+[2024.08.21-08.48.37:836][  7]LogSlate: Took 0.000431 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.08.21-08.48.42:390][227]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2024.08.21-08.48.42:806][227]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 121 classes and 0 folders.
+[2024.08.21-08.48.43:789][227]LogWorld: Changing Feature Level (Enum) from 3 to 2
+[2024.08.21-08.48.43:907][227]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/BP_EnemyBase.BP_EnemyBase
+[2024.08.21-08.48.44:311][227]LogWorld: Changing Feature Level (Enum) from 3 to 2
+[2024.08.21-08.48.44:438][227]LogSlate: Took 0.000468 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2024.08.21-08.48.44:715][228]LogSlate: Took 0.000387 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2024.08.21-08.48.48:453][334]LogSlate: Window 'BP_EnemyBase' being destroyed
+[2024.08.21-08.48.48:467][334]LogSlate: Window 'BP_EnemyBase' being destroyed
+[2024.08.21-08.48.49:936][406]LogSlate: Window 'Message Log' being destroyed
+[2024.08.21-08.48.49:945][406]LogSlate: Window 'Message Log' being destroyed
+[2024.08.21-08.49.24:468][735]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 ../../../../../../Users/alexi/Downloads/Looks/gamerock/Gamerock.otf)
+[2024.08.21-08.49.26:509][735]LogSlate: Window 'Font Face Import Options' being destroyed
+[2024.08.21-08.49.26:529][735]LogSlate: FontCache flush requested. Reason: UFontFace::PostEditChangeProperty
+[2024.08.21-08.49.26:589][736]LogSlate: Took 0.000349 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2024.08.21-08.49.26:594][736]LogSlate: Took 0.000312 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2024.08.21-08.49.26:599][736]LogSlate: Took 0.000258 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2024.08.21-08.49.26:602][736]LogSlate: Took 0.000215 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.08.21-08.49.40:282][ 60]LogSlate: Took 0.000222 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.08.21-08.49.40:298][ 60]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 ../../../../../../Users/alexi/Downloads/Looks/space-mission-font/SpaceMission-rgyw9.otf)
+[2024.08.21-08.49.42:020][ 60]LogSlate: Window 'Font Face Import Options' being destroyed
+[2024.08.21-08.49.42:040][ 60]LogSlate: FontCache flush requested. Reason: UFontFace::PostEditChangeProperty
+[2024.08.21-08.49.42:101][ 61]LogSlate: Took 0.000492 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2024.08.21-08.49.42:102][ 61]LogSlate: Took 0.000374 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.08.21-08.49.42:108][ 61]LogSlate: Took 0.000407 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2024.08.21-08.49.42:113][ 61]LogSlate: Took 0.000255 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2024.08.21-08.50.02:988][556]LogSlate: Took 0.000797 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.08.21-08.50.03:003][556]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 ../../../../../../Users/alexi/Downloads/Looks/robus-font/Robus-BWqOd.otf)
+[2024.08.21-08.50.03:938][556]LogSlate: Window 'Font Face Import Options' being destroyed
+[2024.08.21-08.50.03:955][556]LogSlate: FontCache flush requested. Reason: UFontFace::PostEditChangeProperty
+[2024.08.21-08.50.04:018][557]LogSlate: Took 0.000493 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2024.08.21-08.50.04:020][557]LogSlate: Took 0.001092 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.08.21-08.50.04:026][557]LogSlate: Took 0.000517 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2024.08.21-08.50.04:031][557]LogSlate: Took 0.000261 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2024.08.21-08.50.33:270][199]LogSlate: Took 0.000677 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.08.21-08.50.33:289][199]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Widget/W_CharacterSelection.W_CharacterSelection
+[2024.08.21-08.50.33:728][199]LogBlueprintActionDatabase: Requesting refresh due to module change: SequencerWidgets (loaded)
+[2024.08.21-08.50.34:216][199]LogSlate: Took 0.000358 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2024.08.21-08.51.29:315][549]LogEditorTransaction: Undo Changed Anchors
+[2024.08.21-08.51.29:620][555]LogEditorTransaction: Undo Edit Vertical Alignment
+[2024.08.21-08.51.29:900][562]LogEditorTransaction: Undo Edit Horizontal Alignment
+[2024.08.21-08.51.30:229][573]LogEditorTransaction: Undo Nudge Widget
+[2024.08.21-08.51.30:596][586]LogEditorTransaction: Undo Nudge Widget
+[2024.08.21-08.52.42:382][678]LogSlate: Window 'Color Picker' being destroyed
+[2024.08.21-08.52.46:998][852]LogSlate: Window 'Color Picker' being destroyed
+[2024.08.21-08.52.54:662][162]LogSlate: Window 'Color Picker' being destroyed
+[2024.08.21-08.53.12:489][906]LogEditorTransaction: Undo Resize Widget
+[2024.08.21-08.53.13:741][945]LogEditorTransaction: Undo Add Widget
+[2024.08.21-08.57.34:753][819]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widget/W_CharacterSelection.W_CharacterSelection:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:W_CharacterSelection_C_0.WidgetTree_0.CanvasPanel_0
+[2024.08.21-08.57.34:753][819]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widget/W_CharacterSelection.W_CharacterSelection:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:W_CharacterSelection_C_1.WidgetTree_0.CanvasPanel_0
+[2024.08.21-08.57.34:754][819]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widget/W_CharacterSelection.W_CharacterSelection:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:W_CharacterSelection_C_2.WidgetTree_0.CanvasPanel_0
+[2024.08.21-08.57.34:754][819]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widget/W_CharacterSelection.W_CharacterSelection:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:W_CharacterSelection_C_3.WidgetTree_0.CanvasPanel_0
+[2024.08.21-08.57.34:754][819]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widget/W_CharacterSelection.W_CharacterSelection:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:W_CharacterSelection_C_4.WidgetTree_0.CanvasPanel_0
+[2024.08.21-08.57.34:754][819]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widget/W_CharacterSelection.W_CharacterSelection:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:W_CharacterSelection_C_5.WidgetTree_0.CanvasPanel_0
+[2024.08.21-08.57.34:754][819]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widget/W_CharacterSelection.W_CharacterSelection:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:W_CharacterSelection_C_6.WidgetTree_0.CanvasPanel_0
+[2024.08.21-08.57.34:754][819]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widget/W_CharacterSelection.W_CharacterSelection:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:W_CharacterSelection_C_7.WidgetTree_0.CanvasPanel_0
+[2024.08.21-08.57.34:754][819]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widget/W_CharacterSelection.W_CharacterSelection:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:W_CharacterSelection_C_8.WidgetTree_0.CanvasPanel_0
+[2024.08.21-08.57.34:754][819]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widget/W_CharacterSelection.W_CharacterSelection:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:W_CharacterSelection_C_9.WidgetTree_0.CanvasPanel_0
+[2024.08.21-08.57.34:754][819]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widget/W_CharacterSelection.W_CharacterSelection:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:W_CharacterSelection_C_10.WidgetTree_0.CanvasPanel_0
+[2024.08.21-08.57.34:755][819]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widget/W_CharacterSelection.W_CharacterSelection:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:W_CharacterSelection_C_11.WidgetTree_0.CanvasPanel_0
+[2024.08.21-08.57.34:755][819]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widget/W_CharacterSelection.W_CharacterSelection:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:W_CharacterSelection_C_12.WidgetTree_0.CanvasPanel_0
+[2024.08.21-08.57.34:755][819]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widget/W_CharacterSelection.W_CharacterSelection:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:W_CharacterSelection_C_13.WidgetTree_0.CanvasPanel_0
+[2024.08.21-08.57.34:755][819]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widget/W_CharacterSelection.W_CharacterSelection:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:W_CharacterSelection_C_14.WidgetTree_0.CanvasPanel_0
+[2024.08.21-08.57.34:755][819]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widget/W_CharacterSelection.W_CharacterSelection:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:W_CharacterSelection_C_15.WidgetTree_0.CanvasPanel_0
+[2024.08.21-08.57.34:755][819]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widget/W_CharacterSelection.W_CharacterSelection:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:W_CharacterSelection_C_16.WidgetTree_0.CanvasPanel_0
+[2024.08.21-08.57.34:755][819]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widget/W_CharacterSelection.W_CharacterSelection:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:W_CharacterSelection_C_17.WidgetTree_0.CanvasPanel_0
+[2024.08.21-08.57.34:755][819]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widget/W_CharacterSelection.W_CharacterSelection:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:W_CharacterSelection_C_18.WidgetTree_0.CanvasPanel_0
+[2024.08.21-08.57.34:755][819]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widget/W_CharacterSelection.W_CharacterSelection:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:W_CharacterSelection_C_19.WidgetTree_0.CanvasPanel_0
+[2024.08.21-08.57.34:755][819]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widget/W_CharacterSelection.W_CharacterSelection:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:W_CharacterSelection_C_20.WidgetTree_0.CanvasPanel_0
+[2024.08.21-08.57.34:755][819]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widget/W_CharacterSelection.W_CharacterSelection:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:W_CharacterSelection_C_21.WidgetTree_0.CanvasPanel_0
+[2024.08.21-08.57.34:755][819]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widget/W_CharacterSelection.W_CharacterSelection:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:W_CharacterSelection_C_22.WidgetTree_0.CanvasPanel_0
+[2024.08.21-08.57.34:755][819]LogProperty: Warning: Illegal TEXT reference to a private object in external package (CanvasPanelSlot /Game/Widget/W_CharacterSelection.W_CharacterSelection:WidgetTree.CanvasPanel_0.CanvasPanelSlot_9) from referencer (Button /Engine/UMG/Editor/Transient.Button_36).  Import failed...
+[2024.08.21-08.57.34:755][819]LogProperty: Warning: ObjectProperty /Script/UMG.Widget:Slot: unresolved reference to 'CanvasPanelSlot'"CanvasPanel_0.CanvasPanelSlot_9"''
+[2024.08.21-08.57.35:888][859]LogEditorTransaction: Undo Paste clipboard contents
+[2024.08.21-08.57.37:530][917]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widget/W_CharacterSelection.W_CharacterSelection:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:W_CharacterSelection_C_0.WidgetTree_0.CanvasPanel_0
+[2024.08.21-08.57.37:530][917]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widget/W_CharacterSelection.W_CharacterSelection:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:W_CharacterSelection_C_1.WidgetTree_0.CanvasPanel_0
+[2024.08.21-08.57.37:530][917]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widget/W_CharacterSelection.W_CharacterSelection:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:W_CharacterSelection_C_2.WidgetTree_0.CanvasPanel_0
+[2024.08.21-08.57.37:530][917]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widget/W_CharacterSelection.W_CharacterSelection:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:W_CharacterSelection_C_3.WidgetTree_0.CanvasPanel_0
+[2024.08.21-08.57.37:530][917]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widget/W_CharacterSelection.W_CharacterSelection:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:W_CharacterSelection_C_4.WidgetTree_0.CanvasPanel_0
+[2024.08.21-08.57.37:530][917]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widget/W_CharacterSelection.W_CharacterSelection:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:W_CharacterSelection_C_5.WidgetTree_0.CanvasPanel_0
+[2024.08.21-08.57.37:530][917]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widget/W_CharacterSelection.W_CharacterSelection:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:W_CharacterSelection_C_6.WidgetTree_0.CanvasPanel_0
+[2024.08.21-08.57.37:530][917]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widget/W_CharacterSelection.W_CharacterSelection:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:W_CharacterSelection_C_7.WidgetTree_0.CanvasPanel_0
+[2024.08.21-08.57.37:530][917]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widget/W_CharacterSelection.W_CharacterSelection:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:W_CharacterSelection_C_8.WidgetTree_0.CanvasPanel_0
+[2024.08.21-08.57.37:530][917]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widget/W_CharacterSelection.W_CharacterSelection:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:W_CharacterSelection_C_9.WidgetTree_0.CanvasPanel_0
+[2024.08.21-08.57.37:530][917]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widget/W_CharacterSelection.W_CharacterSelection:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:W_CharacterSelection_C_10.WidgetTree_0.CanvasPanel_0
+[2024.08.21-08.57.37:531][917]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widget/W_CharacterSelection.W_CharacterSelection:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:W_CharacterSelection_C_11.WidgetTree_0.CanvasPanel_0
+[2024.08.21-08.57.37:531][917]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widget/W_CharacterSelection.W_CharacterSelection:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:W_CharacterSelection_C_12.WidgetTree_0.CanvasPanel_0
+[2024.08.21-08.57.37:531][917]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widget/W_CharacterSelection.W_CharacterSelection:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:W_CharacterSelection_C_13.WidgetTree_0.CanvasPanel_0
+[2024.08.21-08.57.37:531][917]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widget/W_CharacterSelection.W_CharacterSelection:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:W_CharacterSelection_C_14.WidgetTree_0.CanvasPanel_0
+[2024.08.21-08.57.37:531][917]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widget/W_CharacterSelection.W_CharacterSelection:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:W_CharacterSelection_C_15.WidgetTree_0.CanvasPanel_0
+[2024.08.21-08.57.37:531][917]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widget/W_CharacterSelection.W_CharacterSelection:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:W_CharacterSelection_C_16.WidgetTree_0.CanvasPanel_0
+[2024.08.21-08.57.37:531][917]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widget/W_CharacterSelection.W_CharacterSelection:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:W_CharacterSelection_C_17.WidgetTree_0.CanvasPanel_0
+[2024.08.21-08.57.37:531][917]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widget/W_CharacterSelection.W_CharacterSelection:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:W_CharacterSelection_C_18.WidgetTree_0.CanvasPanel_0
+[2024.08.21-08.57.37:531][917]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widget/W_CharacterSelection.W_CharacterSelection:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:W_CharacterSelection_C_19.WidgetTree_0.CanvasPanel_0
+[2024.08.21-08.57.37:531][917]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widget/W_CharacterSelection.W_CharacterSelection:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:W_CharacterSelection_C_20.WidgetTree_0.CanvasPanel_0
+[2024.08.21-08.57.37:531][917]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widget/W_CharacterSelection.W_CharacterSelection:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:W_CharacterSelection_C_21.WidgetTree_0.CanvasPanel_0
+[2024.08.21-08.57.37:531][917]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widget/W_CharacterSelection.W_CharacterSelection:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:W_CharacterSelection_C_22.WidgetTree_0.CanvasPanel_0
+[2024.08.21-08.57.37:531][917]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widget/W_CharacterSelection.W_CharacterSelection:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:W_CharacterSelection_C_23.WidgetTree_0.CanvasPanel_0
+[2024.08.21-08.57.37:531][917]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widget/W_CharacterSelection.W_CharacterSelection:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:W_CharacterSelection_C_24.WidgetTree_0.CanvasPanel_0
+[2024.08.21-08.57.37:531][917]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widget/W_CharacterSelection.W_CharacterSelection:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:W_CharacterSelection_C_25.WidgetTree_0.CanvasPanel_0
+[2024.08.21-08.57.37:532][917]LogProperty: Warning: Illegal TEXT reference to a private object in external package (CanvasPanelSlot /Game/Widget/W_CharacterSelection.W_CharacterSelection:WidgetTree.CanvasPanel_0.CanvasPanelSlot_9) from referencer (Button /Engine/UMG/Editor/Transient.Button_36).  Import failed...
+[2024.08.21-08.57.37:532][917]LogProperty: Warning: ObjectProperty /Script/UMG.Widget:Slot: unresolved reference to 'CanvasPanelSlot'"CanvasPanel_0.CanvasPanelSlot_9"''
+[2024.08.21-08.57.38:517][946]LogEditorTransaction: Undo Paste clipboard contents
+[2024.08.21-08.57.40:197][ 12]LogUObjectHash: Warning: Ambiguous search, could be Button /Engine/UMG/Editor/Transient.Button_36 or Button /Engine/UMG/Editor/Transient.Button_36
+[2024.08.21-08.57.40:210][ 12]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widget/W_CharacterSelection.W_CharacterSelection:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:W_CharacterSelection_C_0.WidgetTree_0.CanvasPanel_0
+[2024.08.21-08.57.40:210][ 12]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widget/W_CharacterSelection.W_CharacterSelection:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:W_CharacterSelection_C_1.WidgetTree_0.CanvasPanel_0
+[2024.08.21-08.57.40:210][ 12]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widget/W_CharacterSelection.W_CharacterSelection:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:W_CharacterSelection_C_2.WidgetTree_0.CanvasPanel_0
+[2024.08.21-08.57.40:210][ 12]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widget/W_CharacterSelection.W_CharacterSelection:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:W_CharacterSelection_C_3.WidgetTree_0.CanvasPanel_0
+[2024.08.21-08.57.40:210][ 12]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widget/W_CharacterSelection.W_CharacterSelection:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:W_CharacterSelection_C_4.WidgetTree_0.CanvasPanel_0
+[2024.08.21-08.57.40:210][ 12]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widget/W_CharacterSelection.W_CharacterSelection:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:W_CharacterSelection_C_5.WidgetTree_0.CanvasPanel_0
+[2024.08.21-08.57.40:210][ 12]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widget/W_CharacterSelection.W_CharacterSelection:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:W_CharacterSelection_C_6.WidgetTree_0.CanvasPanel_0
+[2024.08.21-08.57.40:210][ 12]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widget/W_CharacterSelection.W_CharacterSelection:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:W_CharacterSelection_C_7.WidgetTree_0.CanvasPanel_0
+[2024.08.21-08.57.40:210][ 12]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widget/W_CharacterSelection.W_CharacterSelection:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:W_CharacterSelection_C_8.WidgetTree_0.CanvasPanel_0
+[2024.08.21-08.57.40:210][ 12]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widget/W_CharacterSelection.W_CharacterSelection:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:W_CharacterSelection_C_9.WidgetTree_0.CanvasPanel_0
+[2024.08.21-08.57.40:210][ 12]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widget/W_CharacterSelection.W_CharacterSelection:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:W_CharacterSelection_C_10.WidgetTree_0.CanvasPanel_0
+[2024.08.21-08.57.40:210][ 12]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widget/W_CharacterSelection.W_CharacterSelection:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:W_CharacterSelection_C_11.WidgetTree_0.CanvasPanel_0
+[2024.08.21-08.57.40:210][ 12]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widget/W_CharacterSelection.W_CharacterSelection:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:W_CharacterSelection_C_12.WidgetTree_0.CanvasPanel_0
+[2024.08.21-08.57.40:210][ 12]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widget/W_CharacterSelection.W_CharacterSelection:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:W_CharacterSelection_C_13.WidgetTree_0.CanvasPanel_0
+[2024.08.21-08.57.40:210][ 12]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widget/W_CharacterSelection.W_CharacterSelection:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:W_CharacterSelection_C_14.WidgetTree_0.CanvasPanel_0
+[2024.08.21-08.57.40:210][ 12]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widget/W_CharacterSelection.W_CharacterSelection:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:W_CharacterSelection_C_15.WidgetTree_0.CanvasPanel_0
+[2024.08.21-08.57.40:210][ 12]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widget/W_CharacterSelection.W_CharacterSelection:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:W_CharacterSelection_C_16.WidgetTree_0.CanvasPanel_0
+[2024.08.21-08.57.40:210][ 12]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widget/W_CharacterSelection.W_CharacterSelection:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:W_CharacterSelection_C_17.WidgetTree_0.CanvasPanel_0
+[2024.08.21-08.57.40:210][ 12]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widget/W_CharacterSelection.W_CharacterSelection:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:W_CharacterSelection_C_18.WidgetTree_0.CanvasPanel_0
+[2024.08.21-08.57.40:210][ 12]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widget/W_CharacterSelection.W_CharacterSelection:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:W_CharacterSelection_C_19.WidgetTree_0.CanvasPanel_0
+[2024.08.21-08.57.40:210][ 12]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widget/W_CharacterSelection.W_CharacterSelection:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:W_CharacterSelection_C_20.WidgetTree_0.CanvasPanel_0
+[2024.08.21-08.57.40:210][ 12]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widget/W_CharacterSelection.W_CharacterSelection:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:W_CharacterSelection_C_21.WidgetTree_0.CanvasPanel_0
+[2024.08.21-08.57.40:210][ 12]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widget/W_CharacterSelection.W_CharacterSelection:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:W_CharacterSelection_C_22.WidgetTree_0.CanvasPanel_0
+[2024.08.21-08.57.40:210][ 12]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widget/W_CharacterSelection.W_CharacterSelection:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:W_CharacterSelection_C_23.WidgetTree_0.CanvasPanel_0
+[2024.08.21-08.57.40:211][ 12]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widget/W_CharacterSelection.W_CharacterSelection:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:W_CharacterSelection_C_24.WidgetTree_0.CanvasPanel_0
+[2024.08.21-08.57.40:211][ 12]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widget/W_CharacterSelection.W_CharacterSelection:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:W_CharacterSelection_C_25.WidgetTree_0.CanvasPanel_0
+[2024.08.21-08.57.40:211][ 12]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widget/W_CharacterSelection.W_CharacterSelection:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:W_CharacterSelection_C_26.WidgetTree_0.CanvasPanel_0
+[2024.08.21-08.57.40:211][ 12]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widget/W_CharacterSelection.W_CharacterSelection:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:W_CharacterSelection_C_27.WidgetTree_0.CanvasPanel_0
+[2024.08.21-08.57.40:211][ 12]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widget/W_CharacterSelection.W_CharacterSelection:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:W_CharacterSelection_C_28.WidgetTree_0.CanvasPanel_0
+[2024.08.21-08.57.40:211][ 12]LogProperty: Warning: Illegal TEXT reference to a private object in external package (CanvasPanelSlot /Game/Widget/W_CharacterSelection.W_CharacterSelection:WidgetTree.CanvasPanel_0.CanvasPanelSlot_9) from referencer (Button /Engine/UMG/Editor/Transient.Button_36).  Import failed...
+[2024.08.21-08.57.40:211][ 12]LogProperty: Warning: ObjectProperty /Script/UMG.Widget:Slot: unresolved reference to 'CanvasPanelSlot'"CanvasPanel_0.CanvasPanelSlot_9"''
+[2024.08.21-08.57.40:813][ 33]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widget/W_CharacterSelection.W_CharacterSelection:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:W_CharacterSelection_C_0.WidgetTree_0.CanvasPanel_0
+[2024.08.21-08.57.40:813][ 33]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widget/W_CharacterSelection.W_CharacterSelection:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:W_CharacterSelection_C_1.WidgetTree_0.CanvasPanel_0
+[2024.08.21-08.57.40:813][ 33]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widget/W_CharacterSelection.W_CharacterSelection:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:W_CharacterSelection_C_2.WidgetTree_0.CanvasPanel_0
+[2024.08.21-08.57.40:813][ 33]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widget/W_CharacterSelection.W_CharacterSelection:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:W_CharacterSelection_C_3.WidgetTree_0.CanvasPanel_0
+[2024.08.21-08.57.40:813][ 33]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widget/W_CharacterSelection.W_CharacterSelection:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:W_CharacterSelection_C_4.WidgetTree_0.CanvasPanel_0
+[2024.08.21-08.57.40:813][ 33]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widget/W_CharacterSelection.W_CharacterSelection:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:W_CharacterSelection_C_5.WidgetTree_0.CanvasPanel_0
+[2024.08.21-08.57.40:813][ 33]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widget/W_CharacterSelection.W_CharacterSelection:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:W_CharacterSelection_C_6.WidgetTree_0.CanvasPanel_0
+[2024.08.21-08.57.40:813][ 33]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widget/W_CharacterSelection.W_CharacterSelection:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:W_CharacterSelection_C_7.WidgetTree_0.CanvasPanel_0
+[2024.08.21-08.57.40:813][ 33]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widget/W_CharacterSelection.W_CharacterSelection:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:W_CharacterSelection_C_8.WidgetTree_0.CanvasPanel_0
+[2024.08.21-08.57.40:813][ 33]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widget/W_CharacterSelection.W_CharacterSelection:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:W_CharacterSelection_C_9.WidgetTree_0.CanvasPanel_0
+[2024.08.21-08.57.40:813][ 33]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widget/W_CharacterSelection.W_CharacterSelection:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:W_CharacterSelection_C_10.WidgetTree_0.CanvasPanel_0
+[2024.08.21-08.57.40:813][ 33]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widget/W_CharacterSelection.W_CharacterSelection:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:W_CharacterSelection_C_11.WidgetTree_0.CanvasPanel_0
+[2024.08.21-08.57.40:813][ 33]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widget/W_CharacterSelection.W_CharacterSelection:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:W_CharacterSelection_C_12.WidgetTree_0.CanvasPanel_0
+[2024.08.21-08.57.40:813][ 33]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widget/W_CharacterSelection.W_CharacterSelection:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:W_CharacterSelection_C_13.WidgetTree_0.CanvasPanel_0
+[2024.08.21-08.57.40:813][ 33]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widget/W_CharacterSelection.W_CharacterSelection:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:W_CharacterSelection_C_14.WidgetTree_0.CanvasPanel_0
+[2024.08.21-08.57.40:815][ 33]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widget/W_CharacterSelection.W_CharacterSelection:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:W_CharacterSelection_C_15.WidgetTree_0.CanvasPanel_0
+[2024.08.21-08.57.40:815][ 33]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widget/W_CharacterSelection.W_CharacterSelection:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:W_CharacterSelection_C_16.WidgetTree_0.CanvasPanel_0
+[2024.08.21-08.57.40:815][ 33]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widget/W_CharacterSelection.W_CharacterSelection:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:W_CharacterSelection_C_17.WidgetTree_0.CanvasPanel_0
+[2024.08.21-08.57.40:815][ 33]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widget/W_CharacterSelection.W_CharacterSelection:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:W_CharacterSelection_C_18.WidgetTree_0.CanvasPanel_0
+[2024.08.21-08.57.40:815][ 33]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widget/W_CharacterSelection.W_CharacterSelection:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:W_CharacterSelection_C_19.WidgetTree_0.CanvasPanel_0
+[2024.08.21-08.57.40:815][ 33]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widget/W_CharacterSelection.W_CharacterSelection:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:W_CharacterSelection_C_20.WidgetTree_0.CanvasPanel_0
+[2024.08.21-08.57.40:815][ 33]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widget/W_CharacterSelection.W_CharacterSelection:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:W_CharacterSelection_C_21.WidgetTree_0.CanvasPanel_0
+[2024.08.21-08.57.40:815][ 33]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widget/W_CharacterSelection.W_CharacterSelection:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:W_CharacterSelection_C_22.WidgetTree_0.CanvasPanel_0
+[2024.08.21-08.57.40:815][ 33]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widget/W_CharacterSelection.W_CharacterSelection:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:W_CharacterSelection_C_23.WidgetTree_0.CanvasPanel_0
+[2024.08.21-08.57.40:815][ 33]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widget/W_CharacterSelection.W_CharacterSelection:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:W_CharacterSelection_C_24.WidgetTree_0.CanvasPanel_0
+[2024.08.21-08.57.40:815][ 33]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widget/W_CharacterSelection.W_CharacterSelection:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:W_CharacterSelection_C_25.WidgetTree_0.CanvasPanel_0
+[2024.08.21-08.57.40:815][ 33]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widget/W_CharacterSelection.W_CharacterSelection:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:W_CharacterSelection_C_26.WidgetTree_0.CanvasPanel_0
+[2024.08.21-08.57.40:815][ 33]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widget/W_CharacterSelection.W_CharacterSelection:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:W_CharacterSelection_C_27.WidgetTree_0.CanvasPanel_0
+[2024.08.21-08.57.40:815][ 33]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widget/W_CharacterSelection.W_CharacterSelection:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:W_CharacterSelection_C_28.WidgetTree_0.CanvasPanel_0
+[2024.08.21-08.57.40:815][ 33]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widget/W_CharacterSelection.W_CharacterSelection:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:W_CharacterSelection_C_29.WidgetTree_0.CanvasPanel_0
+[2024.08.21-08.57.40:815][ 33]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widget/W_CharacterSelection.W_CharacterSelection:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:W_CharacterSelection_C_30.WidgetTree_0.CanvasPanel_0
+[2024.08.21-08.57.40:815][ 33]LogProperty: Warning: Illegal TEXT reference to a private object in external package (CanvasPanelSlot /Game/Widget/W_CharacterSelection.W_CharacterSelection:WidgetTree.CanvasPanel_0.CanvasPanelSlot_9) from referencer (Button /Engine/UMG/Editor/Transient.Button_36).  Import failed...
+[2024.08.21-08.57.40:815][ 33]LogProperty: Warning: ObjectProperty /Script/UMG.Widget:Slot: unresolved reference to 'CanvasPanelSlot'"CanvasPanel_0.CanvasPanelSlot_9"''
+[2024.08.21-08.57.43:537][ 95]LogEditorTransaction: Undo Move Widget
+[2024.08.21-08.57.43:883][101]LogEditorTransaction: Undo Paste clipboard contents
+[2024.08.21-08.57.48:679][292]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widget/W_CharacterSelection.W_CharacterSelection:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:W_CharacterSelection_C_0.WidgetTree_0.CanvasPanel_0
+[2024.08.21-08.57.48:679][292]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widget/W_CharacterSelection.W_CharacterSelection:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:W_CharacterSelection_C_1.WidgetTree_0.CanvasPanel_0
+[2024.08.21-08.57.48:679][292]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widget/W_CharacterSelection.W_CharacterSelection:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:W_CharacterSelection_C_2.WidgetTree_0.CanvasPanel_0
+[2024.08.21-08.57.48:679][292]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widget/W_CharacterSelection.W_CharacterSelection:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:W_CharacterSelection_C_3.WidgetTree_0.CanvasPanel_0
+[2024.08.21-08.57.48:679][292]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widget/W_CharacterSelection.W_CharacterSelection:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:W_CharacterSelection_C_4.WidgetTree_0.CanvasPanel_0
+[2024.08.21-08.57.48:680][292]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widget/W_CharacterSelection.W_CharacterSelection:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:W_CharacterSelection_C_5.WidgetTree_0.CanvasPanel_0
+[2024.08.21-08.57.48:680][292]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widget/W_CharacterSelection.W_CharacterSelection:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:W_CharacterSelection_C_6.WidgetTree_0.CanvasPanel_0
+[2024.08.21-08.57.48:680][292]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widget/W_CharacterSelection.W_CharacterSelection:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:W_CharacterSelection_C_7.WidgetTree_0.CanvasPanel_0
+[2024.08.21-08.57.48:680][292]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widget/W_CharacterSelection.W_CharacterSelection:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:W_CharacterSelection_C_8.WidgetTree_0.CanvasPanel_0
+[2024.08.21-08.57.48:680][292]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widget/W_CharacterSelection.W_CharacterSelection:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:W_CharacterSelection_C_9.WidgetTree_0.CanvasPanel_0
+[2024.08.21-08.57.48:680][292]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widget/W_CharacterSelection.W_CharacterSelection:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:W_CharacterSelection_C_10.WidgetTree_0.CanvasPanel_0
+[2024.08.21-08.57.48:680][292]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widget/W_CharacterSelection.W_CharacterSelection:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:W_CharacterSelection_C_11.WidgetTree_0.CanvasPanel_0
+[2024.08.21-08.57.48:680][292]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widget/W_CharacterSelection.W_CharacterSelection:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:W_CharacterSelection_C_12.WidgetTree_0.CanvasPanel_0
+[2024.08.21-08.57.48:680][292]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widget/W_CharacterSelection.W_CharacterSelection:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:W_CharacterSelection_C_13.WidgetTree_0.CanvasPanel_0
+[2024.08.21-08.57.48:680][292]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widget/W_CharacterSelection.W_CharacterSelection:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:W_CharacterSelection_C_14.WidgetTree_0.CanvasPanel_0
+[2024.08.21-08.57.48:680][292]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widget/W_CharacterSelection.W_CharacterSelection:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:W_CharacterSelection_C_15.WidgetTree_0.CanvasPanel_0
+[2024.08.21-08.57.48:680][292]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widget/W_CharacterSelection.W_CharacterSelection:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:W_CharacterSelection_C_16.WidgetTree_0.CanvasPanel_0
+[2024.08.21-08.57.48:680][292]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widget/W_CharacterSelection.W_CharacterSelection:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:W_CharacterSelection_C_17.WidgetTree_0.CanvasPanel_0
+[2024.08.21-08.57.48:680][292]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widget/W_CharacterSelection.W_CharacterSelection:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:W_CharacterSelection_C_18.WidgetTree_0.CanvasPanel_0
+[2024.08.21-08.57.48:680][292]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widget/W_CharacterSelection.W_CharacterSelection:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:W_CharacterSelection_C_19.WidgetTree_0.CanvasPanel_0
+[2024.08.21-08.57.48:680][292]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widget/W_CharacterSelection.W_CharacterSelection:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:W_CharacterSelection_C_20.WidgetTree_0.CanvasPanel_0
+[2024.08.21-08.57.48:680][292]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widget/W_CharacterSelection.W_CharacterSelection:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:W_CharacterSelection_C_21.WidgetTree_0.CanvasPanel_0
+[2024.08.21-08.57.48:680][292]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widget/W_CharacterSelection.W_CharacterSelection:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:W_CharacterSelection_C_22.WidgetTree_0.CanvasPanel_0
+[2024.08.21-08.57.48:680][292]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widget/W_CharacterSelection.W_CharacterSelection:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:W_CharacterSelection_C_23.WidgetTree_0.CanvasPanel_0
+[2024.08.21-08.57.48:680][292]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widget/W_CharacterSelection.W_CharacterSelection:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:W_CharacterSelection_C_24.WidgetTree_0.CanvasPanel_0
+[2024.08.21-08.57.48:680][292]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widget/W_CharacterSelection.W_CharacterSelection:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:W_CharacterSelection_C_25.WidgetTree_0.CanvasPanel_0
+[2024.08.21-08.57.48:680][292]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widget/W_CharacterSelection.W_CharacterSelection:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:W_CharacterSelection_C_26.WidgetTree_0.CanvasPanel_0
+[2024.08.21-08.57.48:680][292]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widget/W_CharacterSelection.W_CharacterSelection:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:W_CharacterSelection_C_27.WidgetTree_0.CanvasPanel_0
+[2024.08.21-08.57.48:680][292]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widget/W_CharacterSelection.W_CharacterSelection:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:W_CharacterSelection_C_28.WidgetTree_0.CanvasPanel_0
+[2024.08.21-08.57.48:680][292]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widget/W_CharacterSelection.W_CharacterSelection:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:W_CharacterSelection_C_29.WidgetTree_0.CanvasPanel_0
+[2024.08.21-08.57.48:681][292]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widget/W_CharacterSelection.W_CharacterSelection:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:W_CharacterSelection_C_30.WidgetTree_0.CanvasPanel_0
+[2024.08.21-08.57.48:681][292]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widget/W_CharacterSelection.W_CharacterSelection:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:W_CharacterSelection_C_31.WidgetTree_0.CanvasPanel_0
+[2024.08.21-08.57.48:681][292]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widget/W_CharacterSelection.W_CharacterSelection:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:W_CharacterSelection_C_32.WidgetTree_0.CanvasPanel_0
+[2024.08.21-08.57.48:681][292]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widget/W_CharacterSelection.W_CharacterSelection:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:W_CharacterSelection_C_33.WidgetTree_0.CanvasPanel_0
+[2024.08.21-08.57.48:681][292]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widget/W_CharacterSelection.W_CharacterSelection:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:W_CharacterSelection_C_34.WidgetTree_0.CanvasPanel_0
+[2024.08.21-08.57.48:681][292]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Widget/W_CharacterSelection.W_CharacterSelection:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_6:W_CharacterSelection_C_35.WidgetTree_0.CanvasPanel_0
+[2024.08.21-08.57.48:681][292]LogProperty: Warning: Illegal TEXT reference to a private object in external package (CanvasPanelSlot /Game/Widget/W_CharacterSelection.W_CharacterSelection:WidgetTree.CanvasPanel_0.CanvasPanelSlot_10) from referencer (Button /Engine/UMG/Editor/Transient.Button_39).  Import failed...
+[2024.08.21-08.57.48:681][292]LogProperty: Warning: ObjectProperty /Script/UMG.Widget:Slot: unresolved reference to 'CanvasPanelSlot'"CanvasPanel_0.CanvasPanelSlot_10"''
+[2024.08.21-08.58.39:105][246]LogUObjectHash: Compacting FUObjectHashTables data took  14.13ms
+[2024.08.21-08.58.39:105][246]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.150
+[2024.08.21-08.58.39:109][246]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fonts/Gamerock] ([1] browsable assets)...
+[2024.08.21-08.58.39:110][246]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fonts/Gamerock]
+[2024.08.21-08.58.39:124][246]LogSavePackage: Moving '../../../../../../Users/alexi/Downloads/ManilaOutbreak-Game/MarilaOubreaks/Saved/Gamerock_Auto1DA429B974C80D2DE2FF0AA8C10786B0A.tmp' to '../../../../../../Users/alexi/Downloads/ManilaOutbreak-Game/MarilaOubreaks/Saved/Autosaves/Game/Fonts/Gamerock_Auto1.uasset'
+[2024.08.21-08.58.39:128][246]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fonts/Gamerock_Font] ([1] browsable assets)...
+[2024.08.21-08.58.39:140][246]OBJ SavePackage:     Rendered thumbnail for [Font /Game/Fonts/Gamerock_Font.Gamerock_Font]
+[2024.08.21-08.58.39:140][246]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fonts/Gamerock_Font]
+[2024.08.21-08.58.39:156][246]LogSavePackage: Moving '../../../../../../Users/alexi/Downloads/ManilaOutbreak-Game/MarilaOubreaks/Saved/Gamerock_Font_Auto1F325B9494A2455AE08F6F4B973DC688A.tmp' to '../../../../../../Users/alexi/Downloads/ManilaOutbreak-Game/MarilaOubreaks/Saved/Autosaves/Game/Fonts/Gamerock_Font_Auto1.uasset'
+[2024.08.21-08.58.39:158][246]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fonts/SpaceMission-rgyw9] ([1] browsable assets)...
+[2024.08.21-08.58.39:158][246]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fonts/SpaceMission-rgyw9]
+[2024.08.21-08.58.39:168][246]LogSavePackage: Moving '../../../../../../Users/alexi/Downloads/ManilaOutbreak-Game/MarilaOubreaks/Saved/SpaceMission-rgyw9_Auto1C7DC7C414BF74E174C747080082FCB62.tmp' to '../../../../../../Users/alexi/Downloads/ManilaOutbreak-Game/MarilaOubreaks/Saved/Autosaves/Game/Fonts/SpaceMission-rgyw9_Auto1.uasset'
+[2024.08.21-08.58.39:170][246]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fonts/SpaceMission-rgyw9_Font] ([1] browsable assets)...
+[2024.08.21-08.58.39:178][246]OBJ SavePackage:     Rendered thumbnail for [Font /Game/Fonts/SpaceMission-rgyw9_Font.SpaceMission-rgyw9_Font]
+[2024.08.21-08.58.39:178][246]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fonts/SpaceMission-rgyw9_Font]
+[2024.08.21-08.58.39:193][246]LogSavePackage: Moving '../../../../../../Users/alexi/Downloads/ManilaOutbreak-Game/MarilaOubreaks/Saved/SpaceMission-rgyw9_Font_Auto1D26240A84F742DC927A6A7B94288BA1F.tmp' to '../../../../../../Users/alexi/Downloads/ManilaOutbreak-Game/MarilaOubreaks/Saved/Autosaves/Game/Fonts/SpaceMission-rgyw9_Font_Auto1.uasset'
+[2024.08.21-08.58.39:195][246]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fonts/Robus-BWqOd] ([1] browsable assets)...
+[2024.08.21-08.58.39:195][246]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fonts/Robus-BWqOd]
+[2024.08.21-08.58.39:205][246]LogSavePackage: Moving '../../../../../../Users/alexi/Downloads/ManilaOutbreak-Game/MarilaOubreaks/Saved/Robus-BWqOd_Auto14438BDE843BCB793F248518A9E81F78F.tmp' to '../../../../../../Users/alexi/Downloads/ManilaOutbreak-Game/MarilaOubreaks/Saved/Autosaves/Game/Fonts/Robus-BWqOd_Auto1.uasset'
+[2024.08.21-08.58.39:207][246]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fonts/Robus-BWqOd_Font] ([1] browsable assets)...
+[2024.08.21-08.58.39:216][246]OBJ SavePackage:     Rendered thumbnail for [Font /Game/Fonts/Robus-BWqOd_Font.Robus-BWqOd_Font]
+[2024.08.21-08.58.39:216][246]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fonts/Robus-BWqOd_Font]
+[2024.08.21-08.58.39:230][246]LogSavePackage: Moving '../../../../../../Users/alexi/Downloads/ManilaOutbreak-Game/MarilaOubreaks/Saved/Robus-BWqOd_Font_Auto1777E87E648869CEA9A1CDAA267E18A4D.tmp' to '../../../../../../Users/alexi/Downloads/ManilaOutbreak-Game/MarilaOubreaks/Saved/Autosaves/Game/Fonts/Robus-BWqOd_Font_Auto1.uasset'
+[2024.08.21-08.58.39:232][246]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Widget/W_CharacterSelection] ([1] browsable assets)...
+[2024.08.21-08.58.39:232][246]OBJ SavePackage: Finished generating thumbnails for package [/Game/Widget/W_CharacterSelection]
+[2024.08.21-08.58.39:259][246]LogSavePackage: Moving '../../../../../../Users/alexi/Downloads/ManilaOutbreak-Game/MarilaOubreaks/Saved/W_CharacterSelection_Auto18015EEC94B914C772BE209AF8CD0FE8C.tmp' to '../../../../../../Users/alexi/Downloads/ManilaOutbreak-Game/MarilaOubreaks/Saved/Autosaves/Game/Widget/W_CharacterSelection_Auto1.uasset'
+[2024.08.21-08.58.39:261][246]LogFileHelpers: Auto-saving content packages took 0.153
+[2024.08.21-09.00.02:587][761]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\alexi\Downloads\Untitled design.png)
+[2024.08.21-09.00.02:611][761]LogTexture: Display: Building textures: Untitled_design (BGRA8, 488X749)
+[2024.08.21-09.00.02:692][761]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\alexi\Downloads\driver (1).png)
+[2024.08.21-09.00.02:714][761]LogTexture: Display: Building textures: driver__1_ (BGRA8, 488X749)
+[2024.08.21-09.00.02:798][761]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\alexi\Downloads\driver.png)
+[2024.08.21-09.00.02:821][761]LogTexture: Display: Building textures: driver (BGRA8, 488X749)
+[2024.08.21-09.00.35:121][331]LogSavePackage: Moving '../../../../../../Users/alexi/Downloads/ManilaOutbreak-Game/MarilaOubreaks/Saved/Student_UI8517A1BD4FF9E13A09721D9148773A82.tmp' to '../../../../../../Users/alexi/Downloads/ManilaOutbreak-Game/MarilaOubreaks/Content/StarterContent/BUTTONS/Student_UI.uasset'
+[2024.08.21-09.00.35:404][331]LogUObjectHash: Compacting FUObjectHashTables data took   4.82ms
+[2024.08.21-09.00.35:470][331]LogUObjectHash: Compacting FUObjectHashTables data took   4.20ms
+[2024.08.21-09.00.35:521][331]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2024.08.21-09.00.42:701][735]LogSavePackage: Moving '../../../../../../Users/alexi/Downloads/ManilaOutbreak-Game/MarilaOubreaks/Saved/Driver_UI821615534702B2E964DFF8B65ECD2FE6.tmp' to '../../../../../../Users/alexi/Downloads/ManilaOutbreak-Game/MarilaOubreaks/Content/StarterContent/BUTTONS/Driver_UI.uasset'
+[2024.08.21-09.00.42:971][735]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2024.08.21-09.00.43:032][735]LogUObjectHash: Compacting FUObjectHashTables data took   4.07ms
+[2024.08.21-09.00.43:083][735]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2024.08.21-09.00.58:347][588]LogSavePackage: Moving '../../../../../../Users/alexi/Downloads/ManilaOutbreak-Game/MarilaOubreaks/Saved/Nurse_UI5210EFA240A86A1C9F0B96B1A06BBAC4.tmp' to '../../../../../../Users/alexi/Downloads/ManilaOutbreak-Game/MarilaOubreaks/Content/StarterContent/BUTTONS/Nurse_UI.uasset'
+[2024.08.21-09.00.58:643][588]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2024.08.21-09.00.58:706][588]LogUObjectHash: Compacting FUObjectHashTables data took   3.72ms
+[2024.08.21-09.00.58:761][588]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2024.08.21-09.01.03:301][823]LogSavePackage: Moving '../../../../../../Users/alexi/Downloads/ManilaOutbreak-Game/MarilaOubreaks/Saved/Student_UIBB6570354DACCCFEB080799EF40CA9AC.tmp' to '../../../../../../Users/alexi/Downloads/ManilaOutbreak-Game/MarilaOubreaks/Content/StarterContent/BUTTONS/Student_UI.uasset'
+[2024.08.21-09.01.03:575][823]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2024.08.21-09.01.03:637][823]LogUObjectHash: Compacting FUObjectHashTables data took   3.75ms
+[2024.08.21-09.01.03:686][823]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2024.08.21-09.01.05:120][901]LogSavePackage: Moving '../../../../../../Users/alexi/Downloads/ManilaOutbreak-Game/MarilaOubreaks/Saved/Student_UIF7C43C4B41AA140B969AAAA0E9117E39.tmp' to '../../../../../../Users/alexi/Downloads/ManilaOutbreak-Game/MarilaOubreaks/Content/StarterContent/BUTTONS/Student_UI.uasset'
+[2024.08.21-09.02.53:454][783]LogEditorTransaction: Undo Move Widget
+[2024.08.21-09.03.45:619][733]LogSlate: Window 'Color Picker' being destroyed
+[2024.08.21-09.04.36:535][787]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widget/W_CharacterSelection" FILE="../../../../../../Users/alexi/Downloads/ManilaOutbreak-Game/MarilaOubreaks/Content/Widget/W_CharacterSelection.uasset" SILENT=true
+[2024.08.21-09.04.36:566][787]LogSavePackage: Moving '../../../../../../Users/alexi/Downloads/ManilaOutbreak-Game/MarilaOubreaks/Saved/W_CharacterSelection3A5BFAF048BE0E86D710139D3D1BEE53.tmp' to '../../../../../../Users/alexi/Downloads/ManilaOutbreak-Game/MarilaOubreaks/Content/Widget/W_CharacterSelection.uasset'
+[2024.08.21-09.04.36:935][798]LogSavePackage: Moving '../../../../../../Users/alexi/Downloads/ManilaOutbreak-Game/MarilaOubreaks/Saved/Student_UI62FCD3A44D979746AF5359822DB014DD.tmp' to '../../../../../../Users/alexi/Downloads/ManilaOutbreak-Game/MarilaOubreaks/Content/StarterContent/BUTTONS/Student_UI.uasset'
+[2024.08.21-09.04.37:256][808]LogSavePackage: Moving '../../../../../../Users/alexi/Downloads/ManilaOutbreak-Game/MarilaOubreaks/Saved/Student_UI397DCA014082D27B72AFF2923EB922EE.tmp' to '../../../../../../Users/alexi/Downloads/ManilaOutbreak-Game/MarilaOubreaks/Content/StarterContent/BUTTONS/Student_UI.uasset'
+[2024.08.21-09.04.38:000][845]LogSlate: Window 'W_CharacterSelection' being destroyed
+[2024.08.21-09.04.38:017][845]LogSlate: Window 'W_CharacterSelection' being destroyed
+[2024.08.21-09.04.40:620][952]LogUObjectHash: Compacting FUObjectHashTables data took   8.41ms
+[2024.08.21-09.04.41:061][952]LogSavePackage: Moving '../../../../../../Users/alexi/Downloads/ManilaOutbreak-Game/MarilaOubreaks/Saved/ThirdPersonExampleMap433B19624EAFBA92A36A069D6CDBA508.tmp' to '../../../../../../Users/alexi/Downloads/ManilaOutbreak-Game/MarilaOubreaks/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2024.08.21-09.05.13:198][282]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/Student.Student
+[2024.08.21-09.05.13:846][282]LogWorld: Changing Feature Level (Enum) from 3 to 2
+[2024.08.21-09.05.14:235][282]LogRenderer: Reallocating scene render targets to support 964x676 Format 10 NumSamples 1 (Frame:1).
+[2024.08.21-09.05.17:376][356]LogSlate: Took 0.001822 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2024.08.21-09.05.26:777][505]LogMaterial: Display: Missing cached shader map for material M_Tech_Hex_Tile, compiling. 
+[2024.08.21-09.05.26:899][505]LogMaterial: Display: Missing cached shader map for material M_Tech_Hex_Tile, compiling. 
+[2024.08.21-09.05.36:924][625]LogMaterial: Display: Missing cached shader map for material M_Wood_Oak, compiling. 
+[2024.08.21-09.05.36:998][625]LogMaterial: Display: Missing cached shader map for material M_Wood_Oak, compiling. 
+[2024.08.21-09.05.39:827][660]LogSlate: Window 'Student' being destroyed
+[2024.08.21-09.05.39:869][660]LogSlate: Window 'Student' being destroyed
+[2024.08.21-09.05.41:236][691]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/Nurse.Nurse
+[2024.08.21-09.05.41:877][691]LogWorld: Changing Feature Level (Enum) from 3 to 2
+[2024.08.21-09.06.07:348][174]LogMaterial: Warning: Material /Game/StarterContent/Materials/M_Wood_Pine.M_Wood_Pine needed to have new flag set bUsedWithSkeletalMesh !
+[2024.08.21-09.06.07:356][174]LogMaterial: Display: Missing cached shader map for material M_Wood_Pine, compiling. 
+[2024.08.21-09.06.07:426][174]LogMaterial: Display: Missing cached shader map for material M_Wood_Pine, compiling. 
+[2024.08.21-09.06.16:745][299]LogSlate: Window 'Nurse' being destroyed
+[2024.08.21-09.06.16:767][299]LogSlate: Window 'Nurse' being destroyed
+[2024.08.21-09.06.18:072][353]LogSavePackage: Moving '../../../../../../Users/alexi/Downloads/ManilaOutbreak-Game/MarilaOubreaks/Saved/NurseA0A4BA4F43F3EBE4C2885AB9CAB401EC.tmp' to '../../../../../../Users/alexi/Downloads/ManilaOutbreak-Game/MarilaOubreaks/Content/ThirdPersonBP/Blueprints/Nurse.uasset'
+[2024.08.21-09.06.23:811][443]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/Driver.Driver
+[2024.08.21-09.06.24:505][443]LogWorld: Changing Feature Level (Enum) from 3 to 2
+[2024.08.21-09.06.43:527][784]LogMaterial: Display: Missing cached shader map for material M_Water_Ocean, compiling. 
+[2024.08.21-09.06.43:565][784]LogMaterial: Display: Missing cached shader map for material M_Water_Ocean, compiling. 
+[2024.08.21-09.06.43:603][784]LogMaterial: Warning: Material /Game/StarterContent/Materials/M_Water_Ocean.M_Water_Ocean needed to have new flag set bUsedWithSkeletalMesh !
+[2024.08.21-09.06.43:609][784]LogMaterial: Display: Missing cached shader map for material M_Water_Ocean, compiling. 
+[2024.08.21-09.06.43:677][784]LogMaterial: Display: Missing cached shader map for material M_Water_Ocean, compiling. 
+[2024.08.21-09.06.48:562][852]LogSlate: Window 'Driver' being destroyed
+[2024.08.21-09.06.48:592][852]LogSlate: Window 'Driver' being destroyed
+[2024.08.21-09.06.49:278][873]LogSavePackage: Moving '../../../../../../Users/alexi/Downloads/ManilaOutbreak-Game/MarilaOubreaks/Saved/DriverEDEA34C94D1BB3187A4A02A98629E881.tmp' to '../../../../../../Users/alexi/Downloads/ManilaOutbreak-Game/MarilaOubreaks/Content/ThirdPersonBP/Blueprints/Driver.uasset'
+[2024.08.21-09.06.49:554][881]LogSavePackage: Moving '../../../../../../Users/alexi/Downloads/ManilaOutbreak-Game/MarilaOubreaks/Saved/Driver1B2E7D8E4F3376250B7D73B6C3D40526.tmp' to '../../../../../../Users/alexi/Downloads/ManilaOutbreak-Game/MarilaOubreaks/Content/ThirdPersonBP/Blueprints/Driver.uasset'
