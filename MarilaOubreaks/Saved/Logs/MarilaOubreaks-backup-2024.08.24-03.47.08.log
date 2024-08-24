@@ -1,0 +1,974 @@
+﻿Log file open, 08/24/24 11:34:04
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: MarilaOubreaks
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.552037
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +8:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 2009) (), CPU: AMD Ryzen 5 5500U with Radeon Graphics         , GPU: AMD Radeon(TM) Graphics
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2024.08.24-03.34.04:399][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2024.08.24-03.34.04:399][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2024.08.24-03.34.04:399][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/markr/MarilaOutbreak/ManilaOutbreak-Game/MarilaOubreaks/Saved/Config/Windows/Engine.ini]
+[2024.08.24-03.34.04:399][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2024.08.24-03.34.04:399][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/markr/MarilaOutbreak/ManilaOutbreak-Game/MarilaOubreaks/Saved/Config/Windows/Engine.ini]
+[2024.08.24-03.34.04:400][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/markr/MarilaOutbreak/ManilaOutbreak-Game/MarilaOubreaks/Saved/Config/Windows/Engine.ini]
+[2024.08.24-03.34.04:400][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2024.08.24-03.34.04:400][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2024.08.24-03.34.04:400][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2024.08.24-03.34.04:400][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2024.08.24-03.34.04:400][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2024.08.24-03.34.04:400][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2024.08.24-03.34.04:400][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2024.08.24-03.34.04:400][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2024.08.24-03.34.04:400][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2024.08.24-03.34.04:400][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2024.08.24-03.34.04:400][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2024.08.24-03.34.04:400][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2024.08.24-03.34.04:400][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2024.08.24-03.34.04:400][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/markr/MarilaOutbreak/ManilaOutbreak-Game/MarilaOubreaks/Saved/Config/Windows/Engine.ini]
+[2024.08.24-03.34.04:400][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2024.08.24-03.34.04:400][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2024.08.24-03.34.04:400][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2024.08.24-03.34.04:400][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2024.08.24-03.34.04:400][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2024.08.24-03.34.04:400][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2024.08.24-03.34.04:400][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2024.08.24-03.34.04:400][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2024.08.24-03.34.04:400][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2024.08.24-03.34.04:400][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2024.08.24-03.34.04:400][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2024.08.24-03.34.04:400][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2024.08.24-03.34.04:400][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2024.08.24-03.34.04:400][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/markr/MarilaOutbreak/ManilaOutbreak-Game/MarilaOubreaks/Saved/Config/Windows/Engine.ini]
+[2024.08.24-03.34.04:400][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/markr/MarilaOutbreak/ManilaOutbreak-Game/MarilaOubreaks/Saved/Config/Windows/Engine.ini]
+[2024.08.24-03.34.04:402][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/markr/MarilaOutbreak/ManilaOutbreak-Game/MarilaOubreaks/Saved/Config/Windows/Scalability.ini]
+[2024.08.24-03.34.04:402][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2024.08.24-03.34.04:402][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2024.08.24-03.34.04:402][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/markr/MarilaOutbreak/ManilaOutbreak-Game/MarilaOubreaks/Saved/Config/Windows/Scalability.ini]
+[2024.08.24-03.34.04:402][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2024.08.24-03.34.04:402][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/markr/MarilaOutbreak/ManilaOutbreak-Game/MarilaOubreaks/Saved/Config/Windows/Scalability.ini]
+[2024.08.24-03.34.04:402][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2024.08.24-03.34.04:402][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2024.08.24-03.34.04:402][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2024.08.24-03.34.04:402][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2024.08.24-03.34.04:402][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2024.08.24-03.34.04:402][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2024.08.24-03.34.04:402][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2024.08.24-03.34.04:402][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2024.08.24-03.34.04:402][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2024.08.24-03.34.04:402][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2024.08.24-03.34.04:402][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2024.08.24-03.34.04:402][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2024.08.24-03.34.04:403][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2024.08.24-03.34.04:403][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2024.08.24-03.34.04:403][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2024.08.24-03.34.04:403][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2024.08.24-03.34.04:403][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2024.08.24-03.34.04:403][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2024.08.24-03.34.04:403][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/markr/MarilaOutbreak/ManilaOutbreak-Game/MarilaOubreaks/Saved/Config/Windows/Scalability.ini]
+[2024.08.24-03.34.04:403][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2024.08.24-03.34.04:403][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2024.08.24-03.34.04:403][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2024.08.24-03.34.04:403][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2024.08.24-03.34.04:403][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2024.08.24-03.34.04:403][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2024.08.24-03.34.04:403][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2024.08.24-03.34.04:403][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2024.08.24-03.34.04:403][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2024.08.24-03.34.04:403][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2024.08.24-03.34.04:403][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2024.08.24-03.34.04:403][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2024.08.24-03.34.04:403][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2024.08.24-03.34.04:403][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2024.08.24-03.34.04:403][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2024.08.24-03.34.04:403][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2024.08.24-03.34.04:403][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2024.08.24-03.34.04:403][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2024.08.24-03.34.04:403][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2024.08.24-03.34.04:403][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2024.08.24-03.34.04:403][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2024.08.24-03.34.04:403][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2024.08.24-03.34.04:403][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2024.08.24-03.34.04:403][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2024.08.24-03.34.04:403][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2024.08.24-03.34.04:403][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2024.08.24-03.34.04:403][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2024.08.24-03.34.04:403][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2024.08.24-03.34.04:403][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2024.08.24-03.34.04:403][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2024.08.24-03.34.04:403][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/markr/MarilaOutbreak/ManilaOutbreak-Game/MarilaOubreaks/Saved/Config/Windows/Scalability.ini]
+[2024.08.24-03.34.04:403][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2024.08.24-03.34.04:403][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2024.08.24-03.34.04:403][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2024.08.24-03.34.04:403][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2024.08.24-03.34.04:403][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2024.08.24-03.34.04:403][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2024.08.24-03.34.04:403][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2024.08.24-03.34.04:403][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2024.08.24-03.34.04:403][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/markr/MarilaOutbreak/ManilaOutbreak-Game/MarilaOubreaks/Saved/Config/Windows/Scalability.ini]
+[2024.08.24-03.34.04:403][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2024.08.24-03.34.04:403][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2024.08.24-03.34.04:403][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2024.08.24-03.34.04:403][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2024.08.24-03.34.04:403][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2024.08.24-03.34.04:403][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2024.08.24-03.34.04:403][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2024.08.24-03.34.04:403][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2024.08.24-03.34.04:403][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2024.08.24-03.34.04:403][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2024.08.24-03.34.04:403][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2024.08.24-03.34.04:403][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2024.08.24-03.34.04:403][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2024.08.24-03.34.04:403][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/markr/MarilaOutbreak/ManilaOutbreak-Game/MarilaOubreaks/Saved/Config/Windows/Scalability.ini]
+[2024.08.24-03.34.04:403][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2024.08.24-03.34.04:403][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2024.08.24-03.34.04:403][  0]LogInit: Selected Device Profile: [Windows]
+[2024.08.24-03.34.04:403][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2024.08.24-03.34.04:422][  0]LogHAL: Display: Platform has ~ 8 GB [7879598080 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2024.08.24-03.34.04:422][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2024.08.24-03.34.04:422][  0]LogInit: Going up to parent DeviceProfile []
+[2024.08.24-03.34.04:423][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@2] File [C:/Users/markr/MarilaOutbreak/ManilaOutbreak-Game/MarilaOubreaks/Saved/Config/Windows/Scalability.ini]
+[2024.08.24-03.34.04:423][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2024.08.24-03.34.04:423][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:0.8]]
+[2024.08.24-03.34.04:423][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@2] File [C:/Users/markr/MarilaOutbreak/ManilaOutbreak-Game/MarilaOubreaks/Saved/Config/Windows/Scalability.ini]
+[2024.08.24-03.34.04:423][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2024.08.24-03.34.04:423][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@2] File [C:/Users/markr/MarilaOutbreak/ManilaOutbreak-Game/MarilaOubreaks/Saved/Config/Windows/Scalability.ini]
+[2024.08.24-03.34.04:423][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2024.08.24-03.34.04:423][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2024.08.24-03.34.04:423][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:4]]
+[2024.08.24-03.34.04:423][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:1024]]
+[2024.08.24-03.34.04:423][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2024.08.24-03.34.04:423][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.04]]
+[2024.08.24-03.34.04:423][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:0.85]]
+[2024.08.24-03.34.04:423][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:0.8]]
+[2024.08.24-03.34.04:423][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:0.5]]
+[2024.08.24-03.34.04:423][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2024.08.24-03.34.04:423][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2024.08.24-03.34.04:423][  0]LogConfig: Setting CVar [[r.AOQuality:1]]
+[2024.08.24-03.34.04:423][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2024.08.24-03.34.04:423][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:16]]
+[2024.08.24-03.34.04:423][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:64]]
+[2024.08.24-03.34.04:423][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2024.08.24-03.34.04:423][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2024.08.24-03.34.04:423][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2024.08.24-03.34.04:423][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@2] File [C:/Users/markr/MarilaOutbreak/ManilaOutbreak-Game/MarilaOubreaks/Saved/Config/Windows/Scalability.ini]
+[2024.08.24-03.34.04:423][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:3]]
+[2024.08.24-03.34.04:423][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.6]]
+[2024.08.24-03.34.04:423][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2024.08.24-03.34.04:423][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2024.08.24-03.34.04:423][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.5]]
+[2024.08.24-03.34.04:423][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2024.08.24-03.34.04:423][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2024.08.24-03.34.04:423][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2024.08.24-03.34.04:423][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2024.08.24-03.34.04:423][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2024.08.24-03.34.04:423][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2024.08.24-03.34.04:423][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:3]]
+[2024.08.24-03.34.04:423][  0]LogConfig: Setting CVar [[r.Upscale.Quality:2]]
+[2024.08.24-03.34.04:423][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2024.08.24-03.34.04:423][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2024.08.24-03.34.04:423][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:0.8]]
+[2024.08.24-03.34.04:423][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2024.08.24-03.34.04:423][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:0        ; lower gathering accumulator quality]]
+[2024.08.24-03.34.04:423][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:2          ; Max3x3 postfilering method]]
+[2024.08.24-03.34.04:423][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2024.08.24-03.34.04:423][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2024.08.24-03.34.04:423][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2024.08.24-03.34.04:423][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:1    ; no background occlusion]]
+[2024.08.24-03.34.04:423][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:0      ; no bokeh simulation when scattering]]
+[2024.08.24-03.34.04:423][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.04        ; only a maximum of 4% of scattered bokeh]]
+[2024.08.24-03.34.04:423][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:0                ; no slight out of focus]]
+[2024.08.24-03.34.04:423][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:0                ; faster temporal accumulation]]
+[2024.08.24-03.34.04:423][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.012   ; required because of AccumulatorQuality=0]]
+[2024.08.24-03.34.04:423][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.012   ; required because of AccumulatorQuality=0]]
+[2024.08.24-03.34.04:423][  0]LogConfig: Applying CVar settings from Section [TextureQuality@2] File [C:/Users/markr/MarilaOutbreak/ManilaOutbreak-Game/MarilaOubreaks/Saved/Config/Windows/Scalability.ini]
+[2024.08.24-03.34.04:423][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2024.08.24-03.34.04:423][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2024.08.24-03.34.04:423][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2024.08.24-03.34.04:423][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2024.08.24-03.34.04:423][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:4]]
+[2024.08.24-03.34.04:423][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:1]]
+[2024.08.24-03.34.04:423][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:800]]
+[2024.08.24-03.34.04:423][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2024.08.24-03.34.04:423][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@2] File [C:/Users/markr/MarilaOutbreak/ManilaOutbreak-Game/MarilaOubreaks/Saved/Config/Windows/Scalability.ini]
+[2024.08.24-03.34.04:423][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:48]]
+[2024.08.24-03.34.04:423][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2024.08.24-03.34.04:423][  0]LogConfig: Setting CVar [[r.SSR.Quality:2]]
+[2024.08.24-03.34.04:423][  0]LogConfig: Setting CVar [[r.SceneColorFormat:3]]
+[2024.08.24-03.34.04:423][  0]LogConfig: Setting CVar [[r.DetailMode:1]]
+[2024.08.24-03.34.04:423][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2024.08.24-03.34.04:423][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2024.08.24-03.34.04:423][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2024.08.24-03.34.04:423][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:1]]
+[2024.08.24-03.34.04:423][  0]LogConfig: Setting CVar [[r.SSS.Quality:-1]]
+[2024.08.24-03.34.04:423][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2024.08.24-03.34.04:423][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:0.5]]
+[2024.08.24-03.34.04:423][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:1]]
+[2024.08.24-03.34.04:423][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@2] File [C:/Users/markr/MarilaOutbreak/ManilaOutbreak-Game/MarilaOubreaks/Saved/Config/Windows/Scalability.ini]
+[2024.08.24-03.34.04:423][  0]LogConfig: Setting CVar [[foliage.DensityScale:0.8]]
+[2024.08.24-03.34.04:423][  0]LogConfig: Setting CVar [[grass.DensityScale:0.8]]
+[2024.08.24-03.34.04:423][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2024.08.24-03.34.04:424][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2024.08.24-03.34.04:424][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2024.08.24-03.34.04:424][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/markr/MarilaOutbreak/ManilaOutbreak-Game/MarilaOubreaks/Saved/Config/Windows/Engine.ini]
+[2024.08.24-03.34.04:424][  0]LogInit: Computer: FEEDER
+[2024.08.24-03.34.04:424][  0]LogInit: User: markr
+[2024.08.24-03.34.04:424][  0]LogInit: CPU Page size=4096, Cores=6
+[2024.08.24-03.34.04:424][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2024.08.24-03.34.04:424][  0]LogMemory: Memory total: Physical=7.3GB (8GB approx)
+[2024.08.24-03.34.04:424][  0]LogMemory: Platform Memory Stats for Windows
+[2024.08.24-03.34.04:424][  0]LogMemory: Process Physical Memory: 101.23 MB used, 101.23 MB peak
+[2024.08.24-03.34.04:424][  0]LogMemory: Process Virtual Memory: 98.55 MB used, 98.55 MB peak
+[2024.08.24-03.34.04:424][  0]LogMemory: Physical Memory: 4857.82 MB used,  2656.75 MB free, 7514.57 MB total
+[2024.08.24-03.34.04:424][  0]LogMemory: Virtual Memory: 4677.24 MB used,  134213048.00 MB free, 134217728.00 MB total
+[2024.08.24-03.34.04:459][  0]LogInit: Using OS detected language (en-US).
+[2024.08.24-03.34.04:459][  0]LogInit: Using OS detected locale (en-PH).
+[2024.08.24-03.34.04:459][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2024.08.24-03.34.04:611][  0]LogInit: Setting process to per monitor DPI aware
+[2024.08.24-03.34.04:648][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2024.08.24-03.34.04:648][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2024.08.24-03.34.04:817][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2024.08.24-03.34.04:817][  0]LogD3D11RHI: D3D11 adapters:
+[2024.08.24-03.34.04:952][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 3050 Laptop GPU' (Feature Level 11_0)
+[2024.08.24-03.34.04:952][  0]LogD3D11RHI:       3964/0/3757 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2024.08.24-03.34.04:998][  0]LogD3D11RHI:    1. 'AMD Radeon(TM) Graphics' (Feature Level 11_0)
+[2024.08.24-03.34.04:998][  0]LogD3D11RHI:       495/0/3757 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1002
+[2024.08.24-03.34.05:001][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2024.08.24-03.34.05:002][  0]LogD3D11RHI:       0/0/3757 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2024.08.24-03.34.05:002][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2024.08.24-03.34.05:010][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2024.08.24-03.34.05:010][  0]LogD3D11RHI:     GPU DeviceId: 0x25a2 (for the marketing name, search the web for "GPU Device Id")
+[2024.08.24-03.34.05:010][  0]LogWindows: EnumDisplayDevices:
+[2024.08.24-03.34.05:010][  0]LogWindows:    0. 'AMD Radeon(TM) Graphics' (P:1 D:1)
+[2024.08.24-03.34.05:010][  0]LogWindows:    1. 'AMD Radeon(TM) Graphics' (P:0 D:0)
+[2024.08.24-03.34.05:011][  0]LogWindows:    2. 'AMD Radeon(TM) Graphics' (P:0 D:0)
+[2024.08.24-03.34.05:011][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2024.08.24-03.34.05:011][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 3050 Laptop GPU
+[2024.08.24-03.34.05:011][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2024.08.24-03.34.05:011][  0]LogD3D11RHI:      Driver Date: Unknown
+[2024.08.24-03.34.05:011][  0]LogRHI: Texture pool is 2774 MB (70% of 3964 MB)
+[2024.08.24-03.34.05:086][  0]LogD3D11RHI: Async texture creation enabled
+[2024.08.24-03.34.05:094][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2024.08.24-03.34.05:094][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2024.08.24-03.34.05:094][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2024.08.24-03.34.05:102][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2024.08.24-03.34.05:372][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2024.08.24-03.34.05:386][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2024.08.24-03.34.05:399][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2024.08.24-03.34.05:413][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2024.08.24-03.34.05:427][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2024.08.24-03.34.05:441][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2024.08.24-03.34.05:455][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2024.08.24-03.34.05:469][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2024.08.24-03.34.05:476][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2024.08.24-03.34.05:554][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2024.08.24-03.34.05:554][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2024.08.24-03.34.05:554][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2024.08.24-03.34.05:554][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2024.08.24-03.34.05:554][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2024.08.24-03.34.05:554][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2024.08.24-03.34.05:554][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2024.08.24-03.34.05:554][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2024.08.24-03.34.05:554][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2024.08.24-03.34.05:554][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2024.08.24-03.34.05:554][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2024.08.24-03.34.05:554][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2024.08.24-03.34.05:554][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2024.08.24-03.34.05:554][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2024.08.24-03.34.05:554][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2024.08.24-03.34.05:554][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2024.08.24-03.34.05:554][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2024.08.24-03.34.05:554][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2024.08.24-03.34.05:556][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2024.08.24-03.34.05:610][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2024.08.24-03.34.05:610][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2024.08.24-03.34.05:635][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2024.08.24-03.34.05:635][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2024.08.24-03.34.05:648][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2024.08.24-03.34.05:660][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2024.08.24-03.34.05:672][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2024.08.24-03.34.05:686][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2024.08.24-03.34.05:729][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2024.08.24-03.34.05:729][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2024.08.24-03.34.05:729][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2024.08.24-03.34.05:737][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2024.08.24-03.34.05:789][  0]LogShaderCompilers: Guid format shader working directory is -33 characters bigger than the processId version (../../../../../../Users/markr/MarilaOutbreak/ManilaOutbreak-Game/MarilaOubreaks/Intermediate/Shaders/WorkingDirectory/7720/).
+[2024.08.24-03.34.05:789][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/markr/AppData/Local/Temp/UnrealShaderWorkingDir/19E0BA3F424E09BAF61CB8B0838242B4/'.
+[2024.08.24-03.34.05:791][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2024.08.24-03.34.05:791][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2024.08.24-03.34.05:791][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2024.08.24-03.34.06:209][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2024.08.24-03.34.06:257][  0]LogDerivedDataCache: Loaded boot cache 0.05s 71MB C:/Users/markr/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2024.08.24-03.34.06:257][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/markr/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2024.08.24-03.34.06:257][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/markr/MarilaOutbreak/ManilaOutbreak-Game/MarilaOubreaks/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2024.08.24-03.34.06:257][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2024.08.24-03.34.06:257][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/markr/MarilaOutbreak/ManilaOutbreak-Game/MarilaOubreaks/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2024.08.24-03.34.06:257][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2024.08.24-03.34.06:269][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2024.08.24-03.34.06:270][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2024.08.24-03.34.06:270][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2024.08.24-03.34.06:282][  0]LogDerivedDataCache: Using Local data cache path C:/Users/markr/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2024.08.24-03.34.06:282][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2024.08.24-03.34.06:282][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2024.08.24-03.34.06:302][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2024.08.24-03.34.06:303][  0]LogSlate: Using FreeType 2.6.0
+[2024.08.24-03.34.06:304][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2024.08.24-03.34.06:381][  0]LogAssetRegistry: FAssetRegistry took 0.0339 seconds to start up
+[2024.08.24-03.34.06:689][  0]LogInit: Selected Device Profile: [Windows]
+[2024.08.24-03.34.06:801][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2024.08.24-03.34.06:801][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2024.08.24-03.34.06:801][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2024.08.24-03.34.06:801][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2024.08.24-03.34.06:801][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2024.08.24-03.34.06:814][  0]LogNetVersion: MarilaOubreaks 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 2523874334)
+[2024.08.24-03.34.07:192][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.053525 seconds
+[2024.08.24-03.34.07:200][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2024.08.24-03.34.07:200][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2024.08.24-03.34.07:200][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2024.08.24-03.34.07:904][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2024.08.24-03.34.07:919][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2024.08.24-03.34.08:033][  0]SourceControl: Source control is disabled
+[2024.08.24-03.34.08:033][  0]SourceControl: Source control is disabled
+[2024.08.24-03.34.08:034][  0]SourceControl: Source control is disabled
+[2024.08.24-03.34.08:036][  0]SourceControl: Source control is disabled
+[2024.08.24-03.34.08:119][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2024.08.24-03.34.08:194][  0]LogOcInput: OculusInput pre-init called
+[2024.08.24-03.34.08:785][  0]LogEngine: Initializing Engine...
+[2024.08.24-03.34.08:786][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2024.08.24-03.34.08:787][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2024.08.24-03.34.08:960][  0]LogInit: Initializing FReadOnlyCVARCache
+[2024.08.24-03.34.08:975][  0]LogAIModule: Creating AISystem for world Untitled
+[2024.08.24-03.34.08:987][  0]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2024.08.24-03.34.09:123][  0]LogInit: FAudioDevice initialized.
+[2024.08.24-03.34.09:124][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2024.08.24-03.34.09:191][  0]LogDerivedDataCache: Saved boot cache 0.07s 71MB C:/Users/markr/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2024.08.24-03.34.09:191][  0]LogInit: Texture streaming: Enabled
+[2024.08.24-03.34.09:212][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2024.08.24-03.34.09:988][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM4
+[2024.08.24-03.34.09:989][  0]LogInit: Transaction tracking system initialized
+[2024.08.24-03.34.10:013][  0]BlueprintLog: New page: Editor Load
+[2024.08.24-03.34.10:098][  0]LocalizationService: Localization service is disabled
+[2024.08.24-03.34.12:676][  0]LogFileCache: Scanning file cache for directory 'C:/Users/markr/MarilaOutbreak/ManilaOutbreak-Game/MarilaOubreaks/Content/' took 0.02s
+[2024.08.24-03.34.12:676][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2024.08.24-03.34.12:676][  0]LogCook: Display: Mobile HDR setting 1
+[2024.08.24-03.34.12:948][  0]SourceControl: Source control is disabled
+[2024.08.24-03.34.12:948][  0]Cmd: MAP LOAD FILE="../../../../../../Users/markr/MarilaOutbreak/ManilaOutbreak-Game/MarilaOubreaks/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2024.08.24-03.34.12:954][  0]LightingResults: New page: Lighting Build
+[2024.08.24-03.34.12:957][  0]MapCheck: New page: Map Check
+[2024.08.24-03.34.12:958][  0]LightingResults: New page: Lighting Build
+[2024.08.24-03.34.12:986][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2024.08.24-03.34.14:335][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2024.08.24-03.34.14:342][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.08.24-03.34.14:369][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2024.08.24-03.34.14:369][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.08.24-03.34.14:369][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.222ms to complete.
+[2024.08.24-03.34.14:369][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 1.422
+[2024.08.24-03.34.14:455][  0]LogWorld: Changing Feature Level (Enum) from 3 to 2
+[2024.08.24-03.34.14:518][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.08.24-03.34.14:524][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.08.24-03.34.14:531][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.08.24-03.34.14:539][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.08.24-03.34.14:551][  0]LogCollectionManager: Loaded 0 collections in 0.001664 seconds
+[2024.08.24-03.34.14:568][  0]LogFileCache: Scanning file cache for directory 'C:/Users/markr/MarilaOutbreak/ManilaOutbreak-Game/MarilaOubreaks/Saved/Collections/' took 0.01s
+[2024.08.24-03.34.14:569][  0]LogFileCache: Scanning file cache for directory 'C:/Users/markr/MarilaOutbreak/ManilaOutbreak-Game/MarilaOubreaks/Content/Developers/markr/Collections/' took 0.00s
+[2024.08.24-03.34.14:569][  0]LogFileCache: Scanning file cache for directory 'C:/Users/markr/MarilaOutbreak/ManilaOutbreak-Game/MarilaOubreaks/Content/Collections/' took 0.00s
+[2024.08.24-03.34.14:569][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2024.08.24-03.34.14:577][  0]LogContentBrowser: Native class hierarchy populated in 0.0084 seconds. Added 2732 classes and 659 folders.
+[2024.08.24-03.34.14:584][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2024.08.24-03.34.14:586][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.08.24-03.34.14:597][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.08.24-03.34.14:624][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.08.24-03.34.14:632][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.08.24-03.34.14:639][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.08.24-03.34.14:646][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.08.24-03.34.14:655][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.08.24-03.34.14:665][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.08.24-03.34.14:673][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.08.24-03.34.14:683][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.08.24-03.34.14:689][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.08.24-03.34.14:697][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.08.24-03.34.14:706][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.08.24-03.34.14:713][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.08.24-03.34.14:723][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.08.24-03.34.14:729][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.08.24-03.34.14:764][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.08.24-03.34.14:772][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.08.24-03.34.14:779][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.08.24-03.34.14:788][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.08.24-03.34.14:796][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.08.24-03.34.14:804][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.08.24-03.34.14:813][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.08.24-03.34.14:821][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.08.24-03.34.14:828][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.08.24-03.34.14:838][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.08.24-03.34.14:981][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2024.08.24-03.34.14:988][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2024.08.24-03.34.15:074][  0]LogSlate: Took 0.000313 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2024.08.24-03.34.15:077][  0]LogSlate: Took 0.000323 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2024.08.24-03.34.15:091][  0]LogSlate: Took 0.008159 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2024.08.24-03.34.15:252][  0]LogRenderer: Reallocating scene render targets to support 964x460 Format 9 NumSamples 1 (Frame:1).
+[2024.08.24-03.34.15:306][  0]LogSlate: Took 0.006819 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.08.24-03.34.15:473][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2024.08.24-03.34.15:473][  0]LogLoad: (Engine Initialization) Total time: 13.30 seconds
+[2024.08.24-03.34.15:473][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2024.08.24-03.34.15:617][  0]LogAssetRegistry: Asset discovery search completed in 9.2590 seconds
+[2024.08.24-03.34.15:619][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2024.08.24-03.34.15:619][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000055 seconds (updated 0 objects)
+[2024.08.24-03.34.15:619][  0]LogContentStreaming: Texture pool size now 800 MB
+[2024.08.24-03.34.16:501][ 45]LogSlate: Took 0.000266 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.08.24-03.34.20:360][259]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2024.08.24-03.34.20:533][267]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Projectile_Enemy.Projectile_Enemy
+[2024.08.24-03.34.20:952][267]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 121 classes and 0 folders.
+[2024.08.24-03.34.21:700][267]LogWorld: Changing Feature Level (Enum) from 3 to 2
+[2024.08.24-03.34.21:835][267]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/BP_Enemy_Spitter.BP_Enemy_Spitter
+[2024.08.24-03.34.22:138][267]LogWorld: Changing Feature Level (Enum) from 3 to 2
+[2024.08.24-03.34.22:224][267]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2024.08.24-03.34.22:505][267]LogWorld: Changing Feature Level (Enum) from 3 to 2
+[2024.08.24-03.34.22:679][267]LogSlate: Took 0.006996 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2024.08.24-03.34.22:966][268]LogSlate: Took 0.008881 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2024.08.24-03.35.09:575][688]LogTemp: Repeating last play command: Selected Viewport
+[2024.08.24-03.35.09:600][688]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2024.08.24-03.35.09:600][688]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.08.24-03.35.09:601][688]LogPlayLevel: [PlayLevel] Compiling BP_Enemy_Spitter before play...
+[2024.08.24-03.35.09:820][688]LogUObjectHash: Compacting FUObjectHashTables data took   3.63ms
+[2024.08.24-03.35.09:820][688]LogPlayLevel: PlayLevel: Blueprint regeneration took 220 ms (1 blueprints)
+[2024.08.24-03.35.09:821][688]PIE: New page: PIE session: ThirdPersonExampleMap (Aug 24, 2024, 7:35:09 PM)
+[2024.08.24-03.35.09:835][688]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2024.08.24-03.35.09:851][688]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015858s)
+[2024.08.24-03.35.09:852][688]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2024.08.24-03.35.09:852][688]LogPlayLevel: PIE: World Init took: (0.001214s)
+[2024.08.24-03.35.09:852][688]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.017754s)
+[2024.08.24-03.35.09:892][688]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2024.08.24-03.35.09:898][688]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2024.08.24-03.35.09:920][688]LogInit: FAudioDevice initialized.
+[2024.08.24-03.35.09:931][688]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.08.24-03.35.09:996][688]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2024.08.24-03.35.10:001][688]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2024.08.24-11.35.10
+[2024.08.24-03.35.10:001][688]LogWorld: Bringing up level for play took: 0.001471
+[2024.08.24-03.35.10:021][688]LogBlueprintActionDatabase: Requesting refresh due to module change: Voice (loaded)
+[2024.08.24-03.35.10:025][688]LogBlueprintActionDatabase: Requesting refresh due to module change: MovieSceneCapture (loaded)
+[2024.08.24-03.35.10:025][688]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2024.08.24-03.35.10:031][688]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-716.299 Y=732.652 Z=386.484] for [Enemy_C]
+[2024.08.24-03.35.10:033][688]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-716.299 Y=732.652 Z=386.484] for [Enemy_C]
+[2024.08.24-03.35.10:038][688]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 1.064
+[2024.08.24-03.35.10:038][688]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2024.08.24-03.35.10:122][689]LogRenderer: Reallocating scene render targets to support 964x472 Format 9 NumSamples 1 (Frame:1).
+[2024.08.24-03.35.12:738][792]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-716.299 Y=732.652 Z=386.484] for [Enemy_C]
+[2024.08.24-03.35.12:741][792]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-716.299 Y=732.652 Z=386.484] for [Enemy_C]
+[2024.08.24-03.35.15:147][896]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2024.08.24-03.35.15:148][896]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.08.24-03.35.15:161][896]LogSlate: Window 'MarilaOubreaks Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2024.08.24-03.35.15:209][896]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.08.24-03.35.15:210][896]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2024.08.24-03.35.15:295][896]LogUObjectHash: Compacting FUObjectHashTables data took   5.14ms
+[2024.08.24-03.35.15:325][897]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2024.08.24-03.35.18:227][ 49]LogRenderer: Reallocating scene render targets to support 964x572 Format 9 NumSamples 1 (Frame:1).
+[2024.08.24-03.35.20:277][160]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2024.08.24-03.35.36:191][722]LogSlate: Window 'Projectile_Enemy' being destroyed
+[2024.08.24-03.35.36:199][722]LogSlate: Window 'Projectile_Enemy' being destroyed
+[2024.08.24-03.35.36:292][722]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.08.24-03.35.43:069][123]LogEditorViewport: Clicking on Actor (LMB): EnemySpawnerBP_C (EnemySpawnerBP2)
+[2024.08.24-03.35.44:055][180]Cmd: DELETE
+[2024.08.24-03.35.44:055][180]Cmd: ACTOR DELETE
+[2024.08.24-03.35.44:059][180]LogEditorActor: Deleted Actor: EnemySpawnerBP_C
+[2024.08.24-03.35.44:102][180]LogUObjectHash: Compacting FUObjectHashTables data took   3.87ms
+[2024.08.24-03.35.44:102][180]LogEditorActor: Deleted 1 Actors (0.048 secs)
+[2024.08.24-03.35.45:874][286]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2024.08.24-03.35.49:625][501]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2024.08.24-03.35.49:859][514]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/BP_Enemy_Spitter.BP_Enemy_Spitter
+[2024.08.24-03.35.50:163][514]LogWorld: Changing Feature Level (Enum) from 3 to 2
+[2024.08.24-03.35.52:361][621]LogSlate: Window 'BP_Enemy_Spitter' being destroyed
+[2024.08.24-03.35.54:628][757]LogTemp: Repeating last play command: Selected Viewport
+[2024.08.24-03.35.54:648][757]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2024.08.24-03.35.54:648][757]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.08.24-03.35.54:648][757]PIE: New page: PIE session: ThirdPersonExampleMap (Aug 24, 2024, 7:35:54 PM)
+[2024.08.24-03.35.54:648][757]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2024.08.24-03.35.54:661][757]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013309s)
+[2024.08.24-03.35.54:663][757]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2024.08.24-03.35.54:663][757]LogPlayLevel: PIE: World Init took: (0.001261s)
+[2024.08.24-03.35.54:663][757]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.014796s)
+[2024.08.24-03.35.54:700][757]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2024.08.24-03.35.54:706][757]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2024.08.24-03.35.54:725][757]LogInit: FAudioDevice initialized.
+[2024.08.24-03.35.54:736][757]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.08.24-03.35.54:772][757]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2024.08.24-03.35.54:776][757]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2024.08.24-11.35.54
+[2024.08.24-03.35.54:777][757]LogWorld: Bringing up level for play took: 0.003464
+[2024.08.24-03.35.54:794][757]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.18
+[2024.08.24-03.35.54:794][757]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2024.08.24-03.36.02:814][236]LogAnimation: Warning: Currently in Animation Blueprint mode. Please change AnimationMode to Use Animation Asset
+[2024.08.24-03.36.02:983][246]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2024.08.24-03.36.02:983][246]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.08.24-03.36.02:996][246]LogSlate: Window 'MarilaOubreaks Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2024.08.24-03.36.03:045][246]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.08.24-03.36.03:046][246]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2024.08.24-03.36.03:101][246]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2024.08.24-03.36.03:188][247]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2024.08.24-03.36.05:652][386]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Projectile_Enemy.Projectile_Enemy
+[2024.08.24-03.36.05:895][386]LogWorld: Changing Feature Level (Enum) from 3 to 2
+[2024.08.24-03.36.16:358][  2]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2024.08.24-03.36.20:836][270]BlueprintLog: New page: Compile Projectile_Enemy
+[2024.08.24-03.36.21:062][270]LogUObjectHash: Compacting FUObjectHashTables data took   3.21ms
+[2024.08.24-03.36.21:609][297]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Projectile_Enemy" FILE="../../../../../../Users/markr/MarilaOutbreak/ManilaOutbreak-Game/MarilaOubreaks/Content/Projectile_Enemy.uasset" SILENT=true
+[2024.08.24-03.36.21:638][297]LogSavePackage: Moving '../../../../../../Users/markr/MarilaOutbreak/ManilaOutbreak-Game/MarilaOubreaks/Saved/Projectile_EnemyEA28D0044EB4E187C9AFFF9B43208641.tmp' to '../../../../../../Users/markr/MarilaOutbreak/ManilaOutbreak-Game/MarilaOubreaks/Content/Projectile_Enemy.uasset'
+[2024.08.24-03.36.22:406][342]LogTemp: Repeating last play command: Selected Viewport
+[2024.08.24-03.36.22:429][342]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2024.08.24-03.36.22:429][342]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.08.24-03.36.22:429][342]PIE: New page: PIE session: ThirdPersonExampleMap (Aug 24, 2024, 7:36:22 PM)
+[2024.08.24-03.36.22:429][342]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2024.08.24-03.36.22:441][342]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011877s)
+[2024.08.24-03.36.22:442][342]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2024.08.24-03.36.22:443][342]LogPlayLevel: PIE: World Init took: (0.001176s)
+[2024.08.24-03.36.22:443][342]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.013357s)
+[2024.08.24-03.36.22:483][342]LogUObjectHash: Compacting FUObjectHashTables data took   3.73ms
+[2024.08.24-03.36.22:489][342]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2024.08.24-03.36.22:508][342]LogInit: FAudioDevice initialized.
+[2024.08.24-03.36.22:519][342]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.08.24-03.36.22:558][342]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2024.08.24-03.36.22:562][342]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2024.08.24-11.36.22
+[2024.08.24-03.36.22:563][342]LogWorld: Bringing up level for play took: 0.003668
+[2024.08.24-03.36.22:581][342]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.393
+[2024.08.24-03.36.22:581][342]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2024.08.24-03.36.26:561][580]LogAnimation: Warning: Currently in Animation Blueprint mode. Please change AnimationMode to Use Animation Asset
+[2024.08.24-03.36.27:211][619]LogAnimation: Warning: Currently in Animation Blueprint mode. Please change AnimationMode to Use Animation Asset
+[2024.08.24-03.36.27:295][624]LogAnimation: Warning: Currently in Animation Blueprint mode. Please change AnimationMode to Use Animation Asset
+[2024.08.24-03.36.28:046][669]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2024.08.24-03.36.28:046][669]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.08.24-03.36.28:058][669]LogSlate: Window 'MarilaOubreaks Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2024.08.24-03.36.28:103][669]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.08.24-03.36.28:103][669]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2024.08.24-03.36.28:164][669]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2024.08.24-03.36.28:178][670]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2024.08.24-03.36.38:722][293]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2024.08.24-03.36.38:854][301]LogTemp: Repeating last play command: Selected Viewport
+[2024.08.24-03.36.38:874][301]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2024.08.24-03.36.38:874][301]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.08.24-03.36.38:876][301]LogPlayLevel: [PlayLevel] Compiling BP_Enemy_Spitter before play...
+[2024.08.24-03.36.39:129][301]LogUObjectHash: Compacting FUObjectHashTables data took   4.02ms
+[2024.08.24-03.36.39:129][301]LogPlayLevel: PlayLevel: Blueprint regeneration took 254 ms (1 blueprints)
+[2024.08.24-03.36.39:130][301]PIE: New page: PIE session: ThirdPersonExampleMap (Aug 24, 2024, 7:36:39 PM)
+[2024.08.24-03.36.39:130][301]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2024.08.24-03.36.39:141][301]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011923s)
+[2024.08.24-03.36.39:142][301]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2024.08.24-03.36.39:142][301]LogPlayLevel: PIE: World Init took: (0.001124s)
+[2024.08.24-03.36.39:142][301]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.013268s)
+[2024.08.24-03.36.39:183][301]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2024.08.24-03.36.39:188][301]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2024.08.24-03.36.39:209][301]LogInit: FAudioDevice initialized.
+[2024.08.24-03.36.39:221][301]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.08.24-03.36.39:260][301]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2024.08.24-03.36.39:264][301]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2024.08.24-11.36.39
+[2024.08.24-03.36.39:264][301]LogWorld: Bringing up level for play took: 0.003100
+[2024.08.24-03.36.39:283][301]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.309
+[2024.08.24-03.36.39:283][301]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2024.08.24-03.36.45:409][666]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2024.08.24-03.36.45:409][666]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.08.24-03.36.45:422][666]LogSlate: Window 'MarilaOubreaks Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2024.08.24-03.36.45:464][666]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.08.24-03.36.45:464][666]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2024.08.24-03.36.45:520][666]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2024.08.24-03.36.45:534][667]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2024.08.24-03.37.07:341][936]LogTemp: Repeating last play command: Selected Viewport
+[2024.08.24-03.37.07:375][936]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2024.08.24-03.37.07:375][936]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.08.24-03.37.07:375][936]LogPlayLevel: [PlayLevel] Compiling BP_Enemy_Spitter before play...
+[2024.08.24-03.37.07:622][936]LogUObjectHash: Compacting FUObjectHashTables data took   3.82ms
+[2024.08.24-03.37.07:622][936]LogPlayLevel: PlayLevel: Blueprint regeneration took 246 ms (1 blueprints)
+[2024.08.24-03.37.07:622][936]PIE: New page: PIE session: ThirdPersonExampleMap (Aug 24, 2024, 7:37:07 PM)
+[2024.08.24-03.37.07:623][936]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2024.08.24-03.37.07:635][936]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011168s)
+[2024.08.24-03.37.07:635][936]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2024.08.24-03.37.07:636][936]LogPlayLevel: PIE: World Init took: (0.000983s)
+[2024.08.24-03.37.07:636][936]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.012379s)
+[2024.08.24-03.37.07:675][936]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2024.08.24-03.37.07:681][936]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2024.08.24-03.37.07:701][936]LogInit: FAudioDevice initialized.
+[2024.08.24-03.37.07:712][936]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.08.24-03.37.07:750][936]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2024.08.24-03.37.07:753][936]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2024.08.24-11.37.07
+[2024.08.24-03.37.07:754][936]LogWorld: Bringing up level for play took: 0.003281
+[2024.08.24-03.37.07:769][936]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.795
+[2024.08.24-03.37.07:769][936]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2024.08.24-03.37.17:519][517]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2024.08.24-03.37.17:519][517]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.08.24-03.37.17:532][517]LogSlate: Window 'MarilaOubreaks Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2024.08.24-03.37.17:575][517]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.08.24-03.37.17:575][517]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2024.08.24-03.37.17:632][517]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2024.08.24-03.37.17:651][518]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2024.08.24-03.37.20:469][687]LogEditorTransaction: Undo Create Pin Link
+[2024.08.24-03.37.20:900][708]LogEditorTransaction: Undo Move Node
+[2024.08.24-03.37.22:669][810]LogEditorTransaction: Redo Move Node
+[2024.08.24-03.37.22:963][823]LogEditorTransaction: Redo Create Pin Link
+[2024.08.24-03.37.46:908][241]LogTemp: Repeating last play command: Selected Viewport
+[2024.08.24-03.37.46:942][241]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2024.08.24-03.37.46:942][241]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.08.24-03.37.46:943][241]LogPlayLevel: [PlayLevel] Compiling BP_Enemy_Spitter before play...
+[2024.08.24-03.37.47:230][241]LogUObjectHash: Compacting FUObjectHashTables data took   4.21ms
+[2024.08.24-03.37.47:230][241]LogPlayLevel: PlayLevel: Blueprint regeneration took 287 ms (1 blueprints)
+[2024.08.24-03.37.47:230][241]PIE: New page: PIE session: ThirdPersonExampleMap (Aug 24, 2024, 7:37:47 PM)
+[2024.08.24-03.37.47:230][241]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2024.08.24-03.37.47:242][241]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012413s)
+[2024.08.24-03.37.47:243][241]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2024.08.24-03.37.47:243][241]LogPlayLevel: PIE: World Init took: (0.001163s)
+[2024.08.24-03.37.47:243][241]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.013836s)
+[2024.08.24-03.37.47:281][241]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2024.08.24-03.37.47:286][241]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2024.08.24-03.37.47:310][241]LogInit: FAudioDevice initialized.
+[2024.08.24-03.37.47:322][241]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.08.24-03.37.47:358][241]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2024.08.24-03.37.47:363][241]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2024.08.24-11.37.47
+[2024.08.24-03.37.47:364][241]LogWorld: Bringing up level for play took: 0.004614
+[2024.08.24-03.37.47:379][241]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.406
+[2024.08.24-03.37.47:380][241]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2024.08.24-03.37.52:608][550]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2024.08.24-03.37.52:610][550]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.08.24-03.37.52:622][550]LogSlate: Window 'MarilaOubreaks Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2024.08.24-03.37.52:661][550]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.08.24-03.37.52:661][550]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2024.08.24-03.37.52:720][550]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2024.08.24-03.37.52:738][551]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2024.08.24-03.37.55:304][705]LogTemp: Repeating last play command: Selected Viewport
+[2024.08.24-03.37.55:338][705]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2024.08.24-03.37.55:338][705]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.08.24-03.37.55:338][705]PIE: New page: PIE session: ThirdPersonExampleMap (Aug 24, 2024, 7:37:55 PM)
+[2024.08.24-03.37.55:338][705]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2024.08.24-03.37.55:350][705]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011312s)
+[2024.08.24-03.37.55:351][705]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2024.08.24-03.37.55:351][705]LogPlayLevel: PIE: World Init took: (0.001043s)
+[2024.08.24-03.37.55:351][705]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.012534s)
+[2024.08.24-03.37.55:392][705]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2024.08.24-03.37.55:399][705]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2024.08.24-03.37.55:416][705]LogInit: FAudioDevice initialized.
+[2024.08.24-03.37.55:428][705]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.08.24-03.37.55:465][705]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2024.08.24-03.37.55:469][705]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2024.08.24-11.37.55
+[2024.08.24-03.37.55:469][705]LogWorld: Bringing up level for play took: 0.003055
+[2024.08.24-03.37.55:487][705]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.513
+[2024.08.24-03.37.55:487][705]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2024.08.24-03.38.01:522][ 64]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2024.08.24-03.38.01:522][ 64]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.08.24-03.38.01:534][ 64]LogSlate: Window 'MarilaOubreaks Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2024.08.24-03.38.01:587][ 64]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.08.24-03.38.01:587][ 64]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2024.08.24-03.38.01:647][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2024.08.24-03.38.01:714][ 65]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2024.08.24-03.38.10:748][582]LogTemp: Repeating last play command: Selected Viewport
+[2024.08.24-03.38.10:770][582]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2024.08.24-03.38.10:770][582]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.08.24-03.38.10:771][582]LogPlayLevel: [PlayLevel] Compiling BP_Enemy_Spitter before play...
+[2024.08.24-03.38.11:028][582]LogUObjectHash: Compacting FUObjectHashTables data took   3.78ms
+[2024.08.24-03.38.11:028][582]LogPlayLevel: PlayLevel: Blueprint regeneration took 257 ms (1 blueprints)
+[2024.08.24-03.38.11:028][582]PIE: New page: PIE session: ThirdPersonExampleMap (Aug 24, 2024, 7:38:11 PM)
+[2024.08.24-03.38.11:028][582]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2024.08.24-03.38.11:039][582]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011546s)
+[2024.08.24-03.38.11:040][582]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2024.08.24-03.38.11:041][582]LogPlayLevel: PIE: World Init took: (0.001138s)
+[2024.08.24-03.38.11:041][582]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.012906s)
+[2024.08.24-03.38.11:081][582]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2024.08.24-03.38.11:086][582]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2024.08.24-03.38.11:104][582]LogInit: FAudioDevice initialized.
+[2024.08.24-03.38.11:117][582]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.08.24-03.38.11:154][582]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2024.08.24-03.38.11:156][582]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2024.08.24-11.38.11
+[2024.08.24-03.38.11:157][582]LogWorld: Bringing up level for play took: 0.003379
+[2024.08.24-03.38.11:174][582]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.2
+[2024.08.24-03.38.11:174][582]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2024.08.24-03.38.18:788][ 32]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2024.08.24-03.38.18:789][ 32]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.08.24-03.38.18:804][ 32]LogSlate: Window 'MarilaOubreaks Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2024.08.24-03.38.18:847][ 32]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.08.24-03.38.18:847][ 32]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2024.08.24-03.38.18:908][ 32]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2024.08.24-03.38.18:930][ 33]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2024.08.24-03.38.19:832][ 87]LogEditorTransaction: Undo Create Pin Link
+[2024.08.24-03.38.20:585][128]LogEditorTransaction: Undo Delete current selection
+[2024.08.24-03.38.46:313][648]LogTemp: Repeating last play command: Selected Viewport
+[2024.08.24-03.38.46:349][648]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2024.08.24-03.38.46:349][648]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.08.24-03.38.46:350][648]LogPlayLevel: [PlayLevel] Compiling BP_Enemy_Spitter before play...
+[2024.08.24-03.38.46:601][648]LogUObjectHash: Compacting FUObjectHashTables data took   3.86ms
+[2024.08.24-03.38.46:601][648]LogPlayLevel: PlayLevel: Blueprint regeneration took 252 ms (1 blueprints)
+[2024.08.24-03.38.46:601][648]PIE: New page: PIE session: ThirdPersonExampleMap (Aug 24, 2024, 7:38:46 PM)
+[2024.08.24-03.38.46:601][648]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2024.08.24-03.38.46:613][648]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011943s)
+[2024.08.24-03.38.46:614][648]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2024.08.24-03.38.46:615][648]LogPlayLevel: PIE: World Init took: (0.001269s)
+[2024.08.24-03.38.46:615][648]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.013450s)
+[2024.08.24-03.38.46:655][648]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2024.08.24-03.38.46:660][648]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2024.08.24-03.38.46:678][648]LogInit: FAudioDevice initialized.
+[2024.08.24-03.38.46:691][648]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.08.24-03.38.46:726][648]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2024.08.24-03.38.46:730][648]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2024.08.24-11.38.46
+[2024.08.24-03.38.46:731][648]LogWorld: Bringing up level for play took: 0.003456
+[2024.08.24-03.38.46:746][648]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.227
+[2024.08.24-03.38.46:746][648]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2024.08.24-03.38.55:809][183]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2024.08.24-03.38.55:809][183]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.08.24-03.38.55:822][183]LogSlate: Window 'MarilaOubreaks Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2024.08.24-03.38.55:867][183]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.08.24-03.38.55:867][183]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2024.08.24-03.38.55:926][183]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2024.08.24-03.38.55:947][184]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2024.08.24-03.39.09:237][957]LogTemp: Repeating last play command: Selected Viewport
+[2024.08.24-03.39.09:272][957]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2024.08.24-03.39.09:272][957]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.08.24-03.39.09:273][957]LogPlayLevel: [PlayLevel] Compiling BP_Enemy_Spitter before play...
+[2024.08.24-03.39.09:527][957]LogUObjectHash: Compacting FUObjectHashTables data took   3.68ms
+[2024.08.24-03.39.09:527][957]LogPlayLevel: PlayLevel: Blueprint regeneration took 255 ms (1 blueprints)
+[2024.08.24-03.39.09:527][957]PIE: New page: PIE session: ThirdPersonExampleMap (Aug 24, 2024, 7:39:09 PM)
+[2024.08.24-03.39.09:528][957]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2024.08.24-03.39.09:540][957]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011665s)
+[2024.08.24-03.39.09:541][957]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2024.08.24-03.39.09:541][957]LogPlayLevel: PIE: World Init took: (0.001089s)
+[2024.08.24-03.39.09:541][957]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.012990s)
+[2024.08.24-03.39.09:581][957]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2024.08.24-03.39.09:586][957]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2024.08.24-03.39.09:605][957]LogInit: FAudioDevice initialized.
+[2024.08.24-03.39.09:617][957]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.08.24-03.39.09:652][957]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2024.08.24-03.39.09:657][957]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2024.08.24-11.39.09
+[2024.08.24-03.39.09:658][957]LogWorld: Bringing up level for play took: 0.004255
+[2024.08.24-03.39.09:674][957]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.7
+[2024.08.24-03.39.09:675][957]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2024.08.24-03.39.16:446][359]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2024.08.24-03.39.16:446][359]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.08.24-03.39.16:459][359]LogSlate: Window 'MarilaOubreaks Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2024.08.24-03.39.16:502][359]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.08.24-03.39.16:503][359]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2024.08.24-03.39.16:560][359]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2024.08.24-03.39.16:582][360]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2024.08.24-03.45.28:659][680]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2024.08.24-03.45.28:905][680]LogSavePackage: Moving '../../../../../../Users/markr/MarilaOutbreak/ManilaOutbreak-Game/MarilaOubreaks/Saved/ThirdPersonExampleMap_Auto19570E6544901B293454A4881C41092B3.tmp' to '../../../../../../Users/markr/MarilaOutbreak/ManilaOutbreak-Game/MarilaOubreaks/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto1.umap'
+[2024.08.24-03.45.28:910][680]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.288
+[2024.08.24-03.45.28:910][680]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.288
+[2024.08.24-03.45.28:916][680]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BP_Enemy_Spitter] ([1] browsable assets)...
+[2024.08.24-03.45.28:943][680]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BP_Enemy_Spitter.BP_Enemy_Spitter]
+[2024.08.24-03.45.28:943][680]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_Enemy_Spitter]
+[2024.08.24-03.45.28:999][680]LogSavePackage: Moving '../../../../../../Users/markr/MarilaOutbreak/ManilaOutbreak-Game/MarilaOubreaks/Saved/BP_Enemy_Spitter_Auto158D3D72A408221DC2CD7FDA3258B60E9.tmp' to '../../../../../../Users/markr/MarilaOutbreak/ManilaOutbreak-Game/MarilaOubreaks/Saved/Autosaves/Game/BP_Enemy_Spitter_Auto1.uasset'
+[2024.08.24-03.45.29:002][680]LogFileHelpers: Auto-saving content packages took 0.086
+[2024.08.24-03.46.20:132][747]LogTemp: Repeating last play command: Selected Viewport
+[2024.08.24-03.46.20:167][747]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2024.08.24-03.46.20:167][747]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.08.24-03.46.20:167][747]PIE: New page: PIE session: ThirdPersonExampleMap (Aug 24, 2024, 7:46:20 PM)
+[2024.08.24-03.46.20:167][747]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2024.08.24-03.46.20:180][747]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012584s)
+[2024.08.24-03.46.20:182][747]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2024.08.24-03.46.20:182][747]LogPlayLevel: PIE: World Init took: (0.001474s)
+[2024.08.24-03.46.20:182][747]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.014277s)
+[2024.08.24-03.46.20:224][747]LogUObjectHash: Compacting FUObjectHashTables data took   3.28ms
+[2024.08.24-03.46.20:230][747]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2024.08.24-03.46.20:249][747]LogInit: FAudioDevice initialized.
+[2024.08.24-03.46.20:260][747]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.08.24-03.46.20:296][747]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2024.08.24-03.46.20:300][747]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2024.08.24-11.46.20
+[2024.08.24-03.46.20:302][747]LogWorld: Bringing up level for play took: 0.004477
+[2024.08.24-03.46.20:316][747]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.657
+[2024.08.24-03.46.20:317][747]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2024.08.24-03.46.31:426][410]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2024.08.24-03.46.31:426][410]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.08.24-03.46.31:439][410]LogSlate: Window 'MarilaOubreaks Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2024.08.24-03.46.31:489][410]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.08.24-03.46.31:489][410]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2024.08.24-03.46.31:546][410]LogUObjectHash: Compacting FUObjectHashTables data took   3.55ms
+[2024.08.24-03.46.31:620][411]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2024.08.24-03.46.45:639][252]LogTemp: Repeating last play command: Selected Viewport
+[2024.08.24-03.46.45:675][252]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2024.08.24-03.46.45:675][252]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.08.24-03.46.45:676][252]LogPlayLevel: [PlayLevel] Compiling BP_Enemy_Spitter before play...
+[2024.08.24-03.46.45:929][252]LogUObjectHash: Compacting FUObjectHashTables data took   3.68ms
+[2024.08.24-03.46.45:930][252]LogPlayLevel: PlayLevel: Blueprint regeneration took 254 ms (1 blueprints)
+[2024.08.24-03.46.45:930][252]PIE: New page: PIE session: ThirdPersonExampleMap (Aug 24, 2024, 7:46:45 PM)
+[2024.08.24-03.46.45:930][252]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2024.08.24-03.46.45:942][252]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011446s)
+[2024.08.24-03.46.45:942][252]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2024.08.24-03.46.45:943][252]LogPlayLevel: PIE: World Init took: (0.001030s)
+[2024.08.24-03.46.45:943][252]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.012692s)
+[2024.08.24-03.46.45:980][252]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2024.08.24-03.46.45:985][252]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2024.08.24-03.46.46:003][252]LogInit: FAudioDevice initialized.
+[2024.08.24-03.46.46:015][252]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.08.24-03.46.46:057][252]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2024.08.24-03.46.46:061][252]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2024.08.24-11.46.46
+[2024.08.24-03.46.46:061][252]LogWorld: Bringing up level for play took: 0.003503
+[2024.08.24-03.46.46:077][252]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 1.103
+[2024.08.24-03.46.46:077][252]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2024.08.24-03.46.53:884][714]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2024.08.24-03.46.53:884][714]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.08.24-03.46.53:897][714]LogSlate: Window 'MarilaOubreaks Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2024.08.24-03.46.53:939][714]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.08.24-03.46.53:939][714]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2024.08.24-03.46.53:996][714]LogUObjectHash: Compacting FUObjectHashTables data took   3.21ms
+[2024.08.24-03.46.54:015][715]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2024.08.24-03.47.07:918][549]LogTemp: Repeating last play command: Selected Viewport
+[2024.08.24-03.47.07:957][549]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2024.08.24-03.47.07:958][549]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.08.24-03.47.07:959][549]LogPlayLevel: [PlayLevel] Compiling BP_Enemy_Spitter before play...
+[2024.08.24-03.47.08:207][549]LogUObjectHash: Compacting FUObjectHashTables data took   3.65ms
+[2024.08.24-03.47.08:207][549]LogPlayLevel: PlayLevel: Blueprint regeneration took 249 ms (1 blueprints)
+[2024.08.24-03.47.08:207][549]PIE: New page: PIE session: ThirdPersonExampleMap (Aug 24, 2024, 7:47:08 PM)
+[2024.08.24-03.47.08:207][549]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2024.08.24-03.47.08:219][549]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011452s)
+[2024.08.24-03.47.08:220][549]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2024.08.24-03.47.08:220][549]LogPlayLevel: PIE: World Init took: (0.001076s)
+[2024.08.24-03.47.08:220][549]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.012714s)
+[2024.08.24-03.47.08:264][549]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2024.08.24-03.47.08:271][549]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2024.08.24-03.47.08:290][549]LogInit: FAudioDevice initialized.
+[2024.08.24-03.47.08:302][549]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.08.24-03.47.08:340][549]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2024.08.24-03.47.08:343][549]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2024.08.24-11.47.08
+[2024.08.24-03.47.08:344][549]LogWorld: Bringing up level for play took: 0.003607
+[2024.08.24-03.47.08:362][549]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 1.388
+[2024.08.24-03.47.08:362][549]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
