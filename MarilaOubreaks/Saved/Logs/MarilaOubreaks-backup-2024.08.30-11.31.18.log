@@ -1,0 +1,1197 @@
+﻿Log file open, 08/30/24 19:13:56
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: MarilaOubreaks
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.626461
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +8:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 2009) (), CPU: AMD Ryzen 5 5500U with Radeon Graphics         , GPU: AMD Radeon(TM) Graphics
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2024.08.30-11.13.57:885][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2024.08.30-11.13.57:885][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2024.08.30-11.13.57:885][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/markr/MarilaOutbreak/ManilaOutbreak-Game/MarilaOubreaks/Saved/Config/Windows/Engine.ini]
+[2024.08.30-11.13.57:885][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2024.08.30-11.13.57:885][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/markr/MarilaOutbreak/ManilaOutbreak-Game/MarilaOubreaks/Saved/Config/Windows/Engine.ini]
+[2024.08.30-11.13.57:885][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/markr/MarilaOutbreak/ManilaOutbreak-Game/MarilaOubreaks/Saved/Config/Windows/Engine.ini]
+[2024.08.30-11.13.57:885][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2024.08.30-11.13.57:885][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2024.08.30-11.13.57:885][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2024.08.30-11.13.57:885][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2024.08.30-11.13.57:885][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2024.08.30-11.13.57:885][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2024.08.30-11.13.57:885][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2024.08.30-11.13.57:885][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2024.08.30-11.13.57:885][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2024.08.30-11.13.57:885][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2024.08.30-11.13.57:885][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2024.08.30-11.13.57:885][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2024.08.30-11.13.57:885][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2024.08.30-11.13.57:885][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/markr/MarilaOutbreak/ManilaOutbreak-Game/MarilaOubreaks/Saved/Config/Windows/Engine.ini]
+[2024.08.30-11.13.57:885][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2024.08.30-11.13.57:885][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2024.08.30-11.13.57:885][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2024.08.30-11.13.57:885][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2024.08.30-11.13.57:885][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2024.08.30-11.13.57:885][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2024.08.30-11.13.57:885][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2024.08.30-11.13.57:885][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2024.08.30-11.13.57:885][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2024.08.30-11.13.57:885][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2024.08.30-11.13.57:885][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2024.08.30-11.13.57:885][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2024.08.30-11.13.57:885][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2024.08.30-11.13.57:885][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/markr/MarilaOutbreak/ManilaOutbreak-Game/MarilaOubreaks/Saved/Config/Windows/Engine.ini]
+[2024.08.30-11.13.57:885][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/markr/MarilaOutbreak/ManilaOutbreak-Game/MarilaOubreaks/Saved/Config/Windows/Engine.ini]
+[2024.08.30-11.13.57:887][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/markr/MarilaOutbreak/ManilaOutbreak-Game/MarilaOubreaks/Saved/Config/Windows/Scalability.ini]
+[2024.08.30-11.13.57:887][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2024.08.30-11.13.57:887][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2024.08.30-11.13.57:887][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/markr/MarilaOutbreak/ManilaOutbreak-Game/MarilaOubreaks/Saved/Config/Windows/Scalability.ini]
+[2024.08.30-11.13.57:887][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2024.08.30-11.13.57:887][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/markr/MarilaOutbreak/ManilaOutbreak-Game/MarilaOubreaks/Saved/Config/Windows/Scalability.ini]
+[2024.08.30-11.13.57:887][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2024.08.30-11.13.57:887][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2024.08.30-11.13.57:887][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2024.08.30-11.13.57:887][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2024.08.30-11.13.57:887][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2024.08.30-11.13.57:887][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2024.08.30-11.13.57:887][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2024.08.30-11.13.57:887][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2024.08.30-11.13.57:887][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2024.08.30-11.13.57:887][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2024.08.30-11.13.57:887][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2024.08.30-11.13.57:887][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2024.08.30-11.13.57:887][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2024.08.30-11.13.57:888][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2024.08.30-11.13.57:888][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2024.08.30-11.13.57:888][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2024.08.30-11.13.57:888][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2024.08.30-11.13.57:888][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2024.08.30-11.13.57:888][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/markr/MarilaOutbreak/ManilaOutbreak-Game/MarilaOubreaks/Saved/Config/Windows/Scalability.ini]
+[2024.08.30-11.13.57:888][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2024.08.30-11.13.57:888][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2024.08.30-11.13.57:888][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2024.08.30-11.13.57:888][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2024.08.30-11.13.57:888][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2024.08.30-11.13.57:888][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2024.08.30-11.13.57:888][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2024.08.30-11.13.57:888][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2024.08.30-11.13.57:888][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2024.08.30-11.13.57:888][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2024.08.30-11.13.57:888][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2024.08.30-11.13.57:888][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2024.08.30-11.13.57:888][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2024.08.30-11.13.57:888][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2024.08.30-11.13.57:888][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2024.08.30-11.13.57:888][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2024.08.30-11.13.57:888][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2024.08.30-11.13.57:888][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2024.08.30-11.13.57:888][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2024.08.30-11.13.57:888][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2024.08.30-11.13.57:888][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2024.08.30-11.13.57:888][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2024.08.30-11.13.57:888][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2024.08.30-11.13.57:888][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2024.08.30-11.13.57:888][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2024.08.30-11.13.57:888][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2024.08.30-11.13.57:888][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2024.08.30-11.13.57:888][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2024.08.30-11.13.57:888][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2024.08.30-11.13.57:888][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2024.08.30-11.13.57:888][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/markr/MarilaOutbreak/ManilaOutbreak-Game/MarilaOubreaks/Saved/Config/Windows/Scalability.ini]
+[2024.08.30-11.13.57:888][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2024.08.30-11.13.57:888][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2024.08.30-11.13.57:888][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2024.08.30-11.13.57:888][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2024.08.30-11.13.57:888][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2024.08.30-11.13.57:888][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2024.08.30-11.13.57:888][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2024.08.30-11.13.57:888][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2024.08.30-11.13.57:888][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/markr/MarilaOutbreak/ManilaOutbreak-Game/MarilaOubreaks/Saved/Config/Windows/Scalability.ini]
+[2024.08.30-11.13.57:888][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2024.08.30-11.13.57:888][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2024.08.30-11.13.57:888][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2024.08.30-11.13.57:888][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2024.08.30-11.13.57:888][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2024.08.30-11.13.57:888][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2024.08.30-11.13.57:888][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2024.08.30-11.13.57:888][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2024.08.30-11.13.57:888][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2024.08.30-11.13.57:888][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2024.08.30-11.13.57:888][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2024.08.30-11.13.57:888][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2024.08.30-11.13.57:888][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2024.08.30-11.13.57:888][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/markr/MarilaOutbreak/ManilaOutbreak-Game/MarilaOubreaks/Saved/Config/Windows/Scalability.ini]
+[2024.08.30-11.13.57:888][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2024.08.30-11.13.57:888][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2024.08.30-11.13.57:889][  0]LogInit: Selected Device Profile: [Windows]
+[2024.08.30-11.13.57:889][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2024.08.30-11.13.57:916][  0]LogHAL: Display: Platform has ~ 8 GB [7879598080 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2024.08.30-11.13.57:916][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2024.08.30-11.13.57:916][  0]LogInit: Going up to parent DeviceProfile []
+[2024.08.30-11.13.57:916][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@2] File [C:/Users/markr/MarilaOutbreak/ManilaOutbreak-Game/MarilaOubreaks/Saved/Config/Windows/Scalability.ini]
+[2024.08.30-11.13.57:916][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2024.08.30-11.13.57:916][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:0.8]]
+[2024.08.30-11.13.57:916][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@2] File [C:/Users/markr/MarilaOutbreak/ManilaOutbreak-Game/MarilaOubreaks/Saved/Config/Windows/Scalability.ini]
+[2024.08.30-11.13.57:916][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2024.08.30-11.13.57:916][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@2] File [C:/Users/markr/MarilaOutbreak/ManilaOutbreak-Game/MarilaOubreaks/Saved/Config/Windows/Scalability.ini]
+[2024.08.30-11.13.57:916][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2024.08.30-11.13.57:916][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2024.08.30-11.13.57:916][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:4]]
+[2024.08.30-11.13.57:916][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:1024]]
+[2024.08.30-11.13.57:916][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2024.08.30-11.13.57:916][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.04]]
+[2024.08.30-11.13.57:916][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:0.85]]
+[2024.08.30-11.13.57:916][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:0.8]]
+[2024.08.30-11.13.57:916][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:0.5]]
+[2024.08.30-11.13.57:916][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2024.08.30-11.13.57:916][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2024.08.30-11.13.57:916][  0]LogConfig: Setting CVar [[r.AOQuality:1]]
+[2024.08.30-11.13.57:916][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2024.08.30-11.13.57:916][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:16]]
+[2024.08.30-11.13.57:916][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:64]]
+[2024.08.30-11.13.57:916][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2024.08.30-11.13.57:916][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2024.08.30-11.13.57:916][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2024.08.30-11.13.57:916][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@2] File [C:/Users/markr/MarilaOutbreak/ManilaOutbreak-Game/MarilaOubreaks/Saved/Config/Windows/Scalability.ini]
+[2024.08.30-11.13.57:916][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:3]]
+[2024.08.30-11.13.57:916][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.6]]
+[2024.08.30-11.13.57:916][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2024.08.30-11.13.57:916][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2024.08.30-11.13.57:916][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.5]]
+[2024.08.30-11.13.57:916][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2024.08.30-11.13.57:916][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2024.08.30-11.13.57:916][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2024.08.30-11.13.57:916][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2024.08.30-11.13.57:916][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2024.08.30-11.13.57:916][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2024.08.30-11.13.57:916][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:3]]
+[2024.08.30-11.13.57:916][  0]LogConfig: Setting CVar [[r.Upscale.Quality:2]]
+[2024.08.30-11.13.57:916][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2024.08.30-11.13.57:916][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2024.08.30-11.13.57:916][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:0.8]]
+[2024.08.30-11.13.57:916][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2024.08.30-11.13.57:916][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:0        ; lower gathering accumulator quality]]
+[2024.08.30-11.13.57:916][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:2          ; Max3x3 postfilering method]]
+[2024.08.30-11.13.57:916][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2024.08.30-11.13.57:916][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2024.08.30-11.13.57:916][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2024.08.30-11.13.57:916][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:1    ; no background occlusion]]
+[2024.08.30-11.13.57:916][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:0      ; no bokeh simulation when scattering]]
+[2024.08.30-11.13.57:916][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.04        ; only a maximum of 4% of scattered bokeh]]
+[2024.08.30-11.13.57:916][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:0                ; no slight out of focus]]
+[2024.08.30-11.13.57:916][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:0                ; faster temporal accumulation]]
+[2024.08.30-11.13.57:916][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.012   ; required because of AccumulatorQuality=0]]
+[2024.08.30-11.13.57:916][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.012   ; required because of AccumulatorQuality=0]]
+[2024.08.30-11.13.57:916][  0]LogConfig: Applying CVar settings from Section [TextureQuality@2] File [C:/Users/markr/MarilaOutbreak/ManilaOutbreak-Game/MarilaOubreaks/Saved/Config/Windows/Scalability.ini]
+[2024.08.30-11.13.57:916][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2024.08.30-11.13.57:916][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2024.08.30-11.13.57:916][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2024.08.30-11.13.57:916][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2024.08.30-11.13.57:916][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:4]]
+[2024.08.30-11.13.57:916][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:1]]
+[2024.08.30-11.13.57:916][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:800]]
+[2024.08.30-11.13.57:916][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2024.08.30-11.13.57:916][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@2] File [C:/Users/markr/MarilaOutbreak/ManilaOutbreak-Game/MarilaOubreaks/Saved/Config/Windows/Scalability.ini]
+[2024.08.30-11.13.57:916][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:48]]
+[2024.08.30-11.13.57:916][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2024.08.30-11.13.57:916][  0]LogConfig: Setting CVar [[r.SSR.Quality:2]]
+[2024.08.30-11.13.57:916][  0]LogConfig: Setting CVar [[r.SceneColorFormat:3]]
+[2024.08.30-11.13.57:916][  0]LogConfig: Setting CVar [[r.DetailMode:1]]
+[2024.08.30-11.13.57:916][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2024.08.30-11.13.57:916][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2024.08.30-11.13.57:916][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2024.08.30-11.13.57:916][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:1]]
+[2024.08.30-11.13.57:916][  0]LogConfig: Setting CVar [[r.SSS.Quality:-1]]
+[2024.08.30-11.13.57:917][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2024.08.30-11.13.57:917][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:0.5]]
+[2024.08.30-11.13.57:917][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:1]]
+[2024.08.30-11.13.57:917][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@2] File [C:/Users/markr/MarilaOutbreak/ManilaOutbreak-Game/MarilaOubreaks/Saved/Config/Windows/Scalability.ini]
+[2024.08.30-11.13.57:917][  0]LogConfig: Setting CVar [[foliage.DensityScale:0.8]]
+[2024.08.30-11.13.57:917][  0]LogConfig: Setting CVar [[grass.DensityScale:0.8]]
+[2024.08.30-11.13.57:917][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2024.08.30-11.13.57:917][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2024.08.30-11.13.57:917][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2024.08.30-11.13.57:917][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/markr/MarilaOutbreak/ManilaOutbreak-Game/MarilaOubreaks/Saved/Config/Windows/Engine.ini]
+[2024.08.30-11.13.57:917][  0]LogInit: Computer: FEEDER
+[2024.08.30-11.13.57:917][  0]LogInit: User: markr
+[2024.08.30-11.13.57:917][  0]LogInit: CPU Page size=4096, Cores=6
+[2024.08.30-11.13.57:917][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2024.08.30-11.13.57:917][  0]LogMemory: Memory total: Physical=7.3GB (8GB approx)
+[2024.08.30-11.13.57:917][  0]LogMemory: Platform Memory Stats for Windows
+[2024.08.30-11.13.57:917][  0]LogMemory: Process Physical Memory: 103.26 MB used, 103.26 MB peak
+[2024.08.30-11.13.57:917][  0]LogMemory: Process Virtual Memory: 101.23 MB used, 101.23 MB peak
+[2024.08.30-11.13.57:917][  0]LogMemory: Physical Memory: 4759.95 MB used,  2754.62 MB free, 7514.57 MB total
+[2024.08.30-11.13.57:917][  0]LogMemory: Virtual Memory: 4680.48 MB used,  134213048.00 MB free, 134217728.00 MB total
+[2024.08.30-11.13.57:999][  0]LogInit: Using OS detected language (en-US).
+[2024.08.30-11.13.57:999][  0]LogInit: Using OS detected locale (en-PH).
+[2024.08.30-11.13.58:004][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2024.08.30-11.13.58:316][  0]LogInit: Setting process to per monitor DPI aware
+[2024.08.30-11.13.58:447][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2024.08.30-11.13.58:447][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2024.08.30-11.14.02:273][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2024.08.30-11.14.02:273][  0]LogD3D11RHI: D3D11 adapters:
+[2024.08.30-11.14.02:430][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 3050 Laptop GPU' (Feature Level 11_0)
+[2024.08.30-11.14.02:430][  0]LogD3D11RHI:       3964/0/3757 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2024.08.30-11.14.02:535][  0]LogD3D11RHI:    1. 'AMD Radeon(TM) Graphics' (Feature Level 11_0)
+[2024.08.30-11.14.02:535][  0]LogD3D11RHI:       495/0/3757 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1002
+[2024.08.30-11.14.02:546][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2024.08.30-11.14.02:546][  0]LogD3D11RHI:       0/0/3757 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2024.08.30-11.14.02:546][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2024.08.30-11.14.02:553][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2024.08.30-11.14.02:553][  0]LogD3D11RHI:     GPU DeviceId: 0x25a2 (for the marketing name, search the web for "GPU Device Id")
+[2024.08.30-11.14.02:553][  0]LogWindows: EnumDisplayDevices:
+[2024.08.30-11.14.02:554][  0]LogWindows:    0. 'AMD Radeon(TM) Graphics' (P:1 D:1)
+[2024.08.30-11.14.02:554][  0]LogWindows:    1. 'AMD Radeon(TM) Graphics' (P:0 D:0)
+[2024.08.30-11.14.02:555][  0]LogWindows:    2. 'AMD Radeon(TM) Graphics' (P:0 D:0)
+[2024.08.30-11.14.02:555][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2024.08.30-11.14.02:555][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 3050 Laptop GPU
+[2024.08.30-11.14.02:555][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2024.08.30-11.14.02:555][  0]LogD3D11RHI:      Driver Date: Unknown
+[2024.08.30-11.14.02:555][  0]LogRHI: Texture pool is 2774 MB (70% of 3964 MB)
+[2024.08.30-11.14.02:628][  0]LogD3D11RHI: Async texture creation enabled
+[2024.08.30-11.14.02:638][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2024.08.30-11.14.02:639][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2024.08.30-11.14.02:639][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2024.08.30-11.14.02:649][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2024.08.30-11.14.03:050][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2024.08.30-11.14.03:065][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2024.08.30-11.14.03:081][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2024.08.30-11.14.03:095][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2024.08.30-11.14.03:120][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2024.08.30-11.14.03:135][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2024.08.30-11.14.03:152][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2024.08.30-11.14.03:167][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2024.08.30-11.14.03:176][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2024.08.30-11.14.03:269][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2024.08.30-11.14.03:269][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2024.08.30-11.14.03:269][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2024.08.30-11.14.03:269][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2024.08.30-11.14.03:269][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2024.08.30-11.14.03:269][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2024.08.30-11.14.03:269][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2024.08.30-11.14.03:269][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2024.08.30-11.14.03:269][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2024.08.30-11.14.03:269][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2024.08.30-11.14.03:269][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2024.08.30-11.14.03:269][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2024.08.30-11.14.03:269][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2024.08.30-11.14.03:269][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2024.08.30-11.14.03:269][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2024.08.30-11.14.03:269][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2024.08.30-11.14.03:269][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2024.08.30-11.14.03:269][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2024.08.30-11.14.03:273][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2024.08.30-11.14.03:343][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2024.08.30-11.14.03:343][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2024.08.30-11.14.03:367][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2024.08.30-11.14.03:367][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2024.08.30-11.14.03:380][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2024.08.30-11.14.03:394][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2024.08.30-11.14.03:406][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2024.08.30-11.14.03:433][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2024.08.30-11.14.03:485][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2024.08.30-11.14.03:485][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2024.08.30-11.14.03:485][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2024.08.30-11.14.03:500][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2024.08.30-11.14.03:576][  0]LogShaderCompilers: Guid format shader working directory is -34 characters bigger than the processId version (../../../../../../Users/markr/MarilaOutbreak/ManilaOutbreak-Game/MarilaOubreaks/Intermediate/Shaders/WorkingDirectory/17164/).
+[2024.08.30-11.14.03:576][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/markr/AppData/Local/Temp/UnrealShaderWorkingDir/0FF067484537795FC1FFB2B662C6B056/'.
+[2024.08.30-11.14.03:579][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2024.08.30-11.14.03:579][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2024.08.30-11.14.03:579][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2024.08.30-11.14.04:067][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2024.08.30-11.14.04:155][  0]LogDerivedDataCache: Loaded boot cache 0.09s 71MB C:/Users/markr/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2024.08.30-11.14.04:155][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/markr/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2024.08.30-11.14.04:155][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/markr/MarilaOutbreak/ManilaOutbreak-Game/MarilaOubreaks/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2024.08.30-11.14.04:155][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2024.08.30-11.14.04:155][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/markr/MarilaOutbreak/ManilaOutbreak-Game/MarilaOubreaks/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2024.08.30-11.14.04:155][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2024.08.30-11.14.04:169][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2024.08.30-11.14.04:169][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2024.08.30-11.14.04:169][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2024.08.30-11.14.04:182][  0]LogDerivedDataCache: Using Local data cache path C:/Users/markr/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2024.08.30-11.14.04:182][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2024.08.30-11.14.04:182][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2024.08.30-11.14.04:203][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2024.08.30-11.14.04:206][  0]LogSlate: Using FreeType 2.6.0
+[2024.08.30-11.14.04:233][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2024.08.30-11.14.04:431][  0]LogAssetRegistry: FAssetRegistry took 0.0353 seconds to start up
+[2024.08.30-11.14.04:801][  0]LogInit: Selected Device Profile: [Windows]
+[2024.08.30-11.14.04:896][  0]LogMaterial: Display: Missing cached shader map for material WorldGridMaterial, compiling. Is special engine material.
+[2024.08.30-11.15.00:717][  0]LogShaderCompilers: Display: Shaders left to compile 880
+[2024.08.30-11.15.00:717][  0]LogShaderCompilers: Display: Shaders left to compile 870
+[2024.08.30-11.15.00:717][  0]LogShaderCompilers: Display: Shaders left to compile 860
+[2024.08.30-11.15.00:717][  0]LogShaderCompilers: Display: Shaders left to compile 850
+[2024.08.30-11.15.00:717][  0]LogShaderCompilers: Display: Shaders left to compile 840
+[2024.08.30-11.15.00:717][  0]LogShaderCompilers: Display: Shaders left to compile 830
+[2024.08.30-11.15.00:717][  0]LogShaderCompilers: Display: Shaders left to compile 820
+[2024.08.30-11.15.00:717][  0]LogShaderCompilers: Display: Shaders left to compile 810
+[2024.08.30-11.15.00:717][  0]LogShaderCompilers: Display: Shaders left to compile 800
+[2024.08.30-11.15.00:717][  0]LogShaderCompilers: Display: Shaders left to compile 790
+[2024.08.30-11.15.00:717][  0]LogShaderCompilers: Display: Shaders left to compile 780
+[2024.08.30-11.15.00:717][  0]LogShaderCompilers: Display: Shaders left to compile 770
+[2024.08.30-11.15.00:717][  0]LogShaderCompilers: Display: Shaders left to compile 760
+[2024.08.30-11.15.00:717][  0]LogShaderCompilers: Display: Shaders left to compile 750
+[2024.08.30-11.15.00:717][  0]LogShaderCompilers: Display: Shaders left to compile 740
+[2024.08.30-11.15.00:717][  0]LogShaderCompilers: Display: Shaders left to compile 730
+[2024.08.30-11.15.00:717][  0]LogShaderCompilers: Display: Shaders left to compile 720
+[2024.08.30-11.15.00:717][  0]LogShaderCompilers: Display: Shaders left to compile 710
+[2024.08.30-11.15.00:717][  0]LogShaderCompilers: Display: Shaders left to compile 700
+[2024.08.30-11.15.00:717][  0]LogShaderCompilers: Display: Shaders left to compile 690
+[2024.08.30-11.15.00:717][  0]LogShaderCompilers: Display: Shaders left to compile 680
+[2024.08.30-11.15.00:717][  0]LogShaderCompilers: Display: Shaders left to compile 670
+[2024.08.30-11.15.00:717][  0]LogShaderCompilers: Display: Shaders left to compile 660
+[2024.08.30-11.15.00:717][  0]LogShaderCompilers: Display: Shaders left to compile 650
+[2024.08.30-11.15.00:717][  0]LogShaderCompilers: Display: Shaders left to compile 640
+[2024.08.30-11.15.00:717][  0]LogShaderCompilers: Display: Shaders left to compile 630
+[2024.08.30-11.15.00:717][  0]LogShaderCompilers: Display: Shaders left to compile 620
+[2024.08.30-11.15.00:717][  0]LogShaderCompilers: Display: Shaders left to compile 610
+[2024.08.30-11.15.00:717][  0]LogShaderCompilers: Display: Shaders left to compile 600
+[2024.08.30-11.15.00:717][  0]LogShaderCompilers: Display: Shaders left to compile 590
+[2024.08.30-11.15.00:717][  0]LogShaderCompilers: Display: Shaders left to compile 580
+[2024.08.30-11.15.00:717][  0]LogShaderCompilers: Display: Shaders left to compile 570
+[2024.08.30-11.15.00:717][  0]LogShaderCompilers: Display: Shaders left to compile 560
+[2024.08.30-11.15.00:717][  0]LogShaderCompilers: Display: Shaders left to compile 550
+[2024.08.30-11.15.00:718][  0]LogShaderCompilers: Display: Shaders left to compile 540
+[2024.08.30-11.15.00:718][  0]LogShaderCompilers: Display: Shaders left to compile 530
+[2024.08.30-11.15.00:718][  0]LogShaderCompilers: Display: Shaders left to compile 520
+[2024.08.30-11.15.00:718][  0]LogShaderCompilers: Display: Shaders left to compile 510
+[2024.08.30-11.15.00:718][  0]LogShaderCompilers: Display: Shaders left to compile 500
+[2024.08.30-11.15.00:718][  0]LogShaderCompilers: Display: Shaders left to compile 490
+[2024.08.30-11.15.00:718][  0]LogShaderCompilers: Display: Shaders left to compile 480
+[2024.08.30-11.15.00:718][  0]LogShaderCompilers: Display: Shaders left to compile 470
+[2024.08.30-11.15.00:718][  0]LogShaderCompilers: Display: Shaders left to compile 460
+[2024.08.30-11.15.00:718][  0]LogShaderCompilers: Display: Shaders left to compile 450
+[2024.08.30-11.15.00:718][  0]LogShaderCompilers: Display: Shaders left to compile 440
+[2024.08.30-11.15.00:718][  0]LogShaderCompilers: Display: Shaders left to compile 430
+[2024.08.30-11.15.00:718][  0]LogShaderCompilers: Display: Shaders left to compile 420
+[2024.08.30-11.15.00:718][  0]LogShaderCompilers: Display: Shaders left to compile 410
+[2024.08.30-11.15.00:718][  0]LogShaderCompilers: Display: Shaders left to compile 400
+[2024.08.30-11.15.00:718][  0]LogShaderCompilers: Display: Shaders left to compile 390
+[2024.08.30-11.15.00:718][  0]LogShaderCompilers: Display: Shaders left to compile 380
+[2024.08.30-11.15.00:718][  0]LogShaderCompilers: Display: Shaders left to compile 370
+[2024.08.30-11.15.00:718][  0]LogShaderCompilers: Display: Shaders left to compile 360
+[2024.08.30-11.15.00:718][  0]LogShaderCompilers: Display: Shaders left to compile 350
+[2024.08.30-11.15.00:718][  0]LogShaderCompilers: Display: Shaders left to compile 340
+[2024.08.30-11.15.00:718][  0]LogShaderCompilers: Display: Shaders left to compile 330
+[2024.08.30-11.15.00:718][  0]LogShaderCompilers: Display: Shaders left to compile 320
+[2024.08.30-11.15.00:718][  0]LogShaderCompilers: Display: Shaders left to compile 310
+[2024.08.30-11.15.00:718][  0]LogShaderCompilers: Display: Shaders left to compile 300
+[2024.08.30-11.15.00:718][  0]LogShaderCompilers: Display: Shaders left to compile 290
+[2024.08.30-11.15.00:718][  0]LogShaderCompilers: Display: Shaders left to compile 280
+[2024.08.30-11.15.00:718][  0]LogShaderCompilers: Display: Shaders left to compile 270
+[2024.08.30-11.15.00:718][  0]LogShaderCompilers: Display: Shaders left to compile 260
+[2024.08.30-11.15.00:718][  0]LogShaderCompilers: Display: Shaders left to compile 250
+[2024.08.30-11.15.00:718][  0]LogShaderCompilers: Display: Shaders left to compile 240
+[2024.08.30-11.15.00:718][  0]LogShaderCompilers: Display: Shaders left to compile 230
+[2024.08.30-11.15.00:718][  0]LogShaderCompilers: Display: Shaders left to compile 220
+[2024.08.30-11.15.00:718][  0]LogShaderCompilers: Display: Shaders left to compile 210
+[2024.08.30-11.15.00:718][  0]LogShaderCompilers: Display: Shaders left to compile 200
+[2024.08.30-11.15.00:718][  0]LogShaderCompilers: Display: Shaders left to compile 190
+[2024.08.30-11.15.00:718][  0]LogShaderCompilers: Display: Shaders left to compile 180
+[2024.08.30-11.15.00:718][  0]LogShaderCompilers: Display: Shaders left to compile 170
+[2024.08.30-11.15.00:718][  0]LogShaderCompilers: Display: Shaders left to compile 160
+[2024.08.30-11.15.00:718][  0]LogShaderCompilers: Display: Shaders left to compile 150
+[2024.08.30-11.15.00:718][  0]LogShaderCompilers: Display: Shaders left to compile 140
+[2024.08.30-11.15.00:718][  0]LogShaderCompilers: Display: Shaders left to compile 130
+[2024.08.30-11.15.00:718][  0]LogShaderCompilers: Display: Shaders left to compile 120
+[2024.08.30-11.15.00:718][  0]LogShaderCompilers: Display: Shaders left to compile 110
+[2024.08.30-11.15.00:718][  0]LogShaderCompilers: Display: Shaders left to compile 100
+[2024.08.30-11.15.00:718][  0]LogShaderCompilers: Display: Shaders left to compile 90
+[2024.08.30-11.15.00:718][  0]LogShaderCompilers: Display: Shaders left to compile 80
+[2024.08.30-11.15.00:718][  0]LogShaderCompilers: Display: Shaders left to compile 70
+[2024.08.30-11.15.00:718][  0]LogShaderCompilers: Display: Shaders left to compile 60
+[2024.08.30-11.15.00:718][  0]LogShaderCompilers: Display: Shaders left to compile 50
+[2024.08.30-11.15.00:718][  0]LogShaderCompilers: Display: Shaders left to compile 40
+[2024.08.30-11.15.00:718][  0]LogShaderCompilers: Display: Shaders left to compile 30
+[2024.08.30-11.15.00:718][  0]LogShaderCompilers: Display: Shaders left to compile 20
+[2024.08.30-11.15.00:718][  0]LogShaderCompilers: Display: Shaders left to compile 10
+[2024.08.30-11.15.00:718][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2024.08.30-11.15.00:718][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2024.08.30-11.15.00:718][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2024.08.30-11.15.00:718][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2024.08.30-11.15.00:718][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2024.08.30-11.15.00:731][  0]LogNetVersion: MarilaOubreaks 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 2523874334)
+[2024.08.30-11.15.01:225][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 1 prioritized culture(s) in 0.067040 seconds
+[2024.08.30-11.15.01:233][  0]LogUObjectArray: 42218 objects as part of root set at end of initial load.
+[2024.08.30-11.15.01:233][  0]LogUObjectAllocator: 7328024 out of 0 bytes used by permanent object pool.
+[2024.08.30-11.15.01:233][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2024.08.30-11.15.03:161][  0]LogTexture: Display: Building textures: S_ParticleSystem (BGRA8, 256X256)
+[2024.08.30-11.15.03:161][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2024.08.30-11.15.03:178][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2024.08.30-11.15.03:262][  0]LogMaterial: Display: Missing cached shader map for material DefaultMaterial, compiling. 
+[2024.08.30-11.15.03:435][  0]SourceControl: Source control is disabled
+[2024.08.30-11.15.03:435][  0]SourceControl: Source control is disabled
+[2024.08.30-11.15.03:441][  0]SourceControl: Source control is disabled
+[2024.08.30-11.15.03:445][  0]SourceControl: Source control is disabled
+[2024.08.30-11.15.04:256][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2024.08.30-11.15.04:631][  0]LogOcInput: OculusInput pre-init called
+[2024.08.30-11.15.06:009][  0]LogEngine: Initializing Engine...
+[2024.08.30-11.15.06:013][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2024.08.30-11.15.06:020][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.004 s
+[2024.08.30-11.15.06:033][  0]LogMaterial: Display: Missing cached shader map for material WireframeMaterial, compiling. Is special engine material.
+[2024.08.30-11.15.06:209][  0]LogMaterial: Display: Missing cached shader map for material LevelColorationLitMaterial, compiling. Is special engine material.
+[2024.08.30-11.15.06:760][  0]LogMaterial: Display: Missing cached shader map for material LevelColorationUnlitMaterial, compiling. Is special engine material.
+[2024.08.30-11.15.06:955][  0]LogMaterial: Display: Missing cached shader map for material MAT_LevelColorationLitLightmapUV, compiling. Is special engine material.
+[2024.08.30-11.15.07:503][  0]LogMaterial: Display: Missing cached shader map for material ShadedLevelColorationLitMaterial, compiling. Is special engine material.
+[2024.08.30-11.15.08:150][  0]LogMaterial: Display: Missing cached shader map for material ShadedLevelColorationUnlitMateri, compiling. Is special engine material.
+[2024.08.30-11.15.08:889][  0]LogInit: Initializing FReadOnlyCVARCache
+[2024.08.30-11.15.08:946][  0]LogAIModule: Creating AISystem for world Untitled
+[2024.08.30-11.15.09:010][  0]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2024.08.30-11.15.09:299][  0]LogInit: FAudioDevice initialized.
+[2024.08.30-11.15.09:300][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2024.08.30-11.15.09:542][  0]LogDerivedDataCache: Saved boot cache 0.24s 73MB C:/Users/markr/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2024.08.30-11.15.09:555][  0]LogInit: Texture streaming: Enabled
+[2024.08.30-11.15.09:640][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2024.08.30-11.15.09:815][  0]LogMaterial: Display: Missing cached shader map for material WorldGridMaterial, compiling. Is special engine material.
+[2024.08.30-11.16.00:795][  0]LogShaderCompilers: Display: Shaders left to compile 4190
+[2024.08.30-11.16.00:795][  0]LogShaderCompilers: Display: Shaders left to compile 4180
+[2024.08.30-11.16.00:795][  0]LogShaderCompilers: Display: Shaders left to compile 4170
+[2024.08.30-11.16.00:795][  0]LogShaderCompilers: Display: Shaders left to compile 4160
+[2024.08.30-11.16.00:796][  0]LogShaderCompilers: Display: Shaders left to compile 4150
+[2024.08.30-11.16.00:796][  0]LogShaderCompilers: Display: Shaders left to compile 4140
+[2024.08.30-11.16.00:796][  0]LogShaderCompilers: Display: Shaders left to compile 4130
+[2024.08.30-11.16.00:796][  0]LogShaderCompilers: Display: Shaders left to compile 4120
+[2024.08.30-11.16.00:796][  0]LogShaderCompilers: Display: Shaders left to compile 4110
+[2024.08.30-11.16.00:796][  0]LogShaderCompilers: Display: Shaders left to compile 4100
+[2024.08.30-11.16.00:796][  0]LogShaderCompilers: Display: Shaders left to compile 4090
+[2024.08.30-11.16.00:796][  0]LogShaderCompilers: Display: Shaders left to compile 4080
+[2024.08.30-11.16.00:796][  0]LogShaderCompilers: Display: Shaders left to compile 4070
+[2024.08.30-11.16.00:796][  0]LogShaderCompilers: Display: Shaders left to compile 4060
+[2024.08.30-11.16.00:796][  0]LogShaderCompilers: Display: Shaders left to compile 4050
+[2024.08.30-11.16.00:796][  0]LogShaderCompilers: Display: Shaders left to compile 4040
+[2024.08.30-11.16.00:796][  0]LogShaderCompilers: Display: Shaders left to compile 4030
+[2024.08.30-11.16.00:796][  0]LogShaderCompilers: Display: Shaders left to compile 4020
+[2024.08.30-11.16.00:796][  0]LogShaderCompilers: Display: Shaders left to compile 4010
+[2024.08.30-11.16.00:796][  0]LogShaderCompilers: Display: Shaders left to compile 4000
+[2024.08.30-11.16.00:796][  0]LogShaderCompilers: Display: Shaders left to compile 3990
+[2024.08.30-11.16.00:796][  0]LogShaderCompilers: Display: Shaders left to compile 3980
+[2024.08.30-11.16.00:796][  0]LogShaderCompilers: Display: Shaders left to compile 3970
+[2024.08.30-11.16.00:796][  0]LogShaderCompilers: Display: Shaders left to compile 3960
+[2024.08.30-11.16.00:796][  0]LogShaderCompilers: Display: Shaders left to compile 3950
+[2024.08.30-11.16.00:796][  0]LogShaderCompilers: Display: Shaders left to compile 3940
+[2024.08.30-11.16.00:796][  0]LogShaderCompilers: Display: Shaders left to compile 3930
+[2024.08.30-11.16.00:796][  0]LogShaderCompilers: Display: Shaders left to compile 3920
+[2024.08.30-11.16.00:796][  0]LogShaderCompilers: Display: Shaders left to compile 3910
+[2024.08.30-11.16.00:796][  0]LogShaderCompilers: Display: Shaders left to compile 3900
+[2024.08.30-11.16.00:796][  0]LogShaderCompilers: Display: Shaders left to compile 3890
+[2024.08.30-11.16.00:796][  0]LogShaderCompilers: Display: Shaders left to compile 3880
+[2024.08.30-11.16.00:796][  0]LogShaderCompilers: Display: Shaders left to compile 3870
+[2024.08.30-11.16.00:796][  0]LogShaderCompilers: Display: Shaders left to compile 3860
+[2024.08.30-11.16.00:796][  0]LogShaderCompilers: Display: Shaders left to compile 3850
+[2024.08.30-11.16.00:796][  0]LogShaderCompilers: Display: Shaders left to compile 3840
+[2024.08.30-11.16.00:796][  0]LogShaderCompilers: Display: Shaders left to compile 3830
+[2024.08.30-11.16.00:796][  0]LogShaderCompilers: Display: Shaders left to compile 3820
+[2024.08.30-11.16.00:796][  0]LogShaderCompilers: Display: Shaders left to compile 3810
+[2024.08.30-11.16.00:796][  0]LogShaderCompilers: Display: Shaders left to compile 3800
+[2024.08.30-11.16.00:796][  0]LogShaderCompilers: Display: Shaders left to compile 3790
+[2024.08.30-11.16.00:796][  0]LogShaderCompilers: Display: Shaders left to compile 3780
+[2024.08.30-11.16.00:796][  0]LogShaderCompilers: Display: Shaders left to compile 3770
+[2024.08.30-11.16.00:796][  0]LogShaderCompilers: Display: Shaders left to compile 3760
+[2024.08.30-11.16.00:796][  0]LogShaderCompilers: Display: Shaders left to compile 3750
+[2024.08.30-11.16.00:796][  0]LogShaderCompilers: Display: Shaders left to compile 3740
+[2024.08.30-11.16.00:796][  0]LogShaderCompilers: Display: Shaders left to compile 3730
+[2024.08.30-11.16.00:796][  0]LogShaderCompilers: Display: Shaders left to compile 3720
+[2024.08.30-11.16.00:796][  0]LogShaderCompilers: Display: Shaders left to compile 3710
+[2024.08.30-11.16.00:796][  0]LogShaderCompilers: Display: Shaders left to compile 3700
+[2024.08.30-11.16.00:796][  0]LogShaderCompilers: Display: Shaders left to compile 3690
+[2024.08.30-11.16.00:796][  0]LogShaderCompilers: Display: Shaders left to compile 3680
+[2024.08.30-11.16.00:796][  0]LogShaderCompilers: Display: Shaders left to compile 3670
+[2024.08.30-11.16.00:796][  0]LogShaderCompilers: Display: Shaders left to compile 3660
+[2024.08.30-11.16.00:796][  0]LogShaderCompilers: Display: Shaders left to compile 3650
+[2024.08.30-11.16.00:796][  0]LogShaderCompilers: Display: Shaders left to compile 3640
+[2024.08.30-11.16.00:796][  0]LogShaderCompilers: Display: Shaders left to compile 3630
+[2024.08.30-11.16.00:796][  0]LogShaderCompilers: Display: Shaders left to compile 3620
+[2024.08.30-11.16.00:796][  0]LogShaderCompilers: Display: Shaders left to compile 3610
+[2024.08.30-11.16.00:796][  0]LogShaderCompilers: Display: Shaders left to compile 3600
+[2024.08.30-11.16.00:796][  0]LogShaderCompilers: Display: Shaders left to compile 3590
+[2024.08.30-11.16.00:796][  0]LogShaderCompilers: Display: Shaders left to compile 3580
+[2024.08.30-11.16.00:796][  0]LogShaderCompilers: Display: Shaders left to compile 3570
+[2024.08.30-11.16.00:796][  0]LogShaderCompilers: Display: Shaders left to compile 3560
+[2024.08.30-11.16.00:796][  0]LogShaderCompilers: Display: Shaders left to compile 3550
+[2024.08.30-11.16.00:796][  0]LogShaderCompilers: Display: Shaders left to compile 3540
+[2024.08.30-11.16.00:796][  0]LogShaderCompilers: Display: Shaders left to compile 3530
+[2024.08.30-11.16.00:796][  0]LogShaderCompilers: Display: Shaders left to compile 3520
+[2024.08.30-11.16.00:796][  0]LogShaderCompilers: Display: Shaders left to compile 3510
+[2024.08.30-11.16.00:796][  0]LogShaderCompilers: Display: Shaders left to compile 3500
+[2024.08.30-11.16.00:796][  0]LogShaderCompilers: Display: Shaders left to compile 3490
+[2024.08.30-11.16.00:796][  0]LogShaderCompilers: Display: Shaders left to compile 3480
+[2024.08.30-11.16.00:796][  0]LogShaderCompilers: Display: Shaders left to compile 3470
+[2024.08.30-11.16.01:648][  0]LogMaterial: Display: Missing cached shader map for material DefaultMaterial, compiling. 
+[2024.08.30-11.16.01:881][  0]LogMaterial: Display: Missing cached shader map for material WireframeMaterial, compiling. Is special engine material.
+[2024.08.30-11.16.02:040][  0]LogMaterial: Display: Missing cached shader map for material LevelColorationLitMaterial, compiling. Is special engine material.
+[2024.08.30-11.16.02:544][  0]LogMaterial: Display: Missing cached shader map for material LevelColorationUnlitMaterial, compiling. Is special engine material.
+[2024.08.30-11.16.02:696][  0]LogMaterial: Display: Missing cached shader map for material MAT_LevelColorationLitLightmapUV, compiling. Is special engine material.
+[2024.08.30-11.16.03:240][  0]LogMaterial: Display: Missing cached shader map for material ShadedLevelColorationLitMaterial, compiling. Is special engine material.
+[2024.08.30-11.16.03:800][  0]LogMaterial: Display: Missing cached shader map for material ShadedLevelColorationUnlitMateri, compiling. Is special engine material.
+[2024.08.30-11.16.04:637][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM4
+[2024.08.30-11.16.04:641][  0]LogInit: Transaction tracking system initialized
+[2024.08.30-11.16.04:767][  0]BlueprintLog: New page: Editor Load
+[2024.08.30-11.16.05:227][  0]LocalizationService: Localization service is disabled
+[2024.08.30-11.16.05:759][  0]LogMaterial: Display: Missing cached shader map for material WorldGridMaterial, compiling. Is special engine material.
+[2024.08.30-11.17.01:994][  0]LogShaderCompilers: Display: Shaders left to compile 7120
+[2024.08.30-11.17.01:994][  0]LogShaderCompilers: Display: Shaders left to compile 7110
+[2024.08.30-11.17.01:994][  0]LogShaderCompilers: Display: Shaders left to compile 7100
+[2024.08.30-11.17.01:994][  0]LogShaderCompilers: Display: Shaders left to compile 7090
+[2024.08.30-11.17.01:994][  0]LogShaderCompilers: Display: Shaders left to compile 7080
+[2024.08.30-11.17.01:994][  0]LogShaderCompilers: Display: Shaders left to compile 7070
+[2024.08.30-11.17.01:994][  0]LogShaderCompilers: Display: Shaders left to compile 7060
+[2024.08.30-11.17.01:994][  0]LogShaderCompilers: Display: Shaders left to compile 7050
+[2024.08.30-11.17.01:994][  0]LogShaderCompilers: Display: Shaders left to compile 7040
+[2024.08.30-11.17.01:994][  0]LogShaderCompilers: Display: Shaders left to compile 7030
+[2024.08.30-11.17.01:994][  0]LogShaderCompilers: Display: Shaders left to compile 7020
+[2024.08.30-11.17.01:994][  0]LogShaderCompilers: Display: Shaders left to compile 7010
+[2024.08.30-11.17.01:994][  0]LogShaderCompilers: Display: Shaders left to compile 7000
+[2024.08.30-11.17.01:995][  0]LogShaderCompilers: Display: Shaders left to compile 6990
+[2024.08.30-11.17.01:995][  0]LogShaderCompilers: Display: Shaders left to compile 6980
+[2024.08.30-11.17.01:995][  0]LogShaderCompilers: Display: Shaders left to compile 6970
+[2024.08.30-11.17.01:995][  0]LogShaderCompilers: Display: Shaders left to compile 6960
+[2024.08.30-11.17.01:995][  0]LogShaderCompilers: Display: Shaders left to compile 6950
+[2024.08.30-11.17.01:995][  0]LogShaderCompilers: Display: Shaders left to compile 6940
+[2024.08.30-11.17.01:995][  0]LogShaderCompilers: Display: Shaders left to compile 6930
+[2024.08.30-11.17.01:995][  0]LogShaderCompilers: Display: Shaders left to compile 6920
+[2024.08.30-11.17.01:995][  0]LogShaderCompilers: Display: Shaders left to compile 6910
+[2024.08.30-11.17.01:995][  0]LogShaderCompilers: Display: Shaders left to compile 6900
+[2024.08.30-11.17.01:995][  0]LogShaderCompilers: Display: Shaders left to compile 6890
+[2024.08.30-11.17.01:995][  0]LogShaderCompilers: Display: Shaders left to compile 6880
+[2024.08.30-11.17.01:995][  0]LogShaderCompilers: Display: Shaders left to compile 6870
+[2024.08.30-11.17.01:995][  0]LogShaderCompilers: Display: Shaders left to compile 6860
+[2024.08.30-11.17.01:995][  0]LogShaderCompilers: Display: Shaders left to compile 6850
+[2024.08.30-11.17.01:995][  0]LogShaderCompilers: Display: Shaders left to compile 6840
+[2024.08.30-11.17.01:995][  0]LogShaderCompilers: Display: Shaders left to compile 6830
+[2024.08.30-11.17.01:995][  0]LogShaderCompilers: Display: Shaders left to compile 6820
+[2024.08.30-11.17.01:995][  0]LogShaderCompilers: Display: Shaders left to compile 6810
+[2024.08.30-11.17.01:995][  0]LogShaderCompilers: Display: Shaders left to compile 6800
+[2024.08.30-11.17.01:995][  0]LogShaderCompilers: Display: Shaders left to compile 6790
+[2024.08.30-11.17.01:995][  0]LogShaderCompilers: Display: Shaders left to compile 6780
+[2024.08.30-11.17.01:995][  0]LogShaderCompilers: Display: Shaders left to compile 6770
+[2024.08.30-11.17.01:995][  0]LogShaderCompilers: Display: Shaders left to compile 6760
+[2024.08.30-11.17.01:995][  0]LogShaderCompilers: Display: Shaders left to compile 6750
+[2024.08.30-11.17.01:995][  0]LogShaderCompilers: Display: Shaders left to compile 6740
+[2024.08.30-11.17.01:995][  0]LogShaderCompilers: Display: Shaders left to compile 6730
+[2024.08.30-11.17.01:995][  0]LogShaderCompilers: Display: Shaders left to compile 6720
+[2024.08.30-11.17.01:995][  0]LogShaderCompilers: Display: Shaders left to compile 6710
+[2024.08.30-11.17.01:995][  0]LogShaderCompilers: Display: Shaders left to compile 6700
+[2024.08.30-11.17.01:995][  0]LogShaderCompilers: Display: Shaders left to compile 6690
+[2024.08.30-11.17.01:995][  0]LogShaderCompilers: Display: Shaders left to compile 6680
+[2024.08.30-11.17.01:995][  0]LogShaderCompilers: Display: Shaders left to compile 6670
+[2024.08.30-11.17.01:995][  0]LogShaderCompilers: Display: Shaders left to compile 6660
+[2024.08.30-11.17.01:996][  0]LogShaderCompilers: Display: Shaders left to compile 6650
+[2024.08.30-11.17.01:996][  0]LogShaderCompilers: Display: Shaders left to compile 6640
+[2024.08.30-11.17.01:996][  0]LogShaderCompilers: Display: Shaders left to compile 6630
+[2024.08.30-11.17.01:996][  0]LogShaderCompilers: Display: Shaders left to compile 6620
+[2024.08.30-11.17.01:996][  0]LogShaderCompilers: Display: Shaders left to compile 6610
+[2024.08.30-11.17.01:996][  0]LogShaderCompilers: Display: Shaders left to compile 6600
+[2024.08.30-11.17.01:996][  0]LogShaderCompilers: Display: Shaders left to compile 6590
+[2024.08.30-11.17.01:996][  0]LogShaderCompilers: Display: Shaders left to compile 6580
+[2024.08.30-11.17.01:996][  0]LogShaderCompilers: Display: Shaders left to compile 6570
+[2024.08.30-11.17.01:996][  0]LogShaderCompilers: Display: Shaders left to compile 6560
+[2024.08.30-11.17.01:996][  0]LogShaderCompilers: Display: Shaders left to compile 6550
+[2024.08.30-11.17.01:996][  0]LogShaderCompilers: Display: Shaders left to compile 6540
+[2024.08.30-11.17.01:996][  0]LogShaderCompilers: Display: Shaders left to compile 6530
+[2024.08.30-11.17.01:996][  0]LogShaderCompilers: Display: Shaders left to compile 6520
+[2024.08.30-11.17.01:996][  0]LogShaderCompilers: Display: Shaders left to compile 6510
+[2024.08.30-11.17.01:996][  0]LogShaderCompilers: Display: Shaders left to compile 6500
+[2024.08.30-11.17.01:996][  0]LogShaderCompilers: Display: Shaders left to compile 6490
+[2024.08.30-11.17.01:996][  0]LogShaderCompilers: Display: Shaders left to compile 6480
+[2024.08.30-11.17.01:996][  0]LogShaderCompilers: Display: Shaders left to compile 6470
+[2024.08.30-11.17.01:996][  0]LogShaderCompilers: Display: Shaders left to compile 6460
+[2024.08.30-11.17.01:996][  0]LogShaderCompilers: Display: Shaders left to compile 6450
+[2024.08.30-11.17.01:996][  0]LogShaderCompilers: Display: Shaders left to compile 6440
+[2024.08.30-11.17.01:996][  0]LogShaderCompilers: Display: Shaders left to compile 6430
+[2024.08.30-11.17.01:996][  0]LogShaderCompilers: Display: Shaders left to compile 6420
+[2024.08.30-11.17.01:996][  0]LogShaderCompilers: Display: Shaders left to compile 6410
+[2024.08.30-11.17.01:996][  0]LogShaderCompilers: Display: Shaders left to compile 6400
+[2024.08.30-11.17.02:008][  0]LogMaterial: Display: Missing cached shader map for material WorldGridMaterial, compiling. Is special engine material.
+[2024.08.30-11.18.14:403][  0]LogShaderCompilers: Display: Shaders left to compile 7180
+[2024.08.30-11.18.14:403][  0]LogShaderCompilers: Display: Shaders left to compile 7170
+[2024.08.30-11.18.14:403][  0]LogShaderCompilers: Display: Shaders left to compile 7160
+[2024.08.30-11.18.14:403][  0]LogShaderCompilers: Display: Shaders left to compile 7150
+[2024.08.30-11.18.14:403][  0]LogShaderCompilers: Display: Shaders left to compile 7140
+[2024.08.30-11.18.14:403][  0]LogShaderCompilers: Display: Shaders left to compile 7130
+[2024.08.30-11.18.14:403][  0]LogShaderCompilers: Display: Shaders left to compile 7120
+[2024.08.30-11.18.14:403][  0]LogShaderCompilers: Display: Shaders left to compile 7110
+[2024.08.30-11.18.14:403][  0]LogShaderCompilers: Display: Shaders left to compile 7100
+[2024.08.30-11.18.14:403][  0]LogShaderCompilers: Display: Shaders left to compile 7090
+[2024.08.30-11.18.14:403][  0]LogShaderCompilers: Display: Shaders left to compile 7080
+[2024.08.30-11.18.14:403][  0]LogShaderCompilers: Display: Shaders left to compile 7070
+[2024.08.30-11.18.14:403][  0]LogShaderCompilers: Display: Shaders left to compile 7060
+[2024.08.30-11.18.14:403][  0]LogShaderCompilers: Display: Shaders left to compile 7050
+[2024.08.30-11.18.14:403][  0]LogShaderCompilers: Display: Shaders left to compile 7040
+[2024.08.30-11.18.14:403][  0]LogShaderCompilers: Display: Shaders left to compile 7030
+[2024.08.30-11.18.14:403][  0]LogShaderCompilers: Display: Shaders left to compile 7020
+[2024.08.30-11.18.14:403][  0]LogShaderCompilers: Display: Shaders left to compile 7010
+[2024.08.30-11.18.14:403][  0]LogShaderCompilers: Display: Shaders left to compile 7000
+[2024.08.30-11.18.14:403][  0]LogShaderCompilers: Display: Shaders left to compile 6990
+[2024.08.30-11.18.14:403][  0]LogShaderCompilers: Display: Shaders left to compile 6980
+[2024.08.30-11.18.14:403][  0]LogShaderCompilers: Display: Shaders left to compile 6970
+[2024.08.30-11.18.14:403][  0]LogShaderCompilers: Display: Shaders left to compile 6960
+[2024.08.30-11.18.14:403][  0]LogShaderCompilers: Display: Shaders left to compile 6950
+[2024.08.30-11.18.14:403][  0]LogShaderCompilers: Display: Shaders left to compile 6940
+[2024.08.30-11.18.14:403][  0]LogShaderCompilers: Display: Shaders left to compile 6930
+[2024.08.30-11.18.14:403][  0]LogShaderCompilers: Display: Shaders left to compile 6920
+[2024.08.30-11.18.14:403][  0]LogShaderCompilers: Display: Shaders left to compile 6910
+[2024.08.30-11.18.14:403][  0]LogShaderCompilers: Display: Shaders left to compile 6900
+[2024.08.30-11.18.14:403][  0]LogShaderCompilers: Display: Shaders left to compile 6890
+[2024.08.30-11.18.14:403][  0]LogShaderCompilers: Display: Shaders left to compile 6880
+[2024.08.30-11.18.14:403][  0]LogShaderCompilers: Display: Shaders left to compile 6870
+[2024.08.30-11.18.14:404][  0]LogShaderCompilers: Display: Shaders left to compile 6860
+[2024.08.30-11.18.14:404][  0]LogShaderCompilers: Display: Shaders left to compile 6850
+[2024.08.30-11.18.14:404][  0]LogShaderCompilers: Display: Shaders left to compile 6840
+[2024.08.30-11.18.14:404][  0]LogShaderCompilers: Display: Shaders left to compile 6830
+[2024.08.30-11.18.14:404][  0]LogShaderCompilers: Display: Shaders left to compile 6820
+[2024.08.30-11.18.14:404][  0]LogShaderCompilers: Display: Shaders left to compile 6810
+[2024.08.30-11.18.14:404][  0]LogShaderCompilers: Display: Shaders left to compile 6800
+[2024.08.30-11.18.14:404][  0]LogShaderCompilers: Display: Shaders left to compile 6790
+[2024.08.30-11.18.14:404][  0]LogShaderCompilers: Display: Shaders left to compile 6780
+[2024.08.30-11.18.14:404][  0]LogShaderCompilers: Display: Shaders left to compile 6770
+[2024.08.30-11.18.14:404][  0]LogShaderCompilers: Display: Shaders left to compile 6760
+[2024.08.30-11.18.14:404][  0]LogShaderCompilers: Display: Shaders left to compile 6750
+[2024.08.30-11.18.14:404][  0]LogShaderCompilers: Display: Shaders left to compile 6740
+[2024.08.30-11.18.14:404][  0]LogShaderCompilers: Display: Shaders left to compile 6730
+[2024.08.30-11.18.14:404][  0]LogShaderCompilers: Display: Shaders left to compile 6720
+[2024.08.30-11.18.14:404][  0]LogShaderCompilers: Display: Shaders left to compile 6710
+[2024.08.30-11.18.14:404][  0]LogShaderCompilers: Display: Shaders left to compile 6700
+[2024.08.30-11.18.14:404][  0]LogShaderCompilers: Display: Shaders left to compile 6690
+[2024.08.30-11.18.14:404][  0]LogShaderCompilers: Display: Shaders left to compile 6680
+[2024.08.30-11.18.14:404][  0]LogShaderCompilers: Display: Shaders left to compile 6670
+[2024.08.30-11.18.14:404][  0]LogShaderCompilers: Display: Shaders left to compile 6660
+[2024.08.30-11.18.14:404][  0]LogShaderCompilers: Display: Shaders left to compile 6650
+[2024.08.30-11.18.14:404][  0]LogShaderCompilers: Display: Shaders left to compile 6640
+[2024.08.30-11.18.14:404][  0]LogShaderCompilers: Display: Shaders left to compile 6630
+[2024.08.30-11.18.14:404][  0]LogShaderCompilers: Display: Shaders left to compile 6620
+[2024.08.30-11.18.14:404][  0]LogShaderCompilers: Display: Shaders left to compile 6610
+[2024.08.30-11.18.14:404][  0]LogShaderCompilers: Display: Shaders left to compile 6600
+[2024.08.30-11.18.14:404][  0]LogShaderCompilers: Display: Shaders left to compile 6590
+[2024.08.30-11.18.14:404][  0]LogShaderCompilers: Display: Shaders left to compile 6580
+[2024.08.30-11.18.14:404][  0]LogShaderCompilers: Display: Shaders left to compile 6570
+[2024.08.30-11.18.14:404][  0]LogShaderCompilers: Display: Shaders left to compile 6560
+[2024.08.30-11.18.14:404][  0]LogShaderCompilers: Display: Shaders left to compile 6550
+[2024.08.30-11.18.14:404][  0]LogShaderCompilers: Display: Shaders left to compile 6540
+[2024.08.30-11.18.14:404][  0]LogShaderCompilers: Display: Shaders left to compile 6530
+[2024.08.30-11.18.14:404][  0]LogShaderCompilers: Display: Shaders left to compile 6520
+[2024.08.30-11.18.14:404][  0]LogShaderCompilers: Display: Shaders left to compile 6510
+[2024.08.30-11.18.14:404][  0]LogShaderCompilers: Display: Shaders left to compile 6500
+[2024.08.30-11.18.14:404][  0]LogShaderCompilers: Display: Shaders left to compile 6490
+[2024.08.30-11.18.14:404][  0]LogShaderCompilers: Display: Shaders left to compile 6480
+[2024.08.30-11.18.14:404][  0]LogShaderCompilers: Display: Shaders left to compile 6470
+[2024.08.30-11.18.14:405][  0]LogShaderCompilers: Display: Shaders left to compile 6460
+[2024.08.30-11.18.14:405][  0]LogShaderCompilers: Display: Shaders left to compile 6450
+[2024.08.30-11.18.14:405][  0]LogShaderCompilers: Display: Shaders left to compile 6440
+[2024.08.30-11.18.14:405][  0]LogShaderCompilers: Display: Shaders left to compile 6430
+[2024.08.30-11.18.14:405][  0]LogShaderCompilers: Display: Shaders left to compile 6420
+[2024.08.30-11.18.14:405][  0]LogShaderCompilers: Display: Shaders left to compile 6410
+[2024.08.30-11.18.14:405][  0]LogShaderCompilers: Display: Shaders left to compile 6400
+[2024.08.30-11.18.14:405][  0]LogShaderCompilers: Display: Shaders left to compile 6390
+[2024.08.30-11.18.14:405][  0]LogShaderCompilers: Display: Shaders left to compile 6380
+[2024.08.30-11.18.14:405][  0]LogShaderCompilers: Display: Shaders left to compile 6370
+[2024.08.30-11.18.14:405][  0]LogShaderCompilers: Display: Shaders left to compile 6360
+[2024.08.30-11.18.14:405][  0]LogShaderCompilers: Display: Shaders left to compile 6350
+[2024.08.30-11.18.14:405][  0]LogShaderCompilers: Display: Shaders left to compile 6340
+[2024.08.30-11.18.14:405][  0]LogShaderCompilers: Display: Shaders left to compile 6330
+[2024.08.30-11.18.14:405][  0]LogShaderCompilers: Display: Shaders left to compile 6320
+[2024.08.30-11.18.14:405][  0]LogShaderCompilers: Display: Shaders left to compile 6310
+[2024.08.30-11.18.17:617][  0]LogMaterial: Display: Missing cached shader map for material DefaultMaterial, compiling. 
+[2024.08.30-11.18.17:718][  0]LogMaterial: Display: Missing cached shader map for material DefaultMaterial, compiling. 
+[2024.08.30-11.18.18:301][  0]LogShaderCompilers: Display: Shaders left to compile 6430
+[2024.08.30-11.18.18:301][  0]LogShaderCompilers: Display: Shaders left to compile 6420
+[2024.08.30-11.18.18:301][  0]LogMaterial: Display: Missing cached shader map for material WireframeMaterial, compiling. Is special engine material.
+[2024.08.30-11.18.18:482][  0]LogShaderCompilers: Display: Shaders left to compile 6410
+[2024.08.30-11.18.18:482][  0]LogMaterial: Display: Missing cached shader map for material WireframeMaterial, compiling. Is special engine material.
+[2024.08.30-11.18.18:644][  0]LogMaterial: Display: Missing cached shader map for material LevelColorationLitMaterial, compiling. Is special engine material.
+[2024.08.30-11.18.19:159][  0]LogMaterial: Display: Missing cached shader map for material LevelColorationLitMaterial, compiling. Is special engine material.
+[2024.08.30-11.18.19:717][  0]LogMaterial: Display: Missing cached shader map for material LevelColorationUnlitMaterial, compiling. Is special engine material.
+[2024.08.30-11.18.19:876][  0]LogMaterial: Display: Missing cached shader map for material LevelColorationUnlitMaterial, compiling. Is special engine material.
+[2024.08.30-11.18.20:028][  0]LogMaterial: Display: Missing cached shader map for material MAT_LevelColorationLitLightmapUV, compiling. Is special engine material.
+[2024.08.30-11.18.20:560][  0]LogMaterial: Display: Missing cached shader map for material MAT_LevelColorationLitLightmapUV, compiling. Is special engine material.
+[2024.08.30-11.18.21:175][  0]LogMaterial: Display: Missing cached shader map for material ShadedLevelColorationLitMaterial, compiling. Is special engine material.
+[2024.08.30-11.18.21:744][  0]LogMaterial: Display: Missing cached shader map for material ShadedLevelColorationLitMaterial, compiling. Is special engine material.
+[2024.08.30-11.18.22:358][  0]LogMaterial: Display: Missing cached shader map for material ShadedLevelColorationUnlitMateri, compiling. Is special engine material.
+[2024.08.30-11.18.22:498][  0]LogMaterial: Display: Missing cached shader map for material ShadedLevelColorationUnlitMateri, compiling. Is special engine material.
+[2024.08.30-11.18.25:921][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2024.08.30-11.18.25:921][  0]LogCook: Display: Mobile HDR setting 1
+[2024.08.30-11.18.26:261][  0]LogFileCache: Scanning file cache for directory 'C:/Users/markr/MarilaOutbreak/ManilaOutbreak-Game/MarilaOubreaks/Content/' took 0.12s
+[2024.08.30-11.18.27:331][  0]SourceControl: Source control is disabled
+[2024.08.30-11.18.27:333][  0]Cmd: MAP LOAD FILE="../../../../../../Users/markr/MarilaOutbreak/ManilaOutbreak-Game/MarilaOubreaks/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2024.08.30-11.18.27:334][  0]LogEditorServer: Warning: Can't find file '../../../../../../Users/markr/MarilaOutbreak/ManilaOutbreak-Game/MarilaOubreaks/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2024.08.30-11.18.27:334][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.08.30-11.18.27:335][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.449ms to complete.
+[2024.08.30-11.18.27:335][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.003
+[2024.08.30-11.18.27:674][  0]LogWorld: Changing Feature Level (Enum) from 3 to 2
+[2024.08.30-11.18.27:942][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.08.30-11.18.27:969][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.08.30-11.18.27:995][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.08.30-11.18.28:018][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.08.30-11.18.28:069][  0]LogCollectionManager: Loaded 0 collections in 0.004305 seconds
+[2024.08.30-11.18.28:130][  0]LogFileCache: Scanning file cache for directory 'C:/Users/markr/MarilaOutbreak/ManilaOutbreak-Game/MarilaOubreaks/Saved/Collections/' took 0.02s
+[2024.08.30-11.18.28:131][  0]LogFileCache: Scanning file cache for directory 'C:/Users/markr/MarilaOutbreak/ManilaOutbreak-Game/MarilaOubreaks/Content/Developers/markr/Collections/' took 0.02s
+[2024.08.30-11.18.28:131][  0]LogFileCache: Scanning file cache for directory 'C:/Users/markr/MarilaOutbreak/ManilaOutbreak-Game/MarilaOubreaks/Content/Collections/' took 0.02s
+[2024.08.30-11.18.28:131][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2024.08.30-11.18.28:156][  0]LogContentBrowser: Native class hierarchy populated in 0.0249 seconds. Added 2853 classes and 675 folders.
+[2024.08.30-11.18.28:182][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0009 seconds. Added 0 classes and 0 folders.
+[2024.08.30-11.18.28:212][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.08.30-11.18.28:257][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.08.30-11.18.28:315][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.08.30-11.18.28:353][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.08.30-11.18.28:387][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.08.30-11.18.28:423][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.08.30-11.18.28:460][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.08.30-11.18.28:495][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.08.30-11.18.28:525][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.08.30-11.18.28:561][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.08.30-11.18.28:605][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.08.30-11.18.28:632][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.08.30-11.18.28:662][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.08.30-11.18.28:697][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.08.30-11.18.28:728][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.08.30-11.18.28:763][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.08.30-11.18.28:833][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.08.30-11.18.28:855][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.08.30-11.18.28:880][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.08.30-11.18.28:907][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.08.30-11.18.28:933][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.08.30-11.18.28:965][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.08.30-11.18.28:999][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.08.30-11.18.29:036][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.08.30-11.18.29:071][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.08.30-11.18.29:101][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.08.30-11.18.29:868][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2024.08.30-11.18.29:894][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0009 seconds. Added 1 classes and 2 folders.
+[2024.08.30-11.18.30:027][  0]LogSlate: Took 0.024017 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2024.08.30-11.18.30:057][  0]LogSlate: Took 0.026112 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2024.08.30-11.18.30:090][  0]LogSlate: Took 0.025282 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2024.08.30-11.18.30:665][  0]LogRenderer: Reallocating scene render targets to support 856x460 Format 9 NumSamples 1 (Frame:1).
+[2024.08.30-11.18.31:252][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0013 seconds. Added 0 classes and 0 folders.
+[2024.08.30-11.18.31:253][  0]LogLoad: (Engine Initialization) Total time: 280.30 seconds
+[2024.08.30-11.18.31:253][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2024.08.30-11.18.31:350][  0]LogContentStreaming: Texture pool size now 800 MB
+[2024.08.30-11.18.31:435][  0]LogSlate: Took 0.023482 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.08.30-11.18.31:529][  1]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/markr/MarilaOutbreak/ManilaOutbreak-Game/MarilaOubreaks/Content/' took 0.23s
+[2024.08.30-11.18.31:870][  4]LogAssetRegistry: Asset discovery search completed in 267.4629 seconds
+[2024.08.30-11.18.31:880][  4]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000002 seconds (found 0 objects)
+[2024.08.30-11.18.31:880][  4]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000266 seconds (updated 0 objects)
+[2024.08.30-11.18.47:413][533]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2024.08.30-11.19.06:912][203]LogSlate: Window 'Plugins' being destroyed
+[2024.08.30-11.19.06:951][203]LogSlate: Window 'Plugins' being destroyed
+[2024.08.30-11.19.06:951][203]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/' was aborted.
+[2024.08.30-11.19.09:501][310]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2024.08.30-11.19.33:293][178]LogSlate: Took 0.001143 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.08.30-11.19.33:338][178]LogAssetEditorManager: Opening Asset editor for ParticleSystem /Game/StarterContent/Particles/P_Blood.P_Blood
+[2024.08.30-11.19.33:373][178]LogContentBrowser: Native class hierarchy updated for 'Cascade' in 0.0010 seconds. Added 2 classes and 2 folders.
+[2024.08.30-11.19.33:436][178]LogWorld: Changing Feature Level (Enum) from 3 to 2
+[2024.08.30-11.20.08:868][ 55]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2024.08.30-11.20.25:703][461]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2024.08.30-11.20.32:719][637]LogSlate: Window 'Color Picker' being destroyed
+[2024.08.30-11.20.38:580][785]LogSlate: Window 'P_Blood' being destroyed
+[2024.08.30-11.20.38:615][785]LogSlate: Window 'P_Blood' being destroyed
+[2024.08.30-11.20.38:615][785]LogCascade: Quitting Cascade. FXSystem=0x000001F298A6DE80
+[2024.08.30-11.20.51:434][235]LogUObjectHash: Compacting FUObjectHashTables data took   5.79ms
+[2024.08.30-11.20.53:014][235]LogSlate: Window 'Delete Assets' being destroyed
+[2024.08.30-11.20.53:240][235]LogUObjectHash: Compacting FUObjectHashTables data took   5.45ms
+[2024.08.30-11.21.01:257][490]LogBlueprint: Warning: [Compiler Bars] Invalid property 'Characters' class, replaced with Object.  Please fix or remove.
+[2024.08.30-11.21.01:259][490]LogBlueprint: Warning: [Compiler Bars] Invalid property 'Character_Reference' class, replaced with Object.  Please fix or remove.
+[2024.08.30-11.21.01:288][490]LogBlueprint: Warning: [Compiler Bars] Invalid property 'Characters' class, replaced with Object.  Please fix or remove.
+[2024.08.30-11.21.01:288][490]LogBlueprint: Warning: [Compiler Bars] Invalid property 'Character_Reference' class, replaced with Object.  Please fix or remove.
+[2024.08.30-11.21.01:352][490]LogBlueprint: Warning: [Compiler Bars] [0430.40] Compile of Bars successful, but with 4 Warning(s) [in 97 ms] (/Game/BArs/Bars.Bars)
+[2024.08.30-11.21.05:728][490]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2024.08.30-11.21.05:838][490]LogAssetEditorManager: Opening Asset editor for World /Game/Assets/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2024.08.30-11.21.05:893][490]LogUObjectHash: Compacting FUObjectHashTables data took   6.21ms
+[2024.08.30-11.21.12:583][490]LogSlate: Window 'Save Content' being destroyed
+[2024.08.30-11.21.12:942][490]LogSavePackage: Moving '../../../../../../Users/markr/MarilaOutbreak/ManilaOutbreak-Game/MarilaOubreaks/Saved/P_Blood4750B5394A6352C9A6886CB019DE6D66.tmp' to '../../../../../../Users/markr/MarilaOutbreak/ManilaOutbreak-Game/MarilaOubreaks/Content/StarterContent/Particles/P_Blood.uasset'
+[2024.08.30-11.21.12:949][490]Cmd: MAP LOAD FILE="../../../../../../Users/markr/MarilaOutbreak/ManilaOutbreak-Game/MarilaOubreaks/Content/Assets/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2024.08.30-11.21.12:950][490]LightingResults: New page: Lighting Build
+[2024.08.30-11.21.12:960][490]LogContentBrowser: Native class hierarchy updated for 'StatsViewer' in 0.0010 seconds. Added 5 classes and 0 folders.
+[2024.08.30-11.21.12:964][490]LoadErrors: New page: Loading map: ThirdPersonExampleMap.umap
+[2024.08.30-11.21.12:965][490]MapCheck: New page: Map Check
+[2024.08.30-11.21.12:965][490]LightingResults: New page: Lighting Build
+[2024.08.30-11.21.13:006][490]LogUObjectHash: Compacting FUObjectHashTables data took   5.36ms
+[2024.08.30-11.21.16:207][490]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.08.30-11.21.16:272][490]LogUObjectHash: Compacting FUObjectHashTables data took   4.73ms
+[2024.08.30-11.21.16:334][490]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.08.30-11.21.16:334][490]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.321ms to complete.
+[2024.08.30-11.21.16:334][490]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 3.388
+[2024.08.30-11.22.10:231][814]LogSlate: Window 'Pick a starting point for your emitter' being destroyed
+[2024.08.30-11.22.10:511][814]LogTexture: Display: Building textures: Texture2D_0 (DXT1, 512X512)
+[2024.08.30-11.22.10:511][814]LogNiagaraEditor: OpNode Numeric::Add, Package /Niagara/Modules/Emitter/EmitterLifeCycle: reallocated existing pins to add new extension pin
+[2024.08.30-11.22.10:512][814]LogNiagaraEditor: OpNode Boolean::LogicAnd, Package /Niagara/Modules/Emitter/EmitterLifeCycle: reallocated existing pins to add new extension pin
+[2024.08.30-11.22.10:512][814]LogNiagaraEditor: OpNode Boolean::LogicAnd, Package /Niagara/Modules/Emitter/EmitterLifeCycle: reallocated existing pins to add new extension pin
+[2024.08.30-11.22.10:512][814]LogNiagaraEditor: OpNode Boolean::LogicAnd, Package /Niagara/Modules/Emitter/EmitterLifeCycle: reallocated existing pins to add new extension pin
+[2024.08.30-11.22.10:513][814]LogNiagaraEditor: OpNode Boolean::LogicAnd, Package /Niagara/Modules/Emitter/EmitterLifeCycle: reallocated existing pins to add new extension pin
+[2024.08.30-11.22.10:513][814]LogNiagaraEditor: OpNode Boolean::LogicOr, Package /Niagara/Modules/Emitter/EmitterLifeCycle: reallocated existing pins to add new extension pin
+[2024.08.30-11.22.10:513][814]LogNiagaraEditor: OpNode Boolean::LogicAnd, Package /Niagara/Modules/Emitter/EmitterLifeCycle: reallocated existing pins to add new extension pin
+[2024.08.30-11.22.10:514][814]LogNiagaraEditor: OpNode Boolean::LogicAnd, Package /Niagara/Functions/Emitter/EmitterChangeState: reallocated existing pins to add new extension pin
+[2024.08.30-11.22.10:514][814]LogNiagaraEditor: OpNode Boolean::LogicAnd, Package /Niagara/Functions/Emitter/EmitterChangeState: reallocated existing pins to add new extension pin
+[2024.08.30-11.22.10:514][814]LogNiagaraEditor: OpNode Boolean::LogicAnd, Package /Niagara/Functions/Emitter/EmitterChangeState: reallocated existing pins to add new extension pin
+[2024.08.30-11.22.10:516][814]LogNiagaraEditor: OpNode Numeric::Subtract, Package /Niagara/Modules/Emitter/EmitterLifeCycle: reallocated existing pins to add new extension pin
+[2024.08.30-11.22.10:518][814]LogNiagaraEditor: OpNode Numeric::Mul, Package /Niagara/Functions/Rotation/AxisAngleToQuaternion: reallocated existing pins to add new extension pin
+[2024.08.30-11.22.10:519][814]LogNiagaraEditor: OpNode Numeric::Mul, Package /Niagara/Modules/Update/Mass/CalculateSizeByMass: reallocated existing pins to add new extension pin
+[2024.08.30-11.22.10:519][814]LogNiagaraEditor: OpNode Numeric::Mul, Package /Niagara/Modules/Update/Mass/CalculateSizeByMass: reallocated existing pins to add new extension pin
+[2024.08.30-11.22.10:519][814]LogNiagaraEditor: OpNode Numeric::Mul, Package /Niagara/Modules/Update/Mass/CalculateSizeByMass: reallocated existing pins to add new extension pin
+[2024.08.30-11.22.10:519][814]LogNiagaraEditor: OpNode Numeric::Mul, Package /Niagara/Modules/Update/Mass/CalculateSizeByMass: reallocated existing pins to add new extension pin
+[2024.08.30-11.22.10:519][814]LogNiagaraEditor: OpNode Numeric::Mul, Package /Niagara/Modules/Update/Mass/CalculateSizeByMass: reallocated existing pins to add new extension pin
+[2024.08.30-11.22.10:520][814]LogNiagaraEditor: OpNode Numeric::Mul, Package /Niagara/Modules/Update/Mass/CalculateSizeByMass: reallocated existing pins to add new extension pin
+[2024.08.30-11.22.10:520][814]LogNiagaraEditor: OpNode Numeric::Mul, Package /Niagara/Modules/Update/Mass/CalculateSizeByMass: reallocated existing pins to add new extension pin
+[2024.08.30-11.22.10:520][814]LogNiagaraEditor: OpNode Numeric::Add, Package /Niagara/Modules/Update/Mass/CalculateSizeByMass: reallocated existing pins to add new extension pin
+[2024.08.30-11.22.10:521][814]LogNiagaraEditor: OpNode Numeric::Add, Package /Niagara/Modules/Update/Mass/CalculateSizeByMass: reallocated existing pins to add new extension pin
+[2024.08.30-11.22.10:521][814]LogNiagaraEditor: OpNode Numeric::Mul, Package /Niagara/Modules/Update/Mass/CalculateSizeByMass: reallocated existing pins to add new extension pin
+[2024.08.30-11.22.10:521][814]LogNiagaraEditor: OpNode Numeric::Mul, Package /Niagara/Modules/Update/Mass/CalculateSizeByMass: reallocated existing pins to add new extension pin
+[2024.08.30-11.22.10:521][814]LogNiagaraEditor: OpNode Numeric::Mul, Package /Niagara/Modules/Update/Mass/CalculateSizeByMass: reallocated existing pins to add new extension pin
+[2024.08.30-11.22.10:521][814]LogNiagaraEditor: OpNode Numeric::Add, Package /Niagara/Modules/Update/Mass/CalculateSizeByMass: reallocated existing pins to add new extension pin
+[2024.08.30-11.22.10:521][814]LogNiagaraEditor: OpNode Numeric::Add, Package /Niagara/Modules/Update/Mass/CalculateSizeByMass: reallocated existing pins to add new extension pin
+[2024.08.30-11.22.10:522][814]LogNiagaraEditor: OpNode Numeric::Mul, Package /Niagara/Modules/Update/Mass/CalculateSizeByMass: reallocated existing pins to add new extension pin
+[2024.08.30-11.22.10:522][814]LogNiagaraEditor: OpNode Numeric::Mul, Package /Niagara/Modules/Update/Mass/CalculateSizeByMass: reallocated existing pins to add new extension pin
+[2024.08.30-11.22.10:523][814]LogNiagaraEditor: OpNode Numeric::Mul, Package /Niagara/DynamicInputs/Angles/NormalizedAngleToDegrees: reallocated existing pins to add new extension pin
+[2024.08.30-11.22.10:523][814]LogNiagaraEditor: OpNode Numeric::Mul, Package /Niagara/Functions/Rotation/MultiplyQuaternion: reallocated existing pins to add new extension pin
+[2024.08.30-11.22.10:523][814]LogNiagaraEditor: OpNode Numeric::Mul, Package /Niagara/Functions/Rotation/MultiplyQuaternion: reallocated existing pins to add new extension pin
+[2024.08.30-11.22.10:523][814]LogNiagaraEditor: OpNode Numeric::Mul, Package /Niagara/Functions/Rotation/MultiplyQuaternion: reallocated existing pins to add new extension pin
+[2024.08.30-11.22.10:523][814]LogNiagaraEditor: OpNode Numeric::Add, Package /Niagara/Functions/Rotation/MultiplyQuaternion: reallocated existing pins to add new extension pin
+[2024.08.30-11.22.10:523][814]LogNiagaraEditor: OpNode Numeric::Mul, Package /Niagara/Functions/Rotation/MultiplyQuaternion: reallocated existing pins to add new extension pin
+[2024.08.30-11.22.10:523][814]LogNiagaraEditor: OpNode Numeric::Mul, Package /Niagara/Functions/Rotation/MultiplyQuaternion: reallocated existing pins to add new extension pin
+[2024.08.30-11.22.10:523][814]LogNiagaraEditor: OpNode Numeric::Add, Package /Niagara/Functions/Rotation/MultiplyQuaternion: reallocated existing pins to add new extension pin
+[2024.08.30-11.22.10:523][814]LogNiagaraEditor: OpNode Numeric::Mul, Package /Niagara/Functions/Rotation/MultiplyQuaternion: reallocated existing pins to add new extension pin
+[2024.08.30-11.22.10:523][814]LogNiagaraEditor: OpNode Numeric::Mul, Package /Niagara/Functions/Rotation/MultiplyQuaternion: reallocated existing pins to add new extension pin
+[2024.08.30-11.22.10:523][814]LogNiagaraEditor: OpNode Numeric::Add, Package /Niagara/Functions/Rotation/MultiplyQuaternion: reallocated existing pins to add new extension pin
+[2024.08.30-11.22.10:524][814]LogNiagaraEditor: OpNode Boolean::LogicAnd, Package /Niagara/Functions/Localspace/TransformBase: reallocated existing pins to add new extension pin
+[2024.08.30-11.22.10:524][814]LogNiagaraEditor: OpNode Boolean::LogicAnd, Package /Niagara/Functions/Localspace/TransformBase: reallocated existing pins to add new extension pin
+[2024.08.30-11.22.10:524][814]LogNiagaraEditor: OpNode Boolean::LogicAnd, Package /Niagara/Functions/Localspace/TransformBase: reallocated existing pins to add new extension pin
+[2024.08.30-11.22.10:524][814]LogNiagaraEditor: OpNode Boolean::LogicAnd, Package /Niagara/Functions/Localspace/TransformBase: reallocated existing pins to add new extension pin
+[2024.08.30-11.22.10:524][814]LogNiagaraEditor: OpNode Boolean::LogicOr, Package /Niagara/Functions/Localspace/TransformBase: reallocated existing pins to add new extension pin
+[2024.08.30-11.22.10:524][814]LogNiagaraEditor: OpNode Boolean::LogicOr, Package /Niagara/Functions/Localspace/TransformBase: reallocated existing pins to add new extension pin
+[2024.08.30-11.22.10:524][814]LogNiagaraEditor: OpNode Boolean::LogicAnd, Package /Niagara/Functions/Localspace/TransformBase: reallocated existing pins to add new extension pin
+[2024.08.30-11.22.10:524][814]LogNiagaraEditor: OpNode Boolean::LogicAnd, Package /Niagara/Functions/Localspace/TransformBase: reallocated existing pins to add new extension pin
+[2024.08.30-11.22.10:524][814]LogNiagaraEditor: OpNode Boolean::LogicAnd, Package /Niagara/Functions/Localspace/TransformBase: reallocated existing pins to add new extension pin
+[2024.08.30-11.22.10:524][814]LogNiagaraEditor: OpNode Boolean::LogicAnd, Package /Niagara/Functions/Localspace/TransformBase: reallocated existing pins to add new extension pin
+[2024.08.30-11.22.10:524][814]LogNiagaraEditor: OpNode Boolean::LogicAnd, Package /Niagara/Functions/Localspace/TransformBase: reallocated existing pins to add new extension pin
+[2024.08.30-11.22.10:524][814]LogNiagaraEditor: OpNode Boolean::LogicAnd, Package /Niagara/Functions/Localspace/TransformBase: reallocated existing pins to add new extension pin
+[2024.08.30-11.22.10:525][814]LogNiagaraEditor: OpNode Boolean::LogicOr, Package /Niagara/Functions/Localspace/TransformBase: reallocated existing pins to add new extension pin
+[2024.08.30-11.22.10:525][814]LogNiagaraEditor: OpNode Boolean::LogicAnd, Package /Niagara/Functions/Localspace/TransformBase: reallocated existing pins to add new extension pin
+[2024.08.30-11.22.10:525][814]LogNiagaraEditor: OpNode Boolean::LogicOr, Package /Niagara/Functions/Localspace/TransformBase: reallocated existing pins to add new extension pin
+[2024.08.30-11.22.10:525][814]LogNiagaraEditor: OpNode Boolean::LogicOr, Package /Niagara/Functions/Localspace/TransformBase: reallocated existing pins to add new extension pin
+[2024.08.30-11.22.10:525][814]LogNiagaraEditor: OpNode Boolean::LogicOr, Package /Niagara/Functions/Localspace/TransformBase: reallocated existing pins to add new extension pin
+[2024.08.30-11.22.10:525][814]LogNiagaraEditor: OpNode Boolean::LogicOr, Package /Niagara/Functions/Localspace/TransformBase: reallocated existing pins to add new extension pin
+[2024.08.30-11.22.10:525][814]LogNiagaraEditor: OpNode Boolean::LogicAnd, Package /Niagara/Functions/Localspace/TransformBase: reallocated existing pins to add new extension pin
+[2024.08.30-11.22.10:525][814]LogNiagaraEditor: OpNode Boolean::LogicOr, Package /Niagara/Functions/Localspace/TransformBase: reallocated existing pins to add new extension pin
+[2024.08.30-11.22.10:525][814]LogNiagaraEditor: OpNode Boolean::LogicAnd, Package /Niagara/Functions/Localspace/TransformBase: reallocated existing pins to add new extension pin
+[2024.08.30-11.22.10:530][814]LogMaterial: Display: Missing cached shader map for material DefaultSpriteMaterial, compiling. 
+[2024.08.30-11.22.10:586][814]LogMaterial: Display: Missing cached shader map for material DefaultSpriteMaterial, compiling. 
+[2024.08.30-11.22.10:659][814]LogNiagaraEditor: OpNode Numeric::Mul, Package /Niagara/Modules/Solvers/SolveForcesAndVelocity: reallocated existing pins to add new extension pin
+[2024.08.30-11.22.10:663][814]LogNiagaraEditor: OpNode Numeric::Max, Package /Niagara/Modules/Solvers/SolveForcesAndVelocity: reallocated existing pins to add new extension pin
+[2024.08.30-11.22.10:664][814]LogNiagaraEditor: OpNode Numeric::Subtract, Package /Niagara/Modules/Solvers/SolveForcesAndVelocity: reallocated existing pins to add new extension pin
+[2024.08.30-11.22.10:666][814]LogNiagaraEditor: OpNode Numeric::Mul, Package /Niagara/Modules/Solvers/SolveForcesAndVelocity: reallocated existing pins to add new extension pin
+[2024.08.30-11.22.10:666][814]LogNiagaraEditor: OpNode Numeric::Add, Package /Niagara/Modules/Solvers/SolveForcesAndVelocity: reallocated existing pins to add new extension pin
+[2024.08.30-11.22.10:668][814]LogNiagaraEditor: OpNode Numeric::Mul, Package /Niagara/Modules/Solvers/SolveForcesAndVelocity: reallocated existing pins to add new extension pin
+[2024.08.30-11.22.10:669][814]LogNiagaraEditor: OpNode Numeric::Max, Package /Niagara/Modules/Solvers/SolveForcesAndVelocity: reallocated existing pins to add new extension pin
+[2024.08.30-11.22.10:669][814]LogNiagaraEditor: OpNode Numeric::Mul, Package /Niagara/Modules/Solvers/SolveForcesAndVelocity: reallocated existing pins to add new extension pin
+[2024.08.30-11.22.10:672][814]LogNiagaraEditor: OpNode Numeric::Add, Package /Niagara/Modules/Solvers/SolveForcesAndVelocity: reallocated existing pins to add new extension pin
+[2024.08.30-11.22.10:673][814]LogNiagaraEditor: OpNode Boolean::LogicAnd, Package /Niagara/Modules/Update/Lifetime/UpdateAge: reallocated existing pins to add new extension pin
+[2024.08.30-11.22.10:673][814]LogNiagaraEditor: OpNode Numeric::Add, Package /Niagara/Modules/Update/Lifetime/UpdateAge: reallocated existing pins to add new extension pin
+[2024.08.30-11.22.10:674][814]LogNiagaraEditor: OpNode Numeric::Subtract, Package /Niagara/Modules/Update/Lifetime/UpdateAge: reallocated existing pins to add new extension pin
+[2024.08.30-11.22.10:674][814]LogNiagaraEditor: OpNode Boolean::LogicOr, Package /Niagara/Modules/Update/Lifetime/UpdateAge: reallocated existing pins to add new extension pin
+[2024.08.30-11.22.10:674][814]LogNiagaraEditor: OpNode Numeric::Mul, Package /Niagara/Modules/Update/Color/Color: reallocated existing pins to add new extension pin
+[2024.08.30-11.22.10:674][814]LogNiagaraEditor: OpNode Numeric::Mul, Package /Niagara/Modules/Update/Color/Color: reallocated existing pins to add new extension pin
+[2024.08.30-11.22.10:675][814]LogNiagaraEditor: OpNode Numeric::Add, Package /Niagara/Modules/Spawn/Velocity/AddVelocityFromPoint: reallocated existing pins to add new extension pin
+[2024.08.30-11.22.10:675][814]LogNiagaraEditor: OpNode Numeric::Add, Package /Niagara/Modules/Spawn/Velocity/AddVelocityFromPoint: reallocated existing pins to add new extension pin
+[2024.08.30-11.22.10:675][814]LogNiagaraEditor: OpNode Numeric::Subtract, Package /Niagara/Functions/NormalizeDistanceRange: reallocated existing pins to add new extension pin
+[2024.08.30-11.22.10:676][814]LogNiagaraEditor: OpNode Numeric::Mul, Package /Niagara/Functions/DistanceBasedFalloff: reallocated existing pins to add new extension pin
+[2024.08.30-11.22.10:676][814]LogNiagaraEditor: OpNode Numeric::Mul, Package /Niagara/Modules/Spawn/Velocity/AddVelocityFromPoint: reallocated existing pins to add new extension pin
+[2024.08.30-11.22.10:677][814]LogNiagaraEditor: OpNode Numeric::Mul, Package /Niagara/Modules/Spawn/Velocity/AddVelocityFromPoint: reallocated existing pins to add new extension pin
+[2024.08.30-11.22.10:678][814]LogNiagaraEditor: OpNode Numeric::Mul, Package /Niagara/Modules/Update/Size/SpriteSizeScale: reallocated existing pins to add new extension pin
+[2024.08.30-11.22.10:678][814]LogNiagaraEditor: OpNode Numeric::Mul, Package /Niagara/Modules/Update/Size/SpriteSizeScale: reallocated existing pins to add new extension pin
+[2024.08.30-11.22.10:678][814]LogNiagaraEditor: OpNode Numeric::Mul, Package /Niagara/DynamicInputs/ValueFromCurve/FloatFromCurve: reallocated existing pins to add new extension pin
+[2024.08.30-11.22.10:678][814]LogNiagaraEditor: OpNode Numeric::Mul, Package /Niagara/Modules/Update/Forces/DragForce: reallocated existing pins to add new extension pin
+[2024.08.30-11.22.10:679][814]LogNiagaraEditor: OpNode Numeric::Add, Package /Niagara/Modules/Update/Forces/GravityForce: reallocated existing pins to add new extension pin
+[2024.08.30-11.22.10:679][814]LogNiagaraEditor: OpNode Numeric::Mul, Package /Niagara/Modules/Update/Forces/GravityForce: reallocated existing pins to add new extension pin
+[2024.08.30-11.22.10:685][814]LogNiagara: AreScriptAndSourceSynchronized base script id's don't match. 3164A6E947F94D8D0820CA9B76A9D087 != 9B5B5B894F1C3AE44AD74591134C4144
+[2024.08.30-11.22.10:687][814]LogNiagara: AreScriptAndSourceSynchronized num dependencies don't match. 50 != 53
+[2024.08.30-11.22.10:687][814]LogNiagara: AreScriptAndSourceSynchronized num dependencies don't match. 50 != 53
+[2024.08.30-11.22.21:310][174]LogNiagara: AreScriptAndSourceSynchronized base script id's don't match. 3164A6E947F94D8D0820CA9B76A9D087 != 9B5B5B894F1C3AE44AD74591134C4144
+[2024.08.30-11.22.21:310][174]LogNiagara: AreScriptAndSourceSynchronized num dependencies don't match. 50 != 53
+[2024.08.30-11.22.21:310][174]LogNiagara: AreScriptAndSourceSynchronized num dependencies don't match. 50 != 53
+[2024.08.30-11.23.00:086][971]LogAssetEditorManager: Opening Asset editor for NiagaraEmitter /Game/Assets/Prefabs/N_Blood.N_Blood
+[2024.08.30-11.23.00:096][971]LogNiagaraEditor: OpNode Boolean::LogicAnd, Package /Niagara/Functions/System/SystemChangeState: reallocated existing pins to add new extension pin
+[2024.08.30-11.23.00:097][971]LogNiagaraEditor: OpNode Boolean::LogicAnd, Package /Niagara/Modules/System/SystemLifeCycle: reallocated existing pins to add new extension pin
+[2024.08.30-11.23.00:147][971]LogNiagara: AreScriptAndSourceSynchronized base script id's don't match. 3164A6E947F94D8D0820CA9B76A9D087 != 9B5B5B894F1C3AE44AD74591134C4144
+[2024.08.30-11.23.00:147][971]LogNiagara: AreScriptAndSourceSynchronized num dependencies don't match. 50 != 53
+[2024.08.30-11.23.00:147][971]LogNiagara: AreScriptAndSourceSynchronized num dependencies don't match. 50 != 53
+[2024.08.30-11.23.01:201][971]LogNiagara: Warning: Failed to activate Niagara System due to invalid asset!
+[2024.08.30-11.23.01:653][971]LogNiagaraEditor: '/Engine/Transient' Precompile took 0.162735 sec.
+[2024.08.30-11.23.01:670][971]LogNiagaraEditor: Compiling System NiagaraScript /Engine/Transient.NiagaraSystem_0:SystemUpdateScript ...................................................................
+[2024.08.30-11.23.01:670][971]LogNiagaraEditor: Compiling System NiagaraScript /Engine/Transient.N_Blood:SpawnScript ...................................................................
+[2024.08.30-11.23.01:670][971]LogNiagaraEditor: Compiling System NiagaraScript /Engine/Transient.NiagaraSystem_0:SystemSpawnScript ...................................................................
+[2024.08.30-11.23.01:670][971]LogNiagaraEditor: Compiling System NiagaraScript /Engine/Transient.N_Blood:UpdateScript ...................................................................
+[2024.08.30-11.23.01:883][971]LogRenderer: Reallocating scene render targets to support 856x536 Format 9 NumSamples 1 (Frame:1).
+[2024.08.30-11.23.09:388][104]LogSlate: Window 'N_Blood' being destroyed
+[2024.08.30-11.23.16:601][277]LogNiagaraEditor: Compiling System NiagaraScript /Engine/Transient.N_Blood:SpawnScript took 14.937802 sec (0.056682/14.879241)... Status NCS_UpToDate
+[2024.08.30-11.23.16:607][277]LogNiagara: UNiagraScript 'NiagaraScript /Engine/Transient.N_Blood:SpawnScript' was built locally..
+[2024.08.30-11.23.18:114][307]LogNiagaraEditor: Compiling System NiagaraScript /Engine/Transient.NiagaraSystem_0:SystemUpdateScript took 16.454544 sec (0.079316/1.517319)... Status NCS_UpToDate
+[2024.08.30-11.23.18:188][307]LogNiagara: UNiagraScript 'NiagaraScript /Engine/Transient.NiagaraSystem_0:SystemUpdateScript' was built locally..
+[2024.08.30-11.23.18:431][309]LogNiagaraEditor: Compiling System NiagaraScript /Engine/Transient.NiagaraSystem_0:SystemSpawnScript took 16.771584 sec (0.085335/0.317135)... Status NCS_UpToDate
+[2024.08.30-11.23.18:432][309]LogNiagara: UNiagraScript 'NiagaraScript /Engine/Transient.NiagaraSystem_0:SystemSpawnScript' was built locally..
+[2024.08.30-11.23.19:418][323]LogNiagaraEditor: Compiling System NiagaraScript /Engine/Transient.N_Blood:UpdateScript took 17.745415 sec (0.098311/0.973688)... Status NCS_UpToDate
+[2024.08.30-11.23.19:420][323]LogNiagara: UNiagraScript 'NiagaraScript /Engine/Transient.N_Blood:UpdateScript' was built locally..
+[2024.08.30-11.23.19:484][323]LogNiagara: Compiling System NiagaraSystem /Engine/Transient.NiagaraSystem_0 took 17.994949 sec (wall time), 65.909348 sec (combined time).
+[2024.08.30-11.23.28:590][523]LogSlate: Took 0.023900 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2024.08.30-11.24.07:438][694]LogContentBrowser: Verbose: The majority of assets in the view are of type: MaterialInstanceConstant
+[2024.08.30-11.24.10:279][766]LogContentBrowser: Verbose: The majority of assets in the view are of type: Material
+[2024.08.30-11.24.12:439][820]LogContentBrowser: Verbose: The majority of assets in the view are of type: MaterialInstanceConstant
+[2024.08.30-11.24.12:691][826]LogContentBrowser: Verbose: The majority of assets in the view are of type: Material
+[2024.08.30-11.24.15:023][881]LogMaterial: Warning: Material /Game/Assets/Prefabs/M_Blood.M_Blood needed to have new flag set bUsedWithNiagaraSprites !
+[2024.08.30-11.24.15:030][881]LogMaterial: Display: Missing cached shader map for material M_Blood, compiling. 
+[2024.08.30-11.24.15:126][881]LogMaterial: Display: Missing cached shader map for material M_Blood, compiling. 
+[2024.08.30-11.26.04:754][505]Cmd: TRANSACTION UNDO
+[2024.08.30-11.26.04:754][505]LogEditorTransaction: Undo Update input local value
+[2024.08.30-11.26.09:102][634]Cmd: TRANSACTION UNDO
+[2024.08.30-11.26.09:102][634]LogEditorTransaction: Undo Update input local value
+[2024.08.30-11.27.31:946][ 32]LogSlate: Window 'Plugins' being destroyed
+[2024.08.30-11.27.31:987][ 32]LogSlate: Window 'Plugins' being destroyed
+[2024.08.30-11.27.31:988][ 32]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/' was aborted.
+[2024.08.30-11.29.10:059][169]LogAssetEditorManager: Opening Asset editor for Material /Game/Assets/Prefabs/M_Blood.M_Blood
+[2024.08.30-11.29.10:074][169]LogMaterial: Display: Missing cached shader map for material M_Blood, compiling. 
+[2024.08.30-11.29.10:113][169]LogMaterial: Display: Missing cached shader map for material M_Blood, compiling. 
+[2024.08.30-11.29.10:414][169]LogMaterial: Display: Missing cached shader map for material M_Blood, compiling. 
+[2024.08.30-11.29.10:453][169]LogMaterial: Display: Missing cached shader map for material M_Blood, compiling. 
+[2024.08.30-11.29.10:503][169]LogMaterial: Display: Missing cached shader map for material M_Blood, compiling. 
+[2024.08.30-11.29.10:536][169]LogMaterial: Display: Missing cached shader map for material M_Blood, compiling. 
+[2024.08.30-11.29.10:613][169]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2024.08.30-11.29.10:756][169]LogSlate: Took 0.026862 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2024.08.30-11.29.11:343][179]LogShaderCompilers: Display: Shaders left to compile 5480
+[2024.08.30-11.29.13:595][245]LogShaderCompilers: Display: Shaders left to compile 5470
+[2024.08.30-11.29.16:336][324]LogShaderCompilers: Display: Shaders left to compile 5460
+[2024.08.30-11.29.18:903][410]LogShaderCompilers: Display: Shaders left to compile 5450
+[2024.08.30-11.29.20:472][463]LogShaderCompilers: Display: Shaders left to compile 5440
+[2024.08.30-11.29.22:595][530]LogMaterial: Display: Missing cached shader map for material M_Blood, compiling. 
+[2024.08.30-11.29.22:634][530]LogMaterial: Display: Missing cached shader map for material M_Blood, compiling. 
+[2024.08.30-11.29.22:946][537]LogShaderCompilers: Display: Shaders left to compile 5480
+[2024.08.30-11.29.24:307][573]LogShaderCompilers: Display: Shaders left to compile 5470
+[2024.08.30-11.29.26:599][625]LogShaderCompilers: Display: Shaders left to compile 5460
+[2024.08.30-11.29.29:469][684]LogShaderCompilers: Display: Shaders left to compile 5450
+[2024.08.30-11.29.30:696][722]LogShaderCompilers: Display: Shaders left to compile 5440
+[2024.08.30-11.29.32:902][780]LogShaderCompilers: Display: Shaders left to compile 5430
+[2024.08.30-11.29.38:697][967]LogMaterial: Display: Missing cached shader map for material M_Blood, compiling. 
+[2024.08.30-11.29.38:736][967]LogMaterial: Display: Missing cached shader map for material M_Blood, compiling. 
+[2024.08.30-11.29.38:776][967]LogMaterial: Display: Missing cached shader map for material M_Blood, compiling. 
+[2024.08.30-11.29.38:806][967]LogMaterial: Display: Missing cached shader map for material M_Blood, compiling. 
+[2024.08.30-11.29.39:238][977]LogShaderCompilers: Display: Shaders left to compile 5390
+[2024.08.30-11.29.43:224][ 89]LogShaderCompilers: Display: Shaders left to compile 5380
+[2024.08.30-11.29.47:420][173]LogShaderCompilers: Display: Shaders left to compile 5370
+[2024.08.30-11.29.49:520][234]LogShaderCompilers: Display: Shaders left to compile 5360
+[2024.08.30-11.29.51:496][285]LogShaderCompilers: Display: Shaders left to compile 5350
+[2024.08.30-11.29.53:395][332]LogShaderCompilers: Display: Shaders left to compile 5340
+[2024.08.30-11.29.58:084][452]MaterialEditorStats: Base pass shader: 72 instructions
+[2024.08.30-11.29.58:084][452]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 99 instructions
+[2024.08.30-11.29.58:084][452]MaterialEditorStats: Base pass vertex shader: 138 instructions
+[2024.08.30-11.29.58:084][452]MaterialEditorStats: Texture samplers: 3/16
+[2024.08.30-11.29.58:084][452]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2024.08.30-11.29.58:084][452]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.08.30-11.30.01:077][537]LogMaterial: Display: Missing cached shader map for material M_Blood, compiling. 
+[2024.08.30-11.30.01:113][537]LogMaterial: Display: Missing cached shader map for material M_Blood, compiling. 
+[2024.08.30-11.30.01:159][537]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2024.08.30-11.30.01:939][555]LogShaderCompilers: Display: Shaders left to compile 5300
+[2024.08.30-11.30.04:523][621]LogShaderCompilers: Display: Shaders left to compile 5290
+[2024.08.30-11.30.06:423][675]LogMaterial: Display: Missing cached shader map for material M_Blood, compiling. 
+[2024.08.30-11.30.06:461][675]LogMaterial: Display: Missing cached shader map for material M_Blood, compiling. 
+[2024.08.30-11.30.07:020][690]LogShaderCompilers: Display: Shaders left to compile 5300
+[2024.08.30-11.30.09:154][731]LogShaderCompilers: Display: Shaders left to compile 5290
+[2024.08.30-11.30.11:493][772]LogShaderCompilers: Display: Shaders left to compile 5280
+[2024.08.30-11.30.14:347][829]LogShaderCompilers: Display: Shaders left to compile 5270
+[2024.08.30-11.30.15:555][868]LogShaderCompilers: Display: Shaders left to compile 5260
+[2024.08.30-11.30.17:869][938]LogShaderCompilers: Display: Shaders left to compile 5250
+[2024.08.30-11.30.23:712][ 70]MaterialEditorStats: Base pass shader: 72 instructions
+[2024.08.30-11.30.23:713][ 70]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 99 instructions
+[2024.08.30-11.30.23:714][ 70]MaterialEditorStats: Base pass vertex shader: 138 instructions
+[2024.08.30-11.30.23:714][ 70]MaterialEditorStats: Texture samplers: 3/16
+[2024.08.30-11.30.23:714][ 70]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2024.08.30-11.30.23:714][ 70]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.08.30-11.30.39:039][513]LogMaterial: Display: Missing cached shader map for material M_Blood, compiling. 
+[2024.08.30-11.30.39:076][513]LogMaterial: Display: Missing cached shader map for material M_Blood, compiling. 
+[2024.08.30-11.30.39:118][513]LogMaterial: Display: Missing cached shader map for material M_Blood, compiling. 
+[2024.08.30-11.30.39:148][513]LogShaderCompilers: Display: Shaders left to compile 5030
+[2024.08.30-11.30.39:148][513]LogMaterial: Display: Missing cached shader map for material M_Blood, compiling. 
+[2024.08.30-11.30.41:313][574]LogShaderCompilers: Display: Shaders left to compile 5050
+[2024.08.30-11.30.43:108][628]LogMaterial: Display: Missing cached shader map for material M_Blood, compiling. 
+[2024.08.30-11.30.43:147][628]LogMaterial: Display: Missing cached shader map for material M_Blood, compiling. 
+[2024.08.30-11.30.43:197][628]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2024.08.30-11.30.43:650][640]LogShaderCompilers: Display: Shaders left to compile 5050
+[2024.08.30-11.30.45:397][690]LogShaderCompilers: Display: Shaders left to compile 5040
+[2024.08.30-11.30.47:269][714]LogShaderCompilers: Display: Shaders left to compile 5030
+[2024.08.30-11.30.48:674][751]LogShaderCompilers: Display: Shaders left to compile 5020
+[2024.08.30-11.30.49:885][785]LogShaderCompilers: Display: Shaders left to compile 5010
+[2024.08.30-11.30.51:975][842]LogShaderCompilers: Display: Shaders left to compile 5000
+[2024.08.30-11.30.56:355][958]LogMaterial: Display: Missing cached shader map for material M_Blood, compiling. 
+[2024.08.30-11.30.56:389][958]LogMaterial: Display: Missing cached shader map for material M_Blood, compiling. 
+[2024.08.30-11.30.56:433][958]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2024.08.30-11.30.58:903][ 16]LogShaderCompilers: Display: Shaders left to compile 4970
+[2024.08.30-11.31.01:240][ 71]LogShaderCompilers: Display: Shaders left to compile 4960
+[2024.08.30-11.31.02:345][107]LogMaterial: Display: Missing cached shader map for material M_Blood, compiling. 
+[2024.08.30-11.31.02:385][107]LogMaterial: Display: Missing cached shader map for material M_Blood, compiling. 
+[2024.08.30-11.31.02:616][113]LogShaderCompilers: Display: Shaders left to compile 4970
+[2024.08.30-11.31.05:047][164]LogShaderCompilers: Display: Shaders left to compile 4960
+[2024.08.30-11.31.07:863][220]LogShaderCompilers: Display: Shaders left to compile 4950
+[2024.08.30-11.31.07:864][220]LogMaterialEditor: Saving and Compiling material M_Blood
+[2024.08.30-11.31.09:523][220]LogShaderCompilers: Display: Shaders left to compile 4940
+[2024.08.30-11.31.09:553][220]LogMaterial: Display: Missing cached shader map for material M_Blood, compiling. 
+[2024.08.30-11.31.09:697][220]LogMaterial: Display: Missing cached shader map for material M_Blood, compiling. 
+[2024.08.30-11.31.09:731][220]LogShaderCompilers: Display: Shaders left to compile 4910
+[2024.08.30-11.31.09:805][220]LogMaterial: Display: Missing cached shader map for material M_Blood, compiling. 
+[2024.08.30-11.31.09:872][220]LogMaterial: Display: Missing cached shader map for material M_Blood, compiling. 
+[2024.08.30-11.31.09:960][220]LogMaterial: Display: Missing cached shader map for material M_Blood, compiling. 
+[2024.08.30-11.31.10:031][220]LogMaterial: Display: Missing cached shader map for material M_Blood, compiling. 
+[2024.08.30-11.31.10:183][220]LogUObjectHash: Compacting FUObjectHashTables data took   7.99ms
+[2024.08.30-11.31.10:198][220]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2024.08.30-11.31.17:901][220]LogShaderCompilers: Display: Shaders left to compile 5050
+[2024.08.30-11.31.17:901][220]LogShaderCompilers: Display: Shaders left to compile 5040
+[2024.08.30-11.31.17:902][220]LogShaderCompilers: Display: Shaders left to compile 5030
+[2024.08.30-11.31.17:902][220]LogShaderCompilers: Display: Shaders left to compile 5020
+[2024.08.30-11.31.17:902][220]LogShaderCompilers: Display: Shaders left to compile 5010
+[2024.08.30-11.31.17:902][220]LogShaderCompilers: Display: Shaders left to compile 5000
+[2024.08.30-11.31.17:914][220]TextureStreamingBuild: Display: Compiling optional shaders took 7.730 seconds.
+[2024.08.30-11.31.17:949][220]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
