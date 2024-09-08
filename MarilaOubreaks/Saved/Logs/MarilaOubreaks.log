@@ -1,4 +1,8 @@
+<<<<<<< Updated upstream
 ﻿Log file open, 09/08/24 14:49:19
+=======
+﻿Log file open, 09/08/24 17:25:45
+>>>>>>> Stashed changes
 LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
 LogWindows: File 'aqProf.dll' does not exist
 LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
@@ -9,8 +13,13 @@ LogConsoleResponse: Display: Failed to find resolution value strings in scalabil
 LogInit: Display: Running engine for game: MarilaOubreaks
 LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
 LogPlatformFile: Not using cached read wrapper
+<<<<<<< Updated upstream
 LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
 LogStats: Stats thread started at 0.552159
+=======
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.258156
+>>>>>>> Stashed changes
 LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
 LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +8:00, Platform Override: ''
 LogPluginManager: Mounting plugin Paper2D
@@ -157,6 +166,7 @@ LogInit: Presizing for max 16777216 objects, including 0 objects not considered 
 LogInit: Object subsystem initialized
 LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
 LogConfig: Setting CVar [[r.setres:1280x720]]
+<<<<<<< Updated upstream
 [2024.09.08-06.49.20:199][  0]LogConfig: Setting CVar [[r.VSync:0]]
 [2024.09.08-06.49.20:199][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
 [2024.09.08-06.49.20:199][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/markr/MarilaOutbreak/ManilaOutbreak-Game/MarilaOubreaks/Saved/Config/Windows/Engine.ini]
@@ -19414,3 +19424,1237 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2024.09.08-07.25.40:757][483]LogModuleManager: Shutting down and abandoning module RSA (3)
 [2024.09.08-07.25.40:812][483]LogExit: Exiting.
 [2024.09.08-07.25.40:821][483]Log file closed, 09/08/24 15:25:40
+=======
+[2024.09.08-09.25.46:447][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2024.09.08-09.25.46:447][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2024.09.08-09.25.46:447][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/alexi/Downloads/New_Marilao/ManilaOutbreak-Game/MarilaOubreaks/Saved/Config/Windows/Engine.ini]
+[2024.09.08-09.25.46:447][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2024.09.08-09.25.46:447][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/alexi/Downloads/New_Marilao/ManilaOutbreak-Game/MarilaOubreaks/Saved/Config/Windows/Engine.ini]
+[2024.09.08-09.25.46:447][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/alexi/Downloads/New_Marilao/ManilaOutbreak-Game/MarilaOubreaks/Saved/Config/Windows/Engine.ini]
+[2024.09.08-09.25.46:447][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2024.09.08-09.25.46:447][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2024.09.08-09.25.46:447][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2024.09.08-09.25.46:447][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2024.09.08-09.25.46:447][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2024.09.08-09.25.46:447][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2024.09.08-09.25.46:447][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2024.09.08-09.25.46:447][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2024.09.08-09.25.46:447][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2024.09.08-09.25.46:447][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2024.09.08-09.25.46:447][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2024.09.08-09.25.46:447][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2024.09.08-09.25.46:447][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2024.09.08-09.25.46:447][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/alexi/Downloads/New_Marilao/ManilaOutbreak-Game/MarilaOubreaks/Saved/Config/Windows/Engine.ini]
+[2024.09.08-09.25.46:447][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2024.09.08-09.25.46:447][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2024.09.08-09.25.46:447][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2024.09.08-09.25.46:447][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2024.09.08-09.25.46:447][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2024.09.08-09.25.46:447][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2024.09.08-09.25.46:447][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2024.09.08-09.25.46:447][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2024.09.08-09.25.46:447][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2024.09.08-09.25.46:447][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2024.09.08-09.25.46:447][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2024.09.08-09.25.46:447][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2024.09.08-09.25.46:447][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2024.09.08-09.25.46:447][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/alexi/Downloads/New_Marilao/ManilaOutbreak-Game/MarilaOubreaks/Saved/Config/Windows/Engine.ini]
+[2024.09.08-09.25.46:447][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/alexi/Downloads/New_Marilao/ManilaOutbreak-Game/MarilaOubreaks/Saved/Config/Windows/Engine.ini]
+[2024.09.08-09.25.46:447][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/alexi/Downloads/New_Marilao/ManilaOutbreak-Game/MarilaOubreaks/Saved/Config/Windows/Scalability.ini]
+[2024.09.08-09.25.46:447][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2024.09.08-09.25.46:447][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2024.09.08-09.25.46:447][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/alexi/Downloads/New_Marilao/ManilaOutbreak-Game/MarilaOubreaks/Saved/Config/Windows/Scalability.ini]
+[2024.09.08-09.25.46:447][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2024.09.08-09.25.46:447][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/alexi/Downloads/New_Marilao/ManilaOutbreak-Game/MarilaOubreaks/Saved/Config/Windows/Scalability.ini]
+[2024.09.08-09.25.46:447][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2024.09.08-09.25.46:447][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2024.09.08-09.25.46:447][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2024.09.08-09.25.46:447][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2024.09.08-09.25.46:447][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2024.09.08-09.25.46:447][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2024.09.08-09.25.46:447][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2024.09.08-09.25.46:447][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2024.09.08-09.25.46:447][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2024.09.08-09.25.46:447][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2024.09.08-09.25.46:447][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2024.09.08-09.25.46:447][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2024.09.08-09.25.46:447][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2024.09.08-09.25.46:447][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2024.09.08-09.25.46:447][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2024.09.08-09.25.46:462][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2024.09.08-09.25.46:462][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2024.09.08-09.25.46:462][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2024.09.08-09.25.46:462][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/alexi/Downloads/New_Marilao/ManilaOutbreak-Game/MarilaOubreaks/Saved/Config/Windows/Scalability.ini]
+[2024.09.08-09.25.46:462][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2024.09.08-09.25.46:462][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2024.09.08-09.25.46:462][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2024.09.08-09.25.46:462][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2024.09.08-09.25.46:462][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2024.09.08-09.25.46:462][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2024.09.08-09.25.46:462][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2024.09.08-09.25.46:462][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2024.09.08-09.25.46:462][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2024.09.08-09.25.46:462][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2024.09.08-09.25.46:462][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2024.09.08-09.25.46:462][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2024.09.08-09.25.46:462][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2024.09.08-09.25.46:462][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2024.09.08-09.25.46:462][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2024.09.08-09.25.46:462][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2024.09.08-09.25.46:462][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2024.09.08-09.25.46:462][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2024.09.08-09.25.46:462][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2024.09.08-09.25.46:462][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2024.09.08-09.25.46:462][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2024.09.08-09.25.46:462][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2024.09.08-09.25.46:462][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2024.09.08-09.25.46:462][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2024.09.08-09.25.46:462][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2024.09.08-09.25.46:462][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2024.09.08-09.25.46:462][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2024.09.08-09.25.46:462][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2024.09.08-09.25.46:462][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2024.09.08-09.25.46:462][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2024.09.08-09.25.46:462][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/alexi/Downloads/New_Marilao/ManilaOutbreak-Game/MarilaOubreaks/Saved/Config/Windows/Scalability.ini]
+[2024.09.08-09.25.46:462][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2024.09.08-09.25.46:462][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2024.09.08-09.25.46:462][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2024.09.08-09.25.46:462][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2024.09.08-09.25.46:462][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2024.09.08-09.25.46:462][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2024.09.08-09.25.46:462][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2024.09.08-09.25.46:462][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2024.09.08-09.25.46:462][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/alexi/Downloads/New_Marilao/ManilaOutbreak-Game/MarilaOubreaks/Saved/Config/Windows/Scalability.ini]
+[2024.09.08-09.25.46:462][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2024.09.08-09.25.46:462][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2024.09.08-09.25.46:462][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2024.09.08-09.25.46:462][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2024.09.08-09.25.46:462][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2024.09.08-09.25.46:462][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2024.09.08-09.25.46:462][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2024.09.08-09.25.46:462][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2024.09.08-09.25.46:462][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2024.09.08-09.25.46:462][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2024.09.08-09.25.46:462][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2024.09.08-09.25.46:462][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2024.09.08-09.25.46:462][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2024.09.08-09.25.46:462][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/alexi/Downloads/New_Marilao/ManilaOutbreak-Game/MarilaOubreaks/Saved/Config/Windows/Scalability.ini]
+[2024.09.08-09.25.46:462][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2024.09.08-09.25.46:462][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2024.09.08-09.25.46:462][  0]LogInit: Selected Device Profile: [Windows]
+[2024.09.08-09.25.46:462][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2024.09.08-09.25.46:525][  0]LogHAL: Display: Platform has ~ 8 GB [8386174976 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2024.09.08-09.25.46:525][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2024.09.08-09.25.46:525][  0]LogInit: Going up to parent DeviceProfile []
+[2024.09.08-09.25.46:525][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/alexi/Downloads/New_Marilao/ManilaOutbreak-Game/MarilaOubreaks/Saved/Config/Windows/Scalability.ini]
+[2024.09.08-09.25.46:525][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2024.09.08-09.25.46:525][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2024.09.08-09.25.46:525][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/alexi/Downloads/New_Marilao/ManilaOutbreak-Game/MarilaOubreaks/Saved/Config/Windows/Scalability.ini]
+[2024.09.08-09.25.46:525][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2024.09.08-09.25.46:525][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/alexi/Downloads/New_Marilao/ManilaOutbreak-Game/MarilaOubreaks/Saved/Config/Windows/Scalability.ini]
+[2024.09.08-09.25.46:525][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2024.09.08-09.25.46:525][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2024.09.08-09.25.46:525][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2024.09.08-09.25.46:525][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2024.09.08-09.25.46:525][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2024.09.08-09.25.46:525][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2024.09.08-09.25.46:525][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2024.09.08-09.25.46:525][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2024.09.08-09.25.46:525][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2024.09.08-09.25.46:525][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2024.09.08-09.25.46:525][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2024.09.08-09.25.46:525][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2024.09.08-09.25.46:525][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2024.09.08-09.25.46:525][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2024.09.08-09.25.46:525][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2024.09.08-09.25.46:525][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2024.09.08-09.25.46:525][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2024.09.08-09.25.46:525][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2024.09.08-09.25.46:525][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/alexi/Downloads/New_Marilao/ManilaOutbreak-Game/MarilaOubreaks/Saved/Config/Windows/Scalability.ini]
+[2024.09.08-09.25.46:525][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2024.09.08-09.25.46:525][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2024.09.08-09.25.46:525][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2024.09.08-09.25.46:525][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2024.09.08-09.25.46:525][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2024.09.08-09.25.46:525][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2024.09.08-09.25.46:541][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2024.09.08-09.25.46:541][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2024.09.08-09.25.46:541][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2024.09.08-09.25.46:541][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2024.09.08-09.25.46:541][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2024.09.08-09.25.46:541][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2024.09.08-09.25.46:541][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2024.09.08-09.25.46:541][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2024.09.08-09.25.46:541][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2024.09.08-09.25.46:541][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2024.09.08-09.25.46:541][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2024.09.08-09.25.46:541][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2024.09.08-09.25.46:541][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2024.09.08-09.25.46:541][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2024.09.08-09.25.46:541][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2024.09.08-09.25.46:541][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2024.09.08-09.25.46:541][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2024.09.08-09.25.46:541][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2024.09.08-09.25.46:541][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2024.09.08-09.25.46:541][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2024.09.08-09.25.46:541][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2024.09.08-09.25.46:541][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2024.09.08-09.25.46:541][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2024.09.08-09.25.46:541][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2024.09.08-09.25.46:541][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/alexi/Downloads/New_Marilao/ManilaOutbreak-Game/MarilaOubreaks/Saved/Config/Windows/Scalability.ini]
+[2024.09.08-09.25.46:541][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2024.09.08-09.25.46:541][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2024.09.08-09.25.46:541][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2024.09.08-09.25.46:541][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2024.09.08-09.25.46:541][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2024.09.08-09.25.46:541][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2024.09.08-09.25.46:541][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2024.09.08-09.25.46:541][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2024.09.08-09.25.46:541][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/alexi/Downloads/New_Marilao/ManilaOutbreak-Game/MarilaOubreaks/Saved/Config/Windows/Scalability.ini]
+[2024.09.08-09.25.46:541][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2024.09.08-09.25.46:541][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2024.09.08-09.25.46:541][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2024.09.08-09.25.46:541][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2024.09.08-09.25.46:541][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2024.09.08-09.25.46:541][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2024.09.08-09.25.46:541][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2024.09.08-09.25.46:541][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2024.09.08-09.25.46:541][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2024.09.08-09.25.46:541][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2024.09.08-09.25.46:541][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2024.09.08-09.25.46:541][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2024.09.08-09.25.46:541][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2024.09.08-09.25.46:541][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/alexi/Downloads/New_Marilao/ManilaOutbreak-Game/MarilaOubreaks/Saved/Config/Windows/Scalability.ini]
+[2024.09.08-09.25.46:541][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2024.09.08-09.25.46:541][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2024.09.08-09.25.46:541][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2024.09.08-09.25.46:541][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2024.09.08-09.25.46:541][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2024.09.08-09.25.46:541][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/alexi/Downloads/New_Marilao/ManilaOutbreak-Game/MarilaOubreaks/Saved/Config/Windows/Engine.ini]
+[2024.09.08-09.25.46:546][  0]LogInit: Computer: ALEXISLAPTOP
+[2024.09.08-09.25.46:546][  0]LogInit: User: alexi
+[2024.09.08-09.25.46:546][  0]LogInit: CPU Page size=4096, Cores=4
+[2024.09.08-09.25.46:546][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2024.09.08-09.25.46:547][  0]LogMemory: Memory total: Physical=7.8GB (8GB approx)
+[2024.09.08-09.25.46:547][  0]LogMemory: Platform Memory Stats for Windows
+[2024.09.08-09.25.46:547][  0]LogMemory: Process Physical Memory: 101.16 MB used, 101.16 MB peak
+[2024.09.08-09.25.46:547][  0]LogMemory: Process Virtual Memory: 86.45 MB used, 86.45 MB peak
+[2024.09.08-09.25.46:547][  0]LogMemory: Physical Memory: 4681.97 MB used,  3315.71 MB free, 7997.68 MB total
+[2024.09.08-09.25.46:547][  0]LogMemory: Virtual Memory: 4636.39 MB used,  134213088.00 MB free, 134217728.00 MB total
+[2024.09.08-09.25.46:626][  0]LogInit: Using OS detected language (en-US).
+[2024.09.08-09.25.46:626][  0]LogInit: Using OS detected locale (en-PH).
+[2024.09.08-09.25.46:630][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2024.09.08-09.25.46:927][  0]LogInit: Setting process to per monitor DPI aware
+[2024.09.08-09.25.46:996][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2024.09.08-09.25.46:996][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2024.09.08-09.25.47:543][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2024.09.08-09.25.47:543][  0]LogD3D11RHI: D3D11 adapters:
+[2024.09.08-09.25.48:196][  0]LogD3D11RHI:    0. 'Intel(R) UHD Graphics' (Feature Level 11_0)
+[2024.09.08-09.25.48:196][  0]LogD3D11RHI:       128/0/3998 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2024.09.08-09.25.48:200][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2024.09.08-09.25.48:200][  0]LogD3D11RHI:       0/0/3998 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2024.09.08-09.25.48:200][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2024.09.08-09.25.48:208][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2024.09.08-09.25.48:209][  0]LogD3D11RHI:     GPU DeviceId: 0x4e71 (for the marketing name, search the web for "GPU Device Id")
+[2024.09.08-09.25.48:209][  0]LogWindows: EnumDisplayDevices:
+[2024.09.08-09.25.48:209][  0]LogWindows:    0. 'Intel(R) UHD Graphics' (P:1 D:1)
+[2024.09.08-09.25.48:209][  0]LogWindows:    1. 'Intel(R) UHD Graphics' (P:0 D:0)
+[2024.09.08-09.25.48:209][  0]LogWindows:    2. 'Intel(R) UHD Graphics' (P:0 D:0)
+[2024.09.08-09.25.48:210][  0]LogWindows: DebugString: FoundDriverCount:3 
+[2024.09.08-09.25.48:210][  0]LogD3D11RHI:     Adapter Name: Intel(R) UHD Graphics
+[2024.09.08-09.25.48:210][  0]LogD3D11RHI:   Driver Version: 27.20.100.9079 (internal:27.20.100.9079, unified:27.20.100.9079)
+[2024.09.08-09.25.48:210][  0]LogD3D11RHI:      Driver Date: 12-11-2020
+[2024.09.08-09.25.48:210][  0]LogRHI: Texture pool is 1489 MB (70% of 2127 MB)
+[2024.09.08-09.25.48:440][  0]LogD3D11RHI: Async texture creation enabled
+[2024.09.08-09.25.48:444][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2024.09.08-09.25.48:445][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2024.09.08-09.25.48:445][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2024.09.08-09.25.48:447][  0]LogD3D11RHI: GPU Timing Frequency: 19.200000 (Debug: 2 0)
+[2024.09.08-09.25.48:899][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2024.09.08-09.25.48:918][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2024.09.08-09.25.48:939][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2024.09.08-09.25.48:966][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2024.09.08-09.25.48:993][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2024.09.08-09.25.49:014][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2024.09.08-09.25.49:033][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2024.09.08-09.25.49:067][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2024.09.08-09.25.49:098][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2024.09.08-09.25.49:276][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2024.09.08-09.25.49:276][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2024.09.08-09.25.49:276][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2024.09.08-09.25.49:276][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2024.09.08-09.25.49:276][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2024.09.08-09.25.49:276][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2024.09.08-09.25.49:276][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2024.09.08-09.25.49:276][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2024.09.08-09.25.49:276][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2024.09.08-09.25.49:276][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2024.09.08-09.25.49:276][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2024.09.08-09.25.49:276][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2024.09.08-09.25.49:276][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2024.09.08-09.25.49:277][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2024.09.08-09.25.49:277][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2024.09.08-09.25.49:277][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2024.09.08-09.25.49:277][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2024.09.08-09.25.49:277][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2024.09.08-09.25.49:280][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2024.09.08-09.25.49:386][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2024.09.08-09.25.49:386][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2024.09.08-09.25.49:467][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2024.09.08-09.25.49:467][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2024.09.08-09.25.49:505][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2024.09.08-09.25.49:522][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2024.09.08-09.25.49:539][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2024.09.08-09.25.49:557][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2024.09.08-09.25.49:624][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2024.09.08-09.25.49:624][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2024.09.08-09.25.49:624][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2024.09.08-09.25.49:640][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2024.09.08-09.25.49:732][  0]LogShaderCompilers: Guid format shader working directory is -41 characters bigger than the processId version (../../../../../../Users/alexi/Downloads/New_Marilao/ManilaOutbreak-Game/MarilaOubreaks/Intermediate/Shaders/WorkingDirectory/17084/).
+[2024.09.08-09.25.49:732][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/alexi/AppData/Local/Temp/UnrealShaderWorkingDir/0283541445F99B36055E36B3A746306B/'.
+[2024.09.08-09.25.49:735][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2024.09.08-09.25.49:735][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2024.09.08-09.25.49:735][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2024.09.08-09.25.51:090][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2024.09.08-09.25.51:154][  0]LogDerivedDataCache: Loaded boot cache 0.06s 79MB C:/Users/alexi/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2024.09.08-09.25.51:154][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/alexi/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2024.09.08-09.25.51:154][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/alexi/Downloads/New_Marilao/ManilaOutbreak-Game/MarilaOubreaks/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2024.09.08-09.25.51:154][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2024.09.08-09.25.51:154][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/alexi/Downloads/New_Marilao/ManilaOutbreak-Game/MarilaOubreaks/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2024.09.08-09.25.51:154][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2024.09.08-09.25.51:168][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2024.09.08-09.25.51:168][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2024.09.08-09.25.51:168][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2024.09.08-09.25.51:182][  0]LogDerivedDataCache: Using Local data cache path C:/Users/alexi/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2024.09.08-09.25.51:182][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2024.09.08-09.25.51:182][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2024.09.08-09.25.51:210][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2024.09.08-09.25.51:212][  0]LogSlate: Using FreeType 2.6.0
+[2024.09.08-09.25.51:213][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2024.09.08-09.25.51:348][  0]LogAssetRegistry: FAssetRegistry took 0.0516 seconds to start up
+[2024.09.08-09.25.51:829][  0]LogInit: Selected Device Profile: [Windows]
+[2024.09.08-09.25.52:054][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2024.09.08-09.25.52:054][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2024.09.08-09.25.52:054][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2024.09.08-09.25.52:054][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2024.09.08-09.25.52:054][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2024.09.08-09.25.52:069][  0]LogNetVersion: MarilaOubreaks 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 2523874334)
+[2024.09.08-09.25.52:968][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 1 prioritized culture(s) in 0.226054 seconds
+[2024.09.08-09.25.52:977][  0]LogUObjectArray: 42218 objects as part of root set at end of initial load.
+[2024.09.08-09.25.52:977][  0]LogUObjectAllocator: 7328024 out of 0 bytes used by permanent object pool.
+[2024.09.08-09.25.52:977][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2024.09.08-09.25.54:537][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2024.09.08-09.25.54:553][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2024.09.08-09.25.54:794][  0]SourceControl: Source control is disabled
+[2024.09.08-09.25.54:794][  0]SourceControl: Source control is disabled
+[2024.09.08-09.25.54:797][  0]SourceControl: Source control is disabled
+[2024.09.08-09.25.54:800][  0]SourceControl: Source control is disabled
+[2024.09.08-09.25.54:817][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2024.09.08-09.25.54:818][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2024.09.08-09.25.55:081][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2024.09.08-09.25.55:192][  0]LogOcInput: OculusInput pre-init called
+[2024.09.08-09.25.56:531][  0]LogEngine: Initializing Engine...
+[2024.09.08-09.25.56:532][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2024.09.08-09.25.56:537][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.002 s
+[2024.09.08-09.25.56:886][  0]LogInit: Initializing FReadOnlyCVARCache
+[2024.09.08-09.25.56:908][  0]LogAIModule: Creating AISystem for world Untitled
+[2024.09.08-09.25.56:917][  0]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2024.09.08-09.25.57:548][  0]LogInit: FAudioDevice initialized.
+[2024.09.08-09.25.57:548][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2024.09.08-09.25.57:640][  0]LogDerivedDataCache: Saved boot cache 0.09s 79MB C:/Users/alexi/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2024.09.08-09.25.57:648][  0]LogInit: Texture streaming: Enabled
+[2024.09.08-09.25.57:681][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2024.09.08-09.25.59:425][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM4
+[2024.09.08-09.25.59:427][  0]LogInit: Transaction tracking system initialized
+[2024.09.08-09.25.59:518][  0]BlueprintLog: New page: Editor Load
+[2024.09.08-09.25.59:763][  0]LocalizationService: Localization service is disabled
+[2024.09.08-09.26.07:008][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2024.09.08-09.26.07:010][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2024.09.08-09.26.07:965][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2024.09.08-09.26.07:966][  0]LogCook: Display: Mobile HDR setting 1
+[2024.09.08-09.26.08:883][  0]LogFileCache: Scanning file cache for directory 'C:/Users/alexi/Downloads/New_Marilao/ManilaOutbreak-Game/MarilaOubreaks/Content/' took 0.16s
+[2024.09.08-09.26.08:883][  0]SourceControl: Source control is disabled
+[2024.09.08-09.26.08:884][  0]Cmd: MAP LOAD FILE="../../../../../../Users/alexi/Downloads/New_Marilao/ManilaOutbreak-Game/MarilaOubreaks/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2024.09.08-09.26.08:885][  0]LogEditorServer: Warning: Can't find file '../../../../../../Users/alexi/Downloads/New_Marilao/ManilaOutbreak-Game/MarilaOubreaks/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2024.09.08-09.26.08:885][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.09.08-09.26.08:885][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.59ms to complete.
+[2024.09.08-09.26.08:886][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.002
+[2024.09.08-09.26.09:063][  0]LogWorld: Changing Feature Level (Enum) from 3 to 2
+[2024.09.08-09.26.09:341][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.09.08-09.26.09:355][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.09.08-09.26.09:368][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.09.08-09.26.09:394][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.09.08-09.26.09:446][  0]LogCollectionManager: Loaded 0 collections in 0.004389 seconds
+[2024.09.08-09.26.09:488][  0]LogFileCache: Scanning file cache for directory 'C:/Users/alexi/Downloads/New_Marilao/ManilaOutbreak-Game/MarilaOubreaks/Saved/Collections/' took 0.01s
+[2024.09.08-09.26.09:489][  0]LogFileCache: Scanning file cache for directory 'C:/Users/alexi/Downloads/New_Marilao/ManilaOutbreak-Game/MarilaOubreaks/Content/Developers/alexi/Collections/' took 0.00s
+[2024.09.08-09.26.09:489][  0]LogFileCache: Scanning file cache for directory 'C:/Users/alexi/Downloads/New_Marilao/ManilaOutbreak-Game/MarilaOubreaks/Content/Collections/' took 0.00s
+[2024.09.08-09.26.09:489][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2024.09.08-09.26.09:508][  0]LogContentBrowser: Native class hierarchy populated in 0.0174 seconds. Added 2853 classes and 675 folders.
+[2024.09.08-09.26.09:529][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2024.09.08-09.26.09:539][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.09.08-09.26.09:557][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.09.08-09.26.09:616][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.09.08-09.26.09:638][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.09.08-09.26.09:671][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.09.08-09.26.09:700][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.09.08-09.26.09:727][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.09.08-09.26.09:746][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.09.08-09.26.09:762][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.09.08-09.26.09:777][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.09.08-09.26.09:788][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.09.08-09.26.09:800][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.09.08-09.26.09:812][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.09.08-09.26.09:825][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.09.08-09.26.09:835][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.09.08-09.26.09:846][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.09.08-09.26.09:892][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.09.08-09.26.09:903][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.09.08-09.26.09:915][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.09.08-09.26.09:926][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.09.08-09.26.09:938][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.09.08-09.26.09:949][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.09.08-09.26.09:962][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.09.08-09.26.09:975][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.09.08-09.26.09:987][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.09.08-09.26.09:998][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.09.08-09.26.10:347][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2024.09.08-09.26.10:369][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2024.09.08-09.26.10:570][  0]LogSlate: Took 0.000506 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2024.09.08-09.26.10:573][  0]LogSlate: Took 0.000412 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2024.09.08-09.26.10:593][  0]LogSlate: Took 0.013587 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2024.09.08-09.26.10:892][  0]LogRenderer: Reallocating scene render targets to support 844x436 Format 10 NumSamples 1 (Frame:1).
+[2024.09.08-09.26.11:082][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2024.09.08-09.26.11:082][  0]LogLoad: (Engine Initialization) Total time: 28.31 seconds
+[2024.09.08-09.26.11:082][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2024.09.08-09.26.11:167][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2024.09.08-09.26.11:301][  1]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/alexi/Downloads/New_Marilao/ManilaOutbreak-Game/MarilaOubreaks/Content/' took 0.19s
+[2024.09.08-09.26.11:549][  1]LogSlate: Took 0.031269 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.09.08-09.26.11:741][  3]LogAssetRegistry: Asset discovery search completed in 20.4165 seconds
+[2024.09.08-09.26.11:748][  3]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2024.09.08-09.26.11:748][  3]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000216 seconds (updated 0 objects)
+[2024.09.08-09.26.12:151][ 17]LogSlate: Took 0.000407 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.09.08-09.26.14:259][120]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2024.09.08-09.26.14:558][129]LogBlueprint: Warning: [Compiler Bars] Invalid property 'Characters' class, replaced with Object.  Please fix or remove.
+[2024.09.08-09.26.14:558][129]LogBlueprint: Warning: [Compiler Bars] Invalid property 'Character_Reference' class, replaced with Object.  Please fix or remove.
+[2024.09.08-09.26.14:571][129]LogBlueprint: Warning: [Compiler Bars] Invalid property 'Characters' class, replaced with Object.  Please fix or remove.
+[2024.09.08-09.26.14:571][129]LogBlueprint: Warning: [Compiler Bars] Invalid property 'Character_Reference' class, replaced with Object.  Please fix or remove.
+[2024.09.08-09.26.14:599][129]LogBlueprint: Warning: [Compiler Bars] [0031.83] Compile of Bars successful, but with 4 Warning(s) [in 43 ms] (/Game/BArs/Bars.Bars)
+[2024.09.08-09.26.14:710][129]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/BArs/Bars.Bars
+[2024.09.08-09.26.15:909][129]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0008 seconds. Added 121 classes and 0 folders.
+[2024.09.08-09.26.17:972][129]LogBlueprintActionDatabase: Requesting refresh due to module change: SequencerWidgets (loaded)
+[2024.09.08-09.26.19:022][129]LogSlate: Took 0.009943 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2024.09.08-09.26.25:406][531]LogSlate: Took 0.023569 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2024.09.08-09.28.15:592][916]LogNiagaraEditor: OpNode Boolean::LogicAnd, Package /Niagara/Functions/System/SystemChangeState: reallocated existing pins to add new extension pin
+[2024.09.08-09.28.15:598][916]LogNiagaraEditor: OpNode Boolean::LogicAnd, Package /Niagara/Modules/System/SystemLifeCycle: reallocated existing pins to add new extension pin
+[2024.09.08-09.28.15:599][916]LogNiagaraEditor: OpNode Numeric::Mul, Package /Niagara/Modules/Update/Size/SpriteSizeScale: reallocated existing pins to add new extension pin
+[2024.09.08-09.28.15:599][916]LogNiagaraEditor: OpNode Numeric::Mul, Package /Niagara/Modules/Update/Size/SpriteSizeScale: reallocated existing pins to add new extension pin
+[2024.09.08-09.28.15:601][916]LogNiagaraEditor: OpNode Numeric::Mul, Package /Niagara/Modules/Update/Mass/CalculateSizeByMass: reallocated existing pins to add new extension pin
+[2024.09.08-09.28.15:601][916]LogNiagaraEditor: OpNode Numeric::Mul, Package /Niagara/Modules/Update/Mass/CalculateSizeByMass: reallocated existing pins to add new extension pin
+[2024.09.08-09.28.15:602][916]LogNiagaraEditor: OpNode Numeric::Mul, Package /Niagara/Modules/Update/Mass/CalculateSizeByMass: reallocated existing pins to add new extension pin
+[2024.09.08-09.28.15:603][916]LogNiagaraEditor: OpNode Numeric::Mul, Package /Niagara/Modules/Update/Mass/CalculateSizeByMass: reallocated existing pins to add new extension pin
+[2024.09.08-09.28.15:603][916]LogNiagaraEditor: OpNode Numeric::Mul, Package /Niagara/Modules/Update/Mass/CalculateSizeByMass: reallocated existing pins to add new extension pin
+[2024.09.08-09.28.15:604][916]LogNiagaraEditor: OpNode Numeric::Mul, Package /Niagara/Modules/Update/Mass/CalculateSizeByMass: reallocated existing pins to add new extension pin
+[2024.09.08-09.28.15:605][916]LogNiagaraEditor: OpNode Numeric::Mul, Package /Niagara/Modules/Update/Mass/CalculateSizeByMass: reallocated existing pins to add new extension pin
+[2024.09.08-09.28.15:605][916]LogNiagaraEditor: OpNode Numeric::Add, Package /Niagara/Modules/Update/Mass/CalculateSizeByMass: reallocated existing pins to add new extension pin
+[2024.09.08-09.28.15:606][916]LogNiagaraEditor: OpNode Numeric::Add, Package /Niagara/Modules/Update/Mass/CalculateSizeByMass: reallocated existing pins to add new extension pin
+[2024.09.08-09.28.15:606][916]LogNiagaraEditor: OpNode Numeric::Mul, Package /Niagara/Modules/Update/Mass/CalculateSizeByMass: reallocated existing pins to add new extension pin
+[2024.09.08-09.28.15:607][916]LogNiagaraEditor: OpNode Numeric::Mul, Package /Niagara/Modules/Update/Mass/CalculateSizeByMass: reallocated existing pins to add new extension pin
+[2024.09.08-09.28.15:607][916]LogNiagaraEditor: OpNode Numeric::Mul, Package /Niagara/Modules/Update/Mass/CalculateSizeByMass: reallocated existing pins to add new extension pin
+[2024.09.08-09.28.15:608][916]LogNiagaraEditor: OpNode Numeric::Add, Package /Niagara/Modules/Update/Mass/CalculateSizeByMass: reallocated existing pins to add new extension pin
+[2024.09.08-09.28.15:608][916]LogNiagaraEditor: OpNode Numeric::Add, Package /Niagara/Modules/Update/Mass/CalculateSizeByMass: reallocated existing pins to add new extension pin
+[2024.09.08-09.28.15:610][916]LogNiagaraEditor: OpNode Numeric::Mul, Package /Niagara/Modules/Update/Mass/CalculateSizeByMass: reallocated existing pins to add new extension pin
+[2024.09.08-09.28.15:610][916]LogNiagaraEditor: OpNode Numeric::Mul, Package /Niagara/Modules/Update/Mass/CalculateSizeByMass: reallocated existing pins to add new extension pin
+[2024.09.08-09.28.15:613][916]LogNiagaraEditor: OpNode Boolean::LogicAnd, Package /Niagara/Modules/Update/Lifetime/UpdateAge: reallocated existing pins to add new extension pin
+[2024.09.08-09.28.15:613][916]LogNiagaraEditor: OpNode Numeric::Add, Package /Niagara/Modules/Update/Lifetime/UpdateAge: reallocated existing pins to add new extension pin
+[2024.09.08-09.28.15:613][916]LogNiagaraEditor: OpNode Numeric::Subtract, Package /Niagara/Modules/Update/Lifetime/UpdateAge: reallocated existing pins to add new extension pin
+[2024.09.08-09.28.15:614][916]LogNiagaraEditor: OpNode Boolean::LogicOr, Package /Niagara/Modules/Update/Lifetime/UpdateAge: reallocated existing pins to add new extension pin
+[2024.09.08-09.28.15:615][916]LogNiagaraEditor: OpNode Numeric::Add, Package /Niagara/Modules/Update/Forces/GravityForce: reallocated existing pins to add new extension pin
+[2024.09.08-09.28.15:615][916]LogNiagaraEditor: OpNode Boolean::LogicAnd, Package /Niagara/Functions/Localspace/TransformBase: reallocated existing pins to add new extension pin
+[2024.09.08-09.28.15:616][916]LogNiagaraEditor: OpNode Boolean::LogicAnd, Package /Niagara/Functions/Localspace/TransformBase: reallocated existing pins to add new extension pin
+[2024.09.08-09.28.15:616][916]LogNiagaraEditor: OpNode Boolean::LogicAnd, Package /Niagara/Functions/Localspace/TransformBase: reallocated existing pins to add new extension pin
+[2024.09.08-09.28.15:616][916]LogNiagaraEditor: OpNode Boolean::LogicAnd, Package /Niagara/Functions/Localspace/TransformBase: reallocated existing pins to add new extension pin
+[2024.09.08-09.28.15:616][916]LogNiagaraEditor: OpNode Boolean::LogicOr, Package /Niagara/Functions/Localspace/TransformBase: reallocated existing pins to add new extension pin
+[2024.09.08-09.28.15:617][916]LogNiagaraEditor: OpNode Boolean::LogicOr, Package /Niagara/Functions/Localspace/TransformBase: reallocated existing pins to add new extension pin
+[2024.09.08-09.28.15:617][916]LogNiagaraEditor: OpNode Boolean::LogicAnd, Package /Niagara/Functions/Localspace/TransformBase: reallocated existing pins to add new extension pin
+[2024.09.08-09.28.15:617][916]LogNiagaraEditor: OpNode Boolean::LogicAnd, Package /Niagara/Functions/Localspace/TransformBase: reallocated existing pins to add new extension pin
+[2024.09.08-09.28.15:617][916]LogNiagaraEditor: OpNode Boolean::LogicAnd, Package /Niagara/Functions/Localspace/TransformBase: reallocated existing pins to add new extension pin
+[2024.09.08-09.28.15:617][916]LogNiagaraEditor: OpNode Boolean::LogicAnd, Package /Niagara/Functions/Localspace/TransformBase: reallocated existing pins to add new extension pin
+[2024.09.08-09.28.15:618][916]LogNiagaraEditor: OpNode Boolean::LogicAnd, Package /Niagara/Functions/Localspace/TransformBase: reallocated existing pins to add new extension pin
+[2024.09.08-09.28.15:618][916]LogNiagaraEditor: OpNode Boolean::LogicAnd, Package /Niagara/Functions/Localspace/TransformBase: reallocated existing pins to add new extension pin
+[2024.09.08-09.28.15:618][916]LogNiagaraEditor: OpNode Boolean::LogicOr, Package /Niagara/Functions/Localspace/TransformBase: reallocated existing pins to add new extension pin
+[2024.09.08-09.28.15:618][916]LogNiagaraEditor: OpNode Boolean::LogicAnd, Package /Niagara/Functions/Localspace/TransformBase: reallocated existing pins to add new extension pin
+[2024.09.08-09.28.15:618][916]LogNiagaraEditor: OpNode Boolean::LogicOr, Package /Niagara/Functions/Localspace/TransformBase: reallocated existing pins to add new extension pin
+[2024.09.08-09.28.15:618][916]LogNiagaraEditor: OpNode Boolean::LogicOr, Package /Niagara/Functions/Localspace/TransformBase: reallocated existing pins to add new extension pin
+[2024.09.08-09.28.15:619][916]LogNiagaraEditor: OpNode Boolean::LogicOr, Package /Niagara/Functions/Localspace/TransformBase: reallocated existing pins to add new extension pin
+[2024.09.08-09.28.15:619][916]LogNiagaraEditor: OpNode Boolean::LogicOr, Package /Niagara/Functions/Localspace/TransformBase: reallocated existing pins to add new extension pin
+[2024.09.08-09.28.15:619][916]LogNiagaraEditor: OpNode Boolean::LogicAnd, Package /Niagara/Functions/Localspace/TransformBase: reallocated existing pins to add new extension pin
+[2024.09.08-09.28.15:619][916]LogNiagaraEditor: OpNode Boolean::LogicOr, Package /Niagara/Functions/Localspace/TransformBase: reallocated existing pins to add new extension pin
+[2024.09.08-09.28.15:619][916]LogNiagaraEditor: OpNode Boolean::LogicAnd, Package /Niagara/Functions/Localspace/TransformBase: reallocated existing pins to add new extension pin
+[2024.09.08-09.28.15:621][916]LogNiagaraEditor: OpNode Numeric::Mul, Package /Niagara/Modules/Update/Forces/GravityForce: reallocated existing pins to add new extension pin
+[2024.09.08-09.28.15:622][916]LogNiagaraEditor: OpNode Numeric::Mul, Package /Niagara/Modules/Update/Forces/DragForce: reallocated existing pins to add new extension pin
+[2024.09.08-09.28.15:622][916]LogNiagaraEditor: OpNode Numeric::Mul, Package /Niagara/Modules/Update/Color/Color: reallocated existing pins to add new extension pin
+[2024.09.08-09.28.15:623][916]LogNiagaraEditor: OpNode Numeric::Mul, Package /Niagara/Modules/Update/Color/Color: reallocated existing pins to add new extension pin
+[2024.09.08-09.28.15:624][916]LogNiagaraEditor: OpNode Numeric::Subtract, Package /Niagara/Functions/NormalizeDistanceRange: reallocated existing pins to add new extension pin
+[2024.09.08-09.28.15:626][916]LogNiagaraEditor: OpNode Numeric::Mul, Package /Niagara/Functions/DistanceBasedFalloff: reallocated existing pins to add new extension pin
+[2024.09.08-09.28.15:628][916]LogNiagaraEditor: OpNode Numeric::Add, Package /Niagara/Modules/Spawn/Velocity/AddVelocityFromPoint: reallocated existing pins to add new extension pin
+[2024.09.08-09.28.15:628][916]LogNiagaraEditor: OpNode Numeric::Add, Package /Niagara/Modules/Spawn/Velocity/AddVelocityFromPoint: reallocated existing pins to add new extension pin
+[2024.09.08-09.28.15:630][916]LogNiagaraEditor: OpNode Numeric::Mul, Package /Niagara/Modules/Spawn/Velocity/AddVelocityFromPoint: reallocated existing pins to add new extension pin
+[2024.09.08-09.28.15:632][916]LogNiagaraEditor: OpNode Numeric::Mul, Package /Niagara/Modules/Spawn/Velocity/AddVelocityFromPoint: reallocated existing pins to add new extension pin
+[2024.09.08-09.28.15:638][916]LogNiagaraEditor: OpNode Numeric::Mul, Package /Niagara/Functions/Rotation/MultiplyQuaternion: reallocated existing pins to add new extension pin
+[2024.09.08-09.28.15:638][916]LogNiagaraEditor: OpNode Numeric::Mul, Package /Niagara/Functions/Rotation/MultiplyQuaternion: reallocated existing pins to add new extension pin
+[2024.09.08-09.28.15:638][916]LogNiagaraEditor: OpNode Numeric::Mul, Package /Niagara/Functions/Rotation/MultiplyQuaternion: reallocated existing pins to add new extension pin
+[2024.09.08-09.28.15:639][916]LogNiagaraEditor: OpNode Numeric::Add, Package /Niagara/Functions/Rotation/MultiplyQuaternion: reallocated existing pins to add new extension pin
+[2024.09.08-09.28.15:639][916]LogNiagaraEditor: OpNode Numeric::Mul, Package /Niagara/Functions/Rotation/MultiplyQuaternion: reallocated existing pins to add new extension pin
+[2024.09.08-09.28.15:639][916]LogNiagaraEditor: OpNode Numeric::Mul, Package /Niagara/Functions/Rotation/MultiplyQuaternion: reallocated existing pins to add new extension pin
+[2024.09.08-09.28.15:639][916]LogNiagaraEditor: OpNode Numeric::Add, Package /Niagara/Functions/Rotation/MultiplyQuaternion: reallocated existing pins to add new extension pin
+[2024.09.08-09.28.15:640][916]LogNiagaraEditor: OpNode Numeric::Mul, Package /Niagara/Functions/Rotation/MultiplyQuaternion: reallocated existing pins to add new extension pin
+[2024.09.08-09.28.15:640][916]LogNiagaraEditor: OpNode Numeric::Mul, Package /Niagara/Functions/Rotation/MultiplyQuaternion: reallocated existing pins to add new extension pin
+[2024.09.08-09.28.15:640][916]LogNiagaraEditor: OpNode Numeric::Add, Package /Niagara/Functions/Rotation/MultiplyQuaternion: reallocated existing pins to add new extension pin
+[2024.09.08-09.28.15:641][916]LogNiagaraEditor: OpNode Numeric::Mul, Package /Niagara/Functions/Rotation/AxisAngleToQuaternion: reallocated existing pins to add new extension pin
+[2024.09.08-09.28.15:643][916]LogNiagaraEditor: OpNode Numeric::Mul, Package /Niagara/Modules/Solvers/SolveForcesAndVelocity: reallocated existing pins to add new extension pin
+[2024.09.08-09.28.15:644][916]LogNiagaraEditor: OpNode Numeric::Max, Package /Niagara/Modules/Solvers/SolveForcesAndVelocity: reallocated existing pins to add new extension pin
+[2024.09.08-09.28.15:646][916]LogNiagaraEditor: OpNode Numeric::Subtract, Package /Niagara/Modules/Solvers/SolveForcesAndVelocity: reallocated existing pins to add new extension pin
+[2024.09.08-09.28.15:647][916]LogNiagaraEditor: OpNode Numeric::Mul, Package /Niagara/Modules/Solvers/SolveForcesAndVelocity: reallocated existing pins to add new extension pin
+[2024.09.08-09.28.15:649][916]LogNiagaraEditor: OpNode Numeric::Add, Package /Niagara/Modules/Solvers/SolveForcesAndVelocity: reallocated existing pins to add new extension pin
+[2024.09.08-09.28.15:651][916]LogNiagaraEditor: OpNode Numeric::Mul, Package /Niagara/Modules/Solvers/SolveForcesAndVelocity: reallocated existing pins to add new extension pin
+[2024.09.08-09.28.15:652][916]LogNiagaraEditor: OpNode Numeric::Max, Package /Niagara/Modules/Solvers/SolveForcesAndVelocity: reallocated existing pins to add new extension pin
+[2024.09.08-09.28.15:653][916]LogNiagaraEditor: OpNode Numeric::Mul, Package /Niagara/Modules/Solvers/SolveForcesAndVelocity: reallocated existing pins to add new extension pin
+[2024.09.08-09.28.15:655][916]LogNiagaraEditor: OpNode Numeric::Add, Package /Niagara/Modules/Solvers/SolveForcesAndVelocity: reallocated existing pins to add new extension pin
+[2024.09.08-09.28.15:658][916]LogNiagaraEditor: OpNode Boolean::LogicAnd, Package /Niagara/Functions/Emitter/EmitterChangeState: reallocated existing pins to add new extension pin
+[2024.09.08-09.28.15:658][916]LogNiagaraEditor: OpNode Boolean::LogicAnd, Package /Niagara/Functions/Emitter/EmitterChangeState: reallocated existing pins to add new extension pin
+[2024.09.08-09.28.15:659][916]LogNiagaraEditor: OpNode Boolean::LogicAnd, Package /Niagara/Functions/Emitter/EmitterChangeState: reallocated existing pins to add new extension pin
+[2024.09.08-09.28.15:660][916]LogNiagaraEditor: OpNode Numeric::Add, Package /Niagara/Modules/Emitter/EmitterLifeCycle: reallocated existing pins to add new extension pin
+[2024.09.08-09.28.15:661][916]LogNiagaraEditor: OpNode Boolean::LogicAnd, Package /Niagara/Modules/Emitter/EmitterLifeCycle: reallocated existing pins to add new extension pin
+[2024.09.08-09.28.15:662][916]LogNiagaraEditor: OpNode Boolean::LogicAnd, Package /Niagara/Modules/Emitter/EmitterLifeCycle: reallocated existing pins to add new extension pin
+[2024.09.08-09.28.15:663][916]LogNiagaraEditor: OpNode Boolean::LogicAnd, Package /Niagara/Modules/Emitter/EmitterLifeCycle: reallocated existing pins to add new extension pin
+[2024.09.08-09.28.15:663][916]LogNiagaraEditor: OpNode Boolean::LogicAnd, Package /Niagara/Modules/Emitter/EmitterLifeCycle: reallocated existing pins to add new extension pin
+[2024.09.08-09.28.15:664][916]LogNiagaraEditor: OpNode Boolean::LogicOr, Package /Niagara/Modules/Emitter/EmitterLifeCycle: reallocated existing pins to add new extension pin
+[2024.09.08-09.28.15:664][916]LogNiagaraEditor: OpNode Boolean::LogicAnd, Package /Niagara/Modules/Emitter/EmitterLifeCycle: reallocated existing pins to add new extension pin
+[2024.09.08-09.28.15:665][916]LogNiagaraEditor: OpNode Numeric::Subtract, Package /Niagara/Modules/Emitter/EmitterLifeCycle: reallocated existing pins to add new extension pin
+[2024.09.08-09.28.15:666][916]LogNiagaraEditor: OpNode Numeric::Mul, Package /Niagara/DynamicInputs/ValueFromCurve/FloatFromCurve: reallocated existing pins to add new extension pin
+[2024.09.08-09.28.15:667][916]LogNiagaraEditor: OpNode Numeric::Mul, Package /Niagara/DynamicInputs/Angles/NormalizedAngleToDegrees: reallocated existing pins to add new extension pin
+[2024.09.08-09.28.15:674][916]LogNiagara: AreScriptAndSourceSynchronized reference id 6 doesn't match. F6D38B9C406F3FB547F3F1BDF5E025DF != 75A7620A46211382DDA06A8FD41CEDB4, source /Niagara/DynamicInputs/Angles/NormalizedAngleToDegrees.NormalizedAngleToDegrees:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:674][916]LogNiagara: AreScriptAndSourceSynchronized reference id 10 doesn't match. C286B51840B573CFE946B6A7587B8021 != 4D163AE743E03053F7D66A86BB47F49B, source /Niagara/Modules/Update/Mass/CalculateSizeByMass.CalculateSizeByMass:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:674][916]LogNiagara: AreScriptAndSourceSynchronized reference id 16 doesn't match. 7AE55DDA4C47E63D849F90898A15EE8D != 9653F20745A2F10DDB5CFE8B8F14968A, source /Niagara/Functions/Localspace/TransformBase.TransformBase:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:674][916]LogNiagara: AreScriptAndSourceSynchronized reference id 20 doesn't match. F33614AD4DAAE53A491521AACDBE8462 != 22AE3E514D401DEA3AE934A9DFC233E4, source /Niagara/Modules/Spawn/Velocity/AddVelocityFromPoint.AddVelocityFromPoint:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:674][916]LogNiagara: AreScriptAndSourceSynchronized reference id 23 doesn't match. 7AE55DDA4C47E63D849F90898A15EE8D != 9653F20745A2F10DDB5CFE8B8F14968A, source /Niagara/Functions/Localspace/TransformBase.TransformBase:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:674][916]LogNiagara: AreScriptAndSourceSynchronized reference id 28 doesn't match. 10C54846425C23176FAD7ABFF1DB2C0C != 83350F994043F884FE3BBDA68C8F6D32, source /Niagara/Functions/DistanceBasedFalloff.DistanceBasedFalloff:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:674][916]LogNiagara: AreScriptAndSourceSynchronized reference id 29 doesn't match. 08DBF5E043DA38740E7A21BE694F8534 != D224BF764DD2752962A2F098E17CED88, source /Niagara/Functions/NormalizeDistanceRange.NormalizeDistanceRange:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:674][916]LogNiagara: AreScriptAndSourceSynchronized reference id 32 doesn't match. 99C74D734DB0142E4ADACEA14EA8BA4B != B613AF2C4DB583D383C888AA5C1CD6B7, source /Niagara/Modules/Update/Lifetime/UpdateAge.UpdateAge:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:674][916]LogNiagara: AreScriptAndSourceSynchronized reference id 33 doesn't match. E59D28D64E86027BDD2223B2B1C40198 != 8F069D3F4AF3E33D5F868B92544EC9F3, source /Niagara/Modules/Update/Forces/GravityForce.GravityForce:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:674][916]LogNiagara: AreScriptAndSourceSynchronized reference id 35 doesn't match. 7AE55DDA4C47E63D849F90898A15EE8D != 9653F20745A2F10DDB5CFE8B8F14968A, source /Niagara/Functions/Localspace/TransformBase.TransformBase:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:674][916]LogNiagara: AreScriptAndSourceSynchronized reference id 37 doesn't match. 13125C8749A4DA31055156AA1D63343B != 901FC14A4841ACDADFAF6FA2265F5DEC, source /Niagara/Modules/Update/Forces/DragForce.DragForce:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:674][916]LogNiagara: AreScriptAndSourceSynchronized reference id 38 doesn't match. E03FE9EC4D3D9C751F4B1C8E72C9957D != 1BFD6060494B053C708CFBBA3144C7DE, source /Niagara/DynamicInputs/ValueFromCurve/FloatFromCurve.FloatFromCurve:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:674][916]LogNiagara: AreScriptAndSourceSynchronized reference id 40 doesn't match. 868A2C5A40A6C903A9F36BA5178AC939 != D267E49B44272D591CC13AA3389D75FF, source /Niagara/Modules/Update/Size/SpriteSizeScale.SpriteSizeScale:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:674][916]LogNiagara: AreScriptAndSourceSynchronized reference id 42 doesn't match. E2F951CF403E8420AA23DFA0F5B6D14D != EEC099314A79F880EBCA8DB6DF597229, source /Niagara/Modules/Update/Color/Color.Color:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:674][916]LogNiagara: AreScriptAndSourceSynchronized reference id 43 doesn't match. 23A36BAC4BA8019A1E05108C54FDBC90 != 72DD5E464C60F2CF4583B4B5C5ED0DF7, source /Niagara/Modules/Solvers/SolveForcesAndVelocity.SolveForcesAndVelocity:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:674][916]LogNiagara: AreScriptAndSourceSynchronized reference id 48 doesn't match. 12CF454843A6857A67EE1194C2C71CF2 != 6FBAF0824F178936FA2B1D85DA75F28E, source /Niagara/Functions/Rotation/AxisAngleToQuaternion.AxisAngleToQuaternion:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:675][916]LogNiagara: AreScriptAndSourceSynchronized reference id 7 doesn't match. F6D38B9C406F3FB547F3F1BDF5E025DF != 75A7620A46211382DDA06A8FD41CEDB4, source /Niagara/DynamicInputs/Angles/NormalizedAngleToDegrees.NormalizedAngleToDegrees:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:675][916]LogNiagara: AreScriptAndSourceSynchronized reference id 11 doesn't match. C286B51840B573CFE946B6A7587B8021 != 4D163AE743E03053F7D66A86BB47F49B, source /Niagara/Modules/Update/Mass/CalculateSizeByMass.CalculateSizeByMass:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:675][916]LogNiagara: AreScriptAndSourceSynchronized reference id 17 doesn't match. 7AE55DDA4C47E63D849F90898A15EE8D != 9653F20745A2F10DDB5CFE8B8F14968A, source /Niagara/Functions/Localspace/TransformBase.TransformBase:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:675][916]LogNiagara: AreScriptAndSourceSynchronized reference id 21 doesn't match. F33614AD4DAAE53A491521AACDBE8462 != 22AE3E514D401DEA3AE934A9DFC233E4, source /Niagara/Modules/Spawn/Velocity/AddVelocityFromPoint.AddVelocityFromPoint:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:675][916]LogNiagara: AreScriptAndSourceSynchronized reference id 24 doesn't match. 7AE55DDA4C47E63D849F90898A15EE8D != 9653F20745A2F10DDB5CFE8B8F14968A, source /Niagara/Functions/Localspace/TransformBase.TransformBase:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:675][916]LogNiagara: AreScriptAndSourceSynchronized reference id 29 doesn't match. 10C54846425C23176FAD7ABFF1DB2C0C != 83350F994043F884FE3BBDA68C8F6D32, source /Niagara/Functions/DistanceBasedFalloff.DistanceBasedFalloff:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:675][916]LogNiagara: AreScriptAndSourceSynchronized reference id 30 doesn't match. 08DBF5E043DA38740E7A21BE694F8534 != D224BF764DD2752962A2F098E17CED88, source /Niagara/Functions/NormalizeDistanceRange.NormalizeDistanceRange:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:675][916]LogNiagara: AreScriptAndSourceSynchronized reference id 32 doesn't match. 99C74D734DB0142E4ADACEA14EA8BA4B != B613AF2C4DB583D383C888AA5C1CD6B7, source /Niagara/Modules/Update/Lifetime/UpdateAge.UpdateAge:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:675][916]LogNiagara: AreScriptAndSourceSynchronized reference id 33 doesn't match. E59D28D64E86027BDD2223B2B1C40198 != 8F069D3F4AF3E33D5F868B92544EC9F3, source /Niagara/Modules/Update/Forces/GravityForce.GravityForce:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:675][916]LogNiagara: AreScriptAndSourceSynchronized reference id 35 doesn't match. 7AE55DDA4C47E63D849F90898A15EE8D != 9653F20745A2F10DDB5CFE8B8F14968A, source /Niagara/Functions/Localspace/TransformBase.TransformBase:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:675][916]LogNiagara: AreScriptAndSourceSynchronized reference id 37 doesn't match. 13125C8749A4DA31055156AA1D63343B != 901FC14A4841ACDADFAF6FA2265F5DEC, source /Niagara/Modules/Update/Forces/DragForce.DragForce:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:675][916]LogNiagara: AreScriptAndSourceSynchronized reference id 38 doesn't match. E03FE9EC4D3D9C751F4B1C8E72C9957D != 1BFD6060494B053C708CFBBA3144C7DE, source /Niagara/DynamicInputs/ValueFromCurve/FloatFromCurve.FloatFromCurve:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:675][916]LogNiagara: AreScriptAndSourceSynchronized reference id 40 doesn't match. 868A2C5A40A6C903A9F36BA5178AC939 != D267E49B44272D591CC13AA3389D75FF, source /Niagara/Modules/Update/Size/SpriteSizeScale.SpriteSizeScale:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:675][916]LogNiagara: AreScriptAndSourceSynchronized reference id 42 doesn't match. E2F951CF403E8420AA23DFA0F5B6D14D != EEC099314A79F880EBCA8DB6DF597229, source /Niagara/Modules/Update/Color/Color.Color:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:675][916]LogNiagara: AreScriptAndSourceSynchronized reference id 43 doesn't match. 23A36BAC4BA8019A1E05108C54FDBC90 != 72DD5E464C60F2CF4583B4B5C5ED0DF7, source /Niagara/Modules/Solvers/SolveForcesAndVelocity.SolveForcesAndVelocity:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:675][916]LogNiagara: AreScriptAndSourceSynchronized reference id 48 doesn't match. 12CF454843A6857A67EE1194C2C71CF2 != 6FBAF0824F178936FA2B1D85DA75F28E, source /Niagara/Functions/Rotation/AxisAngleToQuaternion.AxisAngleToQuaternion:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:730][916]LogNiagara: AreScriptAndSourceSynchronized reference id 6 doesn't match. F6D38B9C406F3FB547F3F1BDF5E025DF != 4BA069D044CA566C828FADB1175BD75C, source /Niagara/DynamicInputs/Angles/NormalizedAngleToDegrees.NormalizedAngleToDegrees:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:730][916]LogNiagara: AreScriptAndSourceSynchronized reference id 10 doesn't match. C286B51840B573CFE946B6A7587B8021 != 53B0DC5442C7B1934BA01C8B533A06A8, source /Niagara/Modules/Update/Mass/CalculateSizeByMass.CalculateSizeByMass:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:730][916]LogNiagara: AreScriptAndSourceSynchronized reference id 16 doesn't match. 7AE55DDA4C47E63D849F90898A15EE8D != 46E180E34E73D055B7D721B181532C2B, source /Niagara/Functions/Localspace/TransformBase.TransformBase:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:730][916]LogNiagara: AreScriptAndSourceSynchronized reference id 20 doesn't match. F33614AD4DAAE53A491521AACDBE8462 != 0464A5794CF38DF8A07344891250ED75, source /Niagara/Modules/Spawn/Velocity/AddVelocityFromPoint.AddVelocityFromPoint:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:730][916]LogNiagara: AreScriptAndSourceSynchronized reference id 23 doesn't match. 7AE55DDA4C47E63D849F90898A15EE8D != 46E180E34E73D055B7D721B181532C2B, source /Niagara/Functions/Localspace/TransformBase.TransformBase:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:730][916]LogNiagara: AreScriptAndSourceSynchronized reference id 28 doesn't match. 10C54846425C23176FAD7ABFF1DB2C0C != B9A582A74EC73BD89D823CB63D84A9F1, source /Niagara/Functions/DistanceBasedFalloff.DistanceBasedFalloff:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:730][916]LogNiagara: AreScriptAndSourceSynchronized reference id 29 doesn't match. 08DBF5E043DA38740E7A21BE694F8534 != 7F9215AF40941FA10C29AAB231331037, source /Niagara/Functions/NormalizeDistanceRange.NormalizeDistanceRange:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:730][916]LogNiagara: AreScriptAndSourceSynchronized reference id 32 doesn't match. 99C74D734DB0142E4ADACEA14EA8BA4B != 2AB94F3C4BD8A56AD2591A9B170F745C, source /Niagara/Modules/Update/Lifetime/UpdateAge.UpdateAge:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:730][916]LogNiagara: AreScriptAndSourceSynchronized reference id 33 doesn't match. E59D28D64E86027BDD2223B2B1C40198 != 066334E14E4ED4A712392386F3BD9398, source /Niagara/Modules/Update/Forces/GravityForce.GravityForce:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:730][916]LogNiagara: AreScriptAndSourceSynchronized reference id 35 doesn't match. 7AE55DDA4C47E63D849F90898A15EE8D != 46E180E34E73D055B7D721B181532C2B, source /Niagara/Functions/Localspace/TransformBase.TransformBase:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:730][916]LogNiagara: AreScriptAndSourceSynchronized reference id 37 doesn't match. 13125C8749A4DA31055156AA1D63343B != A1BE6B9F4482787B589BD89E24DDC0FE, source /Niagara/Modules/Update/Forces/DragForce.DragForce:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:730][916]LogNiagara: AreScriptAndSourceSynchronized reference id 38 doesn't match. E03FE9EC4D3D9C751F4B1C8E72C9957D != D28DC91E42DB2F97F8EB148188E3ABA7, source /Niagara/DynamicInputs/ValueFromCurve/FloatFromCurve.FloatFromCurve:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:730][916]LogNiagara: AreScriptAndSourceSynchronized reference id 40 doesn't match. 868A2C5A40A6C903A9F36BA5178AC939 != E4E14D784616B5075275DD9695ACE73F, source /Niagara/Modules/Update/Size/SpriteSizeScale.SpriteSizeScale:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:730][916]LogNiagara: AreScriptAndSourceSynchronized reference id 42 doesn't match. E2F951CF403E8420AA23DFA0F5B6D14D != CF64D56C422EFF839F35EE986D299B2B, source /Niagara/Modules/Update/Color/Color.Color:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:730][916]LogNiagara: AreScriptAndSourceSynchronized reference id 43 doesn't match. 23A36BAC4BA8019A1E05108C54FDBC90 != 2E5B0078478A792944DD6E9AA89BA2EE, source /Niagara/Modules/Solvers/SolveForcesAndVelocity.SolveForcesAndVelocity:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:730][916]LogNiagara: AreScriptAndSourceSynchronized reference id 48 doesn't match. 12CF454843A6857A67EE1194C2C71CF2 != 5946D47742776A800AB2B1A7EC2554A1, source /Niagara/Functions/Rotation/AxisAngleToQuaternion.AxisAngleToQuaternion:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:730][916]LogNiagara: AreScriptAndSourceSynchronized reference id 7 doesn't match. F6D38B9C406F3FB547F3F1BDF5E025DF != 4BA069D044CA566C828FADB1175BD75C, source /Niagara/DynamicInputs/Angles/NormalizedAngleToDegrees.NormalizedAngleToDegrees:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:731][916]LogNiagara: AreScriptAndSourceSynchronized reference id 11 doesn't match. C286B51840B573CFE946B6A7587B8021 != 53B0DC5442C7B1934BA01C8B533A06A8, source /Niagara/Modules/Update/Mass/CalculateSizeByMass.CalculateSizeByMass:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:731][916]LogNiagara: AreScriptAndSourceSynchronized reference id 17 doesn't match. 7AE55DDA4C47E63D849F90898A15EE8D != 46E180E34E73D055B7D721B181532C2B, source /Niagara/Functions/Localspace/TransformBase.TransformBase:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:731][916]LogNiagara: AreScriptAndSourceSynchronized reference id 21 doesn't match. F33614AD4DAAE53A491521AACDBE8462 != 0464A5794CF38DF8A07344891250ED75, source /Niagara/Modules/Spawn/Velocity/AddVelocityFromPoint.AddVelocityFromPoint:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:731][916]LogNiagara: AreScriptAndSourceSynchronized reference id 24 doesn't match. 7AE55DDA4C47E63D849F90898A15EE8D != 46E180E34E73D055B7D721B181532C2B, source /Niagara/Functions/Localspace/TransformBase.TransformBase:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:731][916]LogNiagara: AreScriptAndSourceSynchronized reference id 29 doesn't match. 10C54846425C23176FAD7ABFF1DB2C0C != B9A582A74EC73BD89D823CB63D84A9F1, source /Niagara/Functions/DistanceBasedFalloff.DistanceBasedFalloff:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:731][916]LogNiagara: AreScriptAndSourceSynchronized reference id 30 doesn't match. 08DBF5E043DA38740E7A21BE694F8534 != 7F9215AF40941FA10C29AAB231331037, source /Niagara/Functions/NormalizeDistanceRange.NormalizeDistanceRange:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:731][916]LogNiagara: AreScriptAndSourceSynchronized reference id 32 doesn't match. 99C74D734DB0142E4ADACEA14EA8BA4B != 2AB94F3C4BD8A56AD2591A9B170F745C, source /Niagara/Modules/Update/Lifetime/UpdateAge.UpdateAge:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:731][916]LogNiagara: AreScriptAndSourceSynchronized reference id 33 doesn't match. E59D28D64E86027BDD2223B2B1C40198 != 066334E14E4ED4A712392386F3BD9398, source /Niagara/Modules/Update/Forces/GravityForce.GravityForce:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:731][916]LogNiagara: AreScriptAndSourceSynchronized reference id 35 doesn't match. 7AE55DDA4C47E63D849F90898A15EE8D != 46E180E34E73D055B7D721B181532C2B, source /Niagara/Functions/Localspace/TransformBase.TransformBase:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:731][916]LogNiagara: AreScriptAndSourceSynchronized reference id 37 doesn't match. 13125C8749A4DA31055156AA1D63343B != A1BE6B9F4482787B589BD89E24DDC0FE, source /Niagara/Modules/Update/Forces/DragForce.DragForce:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:731][916]LogNiagara: AreScriptAndSourceSynchronized reference id 38 doesn't match. E03FE9EC4D3D9C751F4B1C8E72C9957D != D28DC91E42DB2F97F8EB148188E3ABA7, source /Niagara/DynamicInputs/ValueFromCurve/FloatFromCurve.FloatFromCurve:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:731][916]LogNiagara: AreScriptAndSourceSynchronized reference id 40 doesn't match. 868A2C5A40A6C903A9F36BA5178AC939 != E4E14D784616B5075275DD9695ACE73F, source /Niagara/Modules/Update/Size/SpriteSizeScale.SpriteSizeScale:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:731][916]LogNiagara: AreScriptAndSourceSynchronized reference id 42 doesn't match. E2F951CF403E8420AA23DFA0F5B6D14D != CF64D56C422EFF839F35EE986D299B2B, source /Niagara/Modules/Update/Color/Color.Color:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:731][916]LogNiagara: AreScriptAndSourceSynchronized reference id 43 doesn't match. 23A36BAC4BA8019A1E05108C54FDBC90 != 2E5B0078478A792944DD6E9AA89BA2EE, source /Niagara/Modules/Solvers/SolveForcesAndVelocity.SolveForcesAndVelocity:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:731][916]LogNiagara: AreScriptAndSourceSynchronized reference id 48 doesn't match. 12CF454843A6857A67EE1194C2C71CF2 != 5946D47742776A800AB2B1A7EC2554A1, source /Niagara/Functions/Rotation/AxisAngleToQuaternion.AxisAngleToQuaternion:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:734][916]LogNiagara: AreScriptAndSourceSynchronized reference id 4 doesn't match. F6D38B9C406F3FB547F3F1BDF5E025DF != 75A7620A46211382DDA06A8FD41CEDB4, source /Niagara/DynamicInputs/Angles/NormalizedAngleToDegrees.NormalizedAngleToDegrees:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:734][916]LogNiagara: AreScriptAndSourceSynchronized reference id 10 doesn't match. C286B51840B573CFE946B6A7587B8021 != 4D163AE743E03053F7D66A86BB47F49B, source /Niagara/Modules/Update/Mass/CalculateSizeByMass.CalculateSizeByMass:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:734][916]LogNiagara: AreScriptAndSourceSynchronized reference id 16 doesn't match. 7AE55DDA4C47E63D849F90898A15EE8D != 9653F20745A2F10DDB5CFE8B8F14968A, source /Niagara/Functions/Localspace/TransformBase.TransformBase:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:734][916]LogNiagara: AreScriptAndSourceSynchronized reference id 20 doesn't match. F33614AD4DAAE53A491521AACDBE8462 != 22AE3E514D401DEA3AE934A9DFC233E4, source /Niagara/Modules/Spawn/Velocity/AddVelocityFromPoint.AddVelocityFromPoint:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:734][916]LogNiagara: AreScriptAndSourceSynchronized reference id 23 doesn't match. 7AE55DDA4C47E63D849F90898A15EE8D != 9653F20745A2F10DDB5CFE8B8F14968A, source /Niagara/Functions/Localspace/TransformBase.TransformBase:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:734][916]LogNiagara: AreScriptAndSourceSynchronized reference id 28 doesn't match. 10C54846425C23176FAD7ABFF1DB2C0C != 83350F994043F884FE3BBDA68C8F6D32, source /Niagara/Functions/DistanceBasedFalloff.DistanceBasedFalloff:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:734][916]LogNiagara: AreScriptAndSourceSynchronized reference id 29 doesn't match. 08DBF5E043DA38740E7A21BE694F8534 != D224BF764DD2752962A2F098E17CED88, source /Niagara/Functions/NormalizeDistanceRange.NormalizeDistanceRange:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:734][916]LogNiagara: AreScriptAndSourceSynchronized reference id 32 doesn't match. 99C74D734DB0142E4ADACEA14EA8BA4B != B613AF2C4DB583D383C888AA5C1CD6B7, source /Niagara/Modules/Update/Lifetime/UpdateAge.UpdateAge:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:734][916]LogNiagara: AreScriptAndSourceSynchronized reference id 33 doesn't match. E59D28D64E86027BDD2223B2B1C40198 != 8F069D3F4AF3E33D5F868B92544EC9F3, source /Niagara/Modules/Update/Forces/GravityForce.GravityForce:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:734][916]LogNiagara: AreScriptAndSourceSynchronized reference id 35 doesn't match. 7AE55DDA4C47E63D849F90898A15EE8D != 9653F20745A2F10DDB5CFE8B8F14968A, source /Niagara/Functions/Localspace/TransformBase.TransformBase:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:734][916]LogNiagara: AreScriptAndSourceSynchronized reference id 37 doesn't match. 13125C8749A4DA31055156AA1D63343B != 901FC14A4841ACDADFAF6FA2265F5DEC, source /Niagara/Modules/Update/Forces/DragForce.DragForce:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:734][916]LogNiagara: AreScriptAndSourceSynchronized reference id 38 doesn't match. E03FE9EC4D3D9C751F4B1C8E72C9957D != 1BFD6060494B053C708CFBBA3144C7DE, source /Niagara/DynamicInputs/ValueFromCurve/FloatFromCurve.FloatFromCurve:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:734][916]LogNiagara: AreScriptAndSourceSynchronized reference id 40 doesn't match. 868A2C5A40A6C903A9F36BA5178AC939 != D267E49B44272D591CC13AA3389D75FF, source /Niagara/Modules/Update/Size/SpriteSizeScale.SpriteSizeScale:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:734][916]LogNiagara: AreScriptAndSourceSynchronized reference id 42 doesn't match. E2F951CF403E8420AA23DFA0F5B6D14D != EEC099314A79F880EBCA8DB6DF597229, source /Niagara/Modules/Update/Color/Color.Color:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:735][916]LogNiagara: AreScriptAndSourceSynchronized reference id 43 doesn't match. 23A36BAC4BA8019A1E05108C54FDBC90 != 72DD5E464C60F2CF4583B4B5C5ED0DF7, source /Niagara/Modules/Solvers/SolveForcesAndVelocity.SolveForcesAndVelocity:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:735][916]LogNiagara: AreScriptAndSourceSynchronized reference id 48 doesn't match. 12CF454843A6857A67EE1194C2C71CF2 != 6FBAF0824F178936FA2B1D85DA75F28E, source /Niagara/Functions/Rotation/AxisAngleToQuaternion.AxisAngleToQuaternion:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:735][916]LogNiagara: AreScriptAndSourceSynchronized reference id 5 doesn't match. F6D38B9C406F3FB547F3F1BDF5E025DF != 75A7620A46211382DDA06A8FD41CEDB4, source /Niagara/DynamicInputs/Angles/NormalizedAngleToDegrees.NormalizedAngleToDegrees:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:735][916]LogNiagara: AreScriptAndSourceSynchronized reference id 11 doesn't match. C286B51840B573CFE946B6A7587B8021 != 4D163AE743E03053F7D66A86BB47F49B, source /Niagara/Modules/Update/Mass/CalculateSizeByMass.CalculateSizeByMass:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:735][916]LogNiagara: AreScriptAndSourceSynchronized reference id 17 doesn't match. 7AE55DDA4C47E63D849F90898A15EE8D != 9653F20745A2F10DDB5CFE8B8F14968A, source /Niagara/Functions/Localspace/TransformBase.TransformBase:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:735][916]LogNiagara: AreScriptAndSourceSynchronized reference id 21 doesn't match. F33614AD4DAAE53A491521AACDBE8462 != 22AE3E514D401DEA3AE934A9DFC233E4, source /Niagara/Modules/Spawn/Velocity/AddVelocityFromPoint.AddVelocityFromPoint:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:735][916]LogNiagara: AreScriptAndSourceSynchronized reference id 24 doesn't match. 7AE55DDA4C47E63D849F90898A15EE8D != 9653F20745A2F10DDB5CFE8B8F14968A, source /Niagara/Functions/Localspace/TransformBase.TransformBase:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:735][916]LogNiagara: AreScriptAndSourceSynchronized reference id 29 doesn't match. 10C54846425C23176FAD7ABFF1DB2C0C != 83350F994043F884FE3BBDA68C8F6D32, source /Niagara/Functions/DistanceBasedFalloff.DistanceBasedFalloff:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:735][916]LogNiagara: AreScriptAndSourceSynchronized reference id 30 doesn't match. 08DBF5E043DA38740E7A21BE694F8534 != D224BF764DD2752962A2F098E17CED88, source /Niagara/Functions/NormalizeDistanceRange.NormalizeDistanceRange:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:735][916]LogNiagara: AreScriptAndSourceSynchronized reference id 32 doesn't match. 99C74D734DB0142E4ADACEA14EA8BA4B != B613AF2C4DB583D383C888AA5C1CD6B7, source /Niagara/Modules/Update/Lifetime/UpdateAge.UpdateAge:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:735][916]LogNiagara: AreScriptAndSourceSynchronized reference id 33 doesn't match. E59D28D64E86027BDD2223B2B1C40198 != 8F069D3F4AF3E33D5F868B92544EC9F3, source /Niagara/Modules/Update/Forces/GravityForce.GravityForce:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:735][916]LogNiagara: AreScriptAndSourceSynchronized reference id 35 doesn't match. 7AE55DDA4C47E63D849F90898A15EE8D != 9653F20745A2F10DDB5CFE8B8F14968A, source /Niagara/Functions/Localspace/TransformBase.TransformBase:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:735][916]LogNiagara: AreScriptAndSourceSynchronized reference id 37 doesn't match. 13125C8749A4DA31055156AA1D63343B != 901FC14A4841ACDADFAF6FA2265F5DEC, source /Niagara/Modules/Update/Forces/DragForce.DragForce:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:735][916]LogNiagara: AreScriptAndSourceSynchronized reference id 38 doesn't match. E03FE9EC4D3D9C751F4B1C8E72C9957D != 1BFD6060494B053C708CFBBA3144C7DE, source /Niagara/DynamicInputs/ValueFromCurve/FloatFromCurve.FloatFromCurve:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:735][916]LogNiagara: AreScriptAndSourceSynchronized reference id 40 doesn't match. 868A2C5A40A6C903A9F36BA5178AC939 != D267E49B44272D591CC13AA3389D75FF, source /Niagara/Modules/Update/Size/SpriteSizeScale.SpriteSizeScale:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:735][916]LogNiagara: AreScriptAndSourceSynchronized reference id 42 doesn't match. E2F951CF403E8420AA23DFA0F5B6D14D != EEC099314A79F880EBCA8DB6DF597229, source /Niagara/Modules/Update/Color/Color.Color:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:735][916]LogNiagara: AreScriptAndSourceSynchronized reference id 43 doesn't match. 23A36BAC4BA8019A1E05108C54FDBC90 != 72DD5E464C60F2CF4583B4B5C5ED0DF7, source /Niagara/Modules/Solvers/SolveForcesAndVelocity.SolveForcesAndVelocity:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:735][916]LogNiagara: AreScriptAndSourceSynchronized reference id 48 doesn't match. 12CF454843A6857A67EE1194C2C71CF2 != 6FBAF0824F178936FA2B1D85DA75F28E, source /Niagara/Functions/Rotation/AxisAngleToQuaternion.AxisAngleToQuaternion:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:738][916]LogNiagara: AreScriptAndSourceSynchronized reference id 6 doesn't match. F6D38B9C406F3FB547F3F1BDF5E025DF != 75A7620A46211382DDA06A8FD41CEDB4, source /Niagara/DynamicInputs/Angles/NormalizedAngleToDegrees.NormalizedAngleToDegrees:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:738][916]LogNiagara: AreScriptAndSourceSynchronized reference id 10 doesn't match. C286B51840B573CFE946B6A7587B8021 != 4D163AE743E03053F7D66A86BB47F49B, source /Niagara/Modules/Update/Mass/CalculateSizeByMass.CalculateSizeByMass:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:738][916]LogNiagara: AreScriptAndSourceSynchronized reference id 16 doesn't match. 7AE55DDA4C47E63D849F90898A15EE8D != 9653F20745A2F10DDB5CFE8B8F14968A, source /Niagara/Functions/Localspace/TransformBase.TransformBase:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:738][916]LogNiagara: AreScriptAndSourceSynchronized reference id 20 doesn't match. F33614AD4DAAE53A491521AACDBE8462 != 22AE3E514D401DEA3AE934A9DFC233E4, source /Niagara/Modules/Spawn/Velocity/AddVelocityFromPoint.AddVelocityFromPoint:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:738][916]LogNiagara: AreScriptAndSourceSynchronized reference id 23 doesn't match. 7AE55DDA4C47E63D849F90898A15EE8D != 9653F20745A2F10DDB5CFE8B8F14968A, source /Niagara/Functions/Localspace/TransformBase.TransformBase:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:738][916]LogNiagara: AreScriptAndSourceSynchronized reference id 28 doesn't match. 10C54846425C23176FAD7ABFF1DB2C0C != 83350F994043F884FE3BBDA68C8F6D32, source /Niagara/Functions/DistanceBasedFalloff.DistanceBasedFalloff:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:738][916]LogNiagara: AreScriptAndSourceSynchronized reference id 29 doesn't match. 08DBF5E043DA38740E7A21BE694F8534 != D224BF764DD2752962A2F098E17CED88, source /Niagara/Functions/NormalizeDistanceRange.NormalizeDistanceRange:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:738][916]LogNiagara: AreScriptAndSourceSynchronized reference id 32 doesn't match. 99C74D734DB0142E4ADACEA14EA8BA4B != B613AF2C4DB583D383C888AA5C1CD6B7, source /Niagara/Modules/Update/Lifetime/UpdateAge.UpdateAge:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:738][916]LogNiagara: AreScriptAndSourceSynchronized reference id 33 doesn't match. E59D28D64E86027BDD2223B2B1C40198 != 8F069D3F4AF3E33D5F868B92544EC9F3, source /Niagara/Modules/Update/Forces/GravityForce.GravityForce:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:738][916]LogNiagara: AreScriptAndSourceSynchronized reference id 35 doesn't match. 7AE55DDA4C47E63D849F90898A15EE8D != 9653F20745A2F10DDB5CFE8B8F14968A, source /Niagara/Functions/Localspace/TransformBase.TransformBase:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:738][916]LogNiagara: AreScriptAndSourceSynchronized reference id 37 doesn't match. 13125C8749A4DA31055156AA1D63343B != 901FC14A4841ACDADFAF6FA2265F5DEC, source /Niagara/Modules/Update/Forces/DragForce.DragForce:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:738][916]LogNiagara: AreScriptAndSourceSynchronized reference id 38 doesn't match. E03FE9EC4D3D9C751F4B1C8E72C9957D != 1BFD6060494B053C708CFBBA3144C7DE, source /Niagara/DynamicInputs/ValueFromCurve/FloatFromCurve.FloatFromCurve:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:738][916]LogNiagara: AreScriptAndSourceSynchronized reference id 40 doesn't match. 868A2C5A40A6C903A9F36BA5178AC939 != D267E49B44272D591CC13AA3389D75FF, source /Niagara/Modules/Update/Size/SpriteSizeScale.SpriteSizeScale:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:738][916]LogNiagara: AreScriptAndSourceSynchronized reference id 42 doesn't match. E2F951CF403E8420AA23DFA0F5B6D14D != EEC099314A79F880EBCA8DB6DF597229, source /Niagara/Modules/Update/Color/Color.Color:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:738][916]LogNiagara: AreScriptAndSourceSynchronized reference id 43 doesn't match. 23A36BAC4BA8019A1E05108C54FDBC90 != 72DD5E464C60F2CF4583B4B5C5ED0DF7, source /Niagara/Modules/Solvers/SolveForcesAndVelocity.SolveForcesAndVelocity:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:739][916]LogNiagara: AreScriptAndSourceSynchronized reference id 48 doesn't match. 12CF454843A6857A67EE1194C2C71CF2 != 6FBAF0824F178936FA2B1D85DA75F28E, source /Niagara/Functions/Rotation/AxisAngleToQuaternion.AxisAngleToQuaternion:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:739][916]LogNiagara: AreScriptAndSourceSynchronized reference id 7 doesn't match. F6D38B9C406F3FB547F3F1BDF5E025DF != 75A7620A46211382DDA06A8FD41CEDB4, source /Niagara/DynamicInputs/Angles/NormalizedAngleToDegrees.NormalizedAngleToDegrees:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:739][916]LogNiagara: AreScriptAndSourceSynchronized reference id 11 doesn't match. C286B51840B573CFE946B6A7587B8021 != 4D163AE743E03053F7D66A86BB47F49B, source /Niagara/Modules/Update/Mass/CalculateSizeByMass.CalculateSizeByMass:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:739][916]LogNiagara: AreScriptAndSourceSynchronized reference id 17 doesn't match. 7AE55DDA4C47E63D849F90898A15EE8D != 9653F20745A2F10DDB5CFE8B8F14968A, source /Niagara/Functions/Localspace/TransformBase.TransformBase:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:739][916]LogNiagara: AreScriptAndSourceSynchronized reference id 21 doesn't match. F33614AD4DAAE53A491521AACDBE8462 != 22AE3E514D401DEA3AE934A9DFC233E4, source /Niagara/Modules/Spawn/Velocity/AddVelocityFromPoint.AddVelocityFromPoint:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:739][916]LogNiagara: AreScriptAndSourceSynchronized reference id 24 doesn't match. 7AE55DDA4C47E63D849F90898A15EE8D != 9653F20745A2F10DDB5CFE8B8F14968A, source /Niagara/Functions/Localspace/TransformBase.TransformBase:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:739][916]LogNiagara: AreScriptAndSourceSynchronized reference id 29 doesn't match. 10C54846425C23176FAD7ABFF1DB2C0C != 83350F994043F884FE3BBDA68C8F6D32, source /Niagara/Functions/DistanceBasedFalloff.DistanceBasedFalloff:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:739][916]LogNiagara: AreScriptAndSourceSynchronized reference id 30 doesn't match. 08DBF5E043DA38740E7A21BE694F8534 != D224BF764DD2752962A2F098E17CED88, source /Niagara/Functions/NormalizeDistanceRange.NormalizeDistanceRange:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:739][916]LogNiagara: AreScriptAndSourceSynchronized reference id 32 doesn't match. 99C74D734DB0142E4ADACEA14EA8BA4B != B613AF2C4DB583D383C888AA5C1CD6B7, source /Niagara/Modules/Update/Lifetime/UpdateAge.UpdateAge:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:739][916]LogNiagara: AreScriptAndSourceSynchronized reference id 33 doesn't match. E59D28D64E86027BDD2223B2B1C40198 != 8F069D3F4AF3E33D5F868B92544EC9F3, source /Niagara/Modules/Update/Forces/GravityForce.GravityForce:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:739][916]LogNiagara: AreScriptAndSourceSynchronized reference id 35 doesn't match. 7AE55DDA4C47E63D849F90898A15EE8D != 9653F20745A2F10DDB5CFE8B8F14968A, source /Niagara/Functions/Localspace/TransformBase.TransformBase:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:739][916]LogNiagara: AreScriptAndSourceSynchronized reference id 37 doesn't match. 13125C8749A4DA31055156AA1D63343B != 901FC14A4841ACDADFAF6FA2265F5DEC, source /Niagara/Modules/Update/Forces/DragForce.DragForce:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:739][916]LogNiagara: AreScriptAndSourceSynchronized reference id 38 doesn't match. E03FE9EC4D3D9C751F4B1C8E72C9957D != 1BFD6060494B053C708CFBBA3144C7DE, source /Niagara/DynamicInputs/ValueFromCurve/FloatFromCurve.FloatFromCurve:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:739][916]LogNiagara: AreScriptAndSourceSynchronized reference id 40 doesn't match. 868A2C5A40A6C903A9F36BA5178AC939 != D267E49B44272D591CC13AA3389D75FF, source /Niagara/Modules/Update/Size/SpriteSizeScale.SpriteSizeScale:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:739][916]LogNiagara: AreScriptAndSourceSynchronized reference id 42 doesn't match. E2F951CF403E8420AA23DFA0F5B6D14D != EEC099314A79F880EBCA8DB6DF597229, source /Niagara/Modules/Update/Color/Color.Color:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:739][916]LogNiagara: AreScriptAndSourceSynchronized reference id 43 doesn't match. 23A36BAC4BA8019A1E05108C54FDBC90 != 72DD5E464C60F2CF4583B4B5C5ED0DF7, source /Niagara/Modules/Solvers/SolveForcesAndVelocity.SolveForcesAndVelocity:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:739][916]LogNiagara: AreScriptAndSourceSynchronized reference id 48 doesn't match. 12CF454843A6857A67EE1194C2C71CF2 != 6FBAF0824F178936FA2B1D85DA75F28E, source /Niagara/Functions/Rotation/AxisAngleToQuaternion.AxisAngleToQuaternion:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:744][916]LogNiagara: AreScriptAndSourceSynchronized reference id 6 doesn't match. F6D38B9C406F3FB547F3F1BDF5E025DF != 75A7620A46211382DDA06A8FD41CEDB4, source /Niagara/DynamicInputs/Angles/NormalizedAngleToDegrees.NormalizedAngleToDegrees:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:744][916]LogNiagara: AreScriptAndSourceSynchronized reference id 10 doesn't match. C286B51840B573CFE946B6A7587B8021 != 4D163AE743E03053F7D66A86BB47F49B, source /Niagara/Modules/Update/Mass/CalculateSizeByMass.CalculateSizeByMass:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:744][916]LogNiagara: AreScriptAndSourceSynchronized reference id 16 doesn't match. 7AE55DDA4C47E63D849F90898A15EE8D != 9653F20745A2F10DDB5CFE8B8F14968A, source /Niagara/Functions/Localspace/TransformBase.TransformBase:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:744][916]LogNiagara: AreScriptAndSourceSynchronized reference id 20 doesn't match. F33614AD4DAAE53A491521AACDBE8462 != 22AE3E514D401DEA3AE934A9DFC233E4, source /Niagara/Modules/Spawn/Velocity/AddVelocityFromPoint.AddVelocityFromPoint:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:744][916]LogNiagara: AreScriptAndSourceSynchronized reference id 23 doesn't match. 7AE55DDA4C47E63D849F90898A15EE8D != 9653F20745A2F10DDB5CFE8B8F14968A, source /Niagara/Functions/Localspace/TransformBase.TransformBase:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:744][916]LogNiagara: AreScriptAndSourceSynchronized reference id 28 doesn't match. 10C54846425C23176FAD7ABFF1DB2C0C != 83350F994043F884FE3BBDA68C8F6D32, source /Niagara/Functions/DistanceBasedFalloff.DistanceBasedFalloff:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:744][916]LogNiagara: AreScriptAndSourceSynchronized reference id 29 doesn't match. 08DBF5E043DA38740E7A21BE694F8534 != D224BF764DD2752962A2F098E17CED88, source /Niagara/Functions/NormalizeDistanceRange.NormalizeDistanceRange:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:744][916]LogNiagara: AreScriptAndSourceSynchronized reference id 32 doesn't match. 99C74D734DB0142E4ADACEA14EA8BA4B != B613AF2C4DB583D383C888AA5C1CD6B7, source /Niagara/Modules/Update/Lifetime/UpdateAge.UpdateAge:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:745][916]LogNiagara: AreScriptAndSourceSynchronized reference id 33 doesn't match. E59D28D64E86027BDD2223B2B1C40198 != 8F069D3F4AF3E33D5F868B92544EC9F3, source /Niagara/Modules/Update/Forces/GravityForce.GravityForce:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:745][916]LogNiagara: AreScriptAndSourceSynchronized reference id 35 doesn't match. 7AE55DDA4C47E63D849F90898A15EE8D != 9653F20745A2F10DDB5CFE8B8F14968A, source /Niagara/Functions/Localspace/TransformBase.TransformBase:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:745][916]LogNiagara: AreScriptAndSourceSynchronized reference id 37 doesn't match. 13125C8749A4DA31055156AA1D63343B != 901FC14A4841ACDADFAF6FA2265F5DEC, source /Niagara/Modules/Update/Forces/DragForce.DragForce:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:745][916]LogNiagara: AreScriptAndSourceSynchronized reference id 38 doesn't match. E03FE9EC4D3D9C751F4B1C8E72C9957D != 1BFD6060494B053C708CFBBA3144C7DE, source /Niagara/DynamicInputs/ValueFromCurve/FloatFromCurve.FloatFromCurve:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:745][916]LogNiagara: AreScriptAndSourceSynchronized reference id 40 doesn't match. 868A2C5A40A6C903A9F36BA5178AC939 != D267E49B44272D591CC13AA3389D75FF, source /Niagara/Modules/Update/Size/SpriteSizeScale.SpriteSizeScale:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:745][916]LogNiagara: AreScriptAndSourceSynchronized reference id 42 doesn't match. E2F951CF403E8420AA23DFA0F5B6D14D != EEC099314A79F880EBCA8DB6DF597229, source /Niagara/Modules/Update/Color/Color.Color:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:745][916]LogNiagara: AreScriptAndSourceSynchronized reference id 43 doesn't match. 23A36BAC4BA8019A1E05108C54FDBC90 != 72DD5E464C60F2CF4583B4B5C5ED0DF7, source /Niagara/Modules/Solvers/SolveForcesAndVelocity.SolveForcesAndVelocity:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:745][916]LogNiagara: AreScriptAndSourceSynchronized reference id 48 doesn't match. 12CF454843A6857A67EE1194C2C71CF2 != 6FBAF0824F178936FA2B1D85DA75F28E, source /Niagara/Functions/Rotation/AxisAngleToQuaternion.AxisAngleToQuaternion:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:745][916]LogNiagara: AreScriptAndSourceSynchronized reference id 7 doesn't match. F6D38B9C406F3FB547F3F1BDF5E025DF != 75A7620A46211382DDA06A8FD41CEDB4, source /Niagara/DynamicInputs/Angles/NormalizedAngleToDegrees.NormalizedAngleToDegrees:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:745][916]LogNiagara: AreScriptAndSourceSynchronized reference id 11 doesn't match. C286B51840B573CFE946B6A7587B8021 != 4D163AE743E03053F7D66A86BB47F49B, source /Niagara/Modules/Update/Mass/CalculateSizeByMass.CalculateSizeByMass:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:745][916]LogNiagara: AreScriptAndSourceSynchronized reference id 17 doesn't match. 7AE55DDA4C47E63D849F90898A15EE8D != 9653F20745A2F10DDB5CFE8B8F14968A, source /Niagara/Functions/Localspace/TransformBase.TransformBase:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:745][916]LogNiagara: AreScriptAndSourceSynchronized reference id 21 doesn't match. F33614AD4DAAE53A491521AACDBE8462 != 22AE3E514D401DEA3AE934A9DFC233E4, source /Niagara/Modules/Spawn/Velocity/AddVelocityFromPoint.AddVelocityFromPoint:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:745][916]LogNiagara: AreScriptAndSourceSynchronized reference id 24 doesn't match. 7AE55DDA4C47E63D849F90898A15EE8D != 9653F20745A2F10DDB5CFE8B8F14968A, source /Niagara/Functions/Localspace/TransformBase.TransformBase:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:745][916]LogNiagara: AreScriptAndSourceSynchronized reference id 29 doesn't match. 10C54846425C23176FAD7ABFF1DB2C0C != 83350F994043F884FE3BBDA68C8F6D32, source /Niagara/Functions/DistanceBasedFalloff.DistanceBasedFalloff:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:745][916]LogNiagara: AreScriptAndSourceSynchronized reference id 30 doesn't match. 08DBF5E043DA38740E7A21BE694F8534 != D224BF764DD2752962A2F098E17CED88, source /Niagara/Functions/NormalizeDistanceRange.NormalizeDistanceRange:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:746][916]LogNiagara: AreScriptAndSourceSynchronized reference id 32 doesn't match. 99C74D734DB0142E4ADACEA14EA8BA4B != B613AF2C4DB583D383C888AA5C1CD6B7, source /Niagara/Modules/Update/Lifetime/UpdateAge.UpdateAge:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:746][916]LogNiagara: AreScriptAndSourceSynchronized reference id 33 doesn't match. E59D28D64E86027BDD2223B2B1C40198 != 8F069D3F4AF3E33D5F868B92544EC9F3, source /Niagara/Modules/Update/Forces/GravityForce.GravityForce:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:746][916]LogNiagara: AreScriptAndSourceSynchronized reference id 35 doesn't match. 7AE55DDA4C47E63D849F90898A15EE8D != 9653F20745A2F10DDB5CFE8B8F14968A, source /Niagara/Functions/Localspace/TransformBase.TransformBase:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:746][916]LogNiagara: AreScriptAndSourceSynchronized reference id 37 doesn't match. 13125C8749A4DA31055156AA1D63343B != 901FC14A4841ACDADFAF6FA2265F5DEC, source /Niagara/Modules/Update/Forces/DragForce.DragForce:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:746][916]LogNiagara: AreScriptAndSourceSynchronized reference id 38 doesn't match. E03FE9EC4D3D9C751F4B1C8E72C9957D != 1BFD6060494B053C708CFBBA3144C7DE, source /Niagara/DynamicInputs/ValueFromCurve/FloatFromCurve.FloatFromCurve:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:746][916]LogNiagara: AreScriptAndSourceSynchronized reference id 40 doesn't match. 868A2C5A40A6C903A9F36BA5178AC939 != D267E49B44272D591CC13AA3389D75FF, source /Niagara/Modules/Update/Size/SpriteSizeScale.SpriteSizeScale:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:746][916]LogNiagara: AreScriptAndSourceSynchronized reference id 42 doesn't match. E2F951CF403E8420AA23DFA0F5B6D14D != EEC099314A79F880EBCA8DB6DF597229, source /Niagara/Modules/Update/Color/Color.Color:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:746][916]LogNiagara: AreScriptAndSourceSynchronized reference id 43 doesn't match. 23A36BAC4BA8019A1E05108C54FDBC90 != 72DD5E464C60F2CF4583B4B5C5ED0DF7, source /Niagara/Modules/Solvers/SolveForcesAndVelocity.SolveForcesAndVelocity:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:746][916]LogNiagara: AreScriptAndSourceSynchronized reference id 48 doesn't match. 12CF454843A6857A67EE1194C2C71CF2 != 6FBAF0824F178936FA2B1D85DA75F28E, source /Niagara/Functions/Rotation/AxisAngleToQuaternion.AxisAngleToQuaternion:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:755][916]LogNiagara: AreScriptAndSourceSynchronized reference id 2 doesn't match. A28920374FAD2CB0604BC28A5C8ACB69 != A6C083C24908FFAA8C81C580953A77B7, source /Niagara/Modules/Emitter/EmitterLifeCycle.EmitterLifeCycle:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:755][916]LogNiagara: AreScriptAndSourceSynchronized reference id 3 doesn't match. B60495C14884083B3CA4C5A4471C0F9E != D904C26940EB54AB5F3CBA954F10F1F3, source /Niagara/Functions/Emitter/EmitterChangeState.EmitterChangeState:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:755][916]LogNiagara: AreScriptAndSourceSynchronized reference id 4 doesn't match. B60495C14884083B3CA4C5A4471C0F9E != D904C26940EB54AB5F3CBA954F10F1F3, source /Niagara/Functions/Emitter/EmitterChangeState.EmitterChangeState:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:755][916]LogNiagara: AreScriptAndSourceSynchronized reference id 5 doesn't match. B60495C14884083B3CA4C5A4471C0F9E != D904C26940EB54AB5F3CBA954F10F1F3, source /Niagara/Functions/Emitter/EmitterChangeState.EmitterChangeState:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:755][916]LogNiagara: AreScriptAndSourceSynchronized reference id 6 doesn't match. B60495C14884083B3CA4C5A4471C0F9E != D904C26940EB54AB5F3CBA954F10F1F3, source /Niagara/Functions/Emitter/EmitterChangeState.EmitterChangeState:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:755][916]LogNiagara: AreScriptAndSourceSynchronized reference id 9 doesn't match. FEF25F234208ACDC318B9B872944C416 != 32A33656495A7DD0A55A039CA7B78BBF, source /Niagara/Modules/System/SystemLifeCycle.SystemLifeCycle:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:756][916]LogNiagara: AreScriptAndSourceSynchronized reference id 10 doesn't match. 9AE706BE488AA62131877D9D10068084 != CC867F3349DC663F8F32F7A52C205580, source /Niagara/Functions/System/SystemChangeState.SystemChangeState:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:756][916]LogNiagara: AreScriptAndSourceSynchronized reference id 11 doesn't match. 9AE706BE488AA62131877D9D10068084 != CC867F3349DC663F8F32F7A52C205580, source /Niagara/Functions/System/SystemChangeState.SystemChangeState:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:756][916]LogNiagara: AreScriptAndSourceSynchronized reference id 12 doesn't match. 9AE706BE488AA62131877D9D10068084 != CC867F3349DC663F8F32F7A52C205580, source /Niagara/Functions/System/SystemChangeState.SystemChangeState:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:756][916]LogNiagara: AreScriptAndSourceSynchronized reference id 15 doesn't match. A28920374FAD2CB0604BC28A5C8ACB69 != A6C083C24908FFAA8C81C580953A77B7, source /Niagara/Modules/Emitter/EmitterLifeCycle.EmitterLifeCycle:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:756][916]LogNiagara: AreScriptAndSourceSynchronized reference id 16 doesn't match. B60495C14884083B3CA4C5A4471C0F9E != D904C26940EB54AB5F3CBA954F10F1F3, source /Niagara/Functions/Emitter/EmitterChangeState.EmitterChangeState:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:756][916]LogNiagara: AreScriptAndSourceSynchronized reference id 17 doesn't match. B60495C14884083B3CA4C5A4471C0F9E != D904C26940EB54AB5F3CBA954F10F1F3, source /Niagara/Functions/Emitter/EmitterChangeState.EmitterChangeState:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:756][916]LogNiagara: AreScriptAndSourceSynchronized reference id 18 doesn't match. B60495C14884083B3CA4C5A4471C0F9E != D904C26940EB54AB5F3CBA954F10F1F3, source /Niagara/Functions/Emitter/EmitterChangeState.EmitterChangeState:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:756][916]LogNiagara: AreScriptAndSourceSynchronized reference id 19 doesn't match. B60495C14884083B3CA4C5A4471C0F9E != D904C26940EB54AB5F3CBA954F10F1F3, source /Niagara/Functions/Emitter/EmitterChangeState.EmitterChangeState:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:756][916]LogNiagara: AreScriptAndSourceSynchronized reference id 3 doesn't match. A28920374FAD2CB0604BC28A5C8ACB69 != A6C083C24908FFAA8C81C580953A77B7, source /Niagara/Modules/Emitter/EmitterLifeCycle.EmitterLifeCycle:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:756][916]LogNiagara: AreScriptAndSourceSynchronized reference id 4 doesn't match. B60495C14884083B3CA4C5A4471C0F9E != D904C26940EB54AB5F3CBA954F10F1F3, source /Niagara/Functions/Emitter/EmitterChangeState.EmitterChangeState:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:756][916]LogNiagara: AreScriptAndSourceSynchronized reference id 5 doesn't match. B60495C14884083B3CA4C5A4471C0F9E != D904C26940EB54AB5F3CBA954F10F1F3, source /Niagara/Functions/Emitter/EmitterChangeState.EmitterChangeState:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:756][916]LogNiagara: AreScriptAndSourceSynchronized reference id 6 doesn't match. B60495C14884083B3CA4C5A4471C0F9E != D904C26940EB54AB5F3CBA954F10F1F3, source /Niagara/Functions/Emitter/EmitterChangeState.EmitterChangeState:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:756][916]LogNiagara: AreScriptAndSourceSynchronized reference id 7 doesn't match. B60495C14884083B3CA4C5A4471C0F9E != D904C26940EB54AB5F3CBA954F10F1F3, source /Niagara/Functions/Emitter/EmitterChangeState.EmitterChangeState:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:756][916]LogNiagara: AreScriptAndSourceSynchronized reference id 9 doesn't match. FEF25F234208ACDC318B9B872944C416 != 32A33656495A7DD0A55A039CA7B78BBF, source /Niagara/Modules/System/SystemLifeCycle.SystemLifeCycle:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:756][916]LogNiagara: AreScriptAndSourceSynchronized reference id 10 doesn't match. 9AE706BE488AA62131877D9D10068084 != CC867F3349DC663F8F32F7A52C205580, source /Niagara/Functions/System/SystemChangeState.SystemChangeState:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:756][916]LogNiagara: AreScriptAndSourceSynchronized reference id 11 doesn't match. 9AE706BE488AA62131877D9D10068084 != CC867F3349DC663F8F32F7A52C205580, source /Niagara/Functions/System/SystemChangeState.SystemChangeState:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:756][916]LogNiagara: AreScriptAndSourceSynchronized reference id 12 doesn't match. 9AE706BE488AA62131877D9D10068084 != CC867F3349DC663F8F32F7A52C205580, source /Niagara/Functions/System/SystemChangeState.SystemChangeState:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:756][916]LogNiagara: AreScriptAndSourceSynchronized reference id 15 doesn't match. A28920374FAD2CB0604BC28A5C8ACB69 != A6C083C24908FFAA8C81C580953A77B7, source /Niagara/Modules/Emitter/EmitterLifeCycle.EmitterLifeCycle:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:756][916]LogNiagara: AreScriptAndSourceSynchronized reference id 16 doesn't match. B60495C14884083B3CA4C5A4471C0F9E != D904C26940EB54AB5F3CBA954F10F1F3, source /Niagara/Functions/Emitter/EmitterChangeState.EmitterChangeState:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:756][916]LogNiagara: AreScriptAndSourceSynchronized reference id 17 doesn't match. B60495C14884083B3CA4C5A4471C0F9E != D904C26940EB54AB5F3CBA954F10F1F3, source /Niagara/Functions/Emitter/EmitterChangeState.EmitterChangeState:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:757][916]LogNiagara: AreScriptAndSourceSynchronized reference id 18 doesn't match. B60495C14884083B3CA4C5A4471C0F9E != D904C26940EB54AB5F3CBA954F10F1F3, source /Niagara/Functions/Emitter/EmitterChangeState.EmitterChangeState:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:757][916]LogNiagara: AreScriptAndSourceSynchronized reference id 19 doesn't match. B60495C14884083B3CA4C5A4471C0F9E != D904C26940EB54AB5F3CBA954F10F1F3, source /Niagara/Functions/Emitter/EmitterChangeState.EmitterChangeState:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:757][916]LogNiagara: Emitter /Game/Assets/Prefabs/N_Blood_System.N_Blood_System:N_Blood_20-N_Blood is merging changes from source /Game/Assets/Prefabs/N_Blood_Emitter.N_Blood_Emitter because its Change ID was updated.
+[2024.09.08-09.28.15:792][916]LogNiagara: AreScriptAndSourceSynchronized reference id 6 doesn't match. F6D38B9C406F3FB547F3F1BDF5E025DF != 75A7620A46211382DDA06A8FD41CEDB4, source /Niagara/DynamicInputs/Angles/NormalizedAngleToDegrees.NormalizedAngleToDegrees:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:792][916]LogNiagara: AreScriptAndSourceSynchronized reference id 10 doesn't match. C286B51840B573CFE946B6A7587B8021 != 4D163AE743E03053F7D66A86BB47F49B, source /Niagara/Modules/Update/Mass/CalculateSizeByMass.CalculateSizeByMass:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:792][916]LogNiagara: AreScriptAndSourceSynchronized reference id 16 doesn't match. 7AE55DDA4C47E63D849F90898A15EE8D != 9653F20745A2F10DDB5CFE8B8F14968A, source /Niagara/Functions/Localspace/TransformBase.TransformBase:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:792][916]LogNiagara: AreScriptAndSourceSynchronized reference id 20 doesn't match. F33614AD4DAAE53A491521AACDBE8462 != 22AE3E514D401DEA3AE934A9DFC233E4, source /Niagara/Modules/Spawn/Velocity/AddVelocityFromPoint.AddVelocityFromPoint:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:792][916]LogNiagara: AreScriptAndSourceSynchronized reference id 23 doesn't match. 7AE55DDA4C47E63D849F90898A15EE8D != 9653F20745A2F10DDB5CFE8B8F14968A, source /Niagara/Functions/Localspace/TransformBase.TransformBase:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:792][916]LogNiagara: AreScriptAndSourceSynchronized reference id 28 doesn't match. 10C54846425C23176FAD7ABFF1DB2C0C != 83350F994043F884FE3BBDA68C8F6D32, source /Niagara/Functions/DistanceBasedFalloff.DistanceBasedFalloff:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:792][916]LogNiagara: AreScriptAndSourceSynchronized reference id 29 doesn't match. 08DBF5E043DA38740E7A21BE694F8534 != D224BF764DD2752962A2F098E17CED88, source /Niagara/Functions/NormalizeDistanceRange.NormalizeDistanceRange:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:792][916]LogNiagara: AreScriptAndSourceSynchronized reference id 32 doesn't match. 99C74D734DB0142E4ADACEA14EA8BA4B != B613AF2C4DB583D383C888AA5C1CD6B7, source /Niagara/Modules/Update/Lifetime/UpdateAge.UpdateAge:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:792][916]LogNiagara: AreScriptAndSourceSynchronized reference id 33 doesn't match. E59D28D64E86027BDD2223B2B1C40198 != 8F069D3F4AF3E33D5F868B92544EC9F3, source /Niagara/Modules/Update/Forces/GravityForce.GravityForce:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:792][916]LogNiagara: AreScriptAndSourceSynchronized reference id 35 doesn't match. 7AE55DDA4C47E63D849F90898A15EE8D != 9653F20745A2F10DDB5CFE8B8F14968A, source /Niagara/Functions/Localspace/TransformBase.TransformBase:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:792][916]LogNiagara: AreScriptAndSourceSynchronized reference id 37 doesn't match. 13125C8749A4DA31055156AA1D63343B != 901FC14A4841ACDADFAF6FA2265F5DEC, source /Niagara/Modules/Update/Forces/DragForce.DragForce:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:793][916]LogNiagara: AreScriptAndSourceSynchronized reference id 38 doesn't match. E03FE9EC4D3D9C751F4B1C8E72C9957D != 1BFD6060494B053C708CFBBA3144C7DE, source /Niagara/DynamicInputs/ValueFromCurve/FloatFromCurve.FloatFromCurve:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:793][916]LogNiagara: AreScriptAndSourceSynchronized reference id 40 doesn't match. 868A2C5A40A6C903A9F36BA5178AC939 != D267E49B44272D591CC13AA3389D75FF, source /Niagara/Modules/Update/Size/SpriteSizeScale.SpriteSizeScale:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:793][916]LogNiagara: AreScriptAndSourceSynchronized reference id 42 doesn't match. E2F951CF403E8420AA23DFA0F5B6D14D != EEC099314A79F880EBCA8DB6DF597229, source /Niagara/Modules/Update/Color/Color.Color:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:793][916]LogNiagara: AreScriptAndSourceSynchronized reference id 43 doesn't match. 23A36BAC4BA8019A1E05108C54FDBC90 != 72DD5E464C60F2CF4583B4B5C5ED0DF7, source /Niagara/Modules/Solvers/SolveForcesAndVelocity.SolveForcesAndVelocity:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:793][916]LogNiagara: AreScriptAndSourceSynchronized reference id 48 doesn't match. 12CF454843A6857A67EE1194C2C71CF2 != 6FBAF0824F178936FA2B1D85DA75F28E, source /Niagara/Functions/Rotation/AxisAngleToQuaternion.AxisAngleToQuaternion:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:793][916]LogNiagara: AreScriptAndSourceSynchronized reference id 7 doesn't match. F6D38B9C406F3FB547F3F1BDF5E025DF != 75A7620A46211382DDA06A8FD41CEDB4, source /Niagara/DynamicInputs/Angles/NormalizedAngleToDegrees.NormalizedAngleToDegrees:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:793][916]LogNiagara: AreScriptAndSourceSynchronized reference id 11 doesn't match. C286B51840B573CFE946B6A7587B8021 != 4D163AE743E03053F7D66A86BB47F49B, source /Niagara/Modules/Update/Mass/CalculateSizeByMass.CalculateSizeByMass:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:793][916]LogNiagara: AreScriptAndSourceSynchronized reference id 17 doesn't match. 7AE55DDA4C47E63D849F90898A15EE8D != 9653F20745A2F10DDB5CFE8B8F14968A, source /Niagara/Functions/Localspace/TransformBase.TransformBase:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:793][916]LogNiagara: AreScriptAndSourceSynchronized reference id 21 doesn't match. F33614AD4DAAE53A491521AACDBE8462 != 22AE3E514D401DEA3AE934A9DFC233E4, source /Niagara/Modules/Spawn/Velocity/AddVelocityFromPoint.AddVelocityFromPoint:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:793][916]LogNiagara: AreScriptAndSourceSynchronized reference id 24 doesn't match. 7AE55DDA4C47E63D849F90898A15EE8D != 9653F20745A2F10DDB5CFE8B8F14968A, source /Niagara/Functions/Localspace/TransformBase.TransformBase:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:793][916]LogNiagara: AreScriptAndSourceSynchronized reference id 29 doesn't match. 10C54846425C23176FAD7ABFF1DB2C0C != 83350F994043F884FE3BBDA68C8F6D32, source /Niagara/Functions/DistanceBasedFalloff.DistanceBasedFalloff:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:793][916]LogNiagara: AreScriptAndSourceSynchronized reference id 30 doesn't match. 08DBF5E043DA38740E7A21BE694F8534 != D224BF764DD2752962A2F098E17CED88, source /Niagara/Functions/NormalizeDistanceRange.NormalizeDistanceRange:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:793][916]LogNiagara: AreScriptAndSourceSynchronized reference id 32 doesn't match. 99C74D734DB0142E4ADACEA14EA8BA4B != B613AF2C4DB583D383C888AA5C1CD6B7, source /Niagara/Modules/Update/Lifetime/UpdateAge.UpdateAge:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:793][916]LogNiagara: AreScriptAndSourceSynchronized reference id 33 doesn't match. E59D28D64E86027BDD2223B2B1C40198 != 8F069D3F4AF3E33D5F868B92544EC9F3, source /Niagara/Modules/Update/Forces/GravityForce.GravityForce:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:793][916]LogNiagara: AreScriptAndSourceSynchronized reference id 35 doesn't match. 7AE55DDA4C47E63D849F90898A15EE8D != 9653F20745A2F10DDB5CFE8B8F14968A, source /Niagara/Functions/Localspace/TransformBase.TransformBase:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:793][916]LogNiagara: AreScriptAndSourceSynchronized reference id 37 doesn't match. 13125C8749A4DA31055156AA1D63343B != 901FC14A4841ACDADFAF6FA2265F5DEC, source /Niagara/Modules/Update/Forces/DragForce.DragForce:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:793][916]LogNiagara: AreScriptAndSourceSynchronized reference id 38 doesn't match. E03FE9EC4D3D9C751F4B1C8E72C9957D != 1BFD6060494B053C708CFBBA3144C7DE, source /Niagara/DynamicInputs/ValueFromCurve/FloatFromCurve.FloatFromCurve:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:793][916]LogNiagara: AreScriptAndSourceSynchronized reference id 40 doesn't match. 868A2C5A40A6C903A9F36BA5178AC939 != D267E49B44272D591CC13AA3389D75FF, source /Niagara/Modules/Update/Size/SpriteSizeScale.SpriteSizeScale:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:793][916]LogNiagara: AreScriptAndSourceSynchronized reference id 42 doesn't match. E2F951CF403E8420AA23DFA0F5B6D14D != EEC099314A79F880EBCA8DB6DF597229, source /Niagara/Modules/Update/Color/Color.Color:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:793][916]LogNiagara: AreScriptAndSourceSynchronized reference id 43 doesn't match. 23A36BAC4BA8019A1E05108C54FDBC90 != 72DD5E464C60F2CF4583B4B5C5ED0DF7, source /Niagara/Modules/Solvers/SolveForcesAndVelocity.SolveForcesAndVelocity:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:793][916]LogNiagara: AreScriptAndSourceSynchronized reference id 48 doesn't match. 12CF454843A6857A67EE1194C2C71CF2 != 6FBAF0824F178936FA2B1D85DA75F28E, source /Niagara/Functions/Rotation/AxisAngleToQuaternion.AxisAngleToQuaternion:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:831][916]LogNiagaraEditor: 'NiagaraGraph /Engine/Transient.N_Blood_Emitter:NiagaraScriptSource_0.NiagaraGraph_0' changes synchronized with master script in EmitterSpawnScript .. synced guid: FB285E274582B37FDE0C7D9BB2536CBC
+[2024.09.08-09.28.15:831][916]LogNiagaraEditor: 'NiagaraGraph /Engine/Transient.N_Blood_Emitter:NiagaraScriptSource_0.NiagaraGraph_0' changes synchronized with master script in EmitterUpdateScript .. synced guid: FC44CCB640993A9B085437B637D8067C
+[2024.09.08-09.28.15:831][916]LogNiagaraEditor: 'NiagaraGraph /Engine/Transient.N_Blood_Emitter:NiagaraScriptSource_0.NiagaraGraph_0' changes synchronized with master script in ParticleSpawnScript .. synced guid: C2894B294F184A0E6A2D24AC65812397
+[2024.09.08-09.28.15:831][916]LogNiagaraEditor: 'NiagaraGraph /Engine/Transient.N_Blood_Emitter:NiagaraScriptSource_0.NiagaraGraph_0' changes synchronized with master script in ParticleUpdateScript .. synced guid: 0BEC5B2C499F7F652541A09CDD5E3EC5
+[2024.09.08-09.28.15:831][916]LogNiagaraEditor: 'NiagaraGraph /Engine/Transient.N_Blood_Emitter:NiagaraScriptSource_0.NiagaraGraph_0' changes synchronized with master script in ParticleGPUComputeScript .. synced guid: CC5B31B94D265AA5BA47749E66202624
+[2024.09.08-09.28.15:854][916]LogNiagara: AreScriptAndSourceSynchronized reference id 6 doesn't match. F6D38B9C406F3FB547F3F1BDF5E025DF != 75A7620A46211382DDA06A8FD41CEDB4, source /Niagara/DynamicInputs/Angles/NormalizedAngleToDegrees.NormalizedAngleToDegrees:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:854][916]LogNiagara: AreScriptAndSourceSynchronized reference id 10 doesn't match. C286B51840B573CFE946B6A7587B8021 != 4D163AE743E03053F7D66A86BB47F49B, source /Niagara/Modules/Update/Mass/CalculateSizeByMass.CalculateSizeByMass:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:854][916]LogNiagara: AreScriptAndSourceSynchronized reference id 16 doesn't match. 7AE55DDA4C47E63D849F90898A15EE8D != 9653F20745A2F10DDB5CFE8B8F14968A, source /Niagara/Functions/Localspace/TransformBase.TransformBase:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:854][916]LogNiagara: AreScriptAndSourceSynchronized reference id 20 doesn't match. F33614AD4DAAE53A491521AACDBE8462 != 22AE3E514D401DEA3AE934A9DFC233E4, source /Niagara/Modules/Spawn/Velocity/AddVelocityFromPoint.AddVelocityFromPoint:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:854][916]LogNiagara: AreScriptAndSourceSynchronized reference id 23 doesn't match. 7AE55DDA4C47E63D849F90898A15EE8D != 9653F20745A2F10DDB5CFE8B8F14968A, source /Niagara/Functions/Localspace/TransformBase.TransformBase:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:854][916]LogNiagara: AreScriptAndSourceSynchronized reference id 28 doesn't match. 10C54846425C23176FAD7ABFF1DB2C0C != 83350F994043F884FE3BBDA68C8F6D32, source /Niagara/Functions/DistanceBasedFalloff.DistanceBasedFalloff:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:854][916]LogNiagara: AreScriptAndSourceSynchronized reference id 29 doesn't match. 08DBF5E043DA38740E7A21BE694F8534 != D224BF764DD2752962A2F098E17CED88, source /Niagara/Functions/NormalizeDistanceRange.NormalizeDistanceRange:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:854][916]LogNiagara: AreScriptAndSourceSynchronized reference id 32 doesn't match. 99C74D734DB0142E4ADACEA14EA8BA4B != B613AF2C4DB583D383C888AA5C1CD6B7, source /Niagara/Modules/Update/Lifetime/UpdateAge.UpdateAge:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:854][916]LogNiagara: AreScriptAndSourceSynchronized reference id 33 doesn't match. E59D28D64E86027BDD2223B2B1C40198 != 8F069D3F4AF3E33D5F868B92544EC9F3, source /Niagara/Modules/Update/Forces/GravityForce.GravityForce:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:854][916]LogNiagara: AreScriptAndSourceSynchronized reference id 35 doesn't match. 7AE55DDA4C47E63D849F90898A15EE8D != 9653F20745A2F10DDB5CFE8B8F14968A, source /Niagara/Functions/Localspace/TransformBase.TransformBase:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:855][916]LogNiagara: AreScriptAndSourceSynchronized reference id 37 doesn't match. 13125C8749A4DA31055156AA1D63343B != 901FC14A4841ACDADFAF6FA2265F5DEC, source /Niagara/Modules/Update/Forces/DragForce.DragForce:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:855][916]LogNiagara: AreScriptAndSourceSynchronized reference id 38 doesn't match. E03FE9EC4D3D9C751F4B1C8E72C9957D != 1BFD6060494B053C708CFBBA3144C7DE, source /Niagara/DynamicInputs/ValueFromCurve/FloatFromCurve.FloatFromCurve:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:855][916]LogNiagara: AreScriptAndSourceSynchronized reference id 40 doesn't match. 868A2C5A40A6C903A9F36BA5178AC939 != D267E49B44272D591CC13AA3389D75FF, source /Niagara/Modules/Update/Size/SpriteSizeScale.SpriteSizeScale:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:855][916]LogNiagara: AreScriptAndSourceSynchronized reference id 42 doesn't match. E2F951CF403E8420AA23DFA0F5B6D14D != EEC099314A79F880EBCA8DB6DF597229, source /Niagara/Modules/Update/Color/Color.Color:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:855][916]LogNiagara: AreScriptAndSourceSynchronized reference id 43 doesn't match. 23A36BAC4BA8019A1E05108C54FDBC90 != 72DD5E464C60F2CF4583B4B5C5ED0DF7, source /Niagara/Modules/Solvers/SolveForcesAndVelocity.SolveForcesAndVelocity:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:855][916]LogNiagara: AreScriptAndSourceSynchronized reference id 48 doesn't match. 12CF454843A6857A67EE1194C2C71CF2 != 6FBAF0824F178936FA2B1D85DA75F28E, source /Niagara/Functions/Rotation/AxisAngleToQuaternion.AxisAngleToQuaternion:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:855][916]LogNiagara: AreScriptAndSourceSynchronized reference id 7 doesn't match. F6D38B9C406F3FB547F3F1BDF5E025DF != 75A7620A46211382DDA06A8FD41CEDB4, source /Niagara/DynamicInputs/Angles/NormalizedAngleToDegrees.NormalizedAngleToDegrees:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:855][916]LogNiagara: AreScriptAndSourceSynchronized reference id 11 doesn't match. C286B51840B573CFE946B6A7587B8021 != 4D163AE743E03053F7D66A86BB47F49B, source /Niagara/Modules/Update/Mass/CalculateSizeByMass.CalculateSizeByMass:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:855][916]LogNiagara: AreScriptAndSourceSynchronized reference id 17 doesn't match. 7AE55DDA4C47E63D849F90898A15EE8D != 9653F20745A2F10DDB5CFE8B8F14968A, source /Niagara/Functions/Localspace/TransformBase.TransformBase:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:855][916]LogNiagara: AreScriptAndSourceSynchronized reference id 21 doesn't match. F33614AD4DAAE53A491521AACDBE8462 != 22AE3E514D401DEA3AE934A9DFC233E4, source /Niagara/Modules/Spawn/Velocity/AddVelocityFromPoint.AddVelocityFromPoint:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:855][916]LogNiagara: AreScriptAndSourceSynchronized reference id 24 doesn't match. 7AE55DDA4C47E63D849F90898A15EE8D != 9653F20745A2F10DDB5CFE8B8F14968A, source /Niagara/Functions/Localspace/TransformBase.TransformBase:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:855][916]LogNiagara: AreScriptAndSourceSynchronized reference id 29 doesn't match. 10C54846425C23176FAD7ABFF1DB2C0C != 83350F994043F884FE3BBDA68C8F6D32, source /Niagara/Functions/DistanceBasedFalloff.DistanceBasedFalloff:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:855][916]LogNiagara: AreScriptAndSourceSynchronized reference id 30 doesn't match. 08DBF5E043DA38740E7A21BE694F8534 != D224BF764DD2752962A2F098E17CED88, source /Niagara/Functions/NormalizeDistanceRange.NormalizeDistanceRange:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:855][916]LogNiagara: AreScriptAndSourceSynchronized reference id 32 doesn't match. 99C74D734DB0142E4ADACEA14EA8BA4B != B613AF2C4DB583D383C888AA5C1CD6B7, source /Niagara/Modules/Update/Lifetime/UpdateAge.UpdateAge:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:855][916]LogNiagara: AreScriptAndSourceSynchronized reference id 33 doesn't match. E59D28D64E86027BDD2223B2B1C40198 != 8F069D3F4AF3E33D5F868B92544EC9F3, source /Niagara/Modules/Update/Forces/GravityForce.GravityForce:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:855][916]LogNiagara: AreScriptAndSourceSynchronized reference id 35 doesn't match. 7AE55DDA4C47E63D849F90898A15EE8D != 9653F20745A2F10DDB5CFE8B8F14968A, source /Niagara/Functions/Localspace/TransformBase.TransformBase:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:856][916]LogNiagara: AreScriptAndSourceSynchronized reference id 37 doesn't match. 13125C8749A4DA31055156AA1D63343B != 901FC14A4841ACDADFAF6FA2265F5DEC, source /Niagara/Modules/Update/Forces/DragForce.DragForce:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:856][916]LogNiagara: AreScriptAndSourceSynchronized reference id 38 doesn't match. E03FE9EC4D3D9C751F4B1C8E72C9957D != 1BFD6060494B053C708CFBBA3144C7DE, source /Niagara/DynamicInputs/ValueFromCurve/FloatFromCurve.FloatFromCurve:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:856][916]LogNiagara: AreScriptAndSourceSynchronized reference id 40 doesn't match. 868A2C5A40A6C903A9F36BA5178AC939 != D267E49B44272D591CC13AA3389D75FF, source /Niagara/Modules/Update/Size/SpriteSizeScale.SpriteSizeScale:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:856][916]LogNiagara: AreScriptAndSourceSynchronized reference id 42 doesn't match. E2F951CF403E8420AA23DFA0F5B6D14D != EEC099314A79F880EBCA8DB6DF597229, source /Niagara/Modules/Update/Color/Color.Color:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:856][916]LogNiagara: AreScriptAndSourceSynchronized reference id 43 doesn't match. 23A36BAC4BA8019A1E05108C54FDBC90 != 72DD5E464C60F2CF4583B4B5C5ED0DF7, source /Niagara/Modules/Solvers/SolveForcesAndVelocity.SolveForcesAndVelocity:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:856][916]LogNiagara: AreScriptAndSourceSynchronized reference id 48 doesn't match. 12CF454843A6857A67EE1194C2C71CF2 != 6FBAF0824F178936FA2B1D85DA75F28E, source /Niagara/Functions/Rotation/AxisAngleToQuaternion.AxisAngleToQuaternion:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:857][916]LogNiagara: AreScriptAndSourceSynchronized base script id's don't match. C2894B294F184A0E6A2D24AC65812397 != 7613B668433792823F6DA386D9988A30
+[2024.09.08-09.28.15:857][916]LogNiagara: AreScriptAndSourceSynchronized reference id 4 doesn't match. F6D38B9C406F3FB547F3F1BDF5E025DF != EDE808C0452A2C6F8D4D15B65BE49276, source /Niagara/DynamicInputs/Angles/NormalizedAngleToDegrees.NormalizedAngleToDegrees:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:857][916]LogNiagara: AreScriptAndSourceSynchronized reference id 5 doesn't match. 0D1F93A4442ED5DA371C408D7BE2F3BF != 07012EB049B15393F1A750BD93CB8770, source /Niagara/Functions/Localspace/ParticleOwnerPosition.ParticleOwnerPosition:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:857][916]LogNiagara: AreScriptAndSourceSynchronized reference id 6 doesn't match. EDE808C0452A2C6F8D4D15B65BE49276 != 75A7620A46211382DDA06A8FD41CEDB4, source /Niagara/DynamicInputs/UniformRange/UniformRangedFloat.UniformRangedFloat:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:857][916]LogNiagara: AreScriptAndSourceSynchronized reference id 7 doesn't match. 07012EB049B15393F1A750BD93CB8770 != 0D1F93A4442ED5DA371C408D7BE2F3BF, source /Niagara/Functions/RandomRange.RandomRange:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:857][916]LogNiagara: AreScriptAndSourceSynchronized reference id 10 doesn't match. C286B51840B573CFE946B6A7587B8021 != 4D163AE743E03053F7D66A86BB47F49B, source /Niagara/Modules/Update/Mass/CalculateSizeByMass.CalculateSizeByMass:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:857][916]LogNiagara: AreScriptAndSourceSynchronized reference id 16 doesn't match. 7AE55DDA4C47E63D849F90898A15EE8D != 9653F20745A2F10DDB5CFE8B8F14968A, source /Niagara/Functions/Localspace/TransformBase.TransformBase:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:857][916]LogNiagara: AreScriptAndSourceSynchronized reference id 20 doesn't match. F33614AD4DAAE53A491521AACDBE8462 != 22AE3E514D401DEA3AE934A9DFC233E4, source /Niagara/Modules/Spawn/Velocity/AddVelocityFromPoint.AddVelocityFromPoint:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:857][916]LogNiagara: AreScriptAndSourceSynchronized reference id 23 doesn't match. 7AE55DDA4C47E63D849F90898A15EE8D != 9653F20745A2F10DDB5CFE8B8F14968A, source /Niagara/Functions/Localspace/TransformBase.TransformBase:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:857][916]LogNiagara: AreScriptAndSourceSynchronized reference id 28 doesn't match. 10C54846425C23176FAD7ABFF1DB2C0C != 83350F994043F884FE3BBDA68C8F6D32, source /Niagara/Functions/DistanceBasedFalloff.DistanceBasedFalloff:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:857][916]LogNiagara: AreScriptAndSourceSynchronized reference id 29 doesn't match. 08DBF5E043DA38740E7A21BE694F8534 != D224BF764DD2752962A2F098E17CED88, source /Niagara/Functions/NormalizeDistanceRange.NormalizeDistanceRange:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:857][916]LogNiagara: AreScriptAndSourceSynchronized reference id 32 doesn't match. 99C74D734DB0142E4ADACEA14EA8BA4B != B613AF2C4DB583D383C888AA5C1CD6B7, source /Niagara/Modules/Update/Lifetime/UpdateAge.UpdateAge:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:857][916]LogNiagara: AreScriptAndSourceSynchronized reference id 33 doesn't match. E59D28D64E86027BDD2223B2B1C40198 != 8F069D3F4AF3E33D5F868B92544EC9F3, source /Niagara/Modules/Update/Forces/GravityForce.GravityForce:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:857][916]LogNiagara: AreScriptAndSourceSynchronized reference id 35 doesn't match. 7AE55DDA4C47E63D849F90898A15EE8D != 9653F20745A2F10DDB5CFE8B8F14968A, source /Niagara/Functions/Localspace/TransformBase.TransformBase:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:857][916]LogNiagara: AreScriptAndSourceSynchronized reference id 37 doesn't match. 13125C8749A4DA31055156AA1D63343B != 901FC14A4841ACDADFAF6FA2265F5DEC, source /Niagara/Modules/Update/Forces/DragForce.DragForce:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:857][916]LogNiagara: AreScriptAndSourceSynchronized reference id 38 doesn't match. E03FE9EC4D3D9C751F4B1C8E72C9957D != 1BFD6060494B053C708CFBBA3144C7DE, source /Niagara/DynamicInputs/ValueFromCurve/FloatFromCurve.FloatFromCurve:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:857][916]LogNiagara: AreScriptAndSourceSynchronized reference id 40 doesn't match. 868A2C5A40A6C903A9F36BA5178AC939 != D267E49B44272D591CC13AA3389D75FF, source /Niagara/Modules/Update/Size/SpriteSizeScale.SpriteSizeScale:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:858][916]LogNiagara: AreScriptAndSourceSynchronized reference id 42 doesn't match. E2F951CF403E8420AA23DFA0F5B6D14D != EEC099314A79F880EBCA8DB6DF597229, source /Niagara/Modules/Update/Color/Color.Color:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:858][916]LogNiagara: AreScriptAndSourceSynchronized reference id 43 doesn't match. 23A36BAC4BA8019A1E05108C54FDBC90 != 72DD5E464C60F2CF4583B4B5C5ED0DF7, source /Niagara/Modules/Solvers/SolveForcesAndVelocity.SolveForcesAndVelocity:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:858][916]LogNiagara: AreScriptAndSourceSynchronized reference id 48 doesn't match. 12CF454843A6857A67EE1194C2C71CF2 != 6FBAF0824F178936FA2B1D85DA75F28E, source /Niagara/Functions/Rotation/AxisAngleToQuaternion.AxisAngleToQuaternion:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:858][916]LogNiagara: System /Game/Assets/Prefabs/N_Blood_System.N_Blood_System being compiled because there were changes to a system script Change ID.
+[2024.09.08-09.28.15:858][916]LogNiagara: System /Game/Assets/Prefabs/N_Blood_System.N_Blood_System being compiled because there were changes to an emitter script Change ID.
+[2024.09.08-09.28.15:858][916]LogNiagara: System /Game/Assets/Prefabs/N_Blood_System.N_Blood_System being compiled because graph changes were merged for a base emitter.
+[2024.09.08-09.28.15:947][916]LogNiagaraEditor: '/Game/Assets/Prefabs/N_Blood_System' Precompile took 0.088315 sec.
+[2024.09.08-09.28.15:948][916]LogNiagara: AreScriptAndSourceSynchronized reference id 0 doesn't match. C2894B294F184A0E6A2D24AC65812397 != 7613B668433792823F6DA386D9988A30, source /Game/Assets/Prefabs/N_Blood_System.N_Blood_System:N_Blood_0.NiagaraScriptSource_0.NiagaraGraph_0.NiagaraNodeOutput_4
+[2024.09.08-09.28.15:948][916]LogNiagara: AreScriptAndSourceSynchronized reference id 5 doesn't match. F6D38B9C406F3FB547F3F1BDF5E025DF != EDE808C0452A2C6F8D4D15B65BE49276, source /Niagara/DynamicInputs/Angles/NormalizedAngleToDegrees.NormalizedAngleToDegrees:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:948][916]LogNiagara: AreScriptAndSourceSynchronized reference id 6 doesn't match. 0D1F93A4442ED5DA371C408D7BE2F3BF != 07012EB049B15393F1A750BD93CB8770, source /Niagara/Functions/Localspace/ParticleOwnerPosition.ParticleOwnerPosition:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:948][916]LogNiagara: AreScriptAndSourceSynchronized reference id 7 doesn't match. EDE808C0452A2C6F8D4D15B65BE49276 != 75A7620A46211382DDA06A8FD41CEDB4, source /Niagara/DynamicInputs/UniformRange/UniformRangedFloat.UniformRangedFloat:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:948][916]LogNiagara: AreScriptAndSourceSynchronized reference id 8 doesn't match. 07012EB049B15393F1A750BD93CB8770 != 0D1F93A4442ED5DA371C408D7BE2F3BF, source /Niagara/Functions/RandomRange.RandomRange:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:948][916]LogNiagara: AreScriptAndSourceSynchronized reference id 11 doesn't match. C286B51840B573CFE946B6A7587B8021 != 4D163AE743E03053F7D66A86BB47F49B, source /Niagara/Modules/Update/Mass/CalculateSizeByMass.CalculateSizeByMass:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:948][916]LogNiagara: AreScriptAndSourceSynchronized reference id 17 doesn't match. 7AE55DDA4C47E63D849F90898A15EE8D != 9653F20745A2F10DDB5CFE8B8F14968A, source /Niagara/Functions/Localspace/TransformBase.TransformBase:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:948][916]LogNiagara: AreScriptAndSourceSynchronized reference id 21 doesn't match. F33614AD4DAAE53A491521AACDBE8462 != 22AE3E514D401DEA3AE934A9DFC233E4, source /Niagara/Modules/Spawn/Velocity/AddVelocityFromPoint.AddVelocityFromPoint:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:948][916]LogNiagara: AreScriptAndSourceSynchronized reference id 24 doesn't match. 7AE55DDA4C47E63D849F90898A15EE8D != 9653F20745A2F10DDB5CFE8B8F14968A, source /Niagara/Functions/Localspace/TransformBase.TransformBase:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:948][916]LogNiagara: AreScriptAndSourceSynchronized reference id 29 doesn't match. 10C54846425C23176FAD7ABFF1DB2C0C != 83350F994043F884FE3BBDA68C8F6D32, source /Niagara/Functions/DistanceBasedFalloff.DistanceBasedFalloff:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:948][916]LogNiagara: AreScriptAndSourceSynchronized reference id 30 doesn't match. 08DBF5E043DA38740E7A21BE694F8534 != D224BF764DD2752962A2F098E17CED88, source /Niagara/Functions/NormalizeDistanceRange.NormalizeDistanceRange:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:948][916]LogNiagara: AreScriptAndSourceSynchronized reference id 32 doesn't match. 99C74D734DB0142E4ADACEA14EA8BA4B != B613AF2C4DB583D383C888AA5C1CD6B7, source /Niagara/Modules/Update/Lifetime/UpdateAge.UpdateAge:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:948][916]LogNiagara: AreScriptAndSourceSynchronized reference id 33 doesn't match. E59D28D64E86027BDD2223B2B1C40198 != 8F069D3F4AF3E33D5F868B92544EC9F3, source /Niagara/Modules/Update/Forces/GravityForce.GravityForce:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:948][916]LogNiagara: AreScriptAndSourceSynchronized reference id 35 doesn't match. 7AE55DDA4C47E63D849F90898A15EE8D != 9653F20745A2F10DDB5CFE8B8F14968A, source /Niagara/Functions/Localspace/TransformBase.TransformBase:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:948][916]LogNiagara: AreScriptAndSourceSynchronized reference id 37 doesn't match. 13125C8749A4DA31055156AA1D63343B != 901FC14A4841ACDADFAF6FA2265F5DEC, source /Niagara/Modules/Update/Forces/DragForce.DragForce:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:948][916]LogNiagara: AreScriptAndSourceSynchronized reference id 38 doesn't match. E03FE9EC4D3D9C751F4B1C8E72C9957D != 1BFD6060494B053C708CFBBA3144C7DE, source /Niagara/DynamicInputs/ValueFromCurve/FloatFromCurve.FloatFromCurve:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:948][916]LogNiagara: AreScriptAndSourceSynchronized reference id 40 doesn't match. 868A2C5A40A6C903A9F36BA5178AC939 != D267E49B44272D591CC13AA3389D75FF, source /Niagara/Modules/Update/Size/SpriteSizeScale.SpriteSizeScale:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:948][916]LogNiagara: AreScriptAndSourceSynchronized reference id 42 doesn't match. E2F951CF403E8420AA23DFA0F5B6D14D != EEC099314A79F880EBCA8DB6DF597229, source /Niagara/Modules/Update/Color/Color.Color:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:948][916]LogNiagara: AreScriptAndSourceSynchronized reference id 43 doesn't match. 23A36BAC4BA8019A1E05108C54FDBC90 != 72DD5E464C60F2CF4583B4B5C5ED0DF7, source /Niagara/Modules/Solvers/SolveForcesAndVelocity.SolveForcesAndVelocity:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.15:948][916]LogNiagara: AreScriptAndSourceSynchronized reference id 48 doesn't match. 12CF454843A6857A67EE1194C2C71CF2 != 6FBAF0824F178936FA2B1D85DA75F28E, source /Niagara/Functions/Rotation/AxisAngleToQuaternion.AxisAngleToQuaternion:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.08-09.28.16:379][916]LogNiagaraEditor: Compiling System NiagaraScript /Game/Assets/Prefabs/N_Blood_System.N_Blood_System:N_Blood_0.SpawnScript ...................................................................
+[2024.09.08-09.28.16:379][916]LogNiagaraEditor: Compiling System NiagaraScript /Game/Assets/Prefabs/N_Blood_System.N_Blood_System:N_Blood_0.UpdateScript ...................................................................
+[2024.09.08-09.28.16:379][916]LogNiagaraEditor: Compiling System NiagaraScript /Game/Assets/Prefabs/N_Blood_System.N_Blood_System:SystemSpawnScript ...................................................................
+[2024.09.08-09.28.17:307][916]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2024.09.08-09.28.17:470][916]LogAssetEditorManager: Opening Asset editor for World /Game/Assets/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2024.09.08-09.28.19:818][916]LogNiagaraEditor: Compiling System NiagaraScript /Game/Assets/Prefabs/N_Blood_System.N_Blood_System:N_Blood_0.SpawnScript took 3.866206 sec (0.030165/3.835302)... Status NCS_UpToDate
+[2024.09.08-09.28.19:818][916]LogNiagara: UNiagraScript 'NiagaraScript /Game/Assets/Prefabs/N_Blood_System.N_Blood_System:N_Blood_0.SpawnScript' was built locally..
+[2024.09.08-09.28.20:046][916]LogNiagaraEditor: Compiling System NiagaraScript /Game/Assets/Prefabs/N_Blood_System.N_Blood_System:SystemUpdateScript ...................................................................
+[2024.09.08-09.28.20:046][916]LogNiagaraEditor: Compiling System NiagaraScript /Game/Assets/Prefabs/N_Blood_System.N_Blood_System:N_Blood_0.UpdateScript took 4.096567 sec (0.038975/0.230556)... Status NCS_UpToDate
+[2024.09.08-09.28.20:046][916]LogNiagara: UNiagraScript 'NiagaraScript /Game/Assets/Prefabs/N_Blood_System.N_Blood_System:N_Blood_0.UpdateScript' was built locally..
+[2024.09.08-09.28.20:126][916]LogNiagaraEditor: Compiling System NiagaraScript /Game/Assets/Prefabs/N_Blood_System.N_Blood_System:SystemSpawnScript took 4.176572 sec (0.042975/0.080294)... Status NCS_UpToDate
+[2024.09.08-09.28.20:126][916]LogNiagara: UNiagraScript 'NiagaraScript /Game/Assets/Prefabs/N_Blood_System.N_Blood_System:SystemSpawnScript' was built locally..
+[2024.09.08-09.28.20:404][916]LogNiagaraEditor: Compiling System NiagaraScript /Game/Assets/Prefabs/N_Blood_System.N_Blood_System:SystemUpdateScript took 0.585889 sec (0.007934/0.277968)... Status NCS_UpToDate
+[2024.09.08-09.28.20:404][916]LogNiagara: UNiagraScript 'NiagaraScript /Game/Assets/Prefabs/N_Blood_System.N_Blood_System:SystemUpdateScript' was built locally..
+[2024.09.08-09.28.20:421][916]LogNiagara: Compiling System NiagaraSystem /Game/Assets/Prefabs/N_Blood_System.N_Blood_System took 4.562633 sec (wall time), 12.725234 sec (combined time).
+[2024.09.08-09.28.20:526][916]LogUObjectHash: Compacting FUObjectHashTables data took  11.29ms
+[2024.09.08-09.28.22:555][916]LogSlate: Window 'Save Content' being destroyed
+[2024.09.08-09.28.22:569][916]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BArs/Bars" FILE="../../../../../../Users/alexi/Downloads/New_Marilao/ManilaOutbreak-Game/MarilaOubreaks/Content/BArs/Bars.uasset" SILENT=true
+[2024.09.08-09.28.22:837][916]LogSavePackage: Moving '../../../../../../Users/alexi/Downloads/New_Marilao/ManilaOutbreak-Game/MarilaOubreaks/Saved/BarsCAA0A41F4B290A5F7643768BD8470EEB.tmp' to '../../../../../../Users/alexi/Downloads/New_Marilao/ManilaOutbreak-Game/MarilaOubreaks/Content/BArs/Bars.uasset'
+[2024.09.08-09.28.22:851][916]LightingResults: New page: Lighting Build
+[2024.09.08-09.28.22:862][916]LogBlueprintActionDatabase: Requesting refresh due to module change: StatsViewer (loaded)
+[2024.09.08-09.28.22:862][916]LogContentBrowser: Native class hierarchy updated for 'StatsViewer' in 0.0005 seconds. Added 5 classes and 0 folders.
+[2024.09.08-09.28.22:863][916]LoadErrors: New page: Loading map: ThirdPersonExampleMap.umap
+[2024.09.08-09.28.22:864][916]MapCheck: New page: Map Check
+[2024.09.08-09.28.22:865][916]LightingResults: New page: Lighting Build
+[2024.09.08-09.28.22:928][916]LogUObjectHash: Compacting FUObjectHashTables data took   6.89ms
+[2024.09.08-09.28.24:932][916]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.09.08-09.28.25:034][916]LogUObjectHash: Compacting FUObjectHashTables data took   5.16ms
+[2024.09.08-09.28.25:161][916]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.09.08-09.28.25:165][916]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 3.044ms to complete.
+[2024.09.08-09.28.25:165][916]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 2.315
+[2024.09.08-09.28.27:360][980]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2024.09.08-09.28.27:432][980]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Assets/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/Assets/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/Assets/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2024.09.08-09.28.27:433][980]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.09.08-09.28.27:436][980]LogBlueprint: Warning: [Compiler Bars] Invalid property 'Characters' class, replaced with Object.  Please fix or remove.
+[2024.09.08-09.28.27:437][980]LogBlueprint: Warning: [Compiler Bars] Invalid property 'Character_Reference' class, replaced with Object.  Please fix or remove.
+[2024.09.08-09.28.27:484][980]LogPlayLevel: [PlayLevel] Compiling Bars before play...
+[2024.09.08-09.28.27:487][980]LogBlueprint: Warning: [Compiler Bars] Invalid property 'Characters' class, replaced with Object.  Please fix or remove.
+[2024.09.08-09.28.27:488][980]LogBlueprint: Warning: [Compiler Bars] Invalid property 'Character_Reference' class, replaced with Object.  Please fix or remove.
+[2024.09.08-09.28.27:518][980]LogBlueprint: Warning: [Compiler Bars] [0164.75] Compile of Bars successful, but with 4 Warning(s) [in 84 ms] (/Game/BArs/Bars.Bars)
+[2024.09.08-09.28.28:140][980]LogUObjectHash: Compacting FUObjectHashTables data took  10.13ms
+[2024.09.08-09.28.28:140][980]LogPlayLevel: PlayLevel: Blueprint regeneration took 706 ms (1 blueprints)
+[2024.09.08-09.28.28:153][980]PIE: New page: PIE session: ThirdPersonExampleMap (Sep 9, 2024, 1:28:28 AM)
+[2024.09.08-09.28.28:170][980]LogPlayLevel: Creating play world package: /Game/Assets/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2024.09.08-09.28.28:274][980]LogPlayLevel: PIE: StaticDuplicateObject took: (0.101406s)
+[2024.09.08-09.28.28:276][980]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2024.09.08-09.28.28:276][980]LogPlayLevel: PIE: World Init took: (0.001918s)
+[2024.09.08-09.28.28:277][980]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assets/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/Assets/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.106244s)
+[2024.09.08-09.28.28:364][980]LogUObjectHash: Compacting FUObjectHashTables data took   6.38ms
+[2024.09.08-09.28.28:371][980]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2024.09.08-09.28.28:397][980]LogInit: FAudioDevice initialized.
+[2024.09.08-09.28.28:422][980]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.09.08-09.28.28:476][980]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2024.09.08-09.28.28:477][980]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2024.09.08-09.28.28:477][980]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2024.09.08-09.28.28:477][980]LogLoad: Game class is 'GameModeBase'
+[2024.09.08-09.28.28:514][980]LogWorld: Bringing World /Game/Assets/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2024.09.08-17.28.28
+[2024.09.08-09.28.28:553][980]LogWorld: Bringing up level for play took: 0.073755
+[2024.09.08-09.28.28:609][980]LogBlueprintActionDatabase: Requesting refresh due to module change: Voice (loaded)
+[2024.09.08-09.28.28:636][980]LogBlueprintActionDatabase: Requesting refresh due to module change: MovieSceneCapture (loaded)
+[2024.09.08-09.28.28:637][980]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0012 seconds. Added 20 classes and 0 folders.
+[2024.09.08-09.28.28:666][980]LogBlueprintUserMessages: [Student_Display_C_0] Hello
+[2024.09.08-09.28.28:682][980]PIE: Play in editor start time for /Game/Assets/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 2.061
+[2024.09.08-09.28.28:683][980]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Assets/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/Assets/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/Assets/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2024.09.08-09.28.29:640][982]LogRenderer: Reallocating scene render targets to support 1016x544 Format 10 NumSamples 1 (Frame:1).
+[2024.09.08-09.28.35:667][110]LogSlate: Window 'MarilaOubreaks Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2024.09.08-09.28.35:690][110]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Assets/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/Assets/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/Assets/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2024.09.08-09.28.35:732][110]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.09.08-09.28.35:733][110]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Assets/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/Assets/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/Assets/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2024.09.08-09.28.36:014][110]LogUObjectHash: Compacting FUObjectHashTables data took   7.04ms
+[2024.09.08-09.28.36:035][111]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2024.09.08-09.28.40:275][416]LogUObjectHash: Compacting FUObjectHashTables data took   6.44ms
+[2024.09.08-09.28.40:642][416]LogSlate: Window 'MarilaOubreaks - Unreal Editor' being destroyed
+[2024.09.08-09.28.41:012][417]Cmd: QUIT_EDITOR
+[2024.09.08-09.28.41:906][417]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2024.09.08-09.28.41:950][417]LogExit: Preparing to exit.
+[2024.09.08-09.28.43:012][417]LogExit: Editor shut down
+[2024.09.08-09.28.43:014][417]LogExit: Transaction tracking system shut down
+[2024.09.08-09.28.43:898][417]LogExit: Object subsystem successfully closed.
+[2024.09.08-09.28.43:943][417]LogShaderCompilers: Display: Shaders left to compile 0
+[2024.09.08-09.28.44:021][417]LogD3D11RHI: Shutdown
+[2024.09.08-09.28.44:022][417]LogD3D11RHI: CleanupD3DDevice
+[2024.09.08-09.28.44:025][417]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2024.09.08-09.28.44:026][417]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2024.09.08-09.28.44:026][417]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2024.09.08-09.28.44:026][417]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2024.09.08-09.28.44:026][417]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2024.09.08-09.28.44:026][417]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2024.09.08-09.28.44:349][417]LogD3D11RHI: ~FD3D11DynamicRHI
+[2024.09.08-09.28.44:426][417]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (662)
+[2024.09.08-09.28.44:426][417]LogModuleManager: Shutting down and abandoning module Voice (660)
+[2024.09.08-09.28.44:426][417]LogModuleManager: Shutting down and abandoning module StatsViewer (658)
+[2024.09.08-09.28.44:426][417]LogModuleManager: Shutting down and abandoning module SequencerWidgets (656)
+[2024.09.08-09.28.44:426][417]LogModuleManager: Shutting down and abandoning module BlueprintGraph (654)
+[2024.09.08-09.28.44:426][417]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (652)
+[2024.09.08-09.28.44:426][417]LogModuleManager: Shutting down and abandoning module SceneOutliner (650)
+[2024.09.08-09.28.44:426][417]LogModuleManager: Shutting down and abandoning module AddContentDialog (648)
+[2024.09.08-09.28.44:429][417]LogModuleManager: Shutting down and abandoning module WidgetCarousel (647)
+[2024.09.08-09.28.44:429][417]LogModuleManager: Shutting down and abandoning module EditorWidgets (644)
+[2024.09.08-09.28.44:429][417]LogModuleManager: Shutting down and abandoning module CollectionManager (642)
+[2024.09.08-09.28.44:429][417]LogModuleManager: Shutting down and abandoning module FoliageEdit (640)
+[2024.09.08-09.28.44:429][417]LogModuleManager: Shutting down and abandoning module LandscapeEditor (638)
+[2024.09.08-09.28.44:430][417]LogModuleManager: Shutting down and abandoning module MeshPaintMode (636)
+[2024.09.08-09.28.44:430][417]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (634)
+[2024.09.08-09.28.44:430][417]LogModuleManager: Shutting down and abandoning module ActorPickerMode (632)
+[2024.09.08-09.28.44:430][417]LogModuleManager: Shutting down and abandoning module GeometryMode (630)
+[2024.09.08-09.28.44:430][417]LogModuleManager: Shutting down and abandoning module TextureAlignMode (628)
+[2024.09.08-09.28.44:430][417]LogModuleManager: Shutting down and abandoning module BspMode (626)
+[2024.09.08-09.28.44:430][417]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (624)
+[2024.09.08-09.28.44:430][417]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (622)
+[2024.09.08-09.28.44:430][417]LogModuleManager: Shutting down and abandoning module AutomationWorker (620)
+[2024.09.08-09.28.44:430][417]LogModuleManager: Shutting down and abandoning module OculusMR (618)
+[2024.09.08-09.28.44:430][417]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (616)
+[2024.09.08-09.28.44:430][417]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (614)
+[2024.09.08-09.28.44:430][417]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (612)
+[2024.09.08-09.28.44:430][417]LogModuleManager: Shutting down and abandoning module PlacementMode (611)
+[2024.09.08-09.28.44:430][417]LogModuleManager: Shutting down and abandoning module MaterialEditor (610)
+[2024.09.08-09.28.44:430][417]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (606)
+[2024.09.08-09.28.44:430][417]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (604)
+[2024.09.08-09.28.44:430][417]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (602)
+[2024.09.08-09.28.44:430][417]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (600)
+[2024.09.08-09.28.44:430][417]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (598)
+[2024.09.08-09.28.44:430][417]LogModuleManager: Shutting down and abandoning module WebMMedia (596)
+[2024.09.08-09.28.44:430][417]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (594)
+[2024.09.08-09.28.44:430][417]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (592)
+[2024.09.08-09.28.44:430][417]LogModuleManager: Shutting down and abandoning module SequenceRecorder (591)
+[2024.09.08-09.28.44:430][417]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (588)
+[2024.09.08-09.28.44:430][417]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (586)
+[2024.09.08-09.28.44:431][417]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (584)
+[2024.09.08-09.28.44:431][417]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (582)
+[2024.09.08-09.28.44:431][417]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (580)
+[2024.09.08-09.28.44:431][417]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (578)
+[2024.09.08-09.28.44:431][417]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (576)
+[2024.09.08-09.28.44:431][417]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (574)
+[2024.09.08-09.28.44:431][417]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (572)
+[2024.09.08-09.28.44:431][417]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (570)
+[2024.09.08-09.28.44:431][417]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (568)
+[2024.09.08-09.28.44:431][417]LogModuleManager: Shutting down and abandoning module CharacterAI (566)
+[2024.09.08-09.28.44:431][417]LogModuleManager: Shutting down and abandoning module SmartSnapping (564)
+[2024.09.08-09.28.44:431][417]LogModuleManager: Shutting down and abandoning module SessionServices (562)
+[2024.09.08-09.28.44:431][417]LogModuleManager: Shutting down and abandoning module MeshPaint (560)
+[2024.09.08-09.28.44:431][417]LogModuleManager: Shutting down and abandoning module ViewportSnapping (558)
+[2024.09.08-09.28.44:431][417]LogModuleManager: Shutting down and abandoning module ViewportInteraction (556)
+[2024.09.08-09.28.44:431][417]LogModuleManager: Shutting down and abandoning module ClothPainter (554)
+[2024.09.08-09.28.44:431][417]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (553)
+[2024.09.08-09.28.44:431][417]LogModuleManager: Shutting down and abandoning module LogVisualizer (550)
+[2024.09.08-09.28.44:431][417]LogModuleManager: Shutting down and abandoning module IntroTutorials (548)
+[2024.09.08-09.28.44:432][417]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (547)
+[2024.09.08-09.28.44:433][417]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (544)
+[2024.09.08-09.28.44:433][417]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (542)
+[2024.09.08-09.28.44:433][417]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (540)
+[2024.09.08-09.28.44:433][417]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (538)
+[2024.09.08-09.28.44:433][417]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (537)
+[2024.09.08-09.28.45:112][417]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (534)
+[2024.09.08-09.28.45:112][417]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (532)
+[2024.09.08-09.28.45:112][417]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (530)
+[2024.09.08-09.28.45:112][417]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (528)
+[2024.09.08-09.28.45:112][417]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (526)
+[2024.09.08-09.28.45:112][417]LogModuleManager: Shutting down and abandoning module InputBindingEditor (524)
+[2024.09.08-09.28.45:112][417]LogModuleManager: Shutting down and abandoning module MergeActors (522)
+[2024.09.08-09.28.45:112][417]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (520)
+[2024.09.08-09.28.45:112][417]LogModuleManager: Shutting down and abandoning module LocalizationService (519)
+[2024.09.08-09.28.45:113][417]LogModuleManager: Shutting down and abandoning module HardwareTargeting (516)
+[2024.09.08-09.28.45:113][417]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (514)
+[2024.09.08-09.28.45:113][417]LogModuleManager: Shutting down and abandoning module UndoHistory (512)
+[2024.09.08-09.28.45:113][417]LogModuleManager: Shutting down and abandoning module XmlParser (510)
+[2024.09.08-09.28.45:113][417]LogModuleManager: Shutting down and abandoning module Blutility (508)
+[2024.09.08-09.28.45:113][417]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (506)
+[2024.09.08-09.28.45:118][417]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (505)
+[2024.09.08-09.28.45:120][417]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (502)
+[2024.09.08-09.28.45:120][417]LogModuleManager: Shutting down and abandoning module SettingsEditor (500)
+[2024.09.08-09.28.45:121][417]LogModuleManager: Shutting down and abandoning module ProjectLauncher (498)
+[2024.09.08-09.28.45:121][417]LogModuleManager: Shutting down and abandoning module SessionFrontend (496)
+[2024.09.08-09.28.45:121][417]LogModuleManager: Shutting down and abandoning module ProfilerClient (494)
+[2024.09.08-09.28.45:121][417]LogModuleManager: Shutting down and abandoning module DeviceManager (492)
+[2024.09.08-09.28.45:121][417]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (491)
+[2024.09.08-09.28.45:174][417]LogModuleManager: Shutting down and abandoning module AutomationController (488)
+[2024.09.08-09.28.45:174][417]LogModuleManager: Shutting down and abandoning module AutomationWindow (486)
+[2024.09.08-09.28.45:174][417]LogModuleManager: Shutting down and abandoning module Layers (484)
+[2024.09.08-09.28.45:174][417]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (482)
+[2024.09.08-09.28.45:174][417]LogModuleManager: Shutting down and abandoning module DetailCustomizations (480)
+[2024.09.08-09.28.45:174][417]LogModuleManager: Shutting down and abandoning module PackagesDialog (478)
+[2024.09.08-09.28.45:174][417]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (476)
+[2024.09.08-09.28.45:174][417]LogModuleManager: Shutting down and abandoning module Persona (474)
+[2024.09.08-09.28.45:174][417]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (473)
+[2024.09.08-09.28.45:174][417]LogModuleManager: Shutting down and abandoning module AnimGraph (471)
+[2024.09.08-09.28.45:174][417]LogModuleManager: Shutting down and abandoning module Kismet (468)
+[2024.09.08-09.28.45:178][417]LogModuleManager: Shutting down and abandoning module GraphEditor (466)
+[2024.09.08-09.28.45:178][417]LogModuleManager: Shutting down and abandoning module ClassViewer (464)
+[2024.09.08-09.28.45:178][417]LogModuleManager: Shutting down and abandoning module Toolbox (462)
+[2024.09.08-09.28.45:179][417]LogModuleManager: Shutting down and abandoning module ModuleUI (460)
+[2024.09.08-09.28.45:179][417]LogModuleManager: Shutting down and abandoning module MovieSceneTools (458)
+[2024.09.08-09.28.45:179][417]LogModuleManager: Shutting down and abandoning module OutputLog (456)
+[2024.09.08-09.28.45:179][417]LogModuleManager: Shutting down and abandoning module GammaUI (454)
+[2024.09.08-09.28.45:179][417]LogModuleManager: Shutting down and abandoning module Documentation (452)
+[2024.09.08-09.28.45:179][417]LogModuleManager: Shutting down and abandoning module LiveCoding (450)
+[2024.09.08-09.28.45:179][417]LogModuleManager: Shutting down and abandoning module LevelSequence (448)
+[2024.09.08-09.28.45:179][417]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (446)
+[2024.09.08-09.28.45:179][417]LogModuleManager: Shutting down and abandoning module MovieScene (444)
+[2024.09.08-09.28.45:179][417]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (442)
+[2024.09.08-09.28.45:179][417]LogModuleManager: Shutting down and abandoning module LauncherPlatform (440)
+[2024.09.08-09.28.45:179][417]LogModuleManager: Shutting down and abandoning module AnalyticsET (438)
+[2024.09.08-09.28.45:179][417]LogModuleManager: Shutting down and abandoning module PortalServices (436)
+[2024.09.08-09.28.45:179][417]LogModuleManager: Shutting down and abandoning module PortalRpc (434)
+[2024.09.08-09.28.45:179][417]LogModuleManager: Shutting down and abandoning module MessagingRpc (432)
+[2024.09.08-09.28.45:179][417]LogModuleManager: Shutting down and abandoning module AIModule (430)
+[2024.09.08-09.28.45:179][417]LogModuleManager: Shutting down and abandoning module GameplayDebugger (429)
+[2024.09.08-09.28.45:179][417]LogModuleManager: Shutting down and abandoning module AITestSuite (427)
+[2024.09.08-09.28.45:179][417]LogModuleManager: Shutting down and abandoning module NavigationSystem (425)
+[2024.09.08-09.28.45:179][417]LogModuleManager: Shutting down and abandoning module DesktopPlatform (422)
+[2024.09.08-09.28.45:179][417]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (420)
+[2024.09.08-09.28.45:187][417]LogModuleManager: Shutting down and abandoning module ProfilerService (418)
+[2024.09.08-09.28.45:288][417]LogModuleManager: Shutting down and abandoning module TaskGraph (416)
+[2024.09.08-09.28.45:288][417]LogModuleManager: Shutting down and abandoning module SteamVRController (414)
+[2024.09.08-09.28.45:288][417]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (412)
+[2024.09.08-09.28.45:288][417]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (410)
+[2024.09.08-09.28.45:288][417]LogModuleManager: Shutting down and abandoning module OculusEditor (408)
+[2024.09.08-09.28.45:288][417]LogModuleManager: Shutting down and abandoning module OculusInput (406)
+[2024.09.08-09.28.45:288][417]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (404)
+[2024.09.08-09.28.45:288][417]LogModuleManager: Shutting down and abandoning module EditableMesh (402)
+[2024.09.08-09.28.45:288][417]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (400)
+[2024.09.08-09.28.45:288][417]LogModuleManager: Shutting down and abandoning module CableComponent (398)
+[2024.09.08-09.28.45:288][417]LogModuleManager: Shutting down and abandoning module AudioCapture (396)
+[2024.09.08-09.28.45:288][417]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (394)
+[2024.09.08-09.28.45:288][417]LogModuleManager: Shutting down and abandoning module AndroidPermission (392)
+[2024.09.08-09.28.45:288][417]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (390)
+[2024.09.08-09.28.45:288][417]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (388)
+[2024.09.08-09.28.45:288][417]LogModuleManager: Shutting down and abandoning module MediaCompositing (386)
+[2024.09.08-09.28.45:288][417]LogModuleManager: Shutting down and abandoning module LinearTimecode (384)
+[2024.09.08-09.28.45:288][417]LogModuleManager: Shutting down and abandoning module ImgMedia (382)
+[2024.09.08-09.28.45:288][417]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (380)
+[2024.09.08-09.28.45:288][417]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (378)
+[2024.09.08-09.28.45:288][417]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (376)
+[2024.09.08-09.28.45:289][417]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (374)
+[2024.09.08-09.28.45:290][417]LogModuleManager: Shutting down and abandoning module NiagaraEditor (372)
+[2024.09.08-09.28.45:290][417]LogModuleManager: Shutting down and abandoning module HTML5Networking (370)
+[2024.09.08-09.28.45:290][417]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (368)
+[2024.09.08-09.28.45:290][417]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (366)
+[2024.09.08-09.28.45:290][417]LogModuleManager: Shutting down and abandoning module BackChannel (364)
+[2024.09.08-09.28.45:290][417]LogModuleManager: Shutting down and abandoning module AppleVision (362)
+[2024.09.08-09.28.45:290][417]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (360)
+[2024.09.08-09.28.45:290][417]LogModuleManager: Shutting down and abandoning module AppleImageUtils (358)
+[2024.09.08-09.28.45:290][417]LogModuleManager: Shutting down and abandoning module AlembicImporter (356)
+[2024.09.08-09.28.45:290][417]LogModuleManager: Shutting down and abandoning module AlembicLibrary (355)
+[2024.09.08-09.28.45:290][417]LogModuleManager: Shutting down and abandoning module GeometryCache (354)
+[2024.09.08-09.28.45:290][417]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (353)
+[2024.09.08-09.28.45:290][417]LogModuleManager: Shutting down and abandoning module VariantManagerContent (348)
+[2024.09.08-09.28.45:290][417]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (346)
+[2024.09.08-09.28.45:290][417]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (344)
+[2024.09.08-09.28.45:290][417]LogModuleManager: Shutting down and abandoning module PluginBrowser (342)
+[2024.09.08-09.28.45:291][417]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (340)
+[2024.09.08-09.28.45:291][417]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (338)
+[2024.09.08-09.28.45:291][417]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (336)
+[2024.09.08-09.28.45:291][417]LogModuleManager: Shutting down and abandoning module CryptoKeys (334)
+[2024.09.08-09.28.45:291][417]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (332)
+[2024.09.08-09.28.45:291][417]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (330)
+[2024.09.08-09.28.45:291][417]LogModuleManager: Shutting down and abandoning module UObjectPlugin (328)
+[2024.09.08-09.28.45:291][417]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (326)
+[2024.09.08-09.28.45:291][417]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (324)
+[2024.09.08-09.28.45:291][417]LogModuleManager: Shutting down and abandoning module GitSourceControl (322)
+[2024.09.08-09.28.45:291][417]LogModuleManager: Shutting down and abandoning module SourceControl (321)
+[2024.09.08-09.28.45:291][417]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (318)
+[2024.09.08-09.28.45:291][417]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (316)
+[2024.09.08-09.28.45:291][417]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (314)
+[2024.09.08-09.28.45:291][417]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (312)
+[2024.09.08-09.28.45:291][417]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (310)
+[2024.09.08-09.28.45:291][417]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (308)
+[2024.09.08-09.28.45:291][417]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (306)
+[2024.09.08-09.28.45:291][417]LogModuleManager: Shutting down and abandoning module Paper2DEditor (304)
+[2024.09.08-09.28.45:291][417]LogModuleManager: Shutting down and abandoning module SignificanceManager (302)
+[2024.09.08-09.28.45:291][417]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (300)
+[2024.09.08-09.28.45:291][417]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (298)
+[2024.09.08-09.28.45:292][417]LogModuleManager: Shutting down and abandoning module PhysXVehicles (296)
+[2024.09.08-09.28.45:292][417]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (294)
+[2024.09.08-09.28.45:292][417]LogModuleManager: Shutting down and abandoning module ActorSequence (292)
+[2024.09.08-09.28.45:292][417]LogModuleManager: Shutting down and abandoning module UdpMessaging (290)
+[2024.09.08-09.28.45:393][417]LogModuleManager: Shutting down and abandoning module TcpMessaging (288)
+[2024.09.08-09.28.45:494][417]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (286)
+[2024.09.08-09.28.45:494][417]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (284)
+[2024.09.08-09.28.45:494][417]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (282)
+[2024.09.08-09.28.45:494][417]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (280)
+[2024.09.08-09.28.45:494][417]LogModuleManager: Shutting down and abandoning module MagicLeapController (278)
+[2024.09.08-09.28.45:494][417]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2024.09.08-09.28.45:502][417]LogModuleManager: Shutting down and abandoning module MagicLeapAR (276)
+[2024.09.08-09.28.45:504][417]LogModuleManager: Shutting down and abandoning module AugmentedReality (275)
+[2024.09.08-09.28.45:504][417]LogModuleManager: Shutting down and abandoning module Niagara (272)
+[2024.09.08-09.28.45:504][417]LogModuleManager: Shutting down and abandoning module NiagaraCore (270)
+[2024.09.08-09.28.45:520][417]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (268)
+[2024.09.08-09.28.45:521][417]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (266)
+[2024.09.08-09.28.45:521][417]LogModuleManager: Shutting down and abandoning module FacialAnimation (264)
+[2024.09.08-09.28.45:521][417]LogModuleManager: Shutting down and abandoning module DataValidation (262)
+[2024.09.08-09.28.45:521][417]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (260)
+[2024.09.08-09.28.45:521][417]LogModuleManager: Shutting down and abandoning module LevelEditor (259)
+[2024.09.08-09.28.45:523][417]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (258)
+[2024.09.08-09.28.45:523][417]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (256)
+[2024.09.08-09.28.45:524][417]LogModuleManager: Shutting down and abandoning module MainFrame (254)
+[2024.09.08-09.28.45:524][417]LogModuleManager: Shutting down and abandoning module HotReload (253)
+[2024.09.08-09.28.45:528][417]LogModuleManager: Shutting down and abandoning module ContentBrowser (249)
+[2024.09.08-09.28.45:537][417]LogModuleManager: Shutting down and abandoning module TreeMap (247)
+[2024.09.08-09.28.45:537][417]LogModuleManager: Shutting down and abandoning module AnimationSharing (244)
+[2024.09.08-09.28.45:537][417]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (242)
+[2024.09.08-09.28.45:537][417]LogModuleManager: Shutting down and abandoning module AISupportModule (240)
+[2024.09.08-09.28.45:537][417]LogModuleManager: Shutting down and abandoning module Paper2D (238)
+[2024.09.08-09.28.45:537][417]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (236)
+[2024.09.08-09.28.45:537][417]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (234)
+[2024.09.08-09.28.45:537][417]LogModuleManager: Shutting down and abandoning module PacketHandler (232)
+[2024.09.08-09.28.45:537][417]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (230)
+[2024.09.08-09.28.45:537][417]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (228)
+[2024.09.08-09.28.45:537][417]LogModuleManager: Shutting down and abandoning module MediaAssets (226)
+[2024.09.08-09.28.45:537][417]LogModuleManager: Shutting down and abandoning module Overlay (224)
+[2024.09.08-09.28.45:537][417]LogModuleManager: Shutting down and abandoning module OverlayEditor (223)
+[2024.09.08-09.28.45:537][417]LogModuleManager: Shutting down and abandoning module VREditor (220)
+[2024.09.08-09.28.45:537][417]LogModuleManager: Shutting down and abandoning module StringTableEditor (218)
+[2024.09.08-09.28.45:537][417]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (216)
+[2024.09.08-09.28.45:537][417]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (214)
+[2024.09.08-09.28.45:537][417]LogModuleManager: Shutting down and abandoning module FunctionalTesting (212)
+[2024.09.08-09.28.45:537][417]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (210)
+[2024.09.08-09.28.45:537][417]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (209)
+[2024.09.08-09.28.45:538][417]LogModuleManager: Shutting down and abandoning module UMG (206)
+[2024.09.08-09.28.45:538][417]LogModuleManager: Shutting down and abandoning module UMGEditor (205)
+[2024.09.08-09.28.45:538][417]LogModuleManager: Shutting down and abandoning module Sequencer (204)
+[2024.09.08-09.28.45:538][417]LogModuleManager: Shutting down and abandoning module MessageLog (201)
+[2024.09.08-09.28.45:538][417]LogModuleManager: Shutting down and abandoning module SlateReflector (196)
+[2024.09.08-09.28.45:538][417]LogModuleManager: Shutting down and abandoning module Slate (194)
+[2024.09.08-09.28.45:538][417]LogModuleManager: Shutting down and abandoning module EditorStyle (192)
+[2024.09.08-09.28.45:540][417]LogModuleManager: Shutting down and abandoning module UnrealEd (190)
+[2024.09.08-09.28.45:540][417]LogModuleManager: Shutting down and abandoning module MRMesh (188)
+[2024.09.08-09.28.45:540][417]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (186)
+[2024.09.08-09.28.45:540][417]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (184)
+[2024.09.08-09.28.45:540][417]LogModuleManager: Shutting down and abandoning module XAudio2 (182)
+[2024.09.08-09.28.45:540][417]LogModuleManager: Shutting down and abandoning module Networking (180)
+[2024.09.08-09.28.45:540][417]LogModuleManager: Shutting down and abandoning module Core (178)
+[2024.09.08-09.28.45:540][417]LogModuleManager: Shutting down and abandoning module KismetCompiler (176)
+[2024.09.08-09.28.45:540][417]LogModuleManager: Shutting down and abandoning module MeshUtilities (174)
+[2024.09.08-09.28.45:540][417]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (173)
+[2024.09.08-09.28.45:540][417]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (172)
+[2024.09.08-09.28.45:540][417]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (171)
+[2024.09.08-09.28.45:540][417]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (169)
+[2024.09.08-09.28.45:540][417]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (167)
+[2024.09.08-09.28.45:540][417]LogModuleManager: Shutting down and abandoning module MaterialBaking (163)
+[2024.09.08-09.28.45:540][417]LogModuleManager: Shutting down and abandoning module DerivedDataCache (158)
+[2024.09.08-09.28.45:627][417]LogDerivedDataCache: Shutdown
+[2024.09.08-09.28.45:627][417]LogModuleManager: Shutting down and abandoning module XGEController (156)
+[2024.09.08-09.28.45:627][417]LogModuleManager: Shutting down and abandoning module TargetPlatform (154)
+[2024.09.08-09.28.45:627][417]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (153)
+[2024.09.08-09.28.45:627][417]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (151)
+[2024.09.08-09.28.45:627][417]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (149)
+[2024.09.08-09.28.45:627][417]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (147)
+[2024.09.08-09.28.45:628][417]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (145)
+[2024.09.08-09.28.45:628][417]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (143)
+[2024.09.08-09.28.45:628][417]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (141)
+[2024.09.08-09.28.45:628][417]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (139)
+[2024.09.08-09.28.45:628][417]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (137)
+[2024.09.08-09.28.45:628][417]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (135)
+[2024.09.08-09.28.45:628][417]LogModuleManager: Shutting down and abandoning module ImageWrapper (134)
+[2024.09.08-09.28.45:628][417]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (131)
+[2024.09.08-09.28.45:628][417]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (129)
+[2024.09.08-09.28.45:628][417]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (127)
+[2024.09.08-09.28.45:628][417]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (125)
+[2024.09.08-09.28.45:628][417]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (123)
+[2024.09.08-09.28.45:629][417]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (121)
+[2024.09.08-09.28.45:629][417]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (119)
+[2024.09.08-09.28.45:629][417]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (117)
+[2024.09.08-09.28.45:629][417]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (115)
+[2024.09.08-09.28.45:629][417]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (113)
+[2024.09.08-09.28.45:631][417]LogModuleManager: Shutting down and abandoning module Messaging (111)
+[2024.09.08-09.28.45:631][417]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (109)
+[2024.09.08-09.28.45:641][417]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (107)
+[2024.09.08-09.28.45:641][417]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (105)
+[2024.09.08-09.28.45:670][417]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (103)
+[2024.09.08-09.28.45:670][417]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (101)
+[2024.09.08-09.28.45:670][417]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (99)
+[2024.09.08-09.28.45:670][417]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (97)
+[2024.09.08-09.28.45:670][417]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (95)
+[2024.09.08-09.28.45:670][417]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (93)
+[2024.09.08-09.28.45:670][417]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (91)
+[2024.09.08-09.28.45:671][417]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (89)
+[2024.09.08-09.28.45:671][417]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (87)
+[2024.09.08-09.28.45:671][417]LogModuleManager: Shutting down and abandoning module InputCore (84)
+[2024.09.08-09.28.45:671][417]LogModuleManager: Shutting down and abandoning module Settings (82)
+[2024.09.08-09.28.45:671][417]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (80)
+[2024.09.08-09.28.45:671][417]LogModuleManager: Shutting down and abandoning module PhysXCooking (78)
+[2024.09.08-09.28.45:671][417]LogModuleManager: Shutting down and abandoning module SteamVR (76)
+[2024.09.08-09.28.45:671][417]LogHMD: Freeing OpenVRDLLHandle.
+[2024.09.08-09.28.45:671][417]LogModuleManager: Shutting down and abandoning module OculusHMD (74)
+[2024.09.08-09.28.45:671][417]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (72)
+[2024.09.08-09.28.45:671][417]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (70)
+[2024.09.08-09.28.45:671][417]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (68)
+[2024.09.08-09.28.45:671][417]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (64)
+[2024.09.08-09.28.45:673][417]LogModuleManager: Shutting down and abandoning module XMPP (59)
+[2024.09.08-09.28.45:673][417]LogModuleManager: Shutting down and abandoning module WebSockets (58)
+[2024.09.08-09.28.45:698][417]LogModuleManager: Shutting down and abandoning module HTTP (55)
+[2024.09.08-09.28.45:698][417]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2024.09.08-09.28.45:698][417]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B57C15C6E-449B-786F-D3CC-699E0871BF69%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=b27576c145c9ae15565263a0ea3d50bf%7C379ebc34babe4849ad2903098f619c22%7C4c82821e-8c7d-4bbb-8b52-0fc166e09071&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2024.09.08-09.28.45:731][417]LogModuleManager: Shutting down and abandoning module SSL (54)
+[2024.09.08-09.28.45:732][417]LogModuleManager: Shutting down and abandoning module WmfMedia (50)
+[2024.09.08-09.28.45:736][417]LogModuleManager: Shutting down and abandoning module Media (49)
+[2024.09.08-09.28.45:743][417]LogModuleManager: Shutting down and abandoning module MagicLeap (46)
+[2024.09.08-09.28.45:743][417]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (44)
+[2024.09.08-09.28.45:743][417]LogModuleManager: Shutting down and abandoning module NiagaraShader (42)
+[2024.09.08-09.28.45:743][417]LogModuleManager: Shutting down and abandoning module DatasmithContent (40)
+[2024.09.08-09.28.45:743][417]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2024.09.08-09.28.45:743][417]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2024.09.08-09.28.45:743][417]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2024.09.08-09.28.45:744][417]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2024.09.08-09.28.45:744][417]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2024.09.08-09.28.45:744][417]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2024.09.08-09.28.45:744][417]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2024.09.08-09.28.45:745][417]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2024.09.08-09.28.45:745][417]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2024.09.08-09.28.45:745][417]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2024.09.08-09.28.45:745][417]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2024.09.08-09.28.45:745][417]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2024.09.08-09.28.45:745][417]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2024.09.08-09.28.45:745][417]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2024.09.08-09.28.45:745][417]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2024.09.08-09.28.45:745][417]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2024.09.08-09.28.45:745][417]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2024.09.08-09.28.45:745][417]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2024.09.08-09.28.45:745][417]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2024.09.08-09.28.45:752][417]LogExit: Exiting.
+[2024.09.08-09.28.45:758][417]Log file closed, 09/08/24 17:28:45
+>>>>>>> Stashed changes
