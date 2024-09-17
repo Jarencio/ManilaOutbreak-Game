@@ -1,0 +1,1494 @@
+﻿Log file open, 09/17/24 01:46:43
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: MarilaOubreaks
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.338830
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +8:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Pentium(R) Silver N6000 @ 1.10GHz, GPU: Intel(R) UHD Graphics
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2024.09.16-17.46.44:050][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2024.09.16-17.46.44:050][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2024.09.16-17.46.44:050][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/alexi/Downloads/New_Marilao/ManilaOutbreak-Game/MarilaOubreaks/Saved/Config/Windows/Engine.ini]
+[2024.09.16-17.46.44:050][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2024.09.16-17.46.44:050][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/alexi/Downloads/New_Marilao/ManilaOutbreak-Game/MarilaOubreaks/Saved/Config/Windows/Engine.ini]
+[2024.09.16-17.46.44:050][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/alexi/Downloads/New_Marilao/ManilaOutbreak-Game/MarilaOubreaks/Saved/Config/Windows/Engine.ini]
+[2024.09.16-17.46.44:050][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2024.09.16-17.46.44:050][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2024.09.16-17.46.44:051][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2024.09.16-17.46.44:051][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2024.09.16-17.46.44:051][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2024.09.16-17.46.44:051][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2024.09.16-17.46.44:051][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2024.09.16-17.46.44:051][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2024.09.16-17.46.44:051][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2024.09.16-17.46.44:051][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2024.09.16-17.46.44:051][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2024.09.16-17.46.44:051][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2024.09.16-17.46.44:051][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2024.09.16-17.46.44:051][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/alexi/Downloads/New_Marilao/ManilaOutbreak-Game/MarilaOubreaks/Saved/Config/Windows/Engine.ini]
+[2024.09.16-17.46.44:051][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2024.09.16-17.46.44:051][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2024.09.16-17.46.44:051][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2024.09.16-17.46.44:051][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2024.09.16-17.46.44:051][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2024.09.16-17.46.44:051][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2024.09.16-17.46.44:051][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2024.09.16-17.46.44:051][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2024.09.16-17.46.44:052][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2024.09.16-17.46.44:052][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2024.09.16-17.46.44:052][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2024.09.16-17.46.44:052][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2024.09.16-17.46.44:052][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2024.09.16-17.46.44:052][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/alexi/Downloads/New_Marilao/ManilaOutbreak-Game/MarilaOubreaks/Saved/Config/Windows/Engine.ini]
+[2024.09.16-17.46.44:052][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/alexi/Downloads/New_Marilao/ManilaOutbreak-Game/MarilaOubreaks/Saved/Config/Windows/Engine.ini]
+[2024.09.16-17.46.44:059][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/alexi/Downloads/New_Marilao/ManilaOutbreak-Game/MarilaOubreaks/Saved/Config/Windows/Scalability.ini]
+[2024.09.16-17.46.44:059][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2024.09.16-17.46.44:059][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2024.09.16-17.46.44:059][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/alexi/Downloads/New_Marilao/ManilaOutbreak-Game/MarilaOubreaks/Saved/Config/Windows/Scalability.ini]
+[2024.09.16-17.46.44:059][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2024.09.16-17.46.44:059][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/alexi/Downloads/New_Marilao/ManilaOutbreak-Game/MarilaOubreaks/Saved/Config/Windows/Scalability.ini]
+[2024.09.16-17.46.44:059][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2024.09.16-17.46.44:059][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2024.09.16-17.46.44:059][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2024.09.16-17.46.44:059][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2024.09.16-17.46.44:059][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2024.09.16-17.46.44:059][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2024.09.16-17.46.44:059][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2024.09.16-17.46.44:059][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2024.09.16-17.46.44:059][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2024.09.16-17.46.44:059][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2024.09.16-17.46.44:059][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2024.09.16-17.46.44:059][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2024.09.16-17.46.44:059][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2024.09.16-17.46.44:059][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2024.09.16-17.46.44:059][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2024.09.16-17.46.44:059][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2024.09.16-17.46.44:059][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2024.09.16-17.46.44:059][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2024.09.16-17.46.44:059][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/alexi/Downloads/New_Marilao/ManilaOutbreak-Game/MarilaOubreaks/Saved/Config/Windows/Scalability.ini]
+[2024.09.16-17.46.44:059][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2024.09.16-17.46.44:059][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2024.09.16-17.46.44:059][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2024.09.16-17.46.44:059][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2024.09.16-17.46.44:059][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2024.09.16-17.46.44:059][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2024.09.16-17.46.44:059][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2024.09.16-17.46.44:059][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2024.09.16-17.46.44:059][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2024.09.16-17.46.44:059][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2024.09.16-17.46.44:059][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2024.09.16-17.46.44:059][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2024.09.16-17.46.44:059][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2024.09.16-17.46.44:059][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2024.09.16-17.46.44:059][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2024.09.16-17.46.44:059][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2024.09.16-17.46.44:059][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2024.09.16-17.46.44:059][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2024.09.16-17.46.44:059][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2024.09.16-17.46.44:059][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2024.09.16-17.46.44:059][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2024.09.16-17.46.44:059][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2024.09.16-17.46.44:059][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2024.09.16-17.46.44:059][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2024.09.16-17.46.44:059][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2024.09.16-17.46.44:059][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2024.09.16-17.46.44:059][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2024.09.16-17.46.44:064][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2024.09.16-17.46.44:064][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2024.09.16-17.46.44:064][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2024.09.16-17.46.44:064][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/alexi/Downloads/New_Marilao/ManilaOutbreak-Game/MarilaOubreaks/Saved/Config/Windows/Scalability.ini]
+[2024.09.16-17.46.44:064][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2024.09.16-17.46.44:064][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2024.09.16-17.46.44:064][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2024.09.16-17.46.44:064][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2024.09.16-17.46.44:064][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2024.09.16-17.46.44:064][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2024.09.16-17.46.44:064][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2024.09.16-17.46.44:064][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2024.09.16-17.46.44:064][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/alexi/Downloads/New_Marilao/ManilaOutbreak-Game/MarilaOubreaks/Saved/Config/Windows/Scalability.ini]
+[2024.09.16-17.46.44:064][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2024.09.16-17.46.44:064][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2024.09.16-17.46.44:064][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2024.09.16-17.46.44:064][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2024.09.16-17.46.44:064][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2024.09.16-17.46.44:064][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2024.09.16-17.46.44:064][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2024.09.16-17.46.44:064][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2024.09.16-17.46.44:064][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2024.09.16-17.46.44:064][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2024.09.16-17.46.44:064][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2024.09.16-17.46.44:064][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2024.09.16-17.46.44:064][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2024.09.16-17.46.44:064][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/alexi/Downloads/New_Marilao/ManilaOutbreak-Game/MarilaOubreaks/Saved/Config/Windows/Scalability.ini]
+[2024.09.16-17.46.44:064][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2024.09.16-17.46.44:064][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2024.09.16-17.46.44:064][  0]LogInit: Selected Device Profile: [Windows]
+[2024.09.16-17.46.44:064][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2024.09.16-17.46.44:110][  0]LogHAL: Display: Platform has ~ 8 GB [8386174976 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2024.09.16-17.46.44:110][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2024.09.16-17.46.44:110][  0]LogInit: Going up to parent DeviceProfile []
+[2024.09.16-17.46.44:110][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/alexi/Downloads/New_Marilao/ManilaOutbreak-Game/MarilaOubreaks/Saved/Config/Windows/Scalability.ini]
+[2024.09.16-17.46.44:110][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2024.09.16-17.46.44:110][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2024.09.16-17.46.44:110][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/alexi/Downloads/New_Marilao/ManilaOutbreak-Game/MarilaOubreaks/Saved/Config/Windows/Scalability.ini]
+[2024.09.16-17.46.44:110][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2024.09.16-17.46.44:110][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/alexi/Downloads/New_Marilao/ManilaOutbreak-Game/MarilaOubreaks/Saved/Config/Windows/Scalability.ini]
+[2024.09.16-17.46.44:110][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2024.09.16-17.46.44:110][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2024.09.16-17.46.44:110][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2024.09.16-17.46.44:110][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2024.09.16-17.46.44:110][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2024.09.16-17.46.44:110][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2024.09.16-17.46.44:110][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2024.09.16-17.46.44:110][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2024.09.16-17.46.44:110][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2024.09.16-17.46.44:110][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2024.09.16-17.46.44:110][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2024.09.16-17.46.44:110][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2024.09.16-17.46.44:110][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2024.09.16-17.46.44:110][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2024.09.16-17.46.44:110][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2024.09.16-17.46.44:110][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2024.09.16-17.46.44:110][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2024.09.16-17.46.44:110][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2024.09.16-17.46.44:110][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/alexi/Downloads/New_Marilao/ManilaOutbreak-Game/MarilaOubreaks/Saved/Config/Windows/Scalability.ini]
+[2024.09.16-17.46.44:110][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2024.09.16-17.46.44:110][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2024.09.16-17.46.44:110][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2024.09.16-17.46.44:110][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2024.09.16-17.46.44:110][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2024.09.16-17.46.44:110][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2024.09.16-17.46.44:110][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2024.09.16-17.46.44:110][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2024.09.16-17.46.44:110][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2024.09.16-17.46.44:110][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2024.09.16-17.46.44:110][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2024.09.16-17.46.44:110][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2024.09.16-17.46.44:110][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2024.09.16-17.46.44:110][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2024.09.16-17.46.44:110][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2024.09.16-17.46.44:110][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2024.09.16-17.46.44:110][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2024.09.16-17.46.44:110][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2024.09.16-17.46.44:110][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2024.09.16-17.46.44:110][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2024.09.16-17.46.44:110][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2024.09.16-17.46.44:110][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2024.09.16-17.46.44:110][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2024.09.16-17.46.44:110][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2024.09.16-17.46.44:110][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2024.09.16-17.46.44:110][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2024.09.16-17.46.44:110][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2024.09.16-17.46.44:110][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2024.09.16-17.46.44:110][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2024.09.16-17.46.44:110][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2024.09.16-17.46.44:110][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/alexi/Downloads/New_Marilao/ManilaOutbreak-Game/MarilaOubreaks/Saved/Config/Windows/Scalability.ini]
+[2024.09.16-17.46.44:110][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2024.09.16-17.46.44:110][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2024.09.16-17.46.44:110][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2024.09.16-17.46.44:110][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2024.09.16-17.46.44:110][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2024.09.16-17.46.44:110][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2024.09.16-17.46.44:110][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2024.09.16-17.46.44:110][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2024.09.16-17.46.44:110][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/alexi/Downloads/New_Marilao/ManilaOutbreak-Game/MarilaOubreaks/Saved/Config/Windows/Scalability.ini]
+[2024.09.16-17.46.44:110][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2024.09.16-17.46.44:110][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2024.09.16-17.46.44:110][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2024.09.16-17.46.44:110][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2024.09.16-17.46.44:110][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2024.09.16-17.46.44:110][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2024.09.16-17.46.44:110][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2024.09.16-17.46.44:110][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2024.09.16-17.46.44:110][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2024.09.16-17.46.44:110][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2024.09.16-17.46.44:110][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2024.09.16-17.46.44:110][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2024.09.16-17.46.44:110][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2024.09.16-17.46.44:110][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/alexi/Downloads/New_Marilao/ManilaOutbreak-Game/MarilaOubreaks/Saved/Config/Windows/Scalability.ini]
+[2024.09.16-17.46.44:110][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2024.09.16-17.46.44:110][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2024.09.16-17.46.44:110][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2024.09.16-17.46.44:126][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2024.09.16-17.46.44:126][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2024.09.16-17.46.44:126][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/alexi/Downloads/New_Marilao/ManilaOutbreak-Game/MarilaOubreaks/Saved/Config/Windows/Engine.ini]
+[2024.09.16-17.46.44:128][  0]LogInit: Computer: ALEXISLAPTOP
+[2024.09.16-17.46.44:128][  0]LogInit: User: alexi
+[2024.09.16-17.46.44:128][  0]LogInit: CPU Page size=4096, Cores=4
+[2024.09.16-17.46.44:128][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2024.09.16-17.46.44:128][  0]LogMemory: Memory total: Physical=7.8GB (8GB approx)
+[2024.09.16-17.46.44:128][  0]LogMemory: Platform Memory Stats for Windows
+[2024.09.16-17.46.44:128][  0]LogMemory: Process Physical Memory: 100.32 MB used, 100.32 MB peak
+[2024.09.16-17.46.44:128][  0]LogMemory: Process Virtual Memory: 98.55 MB used, 98.55 MB peak
+[2024.09.16-17.46.44:128][  0]LogMemory: Physical Memory: 5176.83 MB used,  2820.85 MB free, 7997.68 MB total
+[2024.09.16-17.46.44:128][  0]LogMemory: Virtual Memory: 4648.32 MB used,  134213080.00 MB free, 134217728.00 MB total
+[2024.09.16-17.46.44:175][  0]LogInit: Using OS detected language (en-US).
+[2024.09.16-17.46.44:175][  0]LogInit: Using OS detected locale (en-PH).
+[2024.09.16-17.46.44:176][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2024.09.16-17.46.44:382][  0]LogInit: Setting process to per monitor DPI aware
+[2024.09.16-17.46.44:432][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2024.09.16-17.46.44:432][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2024.09.16-17.46.44:794][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2024.09.16-17.46.44:794][  0]LogD3D11RHI: D3D11 adapters:
+[2024.09.16-17.46.45:087][  0]LogD3D11RHI:    0. 'Intel(R) UHD Graphics' (Feature Level 11_0)
+[2024.09.16-17.46.45:087][  0]LogD3D11RHI:       128/0/3998 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2024.09.16-17.46.45:091][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2024.09.16-17.46.45:091][  0]LogD3D11RHI:       0/0/3998 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2024.09.16-17.46.45:091][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2024.09.16-17.46.45:103][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2024.09.16-17.46.45:104][  0]LogD3D11RHI:     GPU DeviceId: 0x4e71 (for the marketing name, search the web for "GPU Device Id")
+[2024.09.16-17.46.45:104][  0]LogWindows: EnumDisplayDevices:
+[2024.09.16-17.46.45:105][  0]LogWindows:    0. 'Intel(R) UHD Graphics' (P:1 D:1)
+[2024.09.16-17.46.45:105][  0]LogWindows:    1. 'Intel(R) UHD Graphics' (P:0 D:0)
+[2024.09.16-17.46.45:106][  0]LogWindows:    2. 'Intel(R) UHD Graphics' (P:0 D:0)
+[2024.09.16-17.46.45:106][  0]LogWindows: DebugString: FoundDriverCount:3 
+[2024.09.16-17.46.45:106][  0]LogD3D11RHI:     Adapter Name: Intel(R) UHD Graphics
+[2024.09.16-17.46.45:107][  0]LogD3D11RHI:   Driver Version: 27.20.100.9079 (internal:27.20.100.9079, unified:27.20.100.9079)
+[2024.09.16-17.46.45:107][  0]LogD3D11RHI:      Driver Date: 12-11-2020
+[2024.09.16-17.46.45:107][  0]LogRHI: Texture pool is 1489 MB (70% of 2127 MB)
+[2024.09.16-17.46.45:720][  0]LogD3D11RHI: Async texture creation enabled
+[2024.09.16-17.46.45:724][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2024.09.16-17.46.45:725][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2024.09.16-17.46.45:725][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2024.09.16-17.46.45:727][  0]LogD3D11RHI: GPU Timing Frequency: 19.200000 (Debug: 2 0)
+[2024.09.16-17.46.46:155][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2024.09.16-17.46.46:179][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2024.09.16-17.46.46:208][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2024.09.16-17.46.46:228][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2024.09.16-17.46.46:248][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2024.09.16-17.46.46:267][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2024.09.16-17.46.46:286][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2024.09.16-17.46.46:306][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2024.09.16-17.46.46:316][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2024.09.16-17.46.46:489][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2024.09.16-17.46.46:489][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2024.09.16-17.46.46:489][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2024.09.16-17.46.46:489][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2024.09.16-17.46.46:489][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2024.09.16-17.46.46:489][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2024.09.16-17.46.46:489][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2024.09.16-17.46.46:489][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2024.09.16-17.46.46:489][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2024.09.16-17.46.46:489][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2024.09.16-17.46.46:489][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2024.09.16-17.46.46:489][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2024.09.16-17.46.46:489][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2024.09.16-17.46.46:489][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2024.09.16-17.46.46:489][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2024.09.16-17.46.46:489][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2024.09.16-17.46.46:489][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2024.09.16-17.46.46:489][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2024.09.16-17.46.46:493][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2024.09.16-17.46.46:563][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2024.09.16-17.46.46:563][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2024.09.16-17.46.46:596][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2024.09.16-17.46.46:596][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2024.09.16-17.46.46:616][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2024.09.16-17.46.46:637][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2024.09.16-17.46.46:655][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2024.09.16-17.46.46:690][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2024.09.16-17.46.46:790][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2024.09.16-17.46.46:790][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2024.09.16-17.46.46:790][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2024.09.16-17.46.46:804][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2024.09.16-17.46.46:895][  0]LogShaderCompilers: Guid format shader working directory is -40 characters bigger than the processId version (../../../../../../Users/alexi/Downloads/New_Marilao/ManilaOutbreak-Game/MarilaOubreaks/Intermediate/Shaders/WorkingDirectory/1032/).
+[2024.09.16-17.46.46:895][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/alexi/AppData/Local/Temp/UnrealShaderWorkingDir/452C4B314A0DA636AED860A71B8F3C09/'.
+[2024.09.16-17.46.46:898][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2024.09.16-17.46.46:898][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2024.09.16-17.46.46:898][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2024.09.16-17.46.48:139][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2024.09.16-17.46.48:217][  0]LogDerivedDataCache: Loaded boot cache 0.08s 79MB C:/Users/alexi/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2024.09.16-17.46.48:217][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/alexi/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2024.09.16-17.46.48:217][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/alexi/Downloads/New_Marilao/ManilaOutbreak-Game/MarilaOubreaks/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2024.09.16-17.46.48:217][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2024.09.16-17.46.48:217][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/alexi/Downloads/New_Marilao/ManilaOutbreak-Game/MarilaOubreaks/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2024.09.16-17.46.48:217][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2024.09.16-17.46.48:233][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2024.09.16-17.46.48:234][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2024.09.16-17.46.48:234][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2024.09.16-17.46.48:249][  0]LogDerivedDataCache: Using Local data cache path C:/Users/alexi/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2024.09.16-17.46.48:249][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2024.09.16-17.46.48:249][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2024.09.16-17.46.48:281][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2024.09.16-17.46.48:283][  0]LogSlate: Using FreeType 2.6.0
+[2024.09.16-17.46.48:284][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2024.09.16-17.46.48:442][  0]LogAssetRegistry: FAssetRegistry took 0.0424 seconds to start up
+[2024.09.16-17.46.48:990][  0]LogInit: Selected Device Profile: [Windows]
+[2024.09.16-17.46.49:224][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2024.09.16-17.46.49:224][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2024.09.16-17.46.49:224][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2024.09.16-17.46.49:224][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2024.09.16-17.46.49:225][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2024.09.16-17.46.49:241][  0]LogNetVersion: MarilaOubreaks 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 2523874334)
+[2024.09.16-17.46.49:959][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 1 prioritized culture(s) in 0.123146 seconds
+[2024.09.16-17.46.49:969][  0]LogUObjectArray: 42218 objects as part of root set at end of initial load.
+[2024.09.16-17.46.49:969][  0]LogUObjectAllocator: 7328024 out of 0 bytes used by permanent object pool.
+[2024.09.16-17.46.49:969][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2024.09.16-17.46.51:613][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2024.09.16-17.46.51:628][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2024.09.16-17.46.51:778][  0]SourceControl: Source control is disabled
+[2024.09.16-17.46.51:778][  0]SourceControl: Source control is disabled
+[2024.09.16-17.46.51:781][  0]SourceControl: Source control is disabled
+[2024.09.16-17.46.51:783][  0]SourceControl: Source control is disabled
+[2024.09.16-17.46.51:799][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2024.09.16-17.46.51:800][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2024.09.16-17.46.52:053][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2024.09.16-17.46.52:233][  0]LogOcInput: OculusInput pre-init called
+[2024.09.16-17.46.53:551][  0]LogEngine: Initializing Engine...
+[2024.09.16-17.46.53:553][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2024.09.16-17.46.53:555][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.001 s
+[2024.09.16-17.46.53:986][  0]LogInit: Initializing FReadOnlyCVARCache
+[2024.09.16-17.46.54:014][  0]LogAIModule: Creating AISystem for world Untitled
+[2024.09.16-17.46.54:030][  0]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2024.09.16-17.46.54:565][  0]LogInit: FAudioDevice initialized.
+[2024.09.16-17.46.54:565][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2024.09.16-17.46.54:657][  0]LogDerivedDataCache: Saved boot cache 0.09s 79MB C:/Users/alexi/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2024.09.16-17.46.54:667][  0]LogInit: Texture streaming: Enabled
+[2024.09.16-17.46.54:707][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2024.09.16-17.46.56:672][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM4
+[2024.09.16-17.46.56:674][  0]LogInit: Transaction tracking system initialized
+[2024.09.16-17.46.56:715][  0]BlueprintLog: New page: Editor Load
+[2024.09.16-17.46.56:861][  0]LocalizationService: Localization service is disabled
+[2024.09.16-17.47.00:660][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2024.09.16-17.47.00:662][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2024.09.16-17.47.01:489][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2024.09.16-17.47.01:489][  0]LogCook: Display: Mobile HDR setting 1
+[2024.09.16-17.47.01:977][  0]LogFileCache: Scanning file cache for directory 'C:/Users/alexi/Downloads/New_Marilao/ManilaOutbreak-Game/MarilaOubreaks/Content/' took 0.14s
+[2024.09.16-17.47.01:977][  0]SourceControl: Source control is disabled
+[2024.09.16-17.47.01:977][  0]Cmd: MAP LOAD FILE="../../../../../../Users/alexi/Downloads/New_Marilao/ManilaOutbreak-Game/MarilaOubreaks/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2024.09.16-17.47.01:977][  0]LogEditorServer: Warning: Can't find file '../../../../../../Users/alexi/Downloads/New_Marilao/ManilaOutbreak-Game/MarilaOubreaks/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2024.09.16-17.47.01:977][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.09.16-17.47.01:978][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.235ms to complete.
+[2024.09.16-17.47.01:978][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.001
+[2024.09.16-17.47.02:083][  0]LogWorld: Changing Feature Level (Enum) from 3 to 2
+[2024.09.16-17.47.02:232][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.09.16-17.47.02:247][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.09.16-17.47.02:257][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.09.16-17.47.02:269][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.09.16-17.47.02:297][  0]LogCollectionManager: Loaded 0 collections in 0.002598 seconds
+[2024.09.16-17.47.02:335][  0]LogFileCache: Scanning file cache for directory 'C:/Users/alexi/Downloads/New_Marilao/ManilaOutbreak-Game/MarilaOubreaks/Saved/Collections/' took 0.01s
+[2024.09.16-17.47.02:335][  0]LogFileCache: Scanning file cache for directory 'C:/Users/alexi/Downloads/New_Marilao/ManilaOutbreak-Game/MarilaOubreaks/Content/Developers/alexi/Collections/' took 0.00s
+[2024.09.16-17.47.02:335][  0]LogFileCache: Scanning file cache for directory 'C:/Users/alexi/Downloads/New_Marilao/ManilaOutbreak-Game/MarilaOubreaks/Content/Collections/' took 0.00s
+[2024.09.16-17.47.02:335][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2024.09.16-17.47.02:350][  0]LogContentBrowser: Native class hierarchy populated in 0.0138 seconds. Added 2853 classes and 675 folders.
+[2024.09.16-17.47.02:376][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2024.09.16-17.47.02:388][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.09.16-17.47.02:406][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.09.16-17.47.02:446][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.09.16-17.47.02:460][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.09.16-17.47.02:473][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.09.16-17.47.02:485][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.09.16-17.47.02:497][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.09.16-17.47.02:510][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.09.16-17.47.02:522][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.09.16-17.47.02:537][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.09.16-17.47.02:549][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.09.16-17.47.02:562][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.09.16-17.47.02:574][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.09.16-17.47.02:587][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.09.16-17.47.02:600][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.09.16-17.47.02:614][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.09.16-17.47.02:678][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.09.16-17.47.02:691][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.09.16-17.47.02:703][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.09.16-17.47.02:716][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.09.16-17.47.02:728][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.09.16-17.47.02:741][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.09.16-17.47.02:753][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.09.16-17.47.02:766][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.09.16-17.47.02:777][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.09.16-17.47.02:789][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.09.16-17.47.03:110][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2024.09.16-17.47.03:132][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2024.09.16-17.47.03:302][  0]LogSlate: Took 0.000525 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2024.09.16-17.47.03:305][  0]LogSlate: Took 0.000418 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2024.09.16-17.47.03:329][  0]LogSlate: Took 0.013176 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2024.09.16-17.47.03:582][  0]LogRenderer: Reallocating scene render targets to support 844x364 Format 10 NumSamples 1 (Frame:1).
+[2024.09.16-17.47.03:784][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2024.09.16-17.47.03:784][  0]LogLoad: (Engine Initialization) Total time: 24.03 seconds
+[2024.09.16-17.47.03:784][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2024.09.16-17.47.03:852][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2024.09.16-17.47.03:933][  0]LogSlate: Took 0.011710 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.09.16-17.47.03:947][  1]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/alexi/Downloads/New_Marilao/ManilaOutbreak-Game/MarilaOubreaks/Content/' took 0.13s
+[2024.09.16-17.47.38:727][ 47]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2024.09.16-17.47.43:332][314]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2024.09.16-17.47.44:461][367]LogBlueprint: Warning: [Compiler Bars] Invalid property 'Characters' class, replaced with Object.  Please fix or remove.
+[2024.09.16-17.47.44:462][367]LogBlueprint: Warning: [Compiler Bars] Invalid property 'Character_Reference' class, replaced with Object.  Please fix or remove.
+[2024.09.16-17.47.44:498][367]LogBlueprint: Warning: [Compiler Bars] Invalid property 'Characters' class, replaced with Object.  Please fix or remove.
+[2024.09.16-17.47.44:498][367]LogBlueprint: Warning: [Compiler Bars] Invalid property 'Character_Reference' class, replaced with Object.  Please fix or remove.
+[2024.09.16-17.47.44:579][367]LogBlueprint: Warning: [Compiler Bars] [0064.83] Compile of Bars successful, but with 4 Warning(s) [in 122 ms] (/Game/BArs/Bars.Bars)
+[2024.09.16-17.47.44:825][367]LogSlate: Took 0.000567 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.09.16-17.47.44:844][367]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/BArs/Bars.Bars
+[2024.09.16-17.47.45:315][367]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0010 seconds. Added 121 classes and 0 folders.
+[2024.09.16-17.47.46:885][367]LogBlueprintActionDatabase: Requesting refresh due to module change: SequencerWidgets (loaded)
+[2024.09.16-17.47.47:127][367]LogSlate: Warning: Legacy localized fallback font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' was requested. Font: '/Game/BArs/USN_Stencil.USN_Stencil', Character: '_ (U+005f)'
+Legacy localized fallback fonts were deprecated in 4.22 and will be removed in a future version!
+Please update your composite fonts to use localized sub-font families: https://docs.unrealengine.com/en-US/Engine/UMG/UserGuide/Fonts/Overview
+[2024.09.16-17.47.47:144][367]LogSlate: Took 0.017630 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2024.09.16-17.47.47:680][367]LogSlate: Took 0.011096 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2024.09.16-17.48.06:017][243]LogLinker: Warning: Can't find file '/Game/Assets/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData'
+[2024.09.16-17.48.06:018][243]LogLinker: Warning: Can't find file for asset '/Game/Assets/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData' while loading NULL.
+[2024.09.16-17.48.06:225][243]LogLinker: Warning: Can't find file '/Game/Assets/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData'
+[2024.09.16-17.48.06:226][243]LogLinker: Warning: Can't find file for asset '/Game/Assets/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData' while loading NULL.
+[2024.09.16-17.48.06:552][243]LogLinker: Warning: Can't find file '/Game/Assets/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData'
+[2024.09.16-17.48.06:552][243]LogLinker: Warning: Can't find file for asset '/Game/Assets/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData' while loading NULL.
+[2024.09.16-17.48.06:552][243]LogLinker: Warning: Can't find file '/Game/Assets/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData'
+[2024.09.16-17.48.06:552][243]LogLinker: Warning: Can't find file for asset '/Game/Assets/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData' while loading NULL.
+[2024.09.16-17.48.07:287][243]LogTexture: Display: Building textures: T_ky_decoLinesB (AutoDXT, 1024X1024)
+[2024.09.16-17.48.07:288][243]LogTexture: Display: Building textures: T_ky_decoLines (AutoDXT, 1024X1024)
+[2024.09.16-17.48.07:288][243]LogTexture: Display: Building textures: T_ky_flare_a (AutoDXT, 512X512)
+[2024.09.16-17.48.07:290][243]LogLinker: Warning: Can't find file '/Game/Assets/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData'
+[2024.09.16-17.48.07:290][243]LoadErrors: Failed to load /Game/Assets/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData Referenced by PersistentLevel
+[2024.09.16-17.48.07:291][243]LogLinker: Warning: Can't find file for asset '/Game/Assets/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData' while loading NULL.
+[2024.09.16-17.48.08:274][243]LogTexture: Display: Building textures: T_ky_smoke1 (DXT1, 2048X2048)
+[2024.09.16-17.48.08:894][243]LogTexture: Display: Building textures: T_ky_noise6 (AutoDXT, 1024X1024)
+[2024.09.16-17.48.10:733][243]LogStaticMesh: Building static mesh SM_ky_windSmokeVertRot...
+[2024.09.16-17.48.10:738][243]LogBlueprintActionDatabase: Requesting refresh due to module change: MeshBuilder (loaded)
+[2024.09.16-17.48.10:744][243]LogStaticMesh: Built static mesh [0.01s] /Game/FXVarietyPack/Meshes/SM_ky_windSmokeVertRot.SM_ky_windSmokeVertRot
+[2024.09.16-17.48.10:752][243]LogStaticMesh: Building static mesh SM_ky_quads...
+[2024.09.16-17.48.10:753][243]LogStaticMesh: Built static mesh [0.00s] /Game/FXVarietyPack/Meshes/SM_ky_quads.SM_ky_quads
+[2024.09.16-17.48.10:760][243]LogStaticMesh: Building static mesh SM_ky_planeBend...
+[2024.09.16-17.48.10:760][243]LogStaticMesh: Built static mesh [0.00s] /Game/FXVarietyPack/Meshes/SM_ky_planeBend.SM_ky_planeBend
+[2024.09.16-17.48.10:769][243]LogMaterial: Display: Missing cached shader map for material M_ky_polar, compiling. 
+[2024.09.16-17.48.10:831][243]LogMaterial: Display: Missing cached shader map for material M_ky_polar, compiling. 
+[2024.09.16-17.48.10:888][243]LogMaterial: Display: Missing cached shader map for material M_ky_polar, compiling. 
+[2024.09.16-17.48.10:930][243]LogMaterial: Display: Missing cached shader map for material M_ky_polar, compiling. 
+[2024.09.16-17.48.10:971][243]LogMaterial: Display: Missing cached shader map for material M_ky_flare_flash, compiling. 
+[2024.09.16-17.48.11:006][243]LogMaterial: Display: Missing cached shader map for material M_ky_flare_flash, compiling. 
+[2024.09.16-17.48.12:368][243]LogMaterial: Display: Missing cached shader map for material M_ky_aura9, compiling. 
+[2024.09.16-17.48.12:419][243]LogTexture: Display: Building textures: T_ky_flareVert (AutoDXT, 512X512)
+[2024.09.16-17.48.12:419][243]LogMaterial: Display: Missing cached shader map for material M_ky_aura9, compiling. 
+[2024.09.16-17.48.12:479][243]LogMaterial: Display: Missing cached shader map for material M_ky_aura9, compiling. 
+[2024.09.16-17.48.12:518][243]LogTexture: Display: Building textures: T_ky_maskRGB5 (DXT1, 1024X1024)
+[2024.09.16-17.48.12:518][243]LogMaterial: Display: Missing cached shader map for material M_ky_aura9, compiling. 
+[2024.09.16-17.48.13:471][243]LogMaterial: Display: Missing cached shader map for material M_ky_smoke01, compiling. 
+[2024.09.16-17.48.13:501][243]LogMaterial: Display: Missing cached shader map for material M_ky_smoke01, compiling. 
+[2024.09.16-17.48.13:532][243]LogMaterial: Display: Missing cached shader map for material M_ky_flareVert, compiling. 
+[2024.09.16-17.48.13:561][243]LogMaterial: Display: Missing cached shader map for material M_ky_flareVert, compiling. 
+[2024.09.16-17.48.15:351][243]LogTexture: Display: Building textures: T_ky_flare3 (DXT1, 2048X2048)
+[2024.09.16-17.48.15:407][243]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2024.09.16-17.48.15:676][243]LogMaterial: Display: Missing cached shader map for material M_ky_flarePillar, compiling. 
+[2024.09.16-17.48.15:719][243]LogMaterial: Display: Missing cached shader map for material M_ky_flarePillar, compiling. 
+[2024.09.16-17.48.15:771][243]LogMaterial: Display: Missing cached shader map for material M_ky_empty, compiling. 
+[2024.09.16-17.48.15:806][243]LogMaterial: Display: Missing cached shader map for material M_ky_empty, compiling. 
+[2024.09.16-17.48.15:857][243]LogMaterial: Display: Missing cached shader map for material M_ky_flare_flash, compiling. 
+[2024.09.16-17.48.15:898][243]LogMaterial: Display: Missing cached shader map for material M_ky_flare_flash, compiling. 
+[2024.09.16-17.48.15:946][243]LogNiagaraEditor: OpNode Boolean::LogicAnd, Package /Niagara/Functions/System/SystemChangeState: reallocated existing pins to add new extension pin
+[2024.09.16-17.48.15:951][243]LogNiagaraEditor: OpNode Boolean::LogicAnd, Package /Niagara/Modules/System/SystemLifeCycle: reallocated existing pins to add new extension pin
+[2024.09.16-17.48.16:142][243]LogNiagaraEditor: OpNode Numeric::Mul, Package /Niagara/Modules/Update/Size/MeshSizeScale: reallocated existing pins to add new extension pin
+[2024.09.16-17.48.16:142][243]LogNiagaraEditor: OpNode Numeric::Mul, Package /Niagara/Modules/Update/Size/MeshSizeScale: reallocated existing pins to add new extension pin
+[2024.09.16-17.48.16:143][243]LogNiagaraEditor: OpNode Boolean::LogicAnd, Package /Niagara/Modules/Update/Lifetime/UpdateAge: reallocated existing pins to add new extension pin
+[2024.09.16-17.48.16:143][243]LogNiagaraEditor: OpNode Numeric::Add, Package /Niagara/Modules/Update/Lifetime/UpdateAge: reallocated existing pins to add new extension pin
+[2024.09.16-17.48.16:143][243]LogNiagaraEditor: OpNode Numeric::Subtract, Package /Niagara/Modules/Update/Lifetime/UpdateAge: reallocated existing pins to add new extension pin
+[2024.09.16-17.48.16:143][243]LogNiagaraEditor: OpNode Boolean::LogicOr, Package /Niagara/Modules/Update/Lifetime/UpdateAge: reallocated existing pins to add new extension pin
+[2024.09.16-17.48.16:144][243]LogNiagaraEditor: OpNode Numeric::Mul, Package /Niagara/Modules/Update/Color/Color: reallocated existing pins to add new extension pin
+[2024.09.16-17.48.16:144][243]LogNiagaraEditor: OpNode Numeric::Mul, Package /Niagara/Modules/Update/Color/Color: reallocated existing pins to add new extension pin
+[2024.09.16-17.48.16:145][243]LogNiagaraEditor: OpNode Numeric::Mul, Package /Niagara/Functions/Rotation/MultiplyVectorWithQuaternion: reallocated existing pins to add new extension pin
+[2024.09.16-17.48.16:146][243]LogNiagaraEditor: OpNode Numeric::Mul, Package /Niagara/Functions/Rotation/MultiplyVectorWithQuaternion: reallocated existing pins to add new extension pin
+[2024.09.16-17.48.16:146][243]LogNiagaraEditor: OpNode Numeric::Mul, Package /Niagara/Functions/Rotation/MultiplyVectorWithQuaternion: reallocated existing pins to add new extension pin
+[2024.09.16-17.48.16:147][243]LogNiagaraEditor: OpNode Numeric::Subtract, Package /Niagara/Functions/Rotation/MultiplyVectorWithQuaternion: reallocated existing pins to add new extension pin
+[2024.09.16-17.48.16:147][243]LogNiagaraEditor: OpNode Numeric::Mul, Package /Niagara/Functions/Rotation/MultiplyVectorWithQuaternion: reallocated existing pins to add new extension pin
+[2024.09.16-17.48.16:147][243]LogNiagaraEditor: OpNode Numeric::Add, Package /Niagara/Functions/Rotation/MultiplyVectorWithQuaternion: reallocated existing pins to add new extension pin
+[2024.09.16-17.48.16:147][243]LogNiagaraEditor: OpNode Numeric::Add, Package /Niagara/Functions/Rotation/MultiplyVectorWithQuaternion: reallocated existing pins to add new extension pin
+[2024.09.16-17.48.16:147][243]LogNiagaraEditor: OpNode Numeric::Mul, Package /Niagara/Functions/Rotation/MultiplyVectorWithQuaternion: reallocated existing pins to add new extension pin
+[2024.09.16-17.48.16:147][243]LogNiagaraEditor: OpNode Numeric::Mul, Package /Niagara/Functions/Rotation/MultiplyVectorWithQuaternion: reallocated existing pins to add new extension pin
+[2024.09.16-17.48.16:148][243]LogNiagaraEditor: OpNode Numeric::Mul, Package /Niagara/Functions/Rotation/MultiplyVectorWithQuaternion: reallocated existing pins to add new extension pin
+[2024.09.16-17.48.16:148][243]LogNiagaraEditor: OpNode Numeric::Add, Package /Niagara/Functions/Rotation/MultiplyVectorWithQuaternion: reallocated existing pins to add new extension pin
+[2024.09.16-17.48.16:148][243]LogNiagaraEditor: OpNode Numeric::Add, Package /Niagara/Functions/Rotation/MultiplyVectorWithQuaternion: reallocated existing pins to add new extension pin
+[2024.09.16-17.48.16:149][243]LogNiagaraEditor: OpNode Numeric::Mul, Package /Niagara/Functions/PolarToCartesianCoordinates: reallocated existing pins to add new extension pin
+[2024.09.16-17.48.16:150][243]LogNiagaraEditor: OpNode Numeric::Mul, Package /Niagara/Functions/PolarToCartesianCoordinates: reallocated existing pins to add new extension pin
+[2024.09.16-17.48.16:150][243]LogNiagaraEditor: OpNode Numeric::Mul, Package /Niagara/Functions/RandomVectorInCone: reallocated existing pins to add new extension pin
+[2024.09.16-17.48.16:150][243]LogNiagaraEditor: OpNode Numeric::Mul, Package /Niagara/Functions/RandomVectorInCone: reallocated existing pins to add new extension pin
+[2024.09.16-17.48.16:151][243]LogNiagaraEditor: OpNode Numeric::Mul, Package /Niagara/Functions/RandomVectorInCone: reallocated existing pins to add new extension pin
+[2024.09.16-17.48.16:151][243]LogNiagaraEditor: OpNode Numeric::Subtract, Package /Niagara/Functions/Math/RemapValueRange: reallocated existing pins to add new extension pin
+[2024.09.16-17.48.16:151][243]LogNiagaraEditor: OpNode Numeric::Subtract, Package /Niagara/Functions/Math/RemapValueRange: reallocated existing pins to add new extension pin
+[2024.09.16-17.48.16:152][243]LogNiagaraEditor: OpNode Numeric::Mul, Package /Niagara/Functions/Math/RemapValueRange: reallocated existing pins to add new extension pin
+[2024.09.16-17.48.16:152][243]LogNiagaraEditor: OpNode Numeric::Subtract, Package /Niagara/Functions/Math/RemapValueRange: reallocated existing pins to add new extension pin
+[2024.09.16-17.48.16:152][243]LogNiagaraEditor: OpNode Numeric::Add, Package /Niagara/Functions/Math/RemapValueRange: reallocated existing pins to add new extension pin
+[2024.09.16-17.48.16:152][243]LogNiagaraEditor: OpNode Boolean::LogicAnd, Package /Niagara/Functions/Localspace/TransformBase: reallocated existing pins to add new extension pin
+[2024.09.16-17.48.16:152][243]LogNiagaraEditor: OpNode Boolean::LogicAnd, Package /Niagara/Functions/Localspace/TransformBase: reallocated existing pins to add new extension pin
+[2024.09.16-17.48.16:152][243]LogNiagaraEditor: OpNode Boolean::LogicAnd, Package /Niagara/Functions/Localspace/TransformBase: reallocated existing pins to add new extension pin
+[2024.09.16-17.48.16:152][243]LogNiagaraEditor: OpNode Boolean::LogicAnd, Package /Niagara/Functions/Localspace/TransformBase: reallocated existing pins to add new extension pin
+[2024.09.16-17.48.16:152][243]LogNiagaraEditor: OpNode Boolean::LogicOr, Package /Niagara/Functions/Localspace/TransformBase: reallocated existing pins to add new extension pin
+[2024.09.16-17.48.16:153][243]LogNiagaraEditor: OpNode Boolean::LogicOr, Package /Niagara/Functions/Localspace/TransformBase: reallocated existing pins to add new extension pin
+[2024.09.16-17.48.16:153][243]LogNiagaraEditor: OpNode Boolean::LogicAnd, Package /Niagara/Functions/Localspace/TransformBase: reallocated existing pins to add new extension pin
+[2024.09.16-17.48.16:153][243]LogNiagaraEditor: OpNode Boolean::LogicAnd, Package /Niagara/Functions/Localspace/TransformBase: reallocated existing pins to add new extension pin
+[2024.09.16-17.48.16:153][243]LogNiagaraEditor: OpNode Boolean::LogicAnd, Package /Niagara/Functions/Localspace/TransformBase: reallocated existing pins to add new extension pin
+[2024.09.16-17.48.16:153][243]LogNiagaraEditor: OpNode Boolean::LogicAnd, Package /Niagara/Functions/Localspace/TransformBase: reallocated existing pins to add new extension pin
+[2024.09.16-17.48.16:153][243]LogNiagaraEditor: OpNode Boolean::LogicAnd, Package /Niagara/Functions/Localspace/TransformBase: reallocated existing pins to add new extension pin
+[2024.09.16-17.48.16:153][243]LogNiagaraEditor: OpNode Boolean::LogicAnd, Package /Niagara/Functions/Localspace/TransformBase: reallocated existing pins to add new extension pin
+[2024.09.16-17.48.16:153][243]LogNiagaraEditor: OpNode Boolean::LogicOr, Package /Niagara/Functions/Localspace/TransformBase: reallocated existing pins to add new extension pin
+[2024.09.16-17.48.16:153][243]LogNiagaraEditor: OpNode Boolean::LogicAnd, Package /Niagara/Functions/Localspace/TransformBase: reallocated existing pins to add new extension pin
+[2024.09.16-17.48.16:153][243]LogNiagaraEditor: OpNode Boolean::LogicOr, Package /Niagara/Functions/Localspace/TransformBase: reallocated existing pins to add new extension pin
+[2024.09.16-17.48.16:154][243]LogNiagaraEditor: OpNode Boolean::LogicOr, Package /Niagara/Functions/Localspace/TransformBase: reallocated existing pins to add new extension pin
+[2024.09.16-17.48.16:154][243]LogNiagaraEditor: OpNode Boolean::LogicOr, Package /Niagara/Functions/Localspace/TransformBase: reallocated existing pins to add new extension pin
+[2024.09.16-17.48.16:154][243]LogNiagaraEditor: OpNode Boolean::LogicOr, Package /Niagara/Functions/Localspace/TransformBase: reallocated existing pins to add new extension pin
+[2024.09.16-17.48.16:154][243]LogNiagaraEditor: OpNode Boolean::LogicAnd, Package /Niagara/Functions/Localspace/TransformBase: reallocated existing pins to add new extension pin
+[2024.09.16-17.48.16:154][243]LogNiagaraEditor: OpNode Boolean::LogicOr, Package /Niagara/Functions/Localspace/TransformBase: reallocated existing pins to add new extension pin
+[2024.09.16-17.48.16:154][243]LogNiagaraEditor: OpNode Boolean::LogicAnd, Package /Niagara/Functions/Localspace/TransformBase: reallocated existing pins to add new extension pin
+[2024.09.16-17.48.16:156][243]LogNiagaraEditor: OpNode Numeric::Max, Package /Niagara/Modules/Spawn/Velocity/AddVelocityInCone: reallocated existing pins to add new extension pin
+[2024.09.16-17.48.16:157][243]LogNiagaraEditor: OpNode Numeric::Mul, Package /Niagara/Modules/Spawn/Velocity/AddVelocityInCone: reallocated existing pins to add new extension pin
+[2024.09.16-17.48.16:158][243]LogNiagaraEditor: OpNode Numeric::Add, Package /Niagara/Modules/Spawn/Velocity/AddVelocityInCone: reallocated existing pins to add new extension pin
+[2024.09.16-17.48.16:159][243]LogNiagaraEditor: OpNode Numeric::Mul, Package /Niagara/Modules/Spawn/Velocity/AddVelocityInCone: reallocated existing pins to add new extension pin
+[2024.09.16-17.48.16:160][243]LogNiagaraEditor: OpNode Numeric::Max, Package /Niagara/Modules/Spawn/Velocity/AddVelocityInCone: reallocated existing pins to add new extension pin
+[2024.09.16-17.48.16:160][243]LogNiagaraEditor: OpNode Numeric::Mul, Package /Niagara/Modules/Spawn/Velocity/AddVelocityInCone: reallocated existing pins to add new extension pin
+[2024.09.16-17.48.16:161][243]LogNiagaraEditor: OpNode Numeric::Mul, Package /Niagara/Modules/Spawn/Velocity/AddVelocityInCone: reallocated existing pins to add new extension pin
+[2024.09.16-17.48.16:164][243]LogNiagaraEditor: OpNode Numeric::Mul, Package /Niagara/Functions/Rotation/MultiplyQuaternion: reallocated existing pins to add new extension pin
+[2024.09.16-17.48.16:164][243]LogNiagaraEditor: OpNode Numeric::Mul, Package /Niagara/Functions/Rotation/MultiplyQuaternion: reallocated existing pins to add new extension pin
+[2024.09.16-17.48.16:164][243]LogNiagaraEditor: OpNode Numeric::Mul, Package /Niagara/Functions/Rotation/MultiplyQuaternion: reallocated existing pins to add new extension pin
+[2024.09.16-17.48.16:164][243]LogNiagaraEditor: OpNode Numeric::Add, Package /Niagara/Functions/Rotation/MultiplyQuaternion: reallocated existing pins to add new extension pin
+[2024.09.16-17.48.16:164][243]LogNiagaraEditor: OpNode Numeric::Mul, Package /Niagara/Functions/Rotation/MultiplyQuaternion: reallocated existing pins to add new extension pin
+[2024.09.16-17.48.16:164][243]LogNiagaraEditor: OpNode Numeric::Mul, Package /Niagara/Functions/Rotation/MultiplyQuaternion: reallocated existing pins to add new extension pin
+[2024.09.16-17.48.16:165][243]LogNiagaraEditor: OpNode Numeric::Add, Package /Niagara/Functions/Rotation/MultiplyQuaternion: reallocated existing pins to add new extension pin
+[2024.09.16-17.48.16:165][243]LogNiagaraEditor: OpNode Numeric::Mul, Package /Niagara/Functions/Rotation/MultiplyQuaternion: reallocated existing pins to add new extension pin
+[2024.09.16-17.48.16:165][243]LogNiagaraEditor: OpNode Numeric::Mul, Package /Niagara/Functions/Rotation/MultiplyQuaternion: reallocated existing pins to add new extension pin
+[2024.09.16-17.48.16:165][243]LogNiagaraEditor: OpNode Numeric::Add, Package /Niagara/Functions/Rotation/MultiplyQuaternion: reallocated existing pins to add new extension pin
+[2024.09.16-17.48.16:166][243]LogNiagaraEditor: OpNode Numeric::Mul, Package /Niagara/Functions/Rotation/AxisAngleToQuaternion: reallocated existing pins to add new extension pin
+[2024.09.16-17.48.16:167][243]LogNiagaraEditor: OpNode Numeric::Mul, Package /Niagara/Modules/Solvers/SolveForcesAndVelocity: reallocated existing pins to add new extension pin
+[2024.09.16-17.48.16:168][243]LogNiagaraEditor: OpNode Numeric::Max, Package /Niagara/Modules/Solvers/SolveForcesAndVelocity: reallocated existing pins to add new extension pin
+[2024.09.16-17.48.16:169][243]LogNiagaraEditor: OpNode Numeric::Subtract, Package /Niagara/Modules/Solvers/SolveForcesAndVelocity: reallocated existing pins to add new extension pin
+[2024.09.16-17.48.16:170][243]LogNiagaraEditor: OpNode Numeric::Mul, Package /Niagara/Modules/Solvers/SolveForcesAndVelocity: reallocated existing pins to add new extension pin
+[2024.09.16-17.48.16:171][243]LogNiagaraEditor: OpNode Numeric::Add, Package /Niagara/Modules/Solvers/SolveForcesAndVelocity: reallocated existing pins to add new extension pin
+[2024.09.16-17.48.16:172][243]LogNiagaraEditor: OpNode Numeric::Mul, Package /Niagara/Modules/Solvers/SolveForcesAndVelocity: reallocated existing pins to add new extension pin
+[2024.09.16-17.48.16:173][243]LogNiagaraEditor: OpNode Numeric::Max, Package /Niagara/Modules/Solvers/SolveForcesAndVelocity: reallocated existing pins to add new extension pin
+[2024.09.16-17.48.16:174][243]LogNiagaraEditor: OpNode Numeric::Mul, Package /Niagara/Modules/Solvers/SolveForcesAndVelocity: reallocated existing pins to add new extension pin
+[2024.09.16-17.48.16:175][243]LogNiagaraEditor: OpNode Numeric::Add, Package /Niagara/Modules/Solvers/SolveForcesAndVelocity: reallocated existing pins to add new extension pin
+[2024.09.16-17.48.16:177][243]LogNiagaraEditor: OpNode Boolean::LogicAnd, Package /Niagara/Functions/Emitter/EmitterChangeState: reallocated existing pins to add new extension pin
+[2024.09.16-17.48.16:177][243]LogNiagaraEditor: OpNode Boolean::LogicAnd, Package /Niagara/Functions/Emitter/EmitterChangeState: reallocated existing pins to add new extension pin
+[2024.09.16-17.48.16:178][243]LogNiagaraEditor: OpNode Boolean::LogicAnd, Package /Niagara/Functions/Emitter/EmitterChangeState: reallocated existing pins to add new extension pin
+[2024.09.16-17.48.16:179][243]LogNiagaraEditor: OpNode Numeric::Add, Package /Niagara/Modules/Emitter/EmitterLifeCycle: reallocated existing pins to add new extension pin
+[2024.09.16-17.48.16:180][243]LogNiagaraEditor: OpNode Boolean::LogicAnd, Package /Niagara/Modules/Emitter/EmitterLifeCycle: reallocated existing pins to add new extension pin
+[2024.09.16-17.48.16:181][243]LogNiagaraEditor: OpNode Boolean::LogicAnd, Package /Niagara/Modules/Emitter/EmitterLifeCycle: reallocated existing pins to add new extension pin
+[2024.09.16-17.48.16:182][243]LogNiagaraEditor: OpNode Boolean::LogicAnd, Package /Niagara/Modules/Emitter/EmitterLifeCycle: reallocated existing pins to add new extension pin
+[2024.09.16-17.48.16:182][243]LogNiagaraEditor: OpNode Boolean::LogicAnd, Package /Niagara/Modules/Emitter/EmitterLifeCycle: reallocated existing pins to add new extension pin
+[2024.09.16-17.48.16:183][243]LogNiagaraEditor: OpNode Boolean::LogicOr, Package /Niagara/Modules/Emitter/EmitterLifeCycle: reallocated existing pins to add new extension pin
+[2024.09.16-17.48.16:183][243]LogNiagaraEditor: OpNode Boolean::LogicAnd, Package /Niagara/Modules/Emitter/EmitterLifeCycle: reallocated existing pins to add new extension pin
+[2024.09.16-17.48.16:184][243]LogNiagaraEditor: OpNode Numeric::Subtract, Package /Niagara/Modules/Emitter/EmitterLifeCycle: reallocated existing pins to add new extension pin
+[2024.09.16-17.48.16:186][243]LogNiagaraEditor: OpNode Numeric::Mul, Package /Niagara/DynamicInputs/ValueFromCurve/FloatFromCurve: reallocated existing pins to add new extension pin
+[2024.09.16-17.48.16:310][243]LogNiagara: AreScriptAndSourceSynchronized num dependencies don't match. 36 != 33
+[2024.09.16-17.48.16:310][243]LogNiagara: AreScriptAndSourceSynchronized num dependencies don't match. 36 != 33
+[2024.09.16-17.48.16:390][243]LogTexture: Display: Building textures: T_panels_01_white (AutoDXT, 1024X1024)
+[2024.09.16-17.48.16:526][243]LogNiagara: AreScriptAndSourceSynchronized num dependencies don't match. 36 != 33
+[2024.09.16-17.48.16:526][243]LogNiagara: AreScriptAndSourceSynchronized num dependencies don't match. 36 != 33
+[2024.09.16-17.48.16:530][243]LogNiagara: AreScriptAndSourceSynchronized reference id 9 doesn't match. 94A04B1D40150F411D2FBDB0897F4DC6 != 1687DFDE4502D28F3031D294E13A51D0, source /Niagara/Modules/Spawn/Velocity/AddVelocityInCone.AddVelocityInCone:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.16-17.48.16:530][243]LogNiagara: AreScriptAndSourceSynchronized reference id 10 doesn't match. C00F28EC4E20AD775107C7ADF5CB921C != 4036B0674CB0D96AA684C5AB793D6F07, source /Niagara/Functions/RandomVectorInCone.RandomVectorInCone:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.16-17.48.16:530][243]LogNiagara: AreScriptAndSourceSynchronized reference id 14 doesn't match. 8AA8A4004B240F1D6FC58BB2040B99DD != 99EF2174437A88EAB7A2EFA3C9BEB798, source /Niagara/Functions/PolarToCartesianCoordinates.PolarToCartesianCoordinates:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.16-17.48.16:530][243]LogNiagara: AreScriptAndSourceSynchronized reference id 16 doesn't match. D6AB8041424B9984815163B1BE686548 != CC9F48FC41B5413127CBF6BDBC693D18, source /Niagara/Functions/Math/RemapValueRange.RemapValueRange:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.16-17.48.16:530][243]LogNiagara: AreScriptAndSourceSynchronized reference id 18 doesn't match. A0A8E0354F22C09750E3D6A59E9F3D27 != DBC234B741286E70250D21A528098E70, source /Niagara/Functions/Localspace/TransformBase.TransformBase:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.16-17.48.16:530][243]LogNiagara: AreScriptAndSourceSynchronized reference id 20 doesn't match. 0222744449E35B81DF667AB80BD25253 != 31F367EA4D25A53DCD768FA1ECE4DB4F, source /Niagara/Functions/Rotation/MultiplyVectorWithQuaternion.MultiplyVectorWithQuaternion:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.16-17.48.16:530][243]LogNiagara: AreScriptAndSourceSynchronized reference id 22 doesn't match. CB9172604E4A94C2023D4B888F88414E != 3D3D97DB4830F0DBF842EBAA62E44D65, source /Niagara/Modules/Update/Lifetime/UpdateAge.UpdateAge:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.16-17.48.16:530][243]LogNiagara: AreScriptAndSourceSynchronized reference id 23 doesn't match. 5196B9124134ABE06305A6AB16830FC7 != 0837E7F84D4403C5C9A849A69367F6CF, source /Niagara/DynamicInputs/ValueFromCurve/FloatFromCurve.FloatFromCurve:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.16-17.48.16:530][243]LogNiagara: AreScriptAndSourceSynchronized reference id 25 doesn't match. EEF52B3C46963ED0ABC2238BAF70F6EC != B24340914C34CC500C63359B285DB4DA, source /Niagara/Modules/Update/Color/Color.Color:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.16-17.48.16:530][243]LogNiagara: AreScriptAndSourceSynchronized reference id 26 doesn't match. 5196B9124134ABE06305A6AB16830FC7 != 0837E7F84D4403C5C9A849A69367F6CF, source /Niagara/DynamicInputs/ValueFromCurve/FloatFromCurve.FloatFromCurve:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.16-17.48.16:530][243]LogNiagara: AreScriptAndSourceSynchronized reference id 28 doesn't match. 6CD89E3044357EDA545CCA852829595C != A561E92144772E91FB661E91350E790F, source /Niagara/Modules/Update/Size/MeshSizeScale.MeshSizeScale:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.16-17.48.16:530][243]LogNiagara: AreScriptAndSourceSynchronized reference id 29 doesn't match. 5864DBE245DAF3695DB332B228553D2E != 42B9697F4A1F01548A1DADA6294EDFFB, source /Niagara/Modules/Solvers/SolveForcesAndVelocity.SolveForcesAndVelocity:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.16-17.48.16:530][243]LogNiagara: AreScriptAndSourceSynchronized reference id 34 doesn't match. C331E05B4CE758414DFD71B2C1F10CED != C08DC5C34265D620303355804EC58E26, source /Niagara/Functions/Rotation/AxisAngleToQuaternion.AxisAngleToQuaternion:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.16-17.48.16:530][243]LogNiagara: AreScriptAndSourceSynchronized reference id 10 doesn't match. 94A04B1D40150F411D2FBDB0897F4DC6 != 1687DFDE4502D28F3031D294E13A51D0, source /Niagara/Modules/Spawn/Velocity/AddVelocityInCone.AddVelocityInCone:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.16-17.48.16:530][243]LogNiagara: AreScriptAndSourceSynchronized reference id 11 doesn't match. C00F28EC4E20AD775107C7ADF5CB921C != 4036B0674CB0D96AA684C5AB793D6F07, source /Niagara/Functions/RandomVectorInCone.RandomVectorInCone:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.16-17.48.16:530][243]LogNiagara: AreScriptAndSourceSynchronized reference id 15 doesn't match. 8AA8A4004B240F1D6FC58BB2040B99DD != 99EF2174437A88EAB7A2EFA3C9BEB798, source /Niagara/Functions/PolarToCartesianCoordinates.PolarToCartesianCoordinates:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.16-17.48.16:530][243]LogNiagara: AreScriptAndSourceSynchronized reference id 17 doesn't match. D6AB8041424B9984815163B1BE686548 != CC9F48FC41B5413127CBF6BDBC693D18, source /Niagara/Functions/Math/RemapValueRange.RemapValueRange:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.16-17.48.16:531][243]LogNiagara: AreScriptAndSourceSynchronized reference id 19 doesn't match. A0A8E0354F22C09750E3D6A59E9F3D27 != DBC234B741286E70250D21A528098E70, source /Niagara/Functions/Localspace/TransformBase.TransformBase:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.16-17.48.16:531][243]LogNiagara: AreScriptAndSourceSynchronized reference id 21 doesn't match. 0222744449E35B81DF667AB80BD25253 != 31F367EA4D25A53DCD768FA1ECE4DB4F, source /Niagara/Functions/Rotation/MultiplyVectorWithQuaternion.MultiplyVectorWithQuaternion:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.16-17.48.16:531][243]LogNiagara: AreScriptAndSourceSynchronized reference id 22 doesn't match. CB9172604E4A94C2023D4B888F88414E != 3D3D97DB4830F0DBF842EBAA62E44D65, source /Niagara/Modules/Update/Lifetime/UpdateAge.UpdateAge:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.16-17.48.16:531][243]LogNiagara: AreScriptAndSourceSynchronized reference id 23 doesn't match. 5196B9124134ABE06305A6AB16830FC7 != 0837E7F84D4403C5C9A849A69367F6CF, source /Niagara/DynamicInputs/ValueFromCurve/FloatFromCurve.FloatFromCurve:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.16-17.48.16:531][243]LogNiagara: AreScriptAndSourceSynchronized reference id 25 doesn't match. EEF52B3C46963ED0ABC2238BAF70F6EC != B24340914C34CC500C63359B285DB4DA, source /Niagara/Modules/Update/Color/Color.Color:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.16-17.48.16:531][243]LogNiagara: AreScriptAndSourceSynchronized reference id 26 doesn't match. 5196B9124134ABE06305A6AB16830FC7 != 0837E7F84D4403C5C9A849A69367F6CF, source /Niagara/DynamicInputs/ValueFromCurve/FloatFromCurve.FloatFromCurve:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.16-17.48.16:531][243]LogNiagara: AreScriptAndSourceSynchronized reference id 28 doesn't match. 6CD89E3044357EDA545CCA852829595C != A561E92144772E91FB661E91350E790F, source /Niagara/Modules/Update/Size/MeshSizeScale.MeshSizeScale:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.16-17.48.16:531][243]LogNiagara: AreScriptAndSourceSynchronized reference id 29 doesn't match. 5864DBE245DAF3695DB332B228553D2E != 42B9697F4A1F01548A1DADA6294EDFFB, source /Niagara/Modules/Solvers/SolveForcesAndVelocity.SolveForcesAndVelocity:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.16-17.48.16:531][243]LogNiagara: AreScriptAndSourceSynchronized reference id 34 doesn't match. C331E05B4CE758414DFD71B2C1F10CED != C08DC5C34265D620303355804EC58E26, source /Niagara/Functions/Rotation/AxisAngleToQuaternion.AxisAngleToQuaternion:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.16-17.48.16:539][243]LogNiagara: AreScriptAndSourceSynchronized reference id 2 doesn't match. EBEBB28C44D1B7EA4F4BD593FD89D5DA != 4177356E42704ED9FA2B3092A11FFC08, source /Niagara/Modules/Emitter/EmitterLifeCycle.EmitterLifeCycle:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.16-17.48.16:539][243]LogNiagara: AreScriptAndSourceSynchronized reference id 3 doesn't match. 91F17DFA468FA72AC874E398273B5CBD != 99D416D4475AA0E226E8D0987E4A6320, source /Niagara/Functions/Emitter/EmitterChangeState.EmitterChangeState:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.16-17.48.16:539][243]LogNiagara: AreScriptAndSourceSynchronized reference id 4 doesn't match. 91F17DFA468FA72AC874E398273B5CBD != 99D416D4475AA0E226E8D0987E4A6320, source /Niagara/Functions/Emitter/EmitterChangeState.EmitterChangeState:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.16-17.48.16:539][243]LogNiagara: AreScriptAndSourceSynchronized reference id 5 doesn't match. 91F17DFA468FA72AC874E398273B5CBD != 99D416D4475AA0E226E8D0987E4A6320, source /Niagara/Functions/Emitter/EmitterChangeState.EmitterChangeState:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.16-17.48.16:539][243]LogNiagara: AreScriptAndSourceSynchronized reference id 6 doesn't match. 91F17DFA468FA72AC874E398273B5CBD != 99D416D4475AA0E226E8D0987E4A6320, source /Niagara/Functions/Emitter/EmitterChangeState.EmitterChangeState:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.16-17.48.16:539][243]LogNiagara: AreScriptAndSourceSynchronized reference id 9 doesn't match. 7A9C462F43F67BC84C31D689B21077D9 != EAFE5D31432843BBAA10DFB87A11417F, source /Niagara/Modules/System/SystemLifeCycle.SystemLifeCycle:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.16-17.48.16:539][243]LogNiagara: AreScriptAndSourceSynchronized reference id 10 doesn't match. 3DA92868456759E4A3B918B38A9F1BE6 != E28335274A4FFEC313E62E90A3C03F67, source /Niagara/Functions/System/SystemChangeState.SystemChangeState:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.16-17.48.16:539][243]LogNiagara: AreScriptAndSourceSynchronized reference id 11 doesn't match. 3DA92868456759E4A3B918B38A9F1BE6 != E28335274A4FFEC313E62E90A3C03F67, source /Niagara/Functions/System/SystemChangeState.SystemChangeState:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.16-17.48.16:539][243]LogNiagara: AreScriptAndSourceSynchronized reference id 12 doesn't match. 3DA92868456759E4A3B918B38A9F1BE6 != E28335274A4FFEC313E62E90A3C03F67, source /Niagara/Functions/System/SystemChangeState.SystemChangeState:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.16-17.48.16:539][243]LogNiagara: AreScriptAndSourceSynchronized reference id 15 doesn't match. EBEBB28C44D1B7EA4F4BD593FD89D5DA != 4177356E42704ED9FA2B3092A11FFC08, source /Niagara/Modules/Emitter/EmitterLifeCycle.EmitterLifeCycle:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.16-17.48.16:539][243]LogNiagara: AreScriptAndSourceSynchronized reference id 16 doesn't match. 91F17DFA468FA72AC874E398273B5CBD != 99D416D4475AA0E226E8D0987E4A6320, source /Niagara/Functions/Emitter/EmitterChangeState.EmitterChangeState:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.16-17.48.16:539][243]LogNiagara: AreScriptAndSourceSynchronized reference id 17 doesn't match. 91F17DFA468FA72AC874E398273B5CBD != 99D416D4475AA0E226E8D0987E4A6320, source /Niagara/Functions/Emitter/EmitterChangeState.EmitterChangeState:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.16-17.48.16:539][243]LogNiagara: AreScriptAndSourceSynchronized reference id 18 doesn't match. 91F17DFA468FA72AC874E398273B5CBD != 99D416D4475AA0E226E8D0987E4A6320, source /Niagara/Functions/Emitter/EmitterChangeState.EmitterChangeState:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.16-17.48.16:540][243]LogNiagara: AreScriptAndSourceSynchronized reference id 19 doesn't match. 91F17DFA468FA72AC874E398273B5CBD != 99D416D4475AA0E226E8D0987E4A6320, source /Niagara/Functions/Emitter/EmitterChangeState.EmitterChangeState:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.16-17.48.16:540][243]LogNiagara: AreScriptAndSourceSynchronized reference id 3 doesn't match. EBEBB28C44D1B7EA4F4BD593FD89D5DA != 4177356E42704ED9FA2B3092A11FFC08, source /Niagara/Modules/Emitter/EmitterLifeCycle.EmitterLifeCycle:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.16-17.48.16:540][243]LogNiagara: AreScriptAndSourceSynchronized reference id 4 doesn't match. 91F17DFA468FA72AC874E398273B5CBD != 99D416D4475AA0E226E8D0987E4A6320, source /Niagara/Functions/Emitter/EmitterChangeState.EmitterChangeState:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.16-17.48.16:540][243]LogNiagara: AreScriptAndSourceSynchronized reference id 5 doesn't match. 91F17DFA468FA72AC874E398273B5CBD != 99D416D4475AA0E226E8D0987E4A6320, source /Niagara/Functions/Emitter/EmitterChangeState.EmitterChangeState:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.16-17.48.16:540][243]LogNiagara: AreScriptAndSourceSynchronized reference id 6 doesn't match. 91F17DFA468FA72AC874E398273B5CBD != 99D416D4475AA0E226E8D0987E4A6320, source /Niagara/Functions/Emitter/EmitterChangeState.EmitterChangeState:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.16-17.48.16:540][243]LogNiagara: AreScriptAndSourceSynchronized reference id 7 doesn't match. 91F17DFA468FA72AC874E398273B5CBD != 99D416D4475AA0E226E8D0987E4A6320, source /Niagara/Functions/Emitter/EmitterChangeState.EmitterChangeState:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.16-17.48.16:540][243]LogNiagara: AreScriptAndSourceSynchronized reference id 9 doesn't match. 7A9C462F43F67BC84C31D689B21077D9 != EAFE5D31432843BBAA10DFB87A11417F, source /Niagara/Modules/System/SystemLifeCycle.SystemLifeCycle:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.16-17.48.16:540][243]LogNiagara: AreScriptAndSourceSynchronized reference id 10 doesn't match. 3DA92868456759E4A3B918B38A9F1BE6 != E28335274A4FFEC313E62E90A3C03F67, source /Niagara/Functions/System/SystemChangeState.SystemChangeState:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.16-17.48.16:540][243]LogNiagara: AreScriptAndSourceSynchronized reference id 11 doesn't match. 3DA92868456759E4A3B918B38A9F1BE6 != E28335274A4FFEC313E62E90A3C03F67, source /Niagara/Functions/System/SystemChangeState.SystemChangeState:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.16-17.48.16:540][243]LogNiagara: AreScriptAndSourceSynchronized reference id 12 doesn't match. 3DA92868456759E4A3B918B38A9F1BE6 != E28335274A4FFEC313E62E90A3C03F67, source /Niagara/Functions/System/SystemChangeState.SystemChangeState:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.16-17.48.16:540][243]LogNiagara: AreScriptAndSourceSynchronized reference id 15 doesn't match. EBEBB28C44D1B7EA4F4BD593FD89D5DA != 4177356E42704ED9FA2B3092A11FFC08, source /Niagara/Modules/Emitter/EmitterLifeCycle.EmitterLifeCycle:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.16-17.48.16:540][243]LogNiagara: AreScriptAndSourceSynchronized reference id 16 doesn't match. 91F17DFA468FA72AC874E398273B5CBD != 99D416D4475AA0E226E8D0987E4A6320, source /Niagara/Functions/Emitter/EmitterChangeState.EmitterChangeState:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.16-17.48.16:540][243]LogNiagara: AreScriptAndSourceSynchronized reference id 17 doesn't match. 91F17DFA468FA72AC874E398273B5CBD != 99D416D4475AA0E226E8D0987E4A6320, source /Niagara/Functions/Emitter/EmitterChangeState.EmitterChangeState:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.16-17.48.16:540][243]LogNiagara: AreScriptAndSourceSynchronized reference id 18 doesn't match. 91F17DFA468FA72AC874E398273B5CBD != 99D416D4475AA0E226E8D0987E4A6320, source /Niagara/Functions/Emitter/EmitterChangeState.EmitterChangeState:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.16-17.48.16:540][243]LogNiagara: AreScriptAndSourceSynchronized reference id 19 doesn't match. 91F17DFA468FA72AC874E398273B5CBD != 99D416D4475AA0E226E8D0987E4A6320, source /Niagara/Functions/Emitter/EmitterChangeState.EmitterChangeState:NiagaraScriptSource_0.NiagaraGraph_0
+[2024.09.16-17.48.16:540][243]LogNiagara: Emitter /Game/Assets/Prefabs/NS_Blood_Hit.NS_Blood_Hit:NiagaraEmitter_0-N_Blood_Hit is merging changes from source /Game/Assets/Prefabs/N_Blood_Hit.N_Blood_Hit because its Change ID was updated.
+[2024.09.16-17.48.16:568][243]LogNiagara: AreScriptAndSourceSynchronized num dependencies don't match. 36 != 33
+[2024.09.16-17.48.16:568][243]LogNiagara: AreScriptAndSourceSynchronized num dependencies don't match. 36 != 33
+[2024.09.16-17.48.16:582][243]LogNiagaraEditor: 'NiagaraGraph /Engine/Transient.N_Blood_Hit:NiagaraScriptSource_0.NiagaraGraph_0' changes synchronized with master script in EmitterSpawnScript .. synced guid: FB285E274582B37FDE0C7D9BB2536CBC
+[2024.09.16-17.48.16:582][243]LogNiagaraEditor: 'NiagaraGraph /Engine/Transient.N_Blood_Hit:NiagaraScriptSource_0.NiagaraGraph_0' changes synchronized with master script in EmitterUpdateScript .. synced guid: A31DB1E5482B9D0506D088ADF39A84C8
+[2024.09.16-17.48.16:582][243]LogNiagaraEditor: 'NiagaraGraph /Engine/Transient.N_Blood_Hit:NiagaraScriptSource_0.NiagaraGraph_0' changes synchronized with master script in ParticleUpdateScript .. synced guid: 8763E68E49A9BAD02B6076ADF36DC84E
+[2024.09.16-17.48.16:608][243]LogNiagara: AreScriptAndSourceSynchronized num dependencies don't match. 36 != 33
+[2024.09.16-17.48.16:608][243]LogNiagara: AreScriptAndSourceSynchronized num dependencies don't match. 36 != 33
+[2024.09.16-17.48.16:610][243]LogNiagara: AreScriptAndSourceSynchronized base script id's don't match. C8D0AE3C49C18EEC951266909E57F257 != DEDEA802447FDA090C54B48B06A6ECAA
+[2024.09.16-17.48.16:610][243]LogNiagara: AreScriptAndSourceSynchronized num dependencies don't match. 36 != 33
+[2024.09.16-17.48.16:611][243]LogNiagara: System /Game/Assets/Prefabs/NS_Blood_Hit.NS_Blood_Hit being compiled because there were changes to a system script Change ID.
+[2024.09.16-17.48.16:611][243]LogNiagara: System /Game/Assets/Prefabs/NS_Blood_Hit.NS_Blood_Hit being compiled because there were changes to an emitter script Change ID.
+[2024.09.16-17.48.16:611][243]LogNiagara: System /Game/Assets/Prefabs/NS_Blood_Hit.NS_Blood_Hit being compiled because graph changes were merged for a base emitter.
+[2024.09.16-17.48.16:725][243]LogNiagaraEditor: '/Game/Assets/Prefabs/NS_Blood_Hit' Precompile took 0.113715 sec.
+[2024.09.16-17.48.16:725][243]LogNiagara: AreScriptAndSourceSynchronized num dependencies don't match. 36 != 33
+[2024.09.16-17.48.16:726][243]LogNiagaraEditor: Compiling System NiagaraScript /Game/Assets/Prefabs/NS_Blood_Hit.NS_Blood_Hit:N_Blood_Hit_0.SpawnScript ...................................................................
+[2024.09.16-17.48.16:728][243]LogNiagaraEditor: Compiling System NiagaraScript /Game/Assets/Prefabs/NS_Blood_Hit.NS_Blood_Hit:N_Blood_Hit_0.UpdateScript ...................................................................
+[2024.09.16-17.48.16:728][243]LogNiagaraEditor: Compiling System NiagaraScript /Game/Assets/Prefabs/NS_Blood_Hit.NS_Blood_Hit:SystemSpawnScript ...................................................................
+[2024.09.16-17.48.21:299][243]LogTexture: Display: Building textures: beam_window_supports_metal_n (BC5, 2048X2048)
+[2024.09.16-17.48.21:299][243]LogTexture: Display: Building textures: beam_window_supports_metal_g (AutoDXT, 2048X2048)
+[2024.09.16-17.48.21:299][243]LogTexture: Display: Building textures: beam_window_supports_metal_c (AutoDXT, 2048X2048)
+[2024.09.16-17.48.21:299][243]LogNiagaraEditor: Compiling System NiagaraScript /Game/Assets/Prefabs/NS_Blood_Hit.NS_Blood_Hit:N_Blood_Hit_0.SpawnScript took 3.472382 sec (0.037758/3.413120)... Status NCS_UpToDate
+[2024.09.16-17.48.21:299][243]LogNiagaraEditor: Compiling System NiagaraScript /Game/Assets/Prefabs/NS_Blood_Hit.NS_Blood_Hit:SystemUpdateScript ...................................................................
+[2024.09.16-17.48.21:299][243]LogNiagaraEditor: Compiling System NiagaraScript /Game/Assets/Prefabs/NS_Blood_Hit.NS_Blood_Hit:N_Blood_Hit_0.UpdateScript took 3.801764 sec (0.049562/0.327609)... Status NCS_UpToDate
+[2024.09.16-17.48.21:299][243]LogNiagaraEditor: Compiling System NiagaraScript /Game/Assets/Prefabs/NS_Blood_Hit.NS_Blood_Hit:SystemSpawnScript took 4.000210 sec (0.053642/0.215510)... Status NCS_UpToDate
+[2024.09.16-17.48.21:299][243]LogNiagaraEditor: Compiling System NiagaraScript /Game/Assets/Prefabs/NS_Blood_Hit.NS_Blood_Hit:SystemUpdateScript took 0.967524 sec (0.010161/0.447829)... Status NCS_UpToDate
+[2024.09.16-17.48.25:757][243]LogStaticMesh: Building static mesh BUDGET_BLDG_TRIAL...
+[2024.09.16-17.48.26:030][243]LogStaticMesh: Built static mesh [0.27s] /Game/Assets/Prefabs/Environment/BUDGET_BLDG_TRIAL.BUDGET_BLDG_TRIAL
+[2024.09.16-17.48.26:270][243]LogStaticMesh: Building static mesh LIGHT_POST...
+[2024.09.16-17.48.26:383][243]LogStaticMesh: Built static mesh [0.11s] /Game/Assets/Prefabs/Environment/LIGHT_POST.LIGHT_POST
+[2024.09.16-17.48.26:400][243]LogStaticMesh: Building static mesh LONG_RAIL...
+[2024.09.16-17.48.26:405][243]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/Prefabs/Environment/LONG_RAIL.LONG_RAIL
+[2024.09.16-17.48.26:504][243]LogStaticMesh: Building static mesh SM_Bicycle_01...
+[2024.09.16-17.48.27:586][243]LogStaticMesh: Built static mesh [1.08s] /Game/AssetsvilleTown/Meshes/StreetProps/SM_Bicycle_01.SM_Bicycle_01
+[2024.09.16-17.48.27:674][243]LogStaticMesh: Building static mesh SM_Bicycle_02...
+[2024.09.16-17.48.29:018][243]LogStaticMesh: Built static mesh [1.34s] /Game/AssetsvilleTown/Meshes/StreetProps/SM_Bicycle_02.SM_Bicycle_02
+[2024.09.16-17.48.29:053][243]LogStaticMesh: Building static mesh SM_road_00...
+[2024.09.16-17.48.29:054][243]LogStaticMesh: Built static mesh [0.00s] /Game/AssetsvilleTown/Meshes/GroundTilset/SM_road_00.SM_road_00
+[2024.09.16-17.48.29:064][243]LogStaticMesh: Building static mesh SM_roof_04...
+[2024.09.16-17.48.29:064][243]LogStaticMesh: Built static mesh [0.01s] /Game/AssetsvilleTown/Meshes/BuildingTilset/SM_roof_04.SM_roof_04
+[2024.09.16-17.48.36:045][243]LogSkeletalMesh: Building Skeletal Mesh SK_veh_Van_01...
+[2024.09.16-17.48.36:070][243]LogSkeletalMesh: Built Skeletal Mesh [0.03s] /Game/AssetsvilleTown/Meshes/Vehicles/SK_veh_Van_01.SK_veh_Van_01
+[2024.09.16-17.48.36:103][243]LogMaterial: Display: Missing cached shader map for material metal_trim__roughness+color_pckr, compiling. 
+[2024.09.16-17.48.36:204][243]LogMaterial: Display: Missing cached shader map for material metal_trim__roughness+color_pckr, compiling. 
+[2024.09.16-17.48.38:238][243]LogSkeletalMesh: Building Skeletal Mesh SK_veh_CargoTruckOld...
+[2024.09.16-17.48.38:263][243]LogSkeletalMesh: Built Skeletal Mesh [0.03s] /Game/AssetsvilleTown/Meshes/Vehicles/SK_veh_CargoTruckOld.SK_veh_CargoTruckOld
+[2024.09.16-17.48.38:264][243]LogSkeletalMesh: Building Skeletal Mesh SK_veh_Sedan_01...
+[2024.09.16-17.48.38:290][243]LogSkeletalMesh: Built Skeletal Mesh [0.03s] /Game/AssetsvilleTown/Meshes/Vehicles/SK_veh_Sedan_01.SK_veh_Sedan_01
+[2024.09.16-17.48.38:291][243]LogSkeletalMesh: Building Skeletal Mesh SK_veh_Muscle_01...
+[2024.09.16-17.48.38:317][243]LogSkeletalMesh: Built Skeletal Mesh [0.03s] /Game/AssetsvilleTown/Meshes/Vehicles/SK_veh_Muscle_01.SK_veh_Muscle_01
+[2024.09.16-17.48.38:378][243]LogMaterial: Display: Missing cached shader map for material M_Concrete_Panels, compiling. 
+[2024.09.16-17.48.38:414][243]LogMaterial: Display: Missing cached shader map for material M_Concrete_Panels, compiling. 
+[2024.09.16-17.48.38:457][243]LogMaterial: Display: Missing cached shader map for material M_CLR_assets_grid, compiling. 
+[2024.09.16-17.48.38:494][243]LogMaterial: Display: Missing cached shader map for material M_CLR_assets_grid, compiling. 
+[2024.09.16-17.48.38:661][243]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2024.09.16-17.48.38:935][243]LogAssetEditorManager: Opening Asset editor for World /Game/Assets/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2024.09.16-17.48.38:942][243]LogNiagara: UNiagraScript 'NiagaraScript /Game/Assets/Prefabs/NS_Blood_Hit.NS_Blood_Hit:N_Blood_Hit_0.SpawnScript' was built locally..
+[2024.09.16-17.48.38:946][243]LogNiagara: UNiagraScript 'NiagaraScript /Game/Assets/Prefabs/NS_Blood_Hit.NS_Blood_Hit:N_Blood_Hit_0.UpdateScript' was built locally..
+[2024.09.16-17.48.38:949][243]LogNiagara: UNiagraScript 'NiagaraScript /Game/Assets/Prefabs/NS_Blood_Hit.NS_Blood_Hit:SystemSpawnScript' was built locally..
+[2024.09.16-17.48.38:949][243]LogNiagara: UNiagraScript 'NiagaraScript /Game/Assets/Prefabs/NS_Blood_Hit.NS_Blood_Hit:SystemUpdateScript' was built locally..
+[2024.09.16-17.48.38:958][243]LogNiagara: Compiling System NiagaraSystem /Game/Assets/Prefabs/NS_Blood_Hit.NS_Blood_Hit took 22.347752 sec (wall time), 12.241880 sec (combined time).
+[2024.09.16-17.48.39:177][243]LogUObjectHash: Compacting FUObjectHashTables data took  15.14ms
+[2024.09.16-17.48.39:185][243]LightingResults: New page: Lighting Build
+[2024.09.16-17.48.39:195][243]LogBlueprintActionDatabase: Requesting refresh due to module change: StatsViewer (loaded)
+[2024.09.16-17.48.39:195][243]LogContentBrowser: Native class hierarchy updated for 'StatsViewer' in 0.0005 seconds. Added 5 classes and 0 folders.
+[2024.09.16-17.48.39:197][243]LoadErrors: New page: Loading map: ThirdPersonExampleMap.umap
+[2024.09.16-17.48.39:204][243]MapCheck: New page: Map Check
+[2024.09.16-17.48.39:204][243]LightingResults: New page: Lighting Build
+[2024.09.16-17.48.39:292][243]LogUObjectHash: Compacting FUObjectHashTables data took   7.98ms
+[2024.09.16-17.48.42:373][243]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.09.16-17.48.42:518][243]LogUObjectHash: Compacting FUObjectHashTables data took   7.65ms
+[2024.09.16-17.48.42:655][243]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.09.16-17.48.42:660][243]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 3.791ms to complete.
+[2024.09.16-17.48.42:660][243]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 3.480
+[2024.09.16-17.49.01:726][878]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2024.09.16-17.49.03:806][997]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (20.127 sec). This should never happen. Something is wrong with the timer delegate!
+[2024.09.16-17.49.10:632][391]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2024.09.16-17.49.10:732][391]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Assets/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/Assets/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/Assets/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2024.09.16-17.49.10:734][391]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.09.16-17.49.10:736][391]PIE: New page: PIE session: ThirdPersonExampleMap (Sep 17, 2024, 9:49:10 AM)
+[2024.09.16-17.49.10:757][391]LogPlayLevel: Creating play world package: /Game/Assets/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2024.09.16-17.49.10:901][391]LogPlayLevel: PIE: StaticDuplicateObject took: (0.143311s)
+[2024.09.16-17.49.10:903][391]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2024.09.16-17.49.10:904][391]LogPlayLevel: PIE: World Init took: (0.002832s)
+[2024.09.16-17.49.10:905][391]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assets/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/Assets/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.147356s)
+[2024.09.16-17.49.11:082][391]LogUObjectHash: Compacting FUObjectHashTables data took  13.26ms
+[2024.09.16-17.49.11:096][391]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2024.09.16-17.49.11:146][391]LogInit: FAudioDevice initialized.
+[2024.09.16-17.49.11:164][391]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.09.16-17.49.11:230][391]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2024.09.16-17.49.11:231][391]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2024.09.16-17.49.11:232][391]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2024.09.16-17.49.11:232][391]LogLoad: Game class is 'GameModeBase'
+[2024.09.16-17.49.11:261][391]LogWorld: Bringing World /Game/Assets/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2024.09.17-01.49.11
+[2024.09.16-17.49.11:289][391]LogWorld: Bringing up level for play took: 0.055318
+[2024.09.16-17.49.11:324][391]LogBlueprintActionDatabase: Requesting refresh due to module change: Voice (loaded)
+[2024.09.16-17.49.11:336][391]LogBlueprintActionDatabase: Requesting refresh due to module change: MovieSceneCapture (loaded)
+[2024.09.16-17.49.11:336][391]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0006 seconds. Added 20 classes and 0 folders.
+[2024.09.16-17.49.11:364][391]LogBlueprintUserMessages: [Student_Display_C_0] Hello
+[2024.09.16-17.49.11:377][391]PIE: Play in editor start time for /Game/Assets/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 1.533
+[2024.09.16-17.49.11:378][391]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Assets/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/Assets/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/Assets/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2024.09.16-17.49.11:453][392]LogRenderer: Reallocating scene render targets to support 1016x544 Format 10 NumSamples 1 (Frame:1).
+[2024.09.16-17.49.16:076][449]LogSlate: Window 'MarilaOubreaks Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2024.09.16-17.49.16:090][449]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Assets/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/Assets/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/Assets/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2024.09.16-17.49.16:141][449]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.09.16-17.49.16:142][449]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Assets/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/Assets/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/Assets/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2024.09.16-17.49.16:483][449]LogUObjectHash: Compacting FUObjectHashTables data took  15.94ms
+[2024.09.16-17.49.16:526][450]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2024.09.16-17.49.16:992][473]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2024.09.16-17.49.17:073][473]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Assets/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/Assets/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/Assets/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2024.09.16-17.49.17:073][473]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.09.16-17.49.17:073][473]PIE: New page: PIE session: ThirdPersonExampleMap (Sep 17, 2024, 9:49:17 AM)
+[2024.09.16-17.49.17:073][473]LogPlayLevel: Creating play world package: /Game/Assets/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2024.09.16-17.49.17:203][473]LogPlayLevel: PIE: StaticDuplicateObject took: (0.128315s)
+[2024.09.16-17.49.17:204][473]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2024.09.16-17.49.17:204][473]LogPlayLevel: PIE: World Init took: (0.001284s)
+[2024.09.16-17.49.17:204][473]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assets/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/Assets/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.131408s)
+[2024.09.16-17.49.17:325][473]LogUObjectHash: Compacting FUObjectHashTables data took   9.73ms
+[2024.09.16-17.49.17:335][473]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2024.09.16-17.49.17:388][473]LogInit: FAudioDevice initialized.
+[2024.09.16-17.49.17:402][473]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.09.16-17.49.17:447][473]LogLoad: Game class is 'GameModeBase'
+[2024.09.16-17.49.17:475][473]LogWorld: Bringing World /Game/Assets/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2024.09.17-01.49.17
+[2024.09.16-17.49.17:481][473]LogWorld: Bringing up level for play took: 0.030312
+[2024.09.16-17.49.17:511][473]LogBlueprintUserMessages: [Student_Display_C_0] Hello
+[2024.09.16-17.49.17:516][473]PIE: Play in editor start time for /Game/Assets/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.329
+[2024.09.16-17.49.17:517][473]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Assets/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/Assets/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/Assets/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2024.09.16-17.49.18:670][485]LogBlueprintUserMessages: [Driver_Displays_C_0] Hello
+[2024.09.16-17.49.23:731][560]LogSlate: Window 'MarilaOubreaks Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2024.09.16-17.49.23:743][560]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Assets/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/Assets/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/Assets/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2024.09.16-17.49.23:796][560]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.09.16-17.49.23:798][560]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Assets/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/Assets/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/Assets/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2024.09.16-17.49.24:050][560]LogUObjectHash: Compacting FUObjectHashTables data took  11.71ms
+[2024.09.16-17.49.24:091][561]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2024.09.16-17.49.24:607][586]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2024.09.16-17.49.24:688][586]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Assets/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/Assets/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/Assets/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2024.09.16-17.49.24:689][586]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.09.16-17.49.24:689][586]PIE: New page: PIE session: ThirdPersonExampleMap (Sep 17, 2024, 9:49:24 AM)
+[2024.09.16-17.49.24:689][586]LogPlayLevel: Creating play world package: /Game/Assets/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2024.09.16-17.49.24:806][586]LogPlayLevel: PIE: StaticDuplicateObject took: (0.116264s)
+[2024.09.16-17.49.24:807][586]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2024.09.16-17.49.24:807][586]LogPlayLevel: PIE: World Init took: (0.001267s)
+[2024.09.16-17.49.24:808][586]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assets/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/Assets/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.117993s)
+[2024.09.16-17.49.24:883][586]LogUObjectHash: Compacting FUObjectHashTables data took   5.71ms
+[2024.09.16-17.49.24:891][586]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2024.09.16-17.49.24:946][586]LogInit: FAudioDevice initialized.
+[2024.09.16-17.49.24:962][586]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.09.16-17.49.25:010][586]LogLoad: Game class is 'GameModeBase'
+[2024.09.16-17.49.25:037][586]LogWorld: Bringing World /Game/Assets/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2024.09.17-01.49.25
+[2024.09.16-17.49.25:040][586]LogWorld: Bringing up level for play took: 0.028051
+[2024.09.16-17.49.25:070][586]LogBlueprintUserMessages: [Student_Display_C_0] Hello
+[2024.09.16-17.49.25:074][586]PIE: Play in editor start time for /Game/Assets/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 1.23
+[2024.09.16-17.49.25:075][586]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Assets/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/Assets/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/Assets/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2024.09.16-17.49.26:185][598]LogBlueprintUserMessages: [Nurse_Displays_C_0] Hello
+[2024.09.16-17.49.31:551][673]LogSlate: Window 'MarilaOubreaks Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2024.09.16-17.49.31:563][673]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Assets/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/Assets/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/Assets/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2024.09.16-17.49.31:608][673]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.09.16-17.49.31:609][673]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Assets/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/Assets/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/Assets/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2024.09.16-17.49.31:762][673]LogUObjectHash: Compacting FUObjectHashTables data took  11.37ms
+[2024.09.16-17.49.31:803][674]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2024.09.16-17.49.48:334][533]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2024.09.16-17.49.48:424][533]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Assets/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/Assets/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/Assets/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2024.09.16-17.49.48:424][533]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.09.16-17.49.48:424][533]PIE: New page: PIE session: ThirdPersonExampleMap (Sep 17, 2024, 9:49:48 AM)
+[2024.09.16-17.49.48:425][533]LogPlayLevel: Creating play world package: /Game/Assets/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2024.09.16-17.49.48:548][533]LogPlayLevel: PIE: StaticDuplicateObject took: (0.123263s)
+[2024.09.16-17.49.48:548][533]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2024.09.16-17.49.48:549][533]LogPlayLevel: PIE: World Init took: (0.001177s)
+[2024.09.16-17.49.48:549][533]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assets/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/Assets/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.124858s)
+[2024.09.16-17.49.48:628][533]LogUObjectHash: Compacting FUObjectHashTables data took   5.80ms
+[2024.09.16-17.49.48:638][533]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2024.09.16-17.49.48:692][533]LogInit: FAudioDevice initialized.
+[2024.09.16-17.49.48:706][533]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.09.16-17.49.48:746][533]LogLoad: Game class is 'GameModeBase'
+[2024.09.16-17.49.48:774][533]LogWorld: Bringing World /Game/Assets/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2024.09.17-01.49.48
+[2024.09.16-17.49.48:780][533]LogWorld: Bringing up level for play took: 0.032372
+[2024.09.16-17.49.48:809][533]LogBlueprintUserMessages: [Student_Display_C_0] Hello
+[2024.09.16-17.49.48:813][533]PIE: Play in editor start time for /Game/Assets/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.969
+[2024.09.16-17.49.48:814][533]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Assets/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/Assets/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/Assets/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2024.09.16-17.49.50:458][547]LogBlueprintUserMessages: [Student_Display_C_1] Hello
+[2024.09.16-17.49.53:539][590]LogSlate: Window 'MarilaOubreaks Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2024.09.16-17.49.53:554][590]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Assets/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/Assets/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/Assets/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2024.09.16-17.49.53:603][590]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.09.16-17.49.53:604][590]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Assets/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/Assets/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/Assets/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2024.09.16-17.49.53:812][590]LogUObjectHash: Compacting FUObjectHashTables data took   8.96ms
+[2024.09.16-17.49.53:860][591]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2024.09.16-17.50.09:258][367]LogBlueprint: Warning: [Compiler Bars] Invalid property 'Characters' class, replaced with Object.  Please fix or remove.
+[2024.09.16-17.50.09:258][367]LogBlueprint: Warning: [Compiler Bars] Invalid property 'Character_Reference' class, replaced with Object.  Please fix or remove.
+[2024.09.16-17.50.09:262][367]LogBlueprint: Warning: [Compiler Bars] [0209.51] Compile of Bars successful, but with 2 Warning(s) [in 11 ms] (/Game/BArs/Bars.Bars)
+[2024.09.16-17.50.14:463][586]LogBlueprint: Warning: [Compiler Bars] Invalid property 'Characters' class, replaced with Object.  Please fix or remove.
+[2024.09.16-17.50.14:464][586]LogBlueprint: Warning: [Compiler Bars] Invalid property 'Character_Reference' class, replaced with Object.  Please fix or remove.
+[2024.09.16-17.50.14:468][586]LogBlueprint: Warning: [Compiler Bars] [0214.72] Compile of Bars successful, but with 2 Warning(s) [in 9 ms] (/Game/BArs/Bars.Bars)
+[2024.09.16-17.50.22:185][861]LogBlueprint: Warning: [Compiler Bars] Invalid property 'Characters' class, replaced with Object.  Please fix or remove.
+[2024.09.16-17.50.22:185][861]LogBlueprint: Warning: [Compiler Bars] Invalid property 'Character_Reference' class, replaced with Object.  Please fix or remove.
+[2024.09.16-17.50.22:189][861]LogBlueprint: Warning: [Compiler Bars] [0222.44] Compile of Bars successful, but with 2 Warning(s) [in 10 ms] (/Game/BArs/Bars.Bars)
+[2024.09.16-17.50.30:513][267]LogBlueprint: Warning: [Compiler Bars] Invalid property 'Characters' class, replaced with Object.  Please fix or remove.
+[2024.09.16-17.50.30:513][267]LogBlueprint: Warning: [Compiler Bars] Invalid property 'Character_Reference' class, replaced with Object.  Please fix or remove.
+[2024.09.16-17.50.30:516][267]LogBlueprint: Warning: [Compiler Bars] [0230.76] Compile of Bars successful, but with 2 Warning(s) [in 9 ms] (/Game/BArs/Bars.Bars)
+[2024.09.16-17.50.33:607][380]LogBlueprint: Warning: [Compiler Bars] Invalid property 'Characters' class, replaced with Object.  Please fix or remove.
+[2024.09.16-17.50.33:607][380]LogBlueprint: Warning: [Compiler Bars] Invalid property 'Character_Reference' class, replaced with Object.  Please fix or remove.
+[2024.09.16-17.50.33:611][380]LogBlueprint: Warning: [Compiler Bars] [0233.86] Compile of Bars successful, but with 2 Warning(s) [in 10 ms] (/Game/BArs/Bars.Bars)
+[2024.09.16-17.50.42:533][765]LogBlueprint: Warning: [Compiler Bars] Invalid property 'Characters' class, replaced with Object.  Please fix or remove.
+[2024.09.16-17.50.42:533][765]LogBlueprint: Warning: [Compiler Bars] Invalid property 'Character_Reference' class, replaced with Object.  Please fix or remove.
+[2024.09.16-17.50.42:536][765]LogBlueprint: Warning: [Compiler Bars] [0242.78] Compile of Bars successful, but with 2 Warning(s) [in 10 ms] (/Game/BArs/Bars.Bars)
+[2024.09.16-17.50.46:622][918]LogBlueprint: Warning: [Compiler Bars] Invalid property 'Characters' class, replaced with Object.  Please fix or remove.
+[2024.09.16-17.50.46:622][918]LogBlueprint: Warning: [Compiler Bars] Invalid property 'Character_Reference' class, replaced with Object.  Please fix or remove.
+[2024.09.16-17.50.46:624][918]LogBlueprint: Warning: [Compiler Bars] [0246.87] Compile of Bars successful, but with 2 Warning(s) [in 10 ms] (/Game/BArs/Bars.Bars)
+[2024.09.16-17.51.07:283][957]LogBlueprint: Warning: [Compiler Bars] Invalid property 'Characters' class, replaced with Object.  Please fix or remove.
+[2024.09.16-17.51.07:283][957]LogBlueprint: Warning: [Compiler Bars] Invalid property 'Character_Reference' class, replaced with Object.  Please fix or remove.
+[2024.09.16-17.51.07:285][957]LogBlueprint: Warning: [Compiler Bars] [0267.53] Compile of Bars successful, but with 2 Warning(s) [in 10 ms] (/Game/BArs/Bars.Bars)
+[2024.09.16-17.51.10:409][109]LogAssetRegistry: Asset discovery search completed in 261.9898 seconds
+[2024.09.16-17.51.10:418][109]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000001 seconds (updated 0 objects)
+[2024.09.16-17.51.12:508][146]LogBlueprint: Warning: [Compiler Bars] Invalid property 'Characters' class, replaced with Object.  Please fix or remove.
+[2024.09.16-17.51.12:508][146]LogBlueprint: Warning: [Compiler Bars] Invalid property 'Character_Reference' class, replaced with Object.  Please fix or remove.
+[2024.09.16-17.51.12:512][146]LogBlueprint: Warning: [Compiler Bars] [0272.76] Compile of Bars successful, but with 2 Warning(s) [in 10 ms] (/Game/BArs/Bars.Bars)
+[2024.09.16-17.51.46:542][986]LogBlueprint: Warning: [Compiler Bars] Invalid property 'Characters' class, replaced with Object.  Please fix or remove.
+[2024.09.16-17.51.46:542][986]LogBlueprint: Warning: [Compiler Bars] Invalid property 'Character_Reference' class, replaced with Object.  Please fix or remove.
+[2024.09.16-17.51.46:544][986]LogBlueprint: Warning: [Compiler Bars] [0306.79] Compile of Bars successful, but with 2 Warning(s) [in 9 ms] (/Game/BArs/Bars.Bars)
+[2024.09.16-17.51.48:221][ 59]LogBlueprint: Warning: [Compiler Bars] Invalid property 'Characters' class, replaced with Object.  Please fix or remove.
+[2024.09.16-17.51.48:221][ 59]LogBlueprint: Warning: [Compiler Bars] Invalid property 'Character_Reference' class, replaced with Object.  Please fix or remove.
+[2024.09.16-17.51.48:223][ 59]LogBlueprint: Warning: [Compiler Bars] [0308.47] Compile of Bars successful, but with 2 Warning(s) [in 11 ms] (/Game/BArs/Bars.Bars)
+[2024.09.16-17.51.49:953][128]LogBlueprint: Warning: [Compiler Bars] Invalid property 'Characters' class, replaced with Object.  Please fix or remove.
+[2024.09.16-17.51.49:953][128]LogBlueprint: Warning: [Compiler Bars] Invalid property 'Character_Reference' class, replaced with Object.  Please fix or remove.
+[2024.09.16-17.51.49:956][128]LogBlueprint: Warning: [Compiler Bars] [0310.20] Compile of Bars successful, but with 2 Warning(s) [in 10 ms] (/Game/BArs/Bars.Bars)
+[2024.09.16-17.51.52:370][223]LogBlueprint: Warning: [Compiler Bars] Invalid property 'Characters' class, replaced with Object.  Please fix or remove.
+[2024.09.16-17.51.52:370][223]LogBlueprint: Warning: [Compiler Bars] Invalid property 'Character_Reference' class, replaced with Object.  Please fix or remove.
+[2024.09.16-17.51.52:373][223]LogBlueprint: Warning: [Compiler Bars] [0312.62] Compile of Bars successful, but with 2 Warning(s) [in 10 ms] (/Game/BArs/Bars.Bars)
+[2024.09.16-17.51.57:636][457]LogBlueprint: Warning: [Compiler Bars] Invalid property 'Characters' class, replaced with Object.  Please fix or remove.
+[2024.09.16-17.51.57:637][457]LogBlueprint: Warning: [Compiler Bars] Invalid property 'Character_Reference' class, replaced with Object.  Please fix or remove.
+[2024.09.16-17.51.57:639][457]LogBlueprint: Warning: [Compiler Bars] [0317.89] Compile of Bars successful, but with 2 Warning(s) [in 11 ms] (/Game/BArs/Bars.Bars)
+[2024.09.16-17.52.02:076][673]LogBlueprint: Warning: [Compiler Bars] Invalid property 'Characters' class, replaced with Object.  Please fix or remove.
+[2024.09.16-17.52.02:077][673]LogBlueprint: Warning: [Compiler Bars] Invalid property 'Character_Reference' class, replaced with Object.  Please fix or remove.
+[2024.09.16-17.52.02:079][673]LogBlueprint: Warning: [Compiler Bars] [0322.33] Compile of Bars successful, but with 2 Warning(s) [in 8 ms] (/Game/BArs/Bars.Bars)
+[2024.09.16-17.52.03:216][723]LogEditorTransaction: Undo Move Widget
+[2024.09.16-17.52.03:228][723]LogBlueprint: Warning: [Compiler Bars] Invalid property 'Characters' class, replaced with Object.  Please fix or remove.
+[2024.09.16-17.52.03:229][723]LogBlueprint: Warning: [Compiler Bars] Invalid property 'Character_Reference' class, replaced with Object.  Please fix or remove.
+[2024.09.16-17.52.03:232][723]LogBlueprint: Warning: [Compiler Bars] [0323.48] Compile of Bars successful, but with 2 Warning(s) [in 10 ms] (/Game/BArs/Bars.Bars)
+[2024.09.16-17.52.05:335][816]LogBlueprint: Warning: [Compiler Bars] Invalid property 'Characters' class, replaced with Object.  Please fix or remove.
+[2024.09.16-17.52.05:336][816]LogBlueprint: Warning: [Compiler Bars] Invalid property 'Character_Reference' class, replaced with Object.  Please fix or remove.
+[2024.09.16-17.52.05:340][816]LogBlueprint: Warning: [Compiler Bars] [0325.59] Compile of Bars successful, but with 2 Warning(s) [in 11 ms] (/Game/BArs/Bars.Bars)
+[2024.09.16-17.52.06:011][842]LogEditorTransaction: Undo Move Widget
+[2024.09.16-17.52.06:018][842]LogBlueprint: Warning: [Compiler Bars] Invalid property 'Characters' class, replaced with Object.  Please fix or remove.
+[2024.09.16-17.52.06:020][842]LogBlueprint: Warning: [Compiler Bars] Invalid property 'Character_Reference' class, replaced with Object.  Please fix or remove.
+[2024.09.16-17.52.06:022][842]LogBlueprint: Warning: [Compiler Bars] [0326.27] Compile of Bars successful, but with 2 Warning(s) [in 10 ms] (/Game/BArs/Bars.Bars)
+[2024.09.16-17.52.09:196][977]LogBlueprint: Warning: [Compiler Bars] Invalid property 'Characters' class, replaced with Object.  Please fix or remove.
+[2024.09.16-17.52.09:198][977]LogBlueprint: Warning: [Compiler Bars] Invalid property 'Character_Reference' class, replaced with Object.  Please fix or remove.
+[2024.09.16-17.52.09:202][977]LogBlueprint: Warning: [Compiler Bars] [0329.45] Compile of Bars successful, but with 2 Warning(s) [in 10 ms] (/Game/BArs/Bars.Bars)
+[2024.09.16-17.52.09:573][989]LogEditorTransaction: Undo Move Widget
+[2024.09.16-17.52.09:580][989]LogBlueprint: Warning: [Compiler Bars] Invalid property 'Characters' class, replaced with Object.  Please fix or remove.
+[2024.09.16-17.52.09:581][989]LogBlueprint: Warning: [Compiler Bars] Invalid property 'Character_Reference' class, replaced with Object.  Please fix or remove.
+[2024.09.16-17.52.09:585][989]LogBlueprint: Warning: [Compiler Bars] [0329.83] Compile of Bars successful, but with 2 Warning(s) [in 10 ms] (/Game/BArs/Bars.Bars)
+[2024.09.16-17.52.17:963][416]LogBlueprint: Warning: [Compiler Bars] Invalid property 'Characters' class, replaced with Object.  Please fix or remove.
+[2024.09.16-17.52.17:963][416]LogBlueprint: Warning: [Compiler Bars] Invalid property 'Character_Reference' class, replaced with Object.  Please fix or remove.
+[2024.09.16-17.52.17:966][416]LogBlueprint: Warning: [Compiler Bars] [0338.21] Compile of Bars successful, but with 2 Warning(s) [in 9 ms] (/Game/BArs/Bars.Bars)
+[2024.09.16-17.52.20:063][518]LogEditorTransaction: Undo Move Widget
+[2024.09.16-17.52.20:070][518]LogBlueprint: Warning: [Compiler Bars] Invalid property 'Characters' class, replaced with Object.  Please fix or remove.
+[2024.09.16-17.52.20:071][518]LogBlueprint: Warning: [Compiler Bars] Invalid property 'Character_Reference' class, replaced with Object.  Please fix or remove.
+[2024.09.16-17.52.20:075][518]LogBlueprint: Warning: [Compiler Bars] [0340.32] Compile of Bars successful, but with 2 Warning(s) [in 9 ms] (/Game/BArs/Bars.Bars)
+[2024.09.16-17.52.28:799][969]LogBlueprint: Warning: [Compiler Bars] Invalid property 'Characters' class, replaced with Object.  Please fix or remove.
+[2024.09.16-17.52.28:799][969]LogBlueprint: Warning: [Compiler Bars] Invalid property 'Character_Reference' class, replaced with Object.  Please fix or remove.
+[2024.09.16-17.52.28:804][969]LogBlueprint: Warning: [Compiler Bars] [0349.05] Compile of Bars successful, but with 2 Warning(s) [in 10 ms] (/Game/BArs/Bars.Bars)
+[2024.09.16-17.52.35:304][243]LogBlueprint: Warning: [Compiler Bars] Invalid property 'Characters' class, replaced with Object.  Please fix or remove.
+[2024.09.16-17.52.35:304][243]LogBlueprint: Warning: [Compiler Bars] Invalid property 'Character_Reference' class, replaced with Object.  Please fix or remove.
+[2024.09.16-17.52.35:309][243]LogBlueprint: Warning: [Compiler Bars] [0355.56] Compile of Bars successful, but with 2 Warning(s) [in 10 ms] (/Game/BArs/Bars.Bars)
+[2024.09.16-17.52.42:736][613]LogBlueprint: Warning: [Compiler Bars] Invalid property 'Characters' class, replaced with Object.  Please fix or remove.
+[2024.09.16-17.52.42:737][613]LogBlueprint: Warning: [Compiler Bars] Invalid property 'Character_Reference' class, replaced with Object.  Please fix or remove.
+[2024.09.16-17.52.42:739][613]LogBlueprint: Warning: [Compiler Bars] [0362.99] Compile of Bars successful, but with 2 Warning(s) [in 9 ms] (/Game/BArs/Bars.Bars)
+[2024.09.16-17.52.49:387][966]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2024.09.16-17.52.49:469][966]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Assets/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/Assets/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/Assets/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2024.09.16-17.52.49:469][966]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.09.16-17.52.49:478][966]LogBlueprint: Warning: [Compiler Bars] Invalid property 'Characters' class, replaced with Object.  Please fix or remove.
+[2024.09.16-17.52.49:479][966]LogBlueprint: Warning: [Compiler Bars] Invalid property 'Character_Reference' class, replaced with Object.  Please fix or remove.
+[2024.09.16-17.52.49:617][966]LogPlayLevel: [PlayLevel] Compiling Bars before play...
+[2024.09.16-17.52.49:626][966]LogBlueprint: Warning: [Compiler Bars] Invalid property 'Characters' class, replaced with Object.  Please fix or remove.
+[2024.09.16-17.52.49:626][966]LogBlueprint: Warning: [Compiler Bars] Invalid property 'Character_Reference' class, replaced with Object.  Please fix or remove.
+[2024.09.16-17.52.49:709][966]LogBlueprint: Warning: [Compiler Bars] [0369.96] Compile of Bars successful, but with 4 Warning(s) [in 238 ms] (/Game/BArs/Bars.Bars)
+[2024.09.16-17.52.50:674][966]LogUObjectHash: Compacting FUObjectHashTables data took  12.84ms
+[2024.09.16-17.52.50:674][966]LogPlayLevel: PlayLevel: Blueprint regeneration took 1204 ms (1 blueprints)
+[2024.09.16-17.52.50:674][966]PIE: New page: PIE session: ThirdPersonExampleMap (Sep 17, 2024, 9:52:50 AM)
+[2024.09.16-17.52.50:674][966]LogPlayLevel: Creating play world package: /Game/Assets/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2024.09.16-17.52.50:786][966]LogPlayLevel: PIE: StaticDuplicateObject took: (0.110945s)
+[2024.09.16-17.52.50:786][966]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2024.09.16-17.52.50:788][966]LogPlayLevel: PIE: World Init took: (0.001172s)
+[2024.09.16-17.52.50:788][966]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assets/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/Assets/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.113628s)
+[2024.09.16-17.52.50:859][966]LogUObjectHash: Compacting FUObjectHashTables data took   5.65ms
+[2024.09.16-17.52.50:868][966]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2024.09.16-17.52.50:914][966]LogInit: FAudioDevice initialized.
+[2024.09.16-17.52.50:928][966]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.09.16-17.52.50:982][966]LogLoad: Game class is 'GameModeBase'
+[2024.09.16-17.52.51:010][966]LogWorld: Bringing World /Game/Assets/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2024.09.17-01.52.51
+[2024.09.16-17.52.51:014][966]LogWorld: Bringing up level for play took: 0.029690
+[2024.09.16-17.52.51:045][966]LogBlueprintUserMessages: [Student_Display_C_0] Hello
+[2024.09.16-17.52.51:048][966]PIE: Play in editor start time for /Game/Assets/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 1.205
+[2024.09.16-17.52.51:049][966]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Assets/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/Assets/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/Assets/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2024.09.16-17.52.54:501][ 20]LogSlate: Window 'MarilaOubreaks Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2024.09.16-17.52.54:513][ 20]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Assets/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/Assets/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/Assets/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2024.09.16-17.52.54:560][ 20]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.09.16-17.52.54:561][ 20]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Assets/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/Assets/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/Assets/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2024.09.16-17.52.54:742][ 20]LogUObjectHash: Compacting FUObjectHashTables data took   9.51ms
+[2024.09.16-17.52.54:864][ 21]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2024.09.16-17.52.55:238][ 38]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2024.09.16-17.52.55:323][ 38]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Assets/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/Assets/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/Assets/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2024.09.16-17.52.55:324][ 38]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.09.16-17.52.55:324][ 38]PIE: New page: PIE session: ThirdPersonExampleMap (Sep 17, 2024, 9:52:55 AM)
+[2024.09.16-17.52.55:324][ 38]LogPlayLevel: Creating play world package: /Game/Assets/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2024.09.16-17.52.55:442][ 38]LogPlayLevel: PIE: StaticDuplicateObject took: (0.117919s)
+[2024.09.16-17.52.55:443][ 38]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2024.09.16-17.52.55:444][ 38]LogPlayLevel: PIE: World Init took: (0.001511s)
+[2024.09.16-17.52.55:444][ 38]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assets/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/Assets/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.119930s)
+[2024.09.16-17.52.55:532][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   8.13ms
+[2024.09.16-17.52.55:542][ 38]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2024.09.16-17.52.55:596][ 38]LogInit: FAudioDevice initialized.
+[2024.09.16-17.52.55:613][ 38]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.09.16-17.52.55:659][ 38]LogLoad: Game class is 'GameModeBase'
+[2024.09.16-17.52.55:683][ 38]LogWorld: Bringing World /Game/Assets/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2024.09.17-01.52.55
+[2024.09.16-17.52.55:689][ 38]LogWorld: Bringing up level for play took: 0.028465
+[2024.09.16-17.52.55:716][ 38]LogBlueprintUserMessages: [Student_Display_C_0] Hello
+[2024.09.16-17.52.55:721][ 38]PIE: Play in editor start time for /Game/Assets/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.123
+[2024.09.16-17.52.55:722][ 38]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Assets/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/Assets/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/Assets/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2024.09.16-17.52.56:885][ 50]LogBlueprintUserMessages: [Nurse_Displays_C_0] Hello
+[2024.09.16-17.53.09:075][281]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Assets/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/Assets/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/Assets/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2024.09.16-17.53.09:077][281]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.09.16-17.53.09:255][281]LogSlate: Window 'MarilaOubreaks Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2024.09.16-17.53.09:314][281]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.09.16-17.53.09:314][281]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Assets/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/Assets/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/Assets/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2024.09.16-17.53.09:499][281]LogUObjectHash: Compacting FUObjectHashTables data took   8.47ms
+[2024.09.16-17.53.09:544][282]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2024.09.16-17.53.10:301][316]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2024.09.16-17.53.10:385][316]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Assets/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/Assets/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/Assets/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2024.09.16-17.53.10:385][316]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.09.16-17.53.10:385][316]PIE: New page: PIE session: ThirdPersonExampleMap (Sep 17, 2024, 9:53:10 AM)
+[2024.09.16-17.53.10:386][316]LogPlayLevel: Creating play world package: /Game/Assets/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2024.09.16-17.53.10:512][316]LogPlayLevel: PIE: StaticDuplicateObject took: (0.125491s)
+[2024.09.16-17.53.10:513][316]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2024.09.16-17.53.10:514][316]LogPlayLevel: PIE: World Init took: (0.001707s)
+[2024.09.16-17.53.10:514][316]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assets/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/Assets/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.127718s)
+[2024.09.16-17.53.10:589][316]LogUObjectHash: Compacting FUObjectHashTables data took   8.12ms
+[2024.09.16-17.53.10:599][316]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2024.09.16-17.53.10:653][316]LogInit: FAudioDevice initialized.
+[2024.09.16-17.53.10:668][316]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.09.16-17.53.10:719][316]LogLoad: Game class is 'GameModeBase'
+[2024.09.16-17.53.10:750][316]LogWorld: Bringing World /Game/Assets/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2024.09.17-01.53.10
+[2024.09.16-17.53.10:754][316]LogWorld: Bringing up level for play took: 0.032639
+[2024.09.16-17.53.10:786][316]LogBlueprintUserMessages: [Student_Display_C_0] Hello
+[2024.09.16-17.53.10:790][316]PIE: Play in editor start time for /Game/Assets/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.946
+[2024.09.16-17.53.10:790][316]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Assets/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/Assets/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/Assets/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2024.09.16-17.53.11:694][326]LogBlueprintUserMessages: [Driver_Displays_C_0] Hello
+[2024.09.16-17.53.11:818][327]LogBlueprintUserMessages: [Driver_Displays_C_1] Hello
+[2024.09.16-17.53.16:966][364]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2024.09.16-17.53.19:934][404]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Assets/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/Assets/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/Assets/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2024.09.16-17.53.19:935][404]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.09.16-17.53.20:105][404]LogSlate: Window 'MarilaOubreaks Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2024.09.16-17.53.20:167][404]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.09.16-17.53.20:168][404]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Assets/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/Assets/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/Assets/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2024.09.16-17.53.20:342][404]LogUObjectHash: Compacting FUObjectHashTables data took   8.58ms
+[2024.09.16-17.53.20:383][405]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2024.09.16-18.00.40:857][638]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2024.09.16-18.00.40:857][638]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Assets/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.052
+[2024.09.16-18.00.40:862][638]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BArs/Bars] ([1] browsable assets)...
+[2024.09.16-18.00.40:862][638]OBJ SavePackage: Finished generating thumbnails for package [/Game/BArs/Bars]
+[2024.09.16-18.00.41:253][638]LogSavePackage: Moving '../../../../../../Users/alexi/Downloads/New_Marilao/ManilaOutbreak-Game/MarilaOubreaks/Saved/Bars_Auto1B48F69764E975AA94CC826A39ECF347B.tmp' to '../../../../../../Users/alexi/Downloads/New_Marilao/ManilaOutbreak-Game/MarilaOubreaks/Saved/Autosaves/Game/BArs/Bars_Auto1.uasset'
+[2024.09.16-18.00.41:259][638]LogFileHelpers: Auto-saving content packages took 0.400
+[2024.09.16-18.00.43:128][729]LogUObjectHash: Compacting FUObjectHashTables data took   3.29ms
+[2024.09.16-18.00.47:877][729]LogSlate: Window 'Save Content' being destroyed
+[2024.09.16-18.00.47:971][729]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BArs/Bars" FILE="../../../../../../Users/alexi/Downloads/New_Marilao/ManilaOutbreak-Game/MarilaOubreaks/Content/BArs/Bars.uasset" SILENT=true
+[2024.09.16-18.00.48:533][729]LogSavePackage: Moving '../../../../../../Users/alexi/Downloads/New_Marilao/ManilaOutbreak-Game/MarilaOubreaks/Saved/Bars51BF840C41339E7C38BA83A6D2621A2B.tmp' to '../../../../../../Users/alexi/Downloads/New_Marilao/ManilaOutbreak-Game/MarilaOubreaks/Content/BArs/Bars.uasset'
+[2024.09.16-18.00.48:901][729]LogSlate: Window 'MarilaOubreaks - Unreal Editor' being destroyed
+[2024.09.16-18.00.49:289][730]Cmd: QUIT_EDITOR
+[2024.09.16-18.00.49:808][730]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2024.09.16-18.00.49:841][730]LogExit: Preparing to exit.
+[2024.09.16-18.00.50:828][730]LogExit: Editor shut down
+[2024.09.16-18.00.50:829][730]LogExit: Transaction tracking system shut down
+[2024.09.16-18.00.51:900][730]LogExit: Object subsystem successfully closed.
+[2024.09.16-18.00.51:977][730]LogShaderCompilers: Display: Shaders left to compile 0
+[2024.09.16-18.00.52:052][730]LogD3D11RHI: Shutdown
+[2024.09.16-18.00.52:052][730]LogD3D11RHI: CleanupD3DDevice
+[2024.09.16-18.00.52:071][730]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2024.09.16-18.00.52:071][730]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2024.09.16-18.00.52:073][730]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2024.09.16-18.00.52:073][730]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2024.09.16-18.00.52:073][730]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2024.09.16-18.00.52:073][730]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2024.09.16-18.00.52:304][730]LogD3D11RHI: ~FD3D11DynamicRHI
+[2024.09.16-18.00.52:374][730]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (664)
+[2024.09.16-18.00.52:374][730]LogModuleManager: Shutting down and abandoning module Voice (662)
+[2024.09.16-18.00.52:375][730]LogModuleManager: Shutting down and abandoning module StatsViewer (660)
+[2024.09.16-18.00.52:375][730]LogModuleManager: Shutting down and abandoning module MeshBuilder (658)
+[2024.09.16-18.00.52:375][730]LogModuleManager: Shutting down and abandoning module SequencerWidgets (656)
+[2024.09.16-18.00.52:375][730]LogModuleManager: Shutting down and abandoning module BlueprintGraph (654)
+[2024.09.16-18.00.52:375][730]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (652)
+[2024.09.16-18.00.52:375][730]LogModuleManager: Shutting down and abandoning module SceneOutliner (650)
+[2024.09.16-18.00.52:375][730]LogModuleManager: Shutting down and abandoning module AddContentDialog (648)
+[2024.09.16-18.00.52:378][730]LogModuleManager: Shutting down and abandoning module WidgetCarousel (647)
+[2024.09.16-18.00.52:378][730]LogModuleManager: Shutting down and abandoning module EditorWidgets (644)
+[2024.09.16-18.00.52:378][730]LogModuleManager: Shutting down and abandoning module CollectionManager (642)
+[2024.09.16-18.00.52:379][730]LogModuleManager: Shutting down and abandoning module FoliageEdit (640)
+[2024.09.16-18.00.52:379][730]LogModuleManager: Shutting down and abandoning module LandscapeEditor (638)
+[2024.09.16-18.00.52:381][730]LogModuleManager: Shutting down and abandoning module MeshPaintMode (636)
+[2024.09.16-18.00.52:381][730]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (634)
+[2024.09.16-18.00.52:381][730]LogModuleManager: Shutting down and abandoning module ActorPickerMode (632)
+[2024.09.16-18.00.52:381][730]LogModuleManager: Shutting down and abandoning module GeometryMode (630)
+[2024.09.16-18.00.52:381][730]LogModuleManager: Shutting down and abandoning module TextureAlignMode (628)
+[2024.09.16-18.00.52:381][730]LogModuleManager: Shutting down and abandoning module BspMode (626)
+[2024.09.16-18.00.52:381][730]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (624)
+[2024.09.16-18.00.52:382][730]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (622)
+[2024.09.16-18.00.52:384][730]LogModuleManager: Shutting down and abandoning module AutomationWorker (620)
+[2024.09.16-18.00.52:384][730]LogModuleManager: Shutting down and abandoning module OculusMR (618)
+[2024.09.16-18.00.52:384][730]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (616)
+[2024.09.16-18.00.52:384][730]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (614)
+[2024.09.16-18.00.52:385][730]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (612)
+[2024.09.16-18.00.52:387][730]LogModuleManager: Shutting down and abandoning module PlacementMode (611)
+[2024.09.16-18.00.52:387][730]LogModuleManager: Shutting down and abandoning module MaterialEditor (610)
+[2024.09.16-18.00.52:389][730]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (606)
+[2024.09.16-18.00.52:390][730]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (604)
+[2024.09.16-18.00.52:390][730]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (602)
+[2024.09.16-18.00.52:390][730]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (600)
+[2024.09.16-18.00.52:390][730]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (598)
+[2024.09.16-18.00.52:390][730]LogModuleManager: Shutting down and abandoning module WebMMedia (596)
+[2024.09.16-18.00.52:390][730]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (594)
+[2024.09.16-18.00.52:391][730]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (592)
+[2024.09.16-18.00.52:392][730]LogModuleManager: Shutting down and abandoning module SequenceRecorder (591)
+[2024.09.16-18.00.52:392][730]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (588)
+[2024.09.16-18.00.52:392][730]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (586)
+[2024.09.16-18.00.52:392][730]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (584)
+[2024.09.16-18.00.52:392][730]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (582)
+[2024.09.16-18.00.52:392][730]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (580)
+[2024.09.16-18.00.52:392][730]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (578)
+[2024.09.16-18.00.52:392][730]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (576)
+[2024.09.16-18.00.52:392][730]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (574)
+[2024.09.16-18.00.52:392][730]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (572)
+[2024.09.16-18.00.52:392][730]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (570)
+[2024.09.16-18.00.52:392][730]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (568)
+[2024.09.16-18.00.52:392][730]LogModuleManager: Shutting down and abandoning module CharacterAI (566)
+[2024.09.16-18.00.52:392][730]LogModuleManager: Shutting down and abandoning module SmartSnapping (564)
+[2024.09.16-18.00.52:392][730]LogModuleManager: Shutting down and abandoning module SessionServices (562)
+[2024.09.16-18.00.52:392][730]LogModuleManager: Shutting down and abandoning module MeshPaint (560)
+[2024.09.16-18.00.52:394][730]LogModuleManager: Shutting down and abandoning module ViewportSnapping (558)
+[2024.09.16-18.00.52:394][730]LogModuleManager: Shutting down and abandoning module ViewportInteraction (556)
+[2024.09.16-18.00.52:394][730]LogModuleManager: Shutting down and abandoning module ClothPainter (554)
+[2024.09.16-18.00.52:395][730]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (553)
+[2024.09.16-18.00.52:396][730]LogModuleManager: Shutting down and abandoning module LogVisualizer (550)
+[2024.09.16-18.00.52:399][730]LogModuleManager: Shutting down and abandoning module IntroTutorials (548)
+[2024.09.16-18.00.52:400][730]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (547)
+[2024.09.16-18.00.52:402][730]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (544)
+[2024.09.16-18.00.52:402][730]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (542)
+[2024.09.16-18.00.52:402][730]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (540)
+[2024.09.16-18.00.52:402][730]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (538)
+[2024.09.16-18.00.52:403][730]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (537)
+[2024.09.16-18.00.52:676][730]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (534)
+[2024.09.16-18.00.52:676][730]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (532)
+[2024.09.16-18.00.52:676][730]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (530)
+[2024.09.16-18.00.52:676][730]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (528)
+[2024.09.16-18.00.52:676][730]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (526)
+[2024.09.16-18.00.52:677][730]LogModuleManager: Shutting down and abandoning module InputBindingEditor (524)
+[2024.09.16-18.00.52:677][730]LogModuleManager: Shutting down and abandoning module MergeActors (522)
+[2024.09.16-18.00.52:678][730]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (520)
+[2024.09.16-18.00.52:679][730]LogModuleManager: Shutting down and abandoning module LocalizationService (519)
+[2024.09.16-18.00.52:680][730]LogModuleManager: Shutting down and abandoning module HardwareTargeting (516)
+[2024.09.16-18.00.52:680][730]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (514)
+[2024.09.16-18.00.52:680][730]LogModuleManager: Shutting down and abandoning module UndoHistory (512)
+[2024.09.16-18.00.52:681][730]LogModuleManager: Shutting down and abandoning module XmlParser (510)
+[2024.09.16-18.00.52:682][730]LogModuleManager: Shutting down and abandoning module Blutility (508)
+[2024.09.16-18.00.52:682][730]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (506)
+[2024.09.16-18.00.52:683][730]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (505)
+[2024.09.16-18.00.52:683][730]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (502)
+[2024.09.16-18.00.52:683][730]LogModuleManager: Shutting down and abandoning module SettingsEditor (500)
+[2024.09.16-18.00.52:684][730]LogModuleManager: Shutting down and abandoning module ProjectLauncher (498)
+[2024.09.16-18.00.52:685][730]LogModuleManager: Shutting down and abandoning module SessionFrontend (496)
+[2024.09.16-18.00.52:686][730]LogModuleManager: Shutting down and abandoning module ProfilerClient (494)
+[2024.09.16-18.00.52:687][730]LogModuleManager: Shutting down and abandoning module DeviceManager (492)
+[2024.09.16-18.00.52:687][730]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (491)
+[2024.09.16-18.00.52:731][730]LogModuleManager: Shutting down and abandoning module AutomationController (488)
+[2024.09.16-18.00.52:732][730]LogModuleManager: Shutting down and abandoning module AutomationWindow (486)
+[2024.09.16-18.00.52:733][730]LogModuleManager: Shutting down and abandoning module Layers (484)
+[2024.09.16-18.00.52:736][730]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (482)
+[2024.09.16-18.00.52:736][730]LogModuleManager: Shutting down and abandoning module DetailCustomizations (480)
+[2024.09.16-18.00.52:738][730]LogModuleManager: Shutting down and abandoning module PackagesDialog (478)
+[2024.09.16-18.00.52:738][730]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (476)
+[2024.09.16-18.00.52:741][730]LogModuleManager: Shutting down and abandoning module Persona (474)
+[2024.09.16-18.00.52:743][730]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (473)
+[2024.09.16-18.00.52:743][730]LogModuleManager: Shutting down and abandoning module AnimGraph (471)
+[2024.09.16-18.00.52:743][730]LogModuleManager: Shutting down and abandoning module Kismet (468)
+[2024.09.16-18.00.52:766][730]LogModuleManager: Shutting down and abandoning module GraphEditor (466)
+[2024.09.16-18.00.52:766][730]LogModuleManager: Shutting down and abandoning module ClassViewer (464)
+[2024.09.16-18.00.52:766][730]LogModuleManager: Shutting down and abandoning module Toolbox (462)
+[2024.09.16-18.00.52:766][730]LogModuleManager: Shutting down and abandoning module ModuleUI (460)
+[2024.09.16-18.00.52:767][730]LogModuleManager: Shutting down and abandoning module MovieSceneTools (458)
+[2024.09.16-18.00.52:767][730]LogModuleManager: Shutting down and abandoning module OutputLog (456)
+[2024.09.16-18.00.52:767][730]LogModuleManager: Shutting down and abandoning module GammaUI (454)
+[2024.09.16-18.00.52:768][730]LogModuleManager: Shutting down and abandoning module Documentation (452)
+[2024.09.16-18.00.52:768][730]LogModuleManager: Shutting down and abandoning module LiveCoding (450)
+[2024.09.16-18.00.52:770][730]LogModuleManager: Shutting down and abandoning module LevelSequence (448)
+[2024.09.16-18.00.52:770][730]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (446)
+[2024.09.16-18.00.52:770][730]LogModuleManager: Shutting down and abandoning module MovieScene (444)
+[2024.09.16-18.00.52:770][730]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (442)
+[2024.09.16-18.00.52:771][730]LogModuleManager: Shutting down and abandoning module LauncherPlatform (440)
+[2024.09.16-18.00.52:771][730]LogModuleManager: Shutting down and abandoning module AnalyticsET (438)
+[2024.09.16-18.00.52:771][730]LogModuleManager: Shutting down and abandoning module PortalServices (436)
+[2024.09.16-18.00.52:771][730]LogModuleManager: Shutting down and abandoning module PortalRpc (434)
+[2024.09.16-18.00.52:771][730]LogModuleManager: Shutting down and abandoning module MessagingRpc (432)
+[2024.09.16-18.00.52:771][730]LogModuleManager: Shutting down and abandoning module AIModule (430)
+[2024.09.16-18.00.52:772][730]LogModuleManager: Shutting down and abandoning module GameplayDebugger (429)
+[2024.09.16-18.00.52:773][730]LogModuleManager: Shutting down and abandoning module AITestSuite (427)
+[2024.09.16-18.00.52:774][730]LogModuleManager: Shutting down and abandoning module NavigationSystem (425)
+[2024.09.16-18.00.52:774][730]LogModuleManager: Shutting down and abandoning module DesktopPlatform (422)
+[2024.09.16-18.00.52:775][730]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (420)
+[2024.09.16-18.00.52:790][730]LogModuleManager: Shutting down and abandoning module ProfilerService (418)
+[2024.09.16-18.00.52:849][730]LogModuleManager: Shutting down and abandoning module TaskGraph (416)
+[2024.09.16-18.00.52:851][730]LogModuleManager: Shutting down and abandoning module SteamVRController (414)
+[2024.09.16-18.00.52:851][730]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (412)
+[2024.09.16-18.00.52:852][730]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (410)
+[2024.09.16-18.00.52:852][730]LogModuleManager: Shutting down and abandoning module OculusEditor (408)
+[2024.09.16-18.00.52:853][730]LogModuleManager: Shutting down and abandoning module OculusInput (406)
+[2024.09.16-18.00.52:853][730]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (404)
+[2024.09.16-18.00.52:853][730]LogModuleManager: Shutting down and abandoning module EditableMesh (402)
+[2024.09.16-18.00.52:854][730]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (400)
+[2024.09.16-18.00.52:854][730]LogModuleManager: Shutting down and abandoning module CableComponent (398)
+[2024.09.16-18.00.52:854][730]LogModuleManager: Shutting down and abandoning module AudioCapture (396)
+[2024.09.16-18.00.52:854][730]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (394)
+[2024.09.16-18.00.52:854][730]LogModuleManager: Shutting down and abandoning module AndroidPermission (392)
+[2024.09.16-18.00.52:854][730]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (390)
+[2024.09.16-18.00.52:855][730]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (388)
+[2024.09.16-18.00.52:856][730]LogModuleManager: Shutting down and abandoning module MediaCompositing (386)
+[2024.09.16-18.00.52:856][730]LogModuleManager: Shutting down and abandoning module LinearTimecode (384)
+[2024.09.16-18.00.52:857][730]LogModuleManager: Shutting down and abandoning module ImgMedia (382)
+[2024.09.16-18.00.52:857][730]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (380)
+[2024.09.16-18.00.52:857][730]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (378)
+[2024.09.16-18.00.52:857][730]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (376)
+[2024.09.16-18.00.52:858][730]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (374)
+[2024.09.16-18.00.52:860][730]LogModuleManager: Shutting down and abandoning module NiagaraEditor (372)
+[2024.09.16-18.00.52:861][730]LogModuleManager: Shutting down and abandoning module HTML5Networking (370)
+[2024.09.16-18.00.52:861][730]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (368)
+[2024.09.16-18.00.52:861][730]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (366)
+[2024.09.16-18.00.52:861][730]LogModuleManager: Shutting down and abandoning module BackChannel (364)
+[2024.09.16-18.00.52:862][730]LogModuleManager: Shutting down and abandoning module AppleVision (362)
+[2024.09.16-18.00.52:862][730]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (360)
+[2024.09.16-18.00.52:862][730]LogModuleManager: Shutting down and abandoning module AppleImageUtils (358)
+[2024.09.16-18.00.52:862][730]LogModuleManager: Shutting down and abandoning module AlembicImporter (356)
+[2024.09.16-18.00.52:862][730]LogModuleManager: Shutting down and abandoning module AlembicLibrary (355)
+[2024.09.16-18.00.52:862][730]LogModuleManager: Shutting down and abandoning module GeometryCache (354)
+[2024.09.16-18.00.52:862][730]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (353)
+[2024.09.16-18.00.52:862][730]LogModuleManager: Shutting down and abandoning module VariantManagerContent (348)
+[2024.09.16-18.00.52:862][730]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (346)
+[2024.09.16-18.00.52:863][730]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (344)
+[2024.09.16-18.00.52:863][730]LogModuleManager: Shutting down and abandoning module PluginBrowser (342)
+[2024.09.16-18.00.52:866][730]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (340)
+[2024.09.16-18.00.52:868][730]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (338)
+[2024.09.16-18.00.52:868][730]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (336)
+[2024.09.16-18.00.52:868][730]LogModuleManager: Shutting down and abandoning module CryptoKeys (334)
+[2024.09.16-18.00.52:868][730]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (332)
+[2024.09.16-18.00.52:869][730]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (330)
+[2024.09.16-18.00.52:869][730]LogModuleManager: Shutting down and abandoning module UObjectPlugin (328)
+[2024.09.16-18.00.52:869][730]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (326)
+[2024.09.16-18.00.52:871][730]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (324)
+[2024.09.16-18.00.52:872][730]LogModuleManager: Shutting down and abandoning module GitSourceControl (322)
+[2024.09.16-18.00.52:873][730]LogModuleManager: Shutting down and abandoning module SourceControl (321)
+[2024.09.16-18.00.52:874][730]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (318)
+[2024.09.16-18.00.52:874][730]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (316)
+[2024.09.16-18.00.52:874][730]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (314)
+[2024.09.16-18.00.52:874][730]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (312)
+[2024.09.16-18.00.52:874][730]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (310)
+[2024.09.16-18.00.52:874][730]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (308)
+[2024.09.16-18.00.52:875][730]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (306)
+[2024.09.16-18.00.52:875][730]LogModuleManager: Shutting down and abandoning module Paper2DEditor (304)
+[2024.09.16-18.00.52:877][730]LogModuleManager: Shutting down and abandoning module SignificanceManager (302)
+[2024.09.16-18.00.52:877][730]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (300)
+[2024.09.16-18.00.52:877][730]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (298)
+[2024.09.16-18.00.52:877][730]LogModuleManager: Shutting down and abandoning module PhysXVehicles (296)
+[2024.09.16-18.00.52:877][730]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (294)
+[2024.09.16-18.00.52:877][730]LogModuleManager: Shutting down and abandoning module ActorSequence (292)
+[2024.09.16-18.00.52:877][730]LogModuleManager: Shutting down and abandoning module UdpMessaging (290)
+[2024.09.16-18.00.52:979][730]LogModuleManager: Shutting down and abandoning module TcpMessaging (288)
+[2024.09.16-18.00.53:080][730]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (286)
+[2024.09.16-18.00.53:080][730]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (284)
+[2024.09.16-18.00.53:080][730]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (282)
+[2024.09.16-18.00.53:081][730]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (280)
+[2024.09.16-18.00.53:081][730]LogModuleManager: Shutting down and abandoning module MagicLeapController (278)
+[2024.09.16-18.00.53:082][730]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2024.09.16-18.00.53:082][730]LogModuleManager: Shutting down and abandoning module MagicLeapAR (276)
+[2024.09.16-18.00.53:083][730]LogModuleManager: Shutting down and abandoning module AugmentedReality (275)
+[2024.09.16-18.00.53:083][730]LogModuleManager: Shutting down and abandoning module Niagara (272)
+[2024.09.16-18.00.53:085][730]LogModuleManager: Shutting down and abandoning module NiagaraCore (270)
+[2024.09.16-18.00.53:085][730]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (268)
+[2024.09.16-18.00.53:086][730]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (266)
+[2024.09.16-18.00.53:086][730]LogModuleManager: Shutting down and abandoning module FacialAnimation (264)
+[2024.09.16-18.00.53:086][730]LogModuleManager: Shutting down and abandoning module DataValidation (262)
+[2024.09.16-18.00.53:087][730]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (260)
+[2024.09.16-18.00.53:089][730]LogModuleManager: Shutting down and abandoning module LevelEditor (259)
+[2024.09.16-18.00.53:094][730]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (258)
+[2024.09.16-18.00.53:094][730]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (256)
+[2024.09.16-18.00.53:095][730]LogModuleManager: Shutting down and abandoning module MainFrame (254)
+[2024.09.16-18.00.53:095][730]LogModuleManager: Shutting down and abandoning module HotReload (253)
+[2024.09.16-18.00.53:098][730]LogModuleManager: Shutting down and abandoning module ContentBrowser (249)
+[2024.09.16-18.00.53:101][730]LogModuleManager: Shutting down and abandoning module TreeMap (247)
+[2024.09.16-18.00.53:102][730]LogModuleManager: Shutting down and abandoning module AnimationSharing (244)
+[2024.09.16-18.00.53:102][730]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (242)
+[2024.09.16-18.00.53:102][730]LogModuleManager: Shutting down and abandoning module AISupportModule (240)
+[2024.09.16-18.00.53:102][730]LogModuleManager: Shutting down and abandoning module Paper2D (238)
+[2024.09.16-18.00.53:102][730]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (236)
+[2024.09.16-18.00.53:103][730]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (234)
+[2024.09.16-18.00.53:104][730]LogModuleManager: Shutting down and abandoning module PacketHandler (232)
+[2024.09.16-18.00.53:104][730]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (230)
+[2024.09.16-18.00.53:104][730]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (228)
+[2024.09.16-18.00.53:105][730]LogModuleManager: Shutting down and abandoning module MediaAssets (226)
+[2024.09.16-18.00.53:106][730]LogModuleManager: Shutting down and abandoning module Overlay (224)
+[2024.09.16-18.00.53:106][730]LogModuleManager: Shutting down and abandoning module OverlayEditor (223)
+[2024.09.16-18.00.53:106][730]LogModuleManager: Shutting down and abandoning module VREditor (220)
+[2024.09.16-18.00.53:107][730]LogModuleManager: Shutting down and abandoning module StringTableEditor (218)
+[2024.09.16-18.00.53:108][730]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (216)
+[2024.09.16-18.00.53:108][730]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (214)
+[2024.09.16-18.00.53:110][730]LogModuleManager: Shutting down and abandoning module FunctionalTesting (212)
+[2024.09.16-18.00.53:111][730]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (210)
+[2024.09.16-18.00.53:113][730]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (209)
+[2024.09.16-18.00.53:114][730]LogModuleManager: Shutting down and abandoning module UMG (206)
+[2024.09.16-18.00.53:114][730]LogModuleManager: Shutting down and abandoning module UMGEditor (205)
+[2024.09.16-18.00.53:114][730]LogModuleManager: Shutting down and abandoning module Sequencer (204)
+[2024.09.16-18.00.53:115][730]LogModuleManager: Shutting down and abandoning module MessageLog (201)
+[2024.09.16-18.00.53:115][730]LogModuleManager: Shutting down and abandoning module SlateReflector (196)
+[2024.09.16-18.00.53:119][730]LogModuleManager: Shutting down and abandoning module Slate (194)
+[2024.09.16-18.00.53:119][730]LogModuleManager: Shutting down and abandoning module EditorStyle (192)
+[2024.09.16-18.00.53:127][730]LogModuleManager: Shutting down and abandoning module UnrealEd (190)
+[2024.09.16-18.00.53:127][730]LogModuleManager: Shutting down and abandoning module MRMesh (188)
+[2024.09.16-18.00.53:128][730]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (186)
+[2024.09.16-18.00.53:128][730]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (184)
+[2024.09.16-18.00.53:128][730]LogModuleManager: Shutting down and abandoning module XAudio2 (182)
+[2024.09.16-18.00.53:128][730]LogModuleManager: Shutting down and abandoning module Networking (180)
+[2024.09.16-18.00.53:128][730]LogModuleManager: Shutting down and abandoning module Core (178)
+[2024.09.16-18.00.53:128][730]LogModuleManager: Shutting down and abandoning module KismetCompiler (176)
+[2024.09.16-18.00.53:128][730]LogModuleManager: Shutting down and abandoning module MeshUtilities (174)
+[2024.09.16-18.00.53:128][730]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (173)
+[2024.09.16-18.00.53:129][730]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (172)
+[2024.09.16-18.00.53:129][730]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (171)
+[2024.09.16-18.00.53:129][730]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (169)
+[2024.09.16-18.00.53:130][730]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (167)
+[2024.09.16-18.00.53:131][730]LogModuleManager: Shutting down and abandoning module MaterialBaking (163)
+[2024.09.16-18.00.53:131][730]LogModuleManager: Shutting down and abandoning module DerivedDataCache (158)
+[2024.09.16-18.00.53:217][730]LogDerivedDataCache: Shutdown
+[2024.09.16-18.00.53:217][730]LogModuleManager: Shutting down and abandoning module XGEController (156)
+[2024.09.16-18.00.53:218][730]LogModuleManager: Shutting down and abandoning module TargetPlatform (154)
+[2024.09.16-18.00.53:219][730]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (153)
+[2024.09.16-18.00.53:219][730]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (151)
+[2024.09.16-18.00.53:219][730]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (149)
+[2024.09.16-18.00.53:220][730]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (147)
+[2024.09.16-18.00.53:221][730]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (145)
+[2024.09.16-18.00.53:221][730]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (143)
+[2024.09.16-18.00.53:221][730]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (141)
+[2024.09.16-18.00.53:221][730]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (139)
+[2024.09.16-18.00.53:221][730]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (137)
+[2024.09.16-18.00.53:222][730]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (135)
+[2024.09.16-18.00.53:222][730]LogModuleManager: Shutting down and abandoning module ImageWrapper (134)
+[2024.09.16-18.00.53:222][730]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (131)
+[2024.09.16-18.00.53:222][730]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (129)
+[2024.09.16-18.00.53:223][730]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (127)
+[2024.09.16-18.00.53:223][730]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (125)
+[2024.09.16-18.00.53:224][730]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (123)
+[2024.09.16-18.00.53:251][730]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (121)
+[2024.09.16-18.00.53:252][730]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (119)
+[2024.09.16-18.00.53:252][730]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (117)
+[2024.09.16-18.00.53:253][730]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (115)
+[2024.09.16-18.00.53:253][730]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (113)
+[2024.09.16-18.00.53:261][730]LogModuleManager: Shutting down and abandoning module Messaging (111)
+[2024.09.16-18.00.53:261][730]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (109)
+[2024.09.16-18.00.53:271][730]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (107)
+[2024.09.16-18.00.53:271][730]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (105)
+[2024.09.16-18.00.53:293][730]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (103)
+[2024.09.16-18.00.53:293][730]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (101)
+[2024.09.16-18.00.53:293][730]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (99)
+[2024.09.16-18.00.53:293][730]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (97)
+[2024.09.16-18.00.53:293][730]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (95)
+[2024.09.16-18.00.53:293][730]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (93)
+[2024.09.16-18.00.53:293][730]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (91)
+[2024.09.16-18.00.53:293][730]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (89)
+[2024.09.16-18.00.53:293][730]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (87)
+[2024.09.16-18.00.53:293][730]LogModuleManager: Shutting down and abandoning module InputCore (84)
+[2024.09.16-18.00.53:293][730]LogModuleManager: Shutting down and abandoning module Settings (82)
+[2024.09.16-18.00.53:293][730]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (80)
+[2024.09.16-18.00.53:293][730]LogModuleManager: Shutting down and abandoning module PhysXCooking (78)
+[2024.09.16-18.00.53:293][730]LogModuleManager: Shutting down and abandoning module SteamVR (76)
+[2024.09.16-18.00.53:294][730]LogHMD: Freeing OpenVRDLLHandle.
+[2024.09.16-18.00.53:294][730]LogModuleManager: Shutting down and abandoning module OculusHMD (74)
+[2024.09.16-18.00.53:294][730]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (72)
+[2024.09.16-18.00.53:294][730]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (70)
+[2024.09.16-18.00.53:294][730]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (68)
+[2024.09.16-18.00.53:294][730]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (64)
+[2024.09.16-18.00.53:296][730]LogModuleManager: Shutting down and abandoning module XMPP (59)
+[2024.09.16-18.00.53:297][730]LogModuleManager: Shutting down and abandoning module WebSockets (58)
+[2024.09.16-18.00.53:332][730]LogModuleManager: Shutting down and abandoning module HTTP (55)
+[2024.09.16-18.00.53:332][730]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2024.09.16-18.00.53:332][730]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB23E3061-40CF-AC2E-B6E8-1CB5512F1156%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=b27576c145c9ae15565263a0ea3d50bf%7C379ebc34babe4849ad2903098f619c22%7C4c82821e-8c7d-4bbb-8b52-0fc166e09071&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2024.09.16-18.00.53:363][730]LogModuleManager: Shutting down and abandoning module SSL (54)
+[2024.09.16-18.00.53:368][730]LogModuleManager: Shutting down and abandoning module WmfMedia (50)
+[2024.09.16-18.00.53:377][730]LogModuleManager: Shutting down and abandoning module Media (49)
+[2024.09.16-18.00.53:385][730]LogModuleManager: Shutting down and abandoning module MagicLeap (46)
+[2024.09.16-18.00.53:386][730]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (44)
+[2024.09.16-18.00.53:386][730]LogModuleManager: Shutting down and abandoning module NiagaraShader (42)
+[2024.09.16-18.00.53:386][730]LogModuleManager: Shutting down and abandoning module DatasmithContent (40)
+[2024.09.16-18.00.53:388][730]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2024.09.16-18.00.53:389][730]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2024.09.16-18.00.53:389][730]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2024.09.16-18.00.53:392][730]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2024.09.16-18.00.53:393][730]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2024.09.16-18.00.53:393][730]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2024.09.16-18.00.53:393][730]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2024.09.16-18.00.53:396][730]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2024.09.16-18.00.53:397][730]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2024.09.16-18.00.53:397][730]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2024.09.16-18.00.53:398][730]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2024.09.16-18.00.53:398][730]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2024.09.16-18.00.53:398][730]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2024.09.16-18.00.53:398][730]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2024.09.16-18.00.53:399][730]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2024.09.16-18.00.53:399][730]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2024.09.16-18.00.53:399][730]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2024.09.16-18.00.53:399][730]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2024.09.16-18.00.53:400][730]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2024.09.16-18.00.53:422][730]LogExit: Exiting.
+[2024.09.16-18.00.53:606][730]Log file closed, 09/17/24 02:00:53
