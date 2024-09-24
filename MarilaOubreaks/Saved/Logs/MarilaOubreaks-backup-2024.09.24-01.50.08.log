@@ -1,0 +1,1640 @@
+﻿Log file open, 09/24/24 09:42:22
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: MarilaOubreaks
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.622979
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +8:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 2009) (), CPU: AMD Ryzen 5 5500U with Radeon Graphics         , GPU: AMD Radeon(TM) Graphics
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2024.09.24-01.42.22:816][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2024.09.24-01.42.22:816][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2024.09.24-01.42.22:816][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/markr/MarilaOutbreak/ManilaOutbreak-Game/MarilaOubreaks/Saved/Config/Windows/Engine.ini]
+[2024.09.24-01.42.22:816][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2024.09.24-01.42.22:816][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/markr/MarilaOutbreak/ManilaOutbreak-Game/MarilaOubreaks/Saved/Config/Windows/Engine.ini]
+[2024.09.24-01.42.22:816][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/markr/MarilaOutbreak/ManilaOutbreak-Game/MarilaOubreaks/Saved/Config/Windows/Engine.ini]
+[2024.09.24-01.42.22:816][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2024.09.24-01.42.22:816][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2024.09.24-01.42.22:816][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2024.09.24-01.42.22:816][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2024.09.24-01.42.22:816][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2024.09.24-01.42.22:816][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2024.09.24-01.42.22:816][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2024.09.24-01.42.22:816][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2024.09.24-01.42.22:816][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2024.09.24-01.42.22:816][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2024.09.24-01.42.22:816][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2024.09.24-01.42.22:816][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2024.09.24-01.42.22:816][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2024.09.24-01.42.22:816][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/markr/MarilaOutbreak/ManilaOutbreak-Game/MarilaOubreaks/Saved/Config/Windows/Engine.ini]
+[2024.09.24-01.42.22:816][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2024.09.24-01.42.22:816][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2024.09.24-01.42.22:816][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2024.09.24-01.42.22:816][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2024.09.24-01.42.22:816][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2024.09.24-01.42.22:816][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2024.09.24-01.42.22:816][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2024.09.24-01.42.22:816][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2024.09.24-01.42.22:816][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2024.09.24-01.42.22:816][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2024.09.24-01.42.22:816][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2024.09.24-01.42.22:816][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2024.09.24-01.42.22:816][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2024.09.24-01.42.22:816][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/markr/MarilaOutbreak/ManilaOutbreak-Game/MarilaOubreaks/Saved/Config/Windows/Engine.ini]
+[2024.09.24-01.42.22:816][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/markr/MarilaOutbreak/ManilaOutbreak-Game/MarilaOubreaks/Saved/Config/Windows/Engine.ini]
+[2024.09.24-01.42.22:816][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/markr/MarilaOutbreak/ManilaOutbreak-Game/MarilaOubreaks/Saved/Config/Windows/Scalability.ini]
+[2024.09.24-01.42.22:816][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2024.09.24-01.42.22:816][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2024.09.24-01.42.22:816][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/markr/MarilaOutbreak/ManilaOutbreak-Game/MarilaOubreaks/Saved/Config/Windows/Scalability.ini]
+[2024.09.24-01.42.22:816][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2024.09.24-01.42.22:816][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/markr/MarilaOutbreak/ManilaOutbreak-Game/MarilaOubreaks/Saved/Config/Windows/Scalability.ini]
+[2024.09.24-01.42.22:816][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2024.09.24-01.42.22:816][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2024.09.24-01.42.22:816][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2024.09.24-01.42.22:816][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2024.09.24-01.42.22:816][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2024.09.24-01.42.22:816][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2024.09.24-01.42.22:816][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2024.09.24-01.42.22:816][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2024.09.24-01.42.22:816][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2024.09.24-01.42.22:816][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2024.09.24-01.42.22:816][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2024.09.24-01.42.22:816][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2024.09.24-01.42.22:816][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2024.09.24-01.42.22:816][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2024.09.24-01.42.22:816][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2024.09.24-01.42.22:816][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2024.09.24-01.42.22:816][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2024.09.24-01.42.22:816][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2024.09.24-01.42.22:816][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/markr/MarilaOutbreak/ManilaOutbreak-Game/MarilaOubreaks/Saved/Config/Windows/Scalability.ini]
+[2024.09.24-01.42.22:816][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2024.09.24-01.42.22:816][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2024.09.24-01.42.22:816][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2024.09.24-01.42.22:816][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2024.09.24-01.42.22:816][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2024.09.24-01.42.22:816][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2024.09.24-01.42.22:816][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2024.09.24-01.42.22:816][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2024.09.24-01.42.22:816][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2024.09.24-01.42.22:816][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2024.09.24-01.42.22:816][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2024.09.24-01.42.22:816][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2024.09.24-01.42.22:816][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2024.09.24-01.42.22:816][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2024.09.24-01.42.22:816][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2024.09.24-01.42.22:816][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2024.09.24-01.42.22:816][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2024.09.24-01.42.22:816][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2024.09.24-01.42.22:816][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2024.09.24-01.42.22:816][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2024.09.24-01.42.22:816][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2024.09.24-01.42.22:816][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2024.09.24-01.42.22:816][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2024.09.24-01.42.22:816][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2024.09.24-01.42.22:816][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2024.09.24-01.42.22:816][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2024.09.24-01.42.22:816][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2024.09.24-01.42.22:816][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2024.09.24-01.42.22:816][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2024.09.24-01.42.22:816][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2024.09.24-01.42.22:816][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/markr/MarilaOutbreak/ManilaOutbreak-Game/MarilaOubreaks/Saved/Config/Windows/Scalability.ini]
+[2024.09.24-01.42.22:816][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2024.09.24-01.42.22:816][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2024.09.24-01.42.22:816][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2024.09.24-01.42.22:816][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2024.09.24-01.42.22:816][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2024.09.24-01.42.22:816][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2024.09.24-01.42.22:816][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2024.09.24-01.42.22:816][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2024.09.24-01.42.22:816][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/markr/MarilaOutbreak/ManilaOutbreak-Game/MarilaOubreaks/Saved/Config/Windows/Scalability.ini]
+[2024.09.24-01.42.22:816][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2024.09.24-01.42.22:816][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2024.09.24-01.42.22:816][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2024.09.24-01.42.22:816][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2024.09.24-01.42.22:816][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2024.09.24-01.42.22:816][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2024.09.24-01.42.22:816][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2024.09.24-01.42.22:816][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2024.09.24-01.42.22:816][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2024.09.24-01.42.22:816][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2024.09.24-01.42.22:816][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2024.09.24-01.42.22:816][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2024.09.24-01.42.22:816][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2024.09.24-01.42.22:816][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/markr/MarilaOutbreak/ManilaOutbreak-Game/MarilaOubreaks/Saved/Config/Windows/Scalability.ini]
+[2024.09.24-01.42.22:816][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2024.09.24-01.42.22:816][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2024.09.24-01.42.22:816][  0]LogInit: Selected Device Profile: [Windows]
+[2024.09.24-01.42.22:816][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2024.09.24-01.42.22:850][  0]LogHAL: Display: Platform has ~ 8 GB [7879598080 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2024.09.24-01.42.22:850][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2024.09.24-01.42.22:850][  0]LogInit: Going up to parent DeviceProfile []
+[2024.09.24-01.42.22:850][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@2] File [C:/Users/markr/MarilaOutbreak/ManilaOutbreak-Game/MarilaOubreaks/Saved/Config/Windows/Scalability.ini]
+[2024.09.24-01.42.22:850][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2024.09.24-01.42.22:850][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:0.8]]
+[2024.09.24-01.42.22:850][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@2] File [C:/Users/markr/MarilaOutbreak/ManilaOutbreak-Game/MarilaOubreaks/Saved/Config/Windows/Scalability.ini]
+[2024.09.24-01.42.22:850][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2024.09.24-01.42.22:850][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@2] File [C:/Users/markr/MarilaOutbreak/ManilaOutbreak-Game/MarilaOubreaks/Saved/Config/Windows/Scalability.ini]
+[2024.09.24-01.42.22:850][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2024.09.24-01.42.22:850][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2024.09.24-01.42.22:850][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:4]]
+[2024.09.24-01.42.22:850][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:1024]]
+[2024.09.24-01.42.22:850][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2024.09.24-01.42.22:850][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.04]]
+[2024.09.24-01.42.22:850][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:0.85]]
+[2024.09.24-01.42.22:850][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:0.8]]
+[2024.09.24-01.42.22:850][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:0.5]]
+[2024.09.24-01.42.22:850][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2024.09.24-01.42.22:850][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2024.09.24-01.42.22:850][  0]LogConfig: Setting CVar [[r.AOQuality:1]]
+[2024.09.24-01.42.22:850][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2024.09.24-01.42.22:850][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:16]]
+[2024.09.24-01.42.22:850][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:64]]
+[2024.09.24-01.42.22:850][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2024.09.24-01.42.22:850][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2024.09.24-01.42.22:850][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2024.09.24-01.42.22:850][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@2] File [C:/Users/markr/MarilaOutbreak/ManilaOutbreak-Game/MarilaOubreaks/Saved/Config/Windows/Scalability.ini]
+[2024.09.24-01.42.22:850][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:3]]
+[2024.09.24-01.42.22:850][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.6]]
+[2024.09.24-01.42.22:850][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2024.09.24-01.42.22:850][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2024.09.24-01.42.22:850][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.5]]
+[2024.09.24-01.42.22:850][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2024.09.24-01.42.22:850][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2024.09.24-01.42.22:850][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2024.09.24-01.42.22:850][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2024.09.24-01.42.22:850][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2024.09.24-01.42.22:850][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2024.09.24-01.42.22:850][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:3]]
+[2024.09.24-01.42.22:850][  0]LogConfig: Setting CVar [[r.Upscale.Quality:2]]
+[2024.09.24-01.42.22:850][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2024.09.24-01.42.22:850][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2024.09.24-01.42.22:850][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:0.8]]
+[2024.09.24-01.42.22:850][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2024.09.24-01.42.22:850][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:0        ; lower gathering accumulator quality]]
+[2024.09.24-01.42.22:850][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:2          ; Max3x3 postfilering method]]
+[2024.09.24-01.42.22:850][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2024.09.24-01.42.22:850][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2024.09.24-01.42.22:850][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2024.09.24-01.42.22:850][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:1    ; no background occlusion]]
+[2024.09.24-01.42.22:850][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:0      ; no bokeh simulation when scattering]]
+[2024.09.24-01.42.22:850][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.04        ; only a maximum of 4% of scattered bokeh]]
+[2024.09.24-01.42.22:850][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:0                ; no slight out of focus]]
+[2024.09.24-01.42.22:850][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:0                ; faster temporal accumulation]]
+[2024.09.24-01.42.22:850][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.012   ; required because of AccumulatorQuality=0]]
+[2024.09.24-01.42.22:850][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.012   ; required because of AccumulatorQuality=0]]
+[2024.09.24-01.42.22:850][  0]LogConfig: Applying CVar settings from Section [TextureQuality@2] File [C:/Users/markr/MarilaOutbreak/ManilaOutbreak-Game/MarilaOubreaks/Saved/Config/Windows/Scalability.ini]
+[2024.09.24-01.42.22:850][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2024.09.24-01.42.22:850][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2024.09.24-01.42.22:850][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2024.09.24-01.42.22:850][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2024.09.24-01.42.22:850][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:4]]
+[2024.09.24-01.42.22:850][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:1]]
+[2024.09.24-01.42.22:850][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:800]]
+[2024.09.24-01.42.22:850][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2024.09.24-01.42.22:850][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@2] File [C:/Users/markr/MarilaOutbreak/ManilaOutbreak-Game/MarilaOubreaks/Saved/Config/Windows/Scalability.ini]
+[2024.09.24-01.42.22:850][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:48]]
+[2024.09.24-01.42.22:850][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2024.09.24-01.42.22:850][  0]LogConfig: Setting CVar [[r.SSR.Quality:2]]
+[2024.09.24-01.42.22:850][  0]LogConfig: Setting CVar [[r.SceneColorFormat:3]]
+[2024.09.24-01.42.22:850][  0]LogConfig: Setting CVar [[r.DetailMode:1]]
+[2024.09.24-01.42.22:850][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2024.09.24-01.42.22:850][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2024.09.24-01.42.22:850][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2024.09.24-01.42.22:850][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:1]]
+[2024.09.24-01.42.22:850][  0]LogConfig: Setting CVar [[r.SSS.Quality:-1]]
+[2024.09.24-01.42.22:850][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2024.09.24-01.42.22:850][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:0.5]]
+[2024.09.24-01.42.22:850][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:1]]
+[2024.09.24-01.42.22:850][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@2] File [C:/Users/markr/MarilaOutbreak/ManilaOutbreak-Game/MarilaOubreaks/Saved/Config/Windows/Scalability.ini]
+[2024.09.24-01.42.22:850][  0]LogConfig: Setting CVar [[foliage.DensityScale:0.8]]
+[2024.09.24-01.42.22:850][  0]LogConfig: Setting CVar [[grass.DensityScale:0.8]]
+[2024.09.24-01.42.22:850][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2024.09.24-01.42.22:850][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2024.09.24-01.42.22:850][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2024.09.24-01.42.22:850][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/markr/MarilaOutbreak/ManilaOutbreak-Game/MarilaOubreaks/Saved/Config/Windows/Engine.ini]
+[2024.09.24-01.42.22:857][  0]LogInit: Computer: FEEDER
+[2024.09.24-01.42.22:857][  0]LogInit: User: markr
+[2024.09.24-01.42.22:857][  0]LogInit: CPU Page size=4096, Cores=6
+[2024.09.24-01.42.22:857][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2024.09.24-01.42.22:857][  0]LogMemory: Memory total: Physical=7.3GB (8GB approx)
+[2024.09.24-01.42.22:857][  0]LogMemory: Platform Memory Stats for Windows
+[2024.09.24-01.42.22:857][  0]LogMemory: Process Physical Memory: 102.24 MB used, 102.24 MB peak
+[2024.09.24-01.42.22:857][  0]LogMemory: Process Virtual Memory: 103.54 MB used, 103.54 MB peak
+[2024.09.24-01.42.22:857][  0]LogMemory: Physical Memory: 5098.48 MB used,  2416.09 MB free, 7514.57 MB total
+[2024.09.24-01.42.22:857][  0]LogMemory: Virtual Memory: 4683.04 MB used,  134213048.00 MB free, 134217728.00 MB total
+[2024.09.24-01.42.22:933][  0]LogInit: Using OS detected language (en-US).
+[2024.09.24-01.42.22:933][  0]LogInit: Using OS detected locale (en-PH).
+[2024.09.24-01.42.22:934][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2024.09.24-01.42.23:254][  0]LogInit: Setting process to per monitor DPI aware
+[2024.09.24-01.42.23:331][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2024.09.24-01.42.23:331][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2024.09.24-01.42.23:758][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2024.09.24-01.42.23:758][  0]LogD3D11RHI: D3D11 adapters:
+[2024.09.24-01.42.23:979][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 3050 Laptop GPU' (Feature Level 11_0)
+[2024.09.24-01.42.23:979][  0]LogD3D11RHI:       3964/0/3757 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2024.09.24-01.42.24:060][  0]LogD3D11RHI:    1. 'AMD Radeon(TM) Graphics' (Feature Level 11_0)
+[2024.09.24-01.42.24:061][  0]LogD3D11RHI:       495/0/3757 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1002
+[2024.09.24-01.42.24:063][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2024.09.24-01.42.24:063][  0]LogD3D11RHI:       0/0/3757 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2024.09.24-01.42.24:064][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2024.09.24-01.42.24:073][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2024.09.24-01.42.24:074][  0]LogD3D11RHI:     GPU DeviceId: 0x25a2 (for the marketing name, search the web for "GPU Device Id")
+[2024.09.24-01.42.24:074][  0]LogWindows: EnumDisplayDevices:
+[2024.09.24-01.42.24:074][  0]LogWindows:    0. 'AMD Radeon(TM) Graphics' (P:1 D:1)
+[2024.09.24-01.42.24:075][  0]LogWindows:    1. 'AMD Radeon(TM) Graphics' (P:0 D:0)
+[2024.09.24-01.42.24:075][  0]LogWindows:    2. 'AMD Radeon(TM) Graphics' (P:0 D:0)
+[2024.09.24-01.42.24:076][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2024.09.24-01.42.24:076][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 3050 Laptop GPU
+[2024.09.24-01.42.24:076][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2024.09.24-01.42.24:076][  0]LogD3D11RHI:      Driver Date: Unknown
+[2024.09.24-01.42.24:076][  0]LogRHI: Texture pool is 2774 MB (70% of 3964 MB)
+[2024.09.24-01.42.24:212][  0]LogD3D11RHI: Async texture creation enabled
+[2024.09.24-01.42.24:227][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2024.09.24-01.42.24:227][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2024.09.24-01.42.24:227][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2024.09.24-01.42.24:236][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2024.09.24-01.42.24:794][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2024.09.24-01.42.24:823][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2024.09.24-01.42.24:852][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2024.09.24-01.42.24:880][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2024.09.24-01.42.24:910][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2024.09.24-01.42.24:940][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2024.09.24-01.42.24:969][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2024.09.24-01.42.25:000][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2024.09.24-01.42.25:013][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2024.09.24-01.42.25:187][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2024.09.24-01.42.25:187][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2024.09.24-01.42.25:187][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2024.09.24-01.42.25:187][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2024.09.24-01.42.25:187][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2024.09.24-01.42.25:187][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2024.09.24-01.42.25:187][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2024.09.24-01.42.25:187][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2024.09.24-01.42.25:188][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2024.09.24-01.42.25:188][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2024.09.24-01.42.25:188][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2024.09.24-01.42.25:188][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2024.09.24-01.42.25:188][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2024.09.24-01.42.25:188][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2024.09.24-01.42.25:188][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2024.09.24-01.42.25:188][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2024.09.24-01.42.25:188][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2024.09.24-01.42.25:188][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2024.09.24-01.42.25:191][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2024.09.24-01.42.25:275][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2024.09.24-01.42.25:275][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2024.09.24-01.42.25:327][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2024.09.24-01.42.25:327][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2024.09.24-01.42.25:358][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2024.09.24-01.42.25:387][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2024.09.24-01.42.25:416][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2024.09.24-01.42.25:445][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2024.09.24-01.42.25:542][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2024.09.24-01.42.25:542][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2024.09.24-01.42.25:543][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2024.09.24-01.42.25:563][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2024.09.24-01.42.25:668][  0]LogShaderCompilers: Guid format shader working directory is -33 characters bigger than the processId version (../../../../../../Users/markr/MarilaOutbreak/ManilaOutbreak-Game/MarilaOubreaks/Intermediate/Shaders/WorkingDirectory/9496/).
+[2024.09.24-01.42.25:668][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/markr/AppData/Local/Temp/UnrealShaderWorkingDir/C11AF01E49A73D3C1CDC0AA6CD8E5E31/'.
+[2024.09.24-01.42.25:673][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2024.09.24-01.42.25:673][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2024.09.24-01.42.25:673][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2024.09.24-01.42.26:693][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2024.09.24-01.42.26:776][  0]LogDerivedDataCache: Loaded boot cache 0.08s 79MB C:/Users/markr/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2024.09.24-01.42.26:776][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/markr/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2024.09.24-01.42.26:776][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/markr/MarilaOutbreak/ManilaOutbreak-Game/MarilaOubreaks/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2024.09.24-01.42.26:776][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2024.09.24-01.42.26:776][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/markr/MarilaOutbreak/ManilaOutbreak-Game/MarilaOubreaks/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2024.09.24-01.42.26:776][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2024.09.24-01.42.26:806][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2024.09.24-01.42.26:806][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2024.09.24-01.42.26:806][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2024.09.24-01.42.26:819][  0]LogDerivedDataCache: Using Local data cache path C:/Users/markr/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2024.09.24-01.42.26:819][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2024.09.24-01.42.26:819][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2024.09.24-01.42.26:870][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2024.09.24-01.42.26:872][  0]LogSlate: Using FreeType 2.6.0
+[2024.09.24-01.42.26:873][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2024.09.24-01.42.27:039][  0]LogAssetRegistry: FAssetRegistry took 0.0523 seconds to start up
+[2024.09.24-01.42.27:837][  0]LogInit: Selected Device Profile: [Windows]
+[2024.09.24-01.42.28:155][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2024.09.24-01.42.28:155][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2024.09.24-01.42.28:155][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2024.09.24-01.42.28:155][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2024.09.24-01.42.28:155][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2024.09.24-01.42.28:181][  0]LogNetVersion: MarilaOubreaks 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 2523874334)
+[2024.09.24-01.42.29:045][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 1 prioritized culture(s) in 0.110683 seconds
+[2024.09.24-01.42.29:058][  0]LogUObjectArray: 42218 objects as part of root set at end of initial load.
+[2024.09.24-01.42.29:059][  0]LogUObjectAllocator: 7328024 out of 0 bytes used by permanent object pool.
+[2024.09.24-01.42.29:059][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2024.09.24-01.42.30:862][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2024.09.24-01.42.30:878][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2024.09.24-01.42.31:047][  0]SourceControl: Source control is disabled
+[2024.09.24-01.42.31:048][  0]SourceControl: Source control is disabled
+[2024.09.24-01.42.31:051][  0]SourceControl: Source control is disabled
+[2024.09.24-01.42.31:053][  0]SourceControl: Source control is disabled
+[2024.09.24-01.42.31:308][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2024.09.24-01.42.31:454][  0]LogOcInput: OculusInput pre-init called
+[2024.09.24-01.42.32:779][  0]LogEngine: Initializing Engine...
+[2024.09.24-01.42.32:780][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2024.09.24-01.42.32:783][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.001 s
+[2024.09.24-01.42.33:320][  0]LogInit: Initializing FReadOnlyCVARCache
+[2024.09.24-01.42.33:348][  0]LogAIModule: Creating AISystem for world Untitled
+[2024.09.24-01.42.33:368][  0]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2024.09.24-01.42.33:542][  0]LogInit: FAudioDevice initialized.
+[2024.09.24-01.42.33:542][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2024.09.24-01.42.33:648][  0]LogDerivedDataCache: Saved boot cache 0.11s 79MB C:/Users/markr/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2024.09.24-01.42.33:657][  0]LogInit: Texture streaming: Enabled
+[2024.09.24-01.42.33:693][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2024.09.24-01.42.35:838][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM4
+[2024.09.24-01.42.35:839][  0]LogInit: Transaction tracking system initialized
+[2024.09.24-01.42.35:892][  0]BlueprintLog: New page: Editor Load
+[2024.09.24-01.42.36:052][  0]LocalizationService: Localization service is disabled
+[2024.09.24-01.42.41:144][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2024.09.24-01.42.41:144][  0]LogCook: Display: Mobile HDR setting 1
+[2024.09.24-01.42.41:726][  0]LogFileCache: Scanning file cache for directory 'C:/Users/markr/MarilaOutbreak/ManilaOutbreak-Game/MarilaOubreaks/Content/' took 0.18s
+[2024.09.24-01.42.41:726][  0]SourceControl: Source control is disabled
+[2024.09.24-01.42.41:726][  0]Cmd: MAP LOAD FILE="../../../../../../Users/markr/MarilaOutbreak/ManilaOutbreak-Game/MarilaOubreaks/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2024.09.24-01.42.41:726][  0]LogEditorServer: Warning: Can't find file '../../../../../../Users/markr/MarilaOutbreak/ManilaOutbreak-Game/MarilaOubreaks/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2024.09.24-01.42.41:726][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.09.24-01.42.41:727][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.298ms to complete.
+[2024.09.24-01.42.41:727][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.001
+[2024.09.24-01.42.41:877][  0]LogWorld: Changing Feature Level (Enum) from 3 to 2
+[2024.09.24-01.42.42:060][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.09.24-01.42.42:074][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.09.24-01.42.42:087][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.09.24-01.42.42:101][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.09.24-01.42.42:131][  0]LogCollectionManager: Loaded 0 collections in 0.003795 seconds
+[2024.09.24-01.42.42:172][  0]LogFileCache: Scanning file cache for directory 'C:/Users/markr/MarilaOutbreak/ManilaOutbreak-Game/MarilaOubreaks/Saved/Collections/' took 0.01s
+[2024.09.24-01.42.42:172][  0]LogFileCache: Scanning file cache for directory 'C:/Users/markr/MarilaOutbreak/ManilaOutbreak-Game/MarilaOubreaks/Content/Developers/markr/Collections/' took 0.00s
+[2024.09.24-01.42.42:172][  0]LogFileCache: Scanning file cache for directory 'C:/Users/markr/MarilaOutbreak/ManilaOutbreak-Game/MarilaOubreaks/Content/Collections/' took 0.00s
+[2024.09.24-01.42.42:172][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2024.09.24-01.42.42:192][  0]LogContentBrowser: Native class hierarchy populated in 0.0185 seconds. Added 2853 classes and 675 folders.
+[2024.09.24-01.42.42:214][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2024.09.24-01.42.42:224][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.09.24-01.42.42:248][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.09.24-01.42.42:300][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.09.24-01.42.42:331][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.09.24-01.42.42:363][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.09.24-01.42.42:379][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.09.24-01.42.42:393][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.09.24-01.42.42:406][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.09.24-01.42.42:421][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.09.24-01.42.42:437][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.09.24-01.42.42:450][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.09.24-01.42.42:464][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.09.24-01.42.42:480][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.09.24-01.42.42:494][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.09.24-01.42.42:506][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.09.24-01.42.42:524][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.09.24-01.42.42:599][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.09.24-01.42.42:613][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.09.24-01.42.42:629][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.09.24-01.42.42:643][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.09.24-01.42.42:659][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.09.24-01.42.42:672][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.09.24-01.42.42:688][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.09.24-01.42.42:701][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.09.24-01.42.42:716][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.09.24-01.42.42:732][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.09.24-01.42.43:092][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2024.09.24-01.42.43:110][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2024.09.24-01.42.43:201][  0]LogSlate: Took 0.000662 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2024.09.24-01.42.43:209][  0]LogSlate: Took 0.000389 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2024.09.24-01.42.43:235][  0]LogSlate: Took 0.011460 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2024.09.24-01.42.43:528][  0]LogRenderer: Reallocating scene render targets to support 968x440 Format 9 NumSamples 1 (Frame:1).
+[2024.09.24-01.42.43:936][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2024.09.24-01.42.43:936][  0]LogLoad: (Engine Initialization) Total time: 25.33 seconds
+[2024.09.24-01.42.43:936][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2024.09.24-01.42.44:022][  0]LogContentStreaming: Texture pool size now 800 MB
+[2024.09.24-01.42.44:111][  0]LogSlate: Took 0.010819 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.09.24-01.42.44:333][  1]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/markr/MarilaOutbreak/ManilaOutbreak-Game/MarilaOubreaks/Content/' took 0.37s
+[2024.09.24-01.42.44:561][  3]LogAssetRegistry: Asset discovery search completed in 17.5457 seconds
+[2024.09.24-01.42.44:565][  3]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2024.09.24-01.42.44:565][  3]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000083 seconds (updated 0 objects)
+[2024.09.24-01.42.47:634][161]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2024.09.24-01.43.18:221][499]LogSlate: Took 0.000344 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.09.24-01.43.18:467][499]LogSavePackage: Moving '../../../../../../Users/markr/MarilaOutbreak/ManilaOutbreak-Game/MarilaOubreaks/Saved/LIGHT_POST4826A73446A9398E69E73CA32FC68969.tmp' to '../../../../../../Users/markr/MarilaOutbreak/ManilaOutbreak-Game/MarilaOubreaks/Content/Assets/Prefabs/Environment/Lamppost/LIGHT_POST.uasset'
+[2024.09.24-01.43.18:532][499]LogSavePackage: Moving '../../../../../../Users/markr/MarilaOutbreak/ManilaOutbreak-Game/MarilaOubreaks/Saved/LIGHT_POSTDDA3CC1141A7CCDE2435CF8DF94E6622.tmp' to '../../../../../../Users/markr/MarilaOutbreak/ManilaOutbreak-Game/MarilaOubreaks/Content/Assets/Prefabs/Environment/LIGHT_POST.uasset'
+[2024.09.24-01.43.36:418][220]LogSavePackage: Moving '../../../../../../Users/markr/MarilaOutbreak/ManilaOutbreak-Game/MarilaOubreaks/Saved/LONG_RAIL6642C578491316629F8A62BD360526EC.tmp' to '../../../../../../Users/markr/MarilaOutbreak/ManilaOutbreak-Game/MarilaOubreaks/Content/Assets/Prefabs/Environment/railings/LONG_RAIL.uasset'
+[2024.09.24-01.43.36:459][220]LogSavePackage: Moving '../../../../../../Users/markr/MarilaOutbreak/ManilaOutbreak-Game/MarilaOubreaks/Saved/LONG_RAIL121C31BD4649A07EFF1F6B961662B580.tmp' to '../../../../../../Users/markr/MarilaOutbreak/ManilaOutbreak-Game/MarilaOubreaks/Content/Assets/Prefabs/Environment/LONG_RAIL.uasset'
+[2024.09.24-01.44.05:375][516]LogActorFactory: Actor Factory created MID-ROAD-LAMP-POST
+[2024.09.24-01.44.10:487][673]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2024.09.24-01.44.29:049][333]LogSavePackage: Moving '../../../../../../Users/markr/MarilaOutbreak/ManilaOutbreak-Game/MarilaOubreaks/Saved/MID-ROAD-LAMP-POSTF44E56CB4EC053F472777FB9E4CBA526.tmp' to '../../../../../../Users/markr/MarilaOutbreak/ManilaOutbreak-Game/MarilaOubreaks/Content/Assets/Prefabs/Environment/Lamppost/MID-ROAD-LAMP-POST.uasset'
+[2024.09.24-01.44.29:094][333]LogSavePackage: Moving '../../../../../../Users/markr/MarilaOutbreak/ManilaOutbreak-Game/MarilaOubreaks/Saved/MID-ROAD-LAMP-POST62507EB041575EEA356845802A1351B4.tmp' to '../../../../../../Users/markr/MarilaOutbreak/ManilaOutbreak-Game/MarilaOubreaks/Content/Assets/Prefabs/Environment/MID-ROAD-LAMP-POST.uasset'
+[2024.09.24-01.44.44:482][786]LogSavePackage: Moving '../../../../../../Users/markr/MarilaOutbreak/ManilaOutbreak-Game/MarilaOubreaks/Saved/MID-ROAD-RAILINGSE8AD807049AD8CC364DBBBA04D1E0ED5.tmp' to '../../../../../../Users/markr/MarilaOutbreak/ManilaOutbreak-Game/MarilaOubreaks/Content/Assets/Prefabs/Environment/railings/MID-ROAD-RAILINGS.uasset'
+[2024.09.24-01.44.44:703][786]LogUObjectHash: Compacting FUObjectHashTables data took   3.41ms
+[2024.09.24-01.44.44:756][786]LogUObjectHash: Compacting FUObjectHashTables data took   3.37ms
+[2024.09.24-01.44.44:800][786]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2024.09.24-01.44.50:438][941]LogSavePackage: Moving '../../../../../../Users/markr/MarilaOutbreak/ManilaOutbreak-Game/MarilaOubreaks/Saved/MID-ROAD-RAILINGS_COMPLETEF79C49F24250DD1C7D25B191BA735AE7.tmp' to '../../../../../../Users/markr/MarilaOutbreak/ManilaOutbreak-Game/MarilaOubreaks/Content/Assets/Prefabs/Environment/railings/MID-ROAD-RAILINGS_COMPLETE.uasset'
+[2024.09.24-01.44.50:481][941]LogSavePackage: Moving '../../../../../../Users/markr/MarilaOutbreak/ManilaOutbreak-Game/MarilaOubreaks/Saved/MID-ROAD-RAILINGS_COMPLETE5C0522CE4CDDAEDAFF25ED8CC9C2A2D4.tmp' to '../../../../../../Users/markr/MarilaOutbreak/ManilaOutbreak-Game/MarilaOubreaks/Content/Assets/Prefabs/Environment/MID-ROAD-RAILINGS_COMPLETE.uasset'
+[2024.09.24-01.45.01:608][544]LogStaticMesh: Building static mesh SHORT_RAIL...
+[2024.09.24-01.45.01:682][544]LogStaticMesh: Built static mesh [0.08s] /Game/Assets/Prefabs/Environment/SHORT_RAIL.SHORT_RAIL
+[2024.09.24-01.45.06:054][659]LogSavePackage: Moving '../../../../../../Users/markr/MarilaOutbreak/ManilaOutbreak-Game/MarilaOubreaks/Saved/SHORT_RAILB781CBA34EC96D2F25D18A8DC410BE7A.tmp' to '../../../../../../Users/markr/MarilaOutbreak/ManilaOutbreak-Game/MarilaOubreaks/Content/Assets/Prefabs/Environment/railings/SHORT_RAIL.uasset'
+[2024.09.24-01.45.06:237][659]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2024.09.24-01.45.06:290][659]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2024.09.24-01.45.06:328][659]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2024.09.24-01.45.06:387][659]LogSavePackage: Moving '../../../../../../Users/markr/MarilaOutbreak/ManilaOutbreak-Game/MarilaOubreaks/Saved/SHORT_RAILEDC4FE2F43B237D246CD409C1C45F87B.tmp' to '../../../../../../Users/markr/MarilaOutbreak/ManilaOutbreak-Game/MarilaOubreaks/Content/Assets/Environment/SHORT_RAIL.uasset'
+[2024.09.24-01.45.24:861][507]LogSavePackage: Moving '../../../../../../Users/markr/MarilaOutbreak/ManilaOutbreak-Game/MarilaOubreaks/Saved/UNDER_SUPPF4F437264789931D6B6F5282EDB3A42B.tmp' to '../../../../../../Users/markr/MarilaOutbreak/ManilaOutbreak-Game/MarilaOubreaks/Content/Assets/Prefabs/Environment/BudgetKingina/UNDER_SUPP.uasset'
+[2024.09.24-01.45.24:906][507]LogSavePackage: Moving '../../../../../../Users/markr/MarilaOutbreak/ManilaOutbreak-Game/MarilaOubreaks/Saved/UNDER_SUPP5DC19092470919CCEB05ADAF21BF57A4.tmp' to '../../../../../../Users/markr/MarilaOutbreak/ManilaOutbreak-Game/MarilaOubreaks/Content/Assets/Prefabs/Environment/UNDER_SUPP.uasset'
+[2024.09.24-01.47.23:950][  8]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2024.09.24-01.48.40:339][  8]LogSlate: Window 'Delete Assets' being destroyed
+[2024.09.24-01.48.40:350][  8]LogUObjectGlobals: Force Deleting 364 Package(s):
+	Asset Name: /Game/Assets/Prefabs/Environment/2_2.2_2
+	Asset Name: /Game/Assets/Prefabs/Environment/711_2.711_2
+	Asset Name: /Game/Assets/Prefabs/Environment/ac.ac
+	Asset Name: /Game/Assets/Prefabs/Environment/BLACK.BLACK
+	Asset Name: /Game/Assets/Prefabs/Environment/BUDGETKING_FINAL.BUDGETKING_FINAL
+	Asset Name: /Game/Assets/Prefabs/Environment/BUDGET_BLDG_TRIAL.BUDGET_BLDG_TRIAL
+	Asset Name: /Game/Assets/Prefabs/Environment/cebuana.cebuana
+	Asset Name: /Game/Assets/Prefabs/Environment/dental.dental
+	Asset Name: /Game/Assets/Prefabs/Environment/farma.farma
+	Asset Name: /Game/Assets/Prefabs/Environment/FirstBuildings_join.FirstBuildings_join
+[2024.09.24-01.48.42:394][  8]LogMaterial: Display: Missing cached shader map for material Material_017, compiling. 
+[2024.09.24-01.48.42:398][  8]LogMaterial: Warning: C:\Users\markr\MarilaOutbreak\ManilaOutbreak-Game\MarilaOubreaks\Content\Assets\Prefabs\Environment\Material_017.uasset: Failed to compile Material for platform PCD3D_SM4, Default Material will be used in game.
+[2024.09.24-01.48.42:398][  8]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2024.09.24-01.48.42:401][  8]LogMaterial: Display: Missing cached shader map for material Material_017, compiling. 
+[2024.09.24-01.48.42:401][  8]LogMaterial: Warning: C:\Users\markr\MarilaOutbreak\ManilaOutbreak-Game\MarilaOubreaks\Content\Assets\Prefabs\Environment\Material_017.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2024.09.24-01.48.42:401][  8]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2024.09.24-01.48.42:406][  8]LogMaterial: Display: Missing cached shader map for material Material_007, compiling. 
+[2024.09.24-01.48.42:406][  8]LogMaterial: Warning: C:\Users\markr\MarilaOutbreak\ManilaOutbreak-Game\MarilaOubreaks\Content\Assets\Prefabs\Environment\Material_007.uasset: Failed to compile Material for platform PCD3D_SM4, Default Material will be used in game.
+[2024.09.24-01.48.42:406][  8]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2024.09.24-01.48.42:408][  8]LogMaterial: Display: Missing cached shader map for material Material_007, compiling. 
+[2024.09.24-01.48.42:409][  8]LogMaterial: Warning: C:\Users\markr\MarilaOutbreak\ManilaOutbreak-Game\MarilaOubreaks\Content\Assets\Prefabs\Environment\Material_007.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2024.09.24-01.48.42:409][  8]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2024.09.24-01.48.42:411][  8]LogMaterial: Display: Missing cached shader map for material Material_005, compiling. 
+[2024.09.24-01.48.42:412][  8]LogMaterial: Warning: C:\Users\markr\MarilaOutbreak\ManilaOutbreak-Game\MarilaOubreaks\Content\Assets\Prefabs\Environment\Material_005.uasset: Failed to compile Material for platform PCD3D_SM4, Default Material will be used in game.
+[2024.09.24-01.48.42:412][  8]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2024.09.24-01.48.42:414][  8]LogMaterial: Display: Missing cached shader map for material Material_005, compiling. 
+[2024.09.24-01.48.42:414][  8]LogMaterial: Warning: C:\Users\markr\MarilaOutbreak\ManilaOutbreak-Game\MarilaOubreaks\Content\Assets\Prefabs\Environment\Material_005.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2024.09.24-01.48.42:414][  8]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2024.09.24-01.48.42:417][  8]LogMaterial: Display: Missing cached shader map for material Material_009, compiling. 
+[2024.09.24-01.48.42:417][  8]LogMaterial: Warning: C:\Users\markr\MarilaOutbreak\ManilaOutbreak-Game\MarilaOubreaks\Content\Assets\Prefabs\Environment\Material_009.uasset: Failed to compile Material for platform PCD3D_SM4, Default Material will be used in game.
+[2024.09.24-01.48.42:418][  8]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2024.09.24-01.48.42:420][  8]LogMaterial: Display: Missing cached shader map for material Material_009, compiling. 
+[2024.09.24-01.48.42:420][  8]LogMaterial: Warning: C:\Users\markr\MarilaOutbreak\ManilaOutbreak-Game\MarilaOubreaks\Content\Assets\Prefabs\Environment\Material_009.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2024.09.24-01.48.42:420][  8]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2024.09.24-01.48.42:424][  8]LogMaterial: Display: Missing cached shader map for material Material_010, compiling. 
+[2024.09.24-01.48.42:425][  8]LogMaterial: Warning: C:\Users\markr\MarilaOutbreak\ManilaOutbreak-Game\MarilaOubreaks\Content\Assets\Prefabs\Environment\Material_010.uasset: Failed to compile Material for platform PCD3D_SM4, Default Material will be used in game.
+[2024.09.24-01.48.42:425][  8]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2024.09.24-01.48.42:428][  8]LogMaterial: Display: Missing cached shader map for material Material_010, compiling. 
+[2024.09.24-01.48.42:428][  8]LogMaterial: Warning: C:\Users\markr\MarilaOutbreak\ManilaOutbreak-Game\MarilaOubreaks\Content\Assets\Prefabs\Environment\Material_010.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2024.09.24-01.48.42:428][  8]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2024.09.24-01.48.59:335][  8]LogMaterial: Display: Missing cached shader map for material Material_002, compiling. 
+[2024.09.24-01.48.59:336][  8]LogMaterial: Warning: C:\Users\markr\MarilaOutbreak\ManilaOutbreak-Game\MarilaOubreaks\Content\Assets\Prefabs\Environment\Material_002.uasset: Failed to compile Material for platform PCD3D_SM4, Default Material will be used in game.
+[2024.09.24-01.48.59:336][  8]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2024.09.24-01.48.59:338][  8]LogMaterial: Display: Missing cached shader map for material Material_002, compiling. 
+[2024.09.24-01.48.59:339][  8]LogMaterial: Warning: C:\Users\markr\MarilaOutbreak\ManilaOutbreak-Game\MarilaOubreaks\Content\Assets\Prefabs\Environment\Material_002.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2024.09.24-01.48.59:339][  8]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2024.09.24-01.48.59:343][  8]LogMaterial: Display: Missing cached shader map for material Material_003, compiling. 
+[2024.09.24-01.48.59:344][  8]LogMaterial: Warning: C:\Users\markr\MarilaOutbreak\ManilaOutbreak-Game\MarilaOubreaks\Content\Assets\Prefabs\Environment\Material_003.uasset: Failed to compile Material for platform PCD3D_SM4, Default Material will be used in game.
+[2024.09.24-01.48.59:344][  8]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2024.09.24-01.48.59:346][  8]LogMaterial: Display: Missing cached shader map for material Material_003, compiling. 
+[2024.09.24-01.48.59:346][  8]LogMaterial: Warning: C:\Users\markr\MarilaOutbreak\ManilaOutbreak-Game\MarilaOubreaks\Content\Assets\Prefabs\Environment\Material_003.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2024.09.24-01.48.59:346][  8]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2024.09.24-01.48.59:349][  8]LogMaterial: Display: Missing cached shader map for material Material_006, compiling. 
+[2024.09.24-01.48.59:350][  8]LogMaterial: Warning: C:\Users\markr\MarilaOutbreak\ManilaOutbreak-Game\MarilaOubreaks\Content\Assets\Prefabs\Environment\Material_006.uasset: Failed to compile Material for platform PCD3D_SM4, Default Material will be used in game.
+[2024.09.24-01.48.59:350][  8]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2024.09.24-01.48.59:352][  8]LogMaterial: Display: Missing cached shader map for material Material_006, compiling. 
+[2024.09.24-01.48.59:352][  8]LogMaterial: Warning: C:\Users\markr\MarilaOutbreak\ManilaOutbreak-Game\MarilaOubreaks\Content\Assets\Prefabs\Environment\Material_006.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2024.09.24-01.48.59:352][  8]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2024.09.24-01.48.59:355][  8]LogMaterial: Display: Missing cached shader map for material Material_008, compiling. 
+[2024.09.24-01.48.59:356][  8]LogMaterial: Warning: C:\Users\markr\MarilaOutbreak\ManilaOutbreak-Game\MarilaOubreaks\Content\Assets\Prefabs\Environment\Material_008.uasset: Failed to compile Material for platform PCD3D_SM4, Default Material will be used in game.
+[2024.09.24-01.48.59:356][  8]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2024.09.24-01.48.59:359][  8]LogMaterial: Display: Missing cached shader map for material Material_008, compiling. 
+[2024.09.24-01.48.59:359][  8]LogMaterial: Warning: C:\Users\markr\MarilaOutbreak\ManilaOutbreak-Game\MarilaOubreaks\Content\Assets\Prefabs\Environment\Material_008.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2024.09.24-01.48.59:359][  8]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2024.09.24-01.48.59:362][  8]LogMaterial: Display: Missing cached shader map for material Material_011, compiling. 
+[2024.09.24-01.48.59:363][  8]LogMaterial: Warning: C:\Users\markr\MarilaOutbreak\ManilaOutbreak-Game\MarilaOubreaks\Content\Assets\Prefabs\Environment\Material_011.uasset: Failed to compile Material for platform PCD3D_SM4, Default Material will be used in game.
+[2024.09.24-01.48.59:363][  8]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2024.09.24-01.48.59:365][  8]LogMaterial: Display: Missing cached shader map for material Material_011, compiling. 
+[2024.09.24-01.48.59:366][  8]LogMaterial: Warning: C:\Users\markr\MarilaOutbreak\ManilaOutbreak-Game\MarilaOubreaks\Content\Assets\Prefabs\Environment\Material_011.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2024.09.24-01.48.59:366][  8]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2024.09.24-01.48.59:369][  8]LogMaterial: Display: Missing cached shader map for material Material_012, compiling. 
+[2024.09.24-01.48.59:369][  8]LogMaterial: Warning: C:\Users\markr\MarilaOutbreak\ManilaOutbreak-Game\MarilaOubreaks\Content\Assets\Prefabs\Environment\Material_012.uasset: Failed to compile Material for platform PCD3D_SM4, Default Material will be used in game.
+[2024.09.24-01.48.59:369][  8]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2024.09.24-01.48.59:372][  8]LogMaterial: Display: Missing cached shader map for material Material_012, compiling. 
+[2024.09.24-01.48.59:373][  8]LogMaterial: Warning: C:\Users\markr\MarilaOutbreak\ManilaOutbreak-Game\MarilaOubreaks\Content\Assets\Prefabs\Environment\Material_012.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2024.09.24-01.48.59:373][  8]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2024.09.24-01.48.59:376][  8]LogMaterial: Display: Missing cached shader map for material Material_013, compiling. 
+[2024.09.24-01.48.59:377][  8]LogMaterial: Warning: C:\Users\markr\MarilaOutbreak\ManilaOutbreak-Game\MarilaOubreaks\Content\Assets\Prefabs\Environment\Material_013.uasset: Failed to compile Material for platform PCD3D_SM4, Default Material will be used in game.
+[2024.09.24-01.48.59:377][  8]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2024.09.24-01.48.59:378][  8]LogMaterial: Display: Missing cached shader map for material Material_013, compiling. 
+[2024.09.24-01.48.59:379][  8]LogMaterial: Warning: C:\Users\markr\MarilaOutbreak\ManilaOutbreak-Game\MarilaOubreaks\Content\Assets\Prefabs\Environment\Material_013.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2024.09.24-01.48.59:379][  8]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2024.09.24-01.48.59:382][  8]LogMaterial: Display: Missing cached shader map for material Material_014, compiling. 
+[2024.09.24-01.48.59:383][  8]LogMaterial: Warning: C:\Users\markr\MarilaOutbreak\ManilaOutbreak-Game\MarilaOubreaks\Content\Assets\Prefabs\Environment\Material_014.uasset: Failed to compile Material for platform PCD3D_SM4, Default Material will be used in game.
+[2024.09.24-01.48.59:383][  8]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2024.09.24-01.48.59:386][  8]LogMaterial: Display: Missing cached shader map for material Material_014, compiling. 
+[2024.09.24-01.48.59:386][  8]LogMaterial: Warning: C:\Users\markr\MarilaOutbreak\ManilaOutbreak-Game\MarilaOubreaks\Content\Assets\Prefabs\Environment\Material_014.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2024.09.24-01.48.59:386][  8]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2024.09.24-01.48.59:389][  8]LogMaterial: Display: Missing cached shader map for material Material_019, compiling. 
+[2024.09.24-01.48.59:389][  8]LogMaterial: Warning: C:\Users\markr\MarilaOutbreak\ManilaOutbreak-Game\MarilaOubreaks\Content\Assets\Prefabs\Environment\Material_019.uasset: Failed to compile Material for platform PCD3D_SM4, Default Material will be used in game.
+[2024.09.24-01.48.59:389][  8]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2024.09.24-01.48.59:392][  8]LogMaterial: Display: Missing cached shader map for material Material_019, compiling. 
+[2024.09.24-01.48.59:393][  8]LogMaterial: Warning: C:\Users\markr\MarilaOutbreak\ManilaOutbreak-Game\MarilaOubreaks\Content\Assets\Prefabs\Environment\Material_019.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2024.09.24-01.48.59:393][  8]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2024.09.24-01.48.59:397][  8]LogMaterial: Display: Missing cached shader map for material Material_020, compiling. 
+[2024.09.24-01.48.59:398][  8]LogMaterial: Warning: C:\Users\markr\MarilaOutbreak\ManilaOutbreak-Game\MarilaOubreaks\Content\Assets\Prefabs\Environment\Material_020.uasset: Failed to compile Material for platform PCD3D_SM4, Default Material will be used in game.
+[2024.09.24-01.48.59:398][  8]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2024.09.24-01.48.59:402][  8]LogMaterial: Display: Missing cached shader map for material Material_020, compiling. 
+[2024.09.24-01.48.59:402][  8]LogMaterial: Warning: C:\Users\markr\MarilaOutbreak\ManilaOutbreak-Game\MarilaOubreaks\Content\Assets\Prefabs\Environment\Material_020.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2024.09.24-01.48.59:402][  8]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2024.09.24-01.48.59:406][  8]LogMaterial: Display: Missing cached shader map for material Material_021, compiling. 
+[2024.09.24-01.48.59:407][  8]LogMaterial: Warning: C:\Users\markr\MarilaOutbreak\ManilaOutbreak-Game\MarilaOubreaks\Content\Assets\Prefabs\Environment\Material_021.uasset: Failed to compile Material for platform PCD3D_SM4, Default Material will be used in game.
+[2024.09.24-01.48.59:407][  8]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2024.09.24-01.48.59:410][  8]LogMaterial: Display: Missing cached shader map for material Material_021, compiling. 
+[2024.09.24-01.48.59:411][  8]LogMaterial: Warning: C:\Users\markr\MarilaOutbreak\ManilaOutbreak-Game\MarilaOubreaks\Content\Assets\Prefabs\Environment\Material_021.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2024.09.24-01.48.59:411][  8]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2024.09.24-01.48.59:415][  8]LogMaterial: Display: Missing cached shader map for material Material_022, compiling. 
+[2024.09.24-01.48.59:416][  8]LogMaterial: Warning: C:\Users\markr\MarilaOutbreak\ManilaOutbreak-Game\MarilaOubreaks\Content\Assets\Prefabs\Environment\Material_022.uasset: Failed to compile Material for platform PCD3D_SM4, Default Material will be used in game.
+[2024.09.24-01.48.59:416][  8]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2024.09.24-01.48.59:418][  8]LogMaterial: Display: Missing cached shader map for material Material_022, compiling. 
+[2024.09.24-01.48.59:418][  8]LogMaterial: Warning: C:\Users\markr\MarilaOutbreak\ManilaOutbreak-Game\MarilaOubreaks\Content\Assets\Prefabs\Environment\Material_022.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2024.09.24-01.48.59:419][  8]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2024.09.24-01.48.59:422][  8]LogMaterial: Display: Missing cached shader map for material Material_023, compiling. 
+[2024.09.24-01.48.59:423][  8]LogMaterial: Warning: C:\Users\markr\MarilaOutbreak\ManilaOutbreak-Game\MarilaOubreaks\Content\Assets\Prefabs\Environment\Material_023.uasset: Failed to compile Material for platform PCD3D_SM4, Default Material will be used in game.
+[2024.09.24-01.48.59:423][  8]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2024.09.24-01.48.59:425][  8]LogMaterial: Display: Missing cached shader map for material Material_023, compiling. 
+[2024.09.24-01.48.59:426][  8]LogMaterial: Warning: C:\Users\markr\MarilaOutbreak\ManilaOutbreak-Game\MarilaOubreaks\Content\Assets\Prefabs\Environment\Material_023.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2024.09.24-01.48.59:426][  8]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2024.09.24-01.48.59:431][  8]LogMaterial: Display: Missing cached shader map for material Material_025, compiling. 
+[2024.09.24-01.48.59:432][  8]LogMaterial: Warning: C:\Users\markr\MarilaOutbreak\ManilaOutbreak-Game\MarilaOubreaks\Content\Assets\Prefabs\Environment\Material_025.uasset: Failed to compile Material for platform PCD3D_SM4, Default Material will be used in game.
+[2024.09.24-01.48.59:432][  8]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2024.09.24-01.48.59:437][  8]LogMaterial: Display: Missing cached shader map for material Material_025, compiling. 
+[2024.09.24-01.48.59:438][  8]LogMaterial: Warning: C:\Users\markr\MarilaOutbreak\ManilaOutbreak-Game\MarilaOubreaks\Content\Assets\Prefabs\Environment\Material_025.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2024.09.24-01.48.59:438][  8]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2024.09.24-01.48.59:441][  8]LogMaterial: Display: Missing cached shader map for material Material_026, compiling. 
+[2024.09.24-01.48.59:442][  8]LogMaterial: Warning: C:\Users\markr\MarilaOutbreak\ManilaOutbreak-Game\MarilaOubreaks\Content\Assets\Prefabs\Environment\Material_026.uasset: Failed to compile Material for platform PCD3D_SM4, Default Material will be used in game.
+[2024.09.24-01.48.59:442][  8]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2024.09.24-01.48.59:444][  8]LogMaterial: Display: Missing cached shader map for material Material_026, compiling. 
+[2024.09.24-01.48.59:445][  8]LogMaterial: Warning: C:\Users\markr\MarilaOutbreak\ManilaOutbreak-Game\MarilaOubreaks\Content\Assets\Prefabs\Environment\Material_026.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2024.09.24-01.48.59:445][  8]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2024.09.24-01.48.59:448][  8]LogMaterial: Display: Missing cached shader map for material Material_031, compiling. 
+[2024.09.24-01.48.59:449][  8]LogMaterial: Warning: C:\Users\markr\MarilaOutbreak\ManilaOutbreak-Game\MarilaOubreaks\Content\Assets\Prefabs\Environment\Material_031.uasset: Failed to compile Material for platform PCD3D_SM4, Default Material will be used in game.
+[2024.09.24-01.48.59:449][  8]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2024.09.24-01.48.59:454][  8]LogMaterial: Display: Missing cached shader map for material Material_031, compiling. 
+[2024.09.24-01.48.59:454][  8]LogMaterial: Warning: C:\Users\markr\MarilaOutbreak\ManilaOutbreak-Game\MarilaOubreaks\Content\Assets\Prefabs\Environment\Material_031.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2024.09.24-01.48.59:454][  8]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2024.09.24-01.48.59:457][  8]LogMaterial: Display: Missing cached shader map for material Material_032, compiling. 
+[2024.09.24-01.48.59:458][  8]LogMaterial: Warning: C:\Users\markr\MarilaOutbreak\ManilaOutbreak-Game\MarilaOubreaks\Content\Assets\Prefabs\Environment\Material_032.uasset: Failed to compile Material for platform PCD3D_SM4, Default Material will be used in game.
+[2024.09.24-01.48.59:459][  8]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2024.09.24-01.48.59:463][  8]LogMaterial: Display: Missing cached shader map for material Material_032, compiling. 
+[2024.09.24-01.48.59:464][  8]LogMaterial: Warning: C:\Users\markr\MarilaOutbreak\ManilaOutbreak-Game\MarilaOubreaks\Content\Assets\Prefabs\Environment\Material_032.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2024.09.24-01.48.59:464][  8]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2024.09.24-01.48.59:467][  8]LogMaterial: Display: Missing cached shader map for material Material_033, compiling. 
+[2024.09.24-01.48.59:467][  8]LogMaterial: Warning: C:\Users\markr\MarilaOutbreak\ManilaOutbreak-Game\MarilaOubreaks\Content\Assets\Prefabs\Environment\Material_033.uasset: Failed to compile Material for platform PCD3D_SM4, Default Material will be used in game.
+[2024.09.24-01.48.59:467][  8]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2024.09.24-01.48.59:469][  8]LogMaterial: Display: Missing cached shader map for material Material_033, compiling. 
+[2024.09.24-01.48.59:471][  8]LogMaterial: Warning: C:\Users\markr\MarilaOutbreak\ManilaOutbreak-Game\MarilaOubreaks\Content\Assets\Prefabs\Environment\Material_033.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2024.09.24-01.48.59:471][  8]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2024.09.24-01.48.59:474][  8]LogMaterial: Display: Missing cached shader map for material Material_034, compiling. 
+[2024.09.24-01.48.59:475][  8]LogMaterial: Warning: C:\Users\markr\MarilaOutbreak\ManilaOutbreak-Game\MarilaOubreaks\Content\Assets\Prefabs\Environment\Material_034.uasset: Failed to compile Material for platform PCD3D_SM4, Default Material will be used in game.
+[2024.09.24-01.48.59:475][  8]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2024.09.24-01.48.59:477][  8]LogMaterial: Display: Missing cached shader map for material Material_034, compiling. 
+[2024.09.24-01.48.59:478][  8]LogMaterial: Warning: C:\Users\markr\MarilaOutbreak\ManilaOutbreak-Game\MarilaOubreaks\Content\Assets\Prefabs\Environment\Material_034.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2024.09.24-01.48.59:478][  8]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2024.09.24-01.48.59:481][  8]LogMaterial: Display: Missing cached shader map for material Material_035, compiling. 
+[2024.09.24-01.48.59:482][  8]LogMaterial: Warning: C:\Users\markr\MarilaOutbreak\ManilaOutbreak-Game\MarilaOubreaks\Content\Assets\Prefabs\Environment\Material_035.uasset: Failed to compile Material for platform PCD3D_SM4, Default Material will be used in game.
+[2024.09.24-01.48.59:482][  8]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2024.09.24-01.48.59:484][  8]LogMaterial: Display: Missing cached shader map for material Material_035, compiling. 
+[2024.09.24-01.48.59:485][  8]LogMaterial: Warning: C:\Users\markr\MarilaOutbreak\ManilaOutbreak-Game\MarilaOubreaks\Content\Assets\Prefabs\Environment\Material_035.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2024.09.24-01.48.59:485][  8]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2024.09.24-01.48.59:489][  8]LogMaterial: Display: Missing cached shader map for material Material_036, compiling. 
+[2024.09.24-01.48.59:489][  8]LogMaterial: Warning: C:\Users\markr\MarilaOutbreak\ManilaOutbreak-Game\MarilaOubreaks\Content\Assets\Prefabs\Environment\Material_036.uasset: Failed to compile Material for platform PCD3D_SM4, Default Material will be used in game.
+[2024.09.24-01.48.59:489][  8]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2024.09.24-01.48.59:492][  8]LogMaterial: Display: Missing cached shader map for material Material_036, compiling. 
+[2024.09.24-01.48.59:492][  8]LogMaterial: Warning: C:\Users\markr\MarilaOutbreak\ManilaOutbreak-Game\MarilaOubreaks\Content\Assets\Prefabs\Environment\Material_036.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2024.09.24-01.48.59:492][  8]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2024.09.24-01.48.59:495][  8]LogMaterial: Display: Missing cached shader map for material Material_037, compiling. 
+[2024.09.24-01.48.59:496][  8]LogMaterial: Warning: C:\Users\markr\MarilaOutbreak\ManilaOutbreak-Game\MarilaOubreaks\Content\Assets\Prefabs\Environment\Material_037.uasset: Failed to compile Material for platform PCD3D_SM4, Default Material will be used in game.
+[2024.09.24-01.48.59:496][  8]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2024.09.24-01.48.59:497][  8]LogMaterial: Display: Missing cached shader map for material Material_037, compiling. 
+[2024.09.24-01.48.59:498][  8]LogMaterial: Warning: C:\Users\markr\MarilaOutbreak\ManilaOutbreak-Game\MarilaOubreaks\Content\Assets\Prefabs\Environment\Material_037.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2024.09.24-01.48.59:498][  8]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2024.09.24-01.48.59:502][  8]LogMaterial: Display: Missing cached shader map for material Material_038, compiling. 
+[2024.09.24-01.48.59:503][  8]LogMaterial: Warning: C:\Users\markr\MarilaOutbreak\ManilaOutbreak-Game\MarilaOubreaks\Content\Assets\Prefabs\Environment\Material_038.uasset: Failed to compile Material for platform PCD3D_SM4, Default Material will be used in game.
+[2024.09.24-01.48.59:503][  8]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2024.09.24-01.48.59:505][  8]LogMaterial: Display: Missing cached shader map for material Material_038, compiling. 
+[2024.09.24-01.48.59:505][  8]LogMaterial: Warning: C:\Users\markr\MarilaOutbreak\ManilaOutbreak-Game\MarilaOubreaks\Content\Assets\Prefabs\Environment\Material_038.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2024.09.24-01.48.59:505][  8]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2024.09.24-01.48.59:511][  8]LogMaterial: Display: Missing cached shader map for material Material_039, compiling. 
+[2024.09.24-01.48.59:512][  8]LogMaterial: Warning: C:\Users\markr\MarilaOutbreak\ManilaOutbreak-Game\MarilaOubreaks\Content\Assets\Prefabs\Environment\Material_039.uasset: Failed to compile Material for platform PCD3D_SM4, Default Material will be used in game.
+[2024.09.24-01.48.59:512][  8]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2024.09.24-01.48.59:514][  8]LogMaterial: Display: Missing cached shader map for material Material_039, compiling. 
+[2024.09.24-01.48.59:515][  8]LogMaterial: Warning: C:\Users\markr\MarilaOutbreak\ManilaOutbreak-Game\MarilaOubreaks\Content\Assets\Prefabs\Environment\Material_039.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2024.09.24-01.48.59:515][  8]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2024.09.24-01.48.59:519][  8]LogMaterial: Display: Missing cached shader map for material Material_040, compiling. 
+[2024.09.24-01.48.59:520][  8]LogMaterial: Warning: C:\Users\markr\MarilaOutbreak\ManilaOutbreak-Game\MarilaOubreaks\Content\Assets\Prefabs\Environment\Material_040.uasset: Failed to compile Material for platform PCD3D_SM4, Default Material will be used in game.
+[2024.09.24-01.48.59:520][  8]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2024.09.24-01.48.59:522][  8]LogMaterial: Display: Missing cached shader map for material Material_040, compiling. 
+[2024.09.24-01.48.59:523][  8]LogMaterial: Warning: C:\Users\markr\MarilaOutbreak\ManilaOutbreak-Game\MarilaOubreaks\Content\Assets\Prefabs\Environment\Material_040.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2024.09.24-01.48.59:523][  8]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2024.09.24-01.48.59:526][  8]LogMaterial: Display: Missing cached shader map for material Material_041, compiling. 
+[2024.09.24-01.48.59:527][  8]LogMaterial: Warning: C:\Users\markr\MarilaOutbreak\ManilaOutbreak-Game\MarilaOubreaks\Content\Assets\Prefabs\Environment\Material_041.uasset: Failed to compile Material for platform PCD3D_SM4, Default Material will be used in game.
+[2024.09.24-01.48.59:527][  8]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2024.09.24-01.48.59:530][  8]LogMaterial: Display: Missing cached shader map for material Material_041, compiling. 
+[2024.09.24-01.48.59:531][  8]LogMaterial: Warning: C:\Users\markr\MarilaOutbreak\ManilaOutbreak-Game\MarilaOubreaks\Content\Assets\Prefabs\Environment\Material_041.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2024.09.24-01.48.59:531][  8]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2024.09.24-01.48.59:534][  8]LogMaterial: Display: Missing cached shader map for material Material_042, compiling. 
+[2024.09.24-01.48.59:535][  8]LogMaterial: Warning: C:\Users\markr\MarilaOutbreak\ManilaOutbreak-Game\MarilaOubreaks\Content\Assets\Prefabs\Environment\Material_042.uasset: Failed to compile Material for platform PCD3D_SM4, Default Material will be used in game.
+[2024.09.24-01.48.59:535][  8]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2024.09.24-01.48.59:537][  8]LogMaterial: Display: Missing cached shader map for material Material_042, compiling. 
+[2024.09.24-01.48.59:538][  8]LogMaterial: Warning: C:\Users\markr\MarilaOutbreak\ManilaOutbreak-Game\MarilaOubreaks\Content\Assets\Prefabs\Environment\Material_042.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2024.09.24-01.48.59:538][  8]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2024.09.24-01.48.59:541][  8]LogMaterial: Display: Missing cached shader map for material Material_044, compiling. 
+[2024.09.24-01.48.59:543][  8]LogMaterial: Warning: C:\Users\markr\MarilaOutbreak\ManilaOutbreak-Game\MarilaOubreaks\Content\Assets\Prefabs\Environment\Material_044.uasset: Failed to compile Material for platform PCD3D_SM4, Default Material will be used in game.
+[2024.09.24-01.48.59:543][  8]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2024.09.24-01.48.59:545][  8]LogMaterial: Display: Missing cached shader map for material Material_044, compiling. 
+[2024.09.24-01.48.59:545][  8]LogMaterial: Warning: C:\Users\markr\MarilaOutbreak\ManilaOutbreak-Game\MarilaOubreaks\Content\Assets\Prefabs\Environment\Material_044.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2024.09.24-01.48.59:546][  8]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2024.09.24-01.48.59:550][  8]LogMaterial: Display: Missing cached shader map for material Material_045, compiling. 
+[2024.09.24-01.48.59:551][  8]LogMaterial: Warning: C:\Users\markr\MarilaOutbreak\ManilaOutbreak-Game\MarilaOubreaks\Content\Assets\Prefabs\Environment\Material_045.uasset: Failed to compile Material for platform PCD3D_SM4, Default Material will be used in game.
+[2024.09.24-01.48.59:551][  8]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2024.09.24-01.48.59:554][  8]LogMaterial: Display: Missing cached shader map for material Material_045, compiling. 
+[2024.09.24-01.48.59:554][  8]LogMaterial: Warning: C:\Users\markr\MarilaOutbreak\ManilaOutbreak-Game\MarilaOubreaks\Content\Assets\Prefabs\Environment\Material_045.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2024.09.24-01.48.59:554][  8]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2024.09.24-01.48.59:558][  8]LogMaterial: Display: Missing cached shader map for material Material_046, compiling. 
+[2024.09.24-01.48.59:559][  8]LogMaterial: Warning: C:\Users\markr\MarilaOutbreak\ManilaOutbreak-Game\MarilaOubreaks\Content\Assets\Prefabs\Environment\Material_046.uasset: Failed to compile Material for platform PCD3D_SM4, Default Material will be used in game.
+[2024.09.24-01.48.59:559][  8]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2024.09.24-01.48.59:562][  8]LogMaterial: Display: Missing cached shader map for material Material_046, compiling. 
+[2024.09.24-01.48.59:562][  8]LogMaterial: Warning: C:\Users\markr\MarilaOutbreak\ManilaOutbreak-Game\MarilaOubreaks\Content\Assets\Prefabs\Environment\Material_046.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2024.09.24-01.48.59:562][  8]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2024.09.24-01.48.59:567][  8]LogMaterial: Display: Missing cached shader map for material Material_047, compiling. 
+[2024.09.24-01.48.59:567][  8]LogMaterial: Warning: C:\Users\markr\MarilaOutbreak\ManilaOutbreak-Game\MarilaOubreaks\Content\Assets\Prefabs\Environment\Material_047.uasset: Failed to compile Material for platform PCD3D_SM4, Default Material will be used in game.
+[2024.09.24-01.48.59:567][  8]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2024.09.24-01.48.59:571][  8]LogMaterial: Display: Missing cached shader map for material Material_047, compiling. 
+[2024.09.24-01.48.59:571][  8]LogMaterial: Warning: C:\Users\markr\MarilaOutbreak\ManilaOutbreak-Game\MarilaOubreaks\Content\Assets\Prefabs\Environment\Material_047.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2024.09.24-01.48.59:571][  8]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2024.09.24-01.48.59:575][  8]LogMaterial: Display: Missing cached shader map for material Material_049, compiling. 
+[2024.09.24-01.48.59:576][  8]LogMaterial: Warning: C:\Users\markr\MarilaOutbreak\ManilaOutbreak-Game\MarilaOubreaks\Content\Assets\Prefabs\Environment\Material_049.uasset: Failed to compile Material for platform PCD3D_SM4, Default Material will be used in game.
+[2024.09.24-01.48.59:576][  8]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2024.09.24-01.48.59:578][  8]LogMaterial: Display: Missing cached shader map for material Material_049, compiling. 
+[2024.09.24-01.48.59:579][  8]LogMaterial: Warning: C:\Users\markr\MarilaOutbreak\ManilaOutbreak-Game\MarilaOubreaks\Content\Assets\Prefabs\Environment\Material_049.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2024.09.24-01.48.59:579][  8]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2024.09.24-01.48.59:582][  8]LogMaterial: Display: Missing cached shader map for material Material_050, compiling. 
+[2024.09.24-01.48.59:585][  8]LogMaterial: Warning: C:\Users\markr\MarilaOutbreak\ManilaOutbreak-Game\MarilaOubreaks\Content\Assets\Prefabs\Environment\Material_050.uasset: Failed to compile Material for platform PCD3D_SM4, Default Material will be used in game.
+[2024.09.24-01.48.59:585][  8]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2024.09.24-01.48.59:587][  8]LogMaterial: Display: Missing cached shader map for material Material_050, compiling. 
+[2024.09.24-01.48.59:587][  8]LogMaterial: Warning: C:\Users\markr\MarilaOutbreak\ManilaOutbreak-Game\MarilaOubreaks\Content\Assets\Prefabs\Environment\Material_050.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2024.09.24-01.48.59:587][  8]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2024.09.24-01.48.59:592][  8]LogMaterial: Display: Missing cached shader map for material Material_051, compiling. 
+[2024.09.24-01.48.59:593][  8]LogMaterial: Warning: C:\Users\markr\MarilaOutbreak\ManilaOutbreak-Game\MarilaOubreaks\Content\Assets\Prefabs\Environment\Material_051.uasset: Failed to compile Material for platform PCD3D_SM4, Default Material will be used in game.
+[2024.09.24-01.48.59:593][  8]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2024.09.24-01.48.59:595][  8]LogMaterial: Display: Missing cached shader map for material Material_051, compiling. 
+[2024.09.24-01.48.59:596][  8]LogMaterial: Warning: C:\Users\markr\MarilaOutbreak\ManilaOutbreak-Game\MarilaOubreaks\Content\Assets\Prefabs\Environment\Material_051.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2024.09.24-01.48.59:596][  8]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2024.09.24-01.48.59:599][  8]LogMaterial: Display: Missing cached shader map for material Material_052, compiling. 
+[2024.09.24-01.48.59:601][  8]LogMaterial: Warning: C:\Users\markr\MarilaOutbreak\ManilaOutbreak-Game\MarilaOubreaks\Content\Assets\Prefabs\Environment\Material_052.uasset: Failed to compile Material for platform PCD3D_SM4, Default Material will be used in game.
+[2024.09.24-01.48.59:601][  8]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2024.09.24-01.48.59:602][  8]LogMaterial: Display: Missing cached shader map for material Material_052, compiling. 
+[2024.09.24-01.48.59:603][  8]LogMaterial: Warning: C:\Users\markr\MarilaOutbreak\ManilaOutbreak-Game\MarilaOubreaks\Content\Assets\Prefabs\Environment\Material_052.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2024.09.24-01.48.59:603][  8]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2024.09.24-01.48.59:606][  8]LogMaterial: Display: Missing cached shader map for material Material_053, compiling. 
+[2024.09.24-01.48.59:607][  8]LogMaterial: Warning: C:\Users\markr\MarilaOutbreak\ManilaOutbreak-Game\MarilaOubreaks\Content\Assets\Prefabs\Environment\Material_053.uasset: Failed to compile Material for platform PCD3D_SM4, Default Material will be used in game.
+[2024.09.24-01.48.59:607][  8]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2024.09.24-01.48.59:610][  8]LogMaterial: Display: Missing cached shader map for material Material_053, compiling. 
+[2024.09.24-01.48.59:611][  8]LogMaterial: Warning: C:\Users\markr\MarilaOutbreak\ManilaOutbreak-Game\MarilaOubreaks\Content\Assets\Prefabs\Environment\Material_053.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2024.09.24-01.48.59:611][  8]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2024.09.24-01.48.59:615][  8]LogMaterial: Display: Missing cached shader map for material Material_054, compiling. 
+[2024.09.24-01.48.59:615][  8]LogMaterial: Warning: C:\Users\markr\MarilaOutbreak\ManilaOutbreak-Game\MarilaOubreaks\Content\Assets\Prefabs\Environment\Material_054.uasset: Failed to compile Material for platform PCD3D_SM4, Default Material will be used in game.
+[2024.09.24-01.48.59:615][  8]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2024.09.24-01.48.59:617][  8]LogMaterial: Display: Missing cached shader map for material Material_054, compiling. 
+[2024.09.24-01.48.59:618][  8]LogMaterial: Warning: C:\Users\markr\MarilaOutbreak\ManilaOutbreak-Game\MarilaOubreaks\Content\Assets\Prefabs\Environment\Material_054.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2024.09.24-01.48.59:618][  8]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2024.09.24-01.48.59:622][  8]LogMaterial: Display: Missing cached shader map for material Material_055, compiling. 
+[2024.09.24-01.48.59:622][  8]LogMaterial: Warning: C:\Users\markr\MarilaOutbreak\ManilaOutbreak-Game\MarilaOubreaks\Content\Assets\Prefabs\Environment\Material_055.uasset: Failed to compile Material for platform PCD3D_SM4, Default Material will be used in game.
+[2024.09.24-01.48.59:622][  8]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2024.09.24-01.48.59:626][  8]LogMaterial: Display: Missing cached shader map for material Material_055, compiling. 
+[2024.09.24-01.48.59:626][  8]LogMaterial: Warning: C:\Users\markr\MarilaOutbreak\ManilaOutbreak-Game\MarilaOubreaks\Content\Assets\Prefabs\Environment\Material_055.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2024.09.24-01.48.59:626][  8]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2024.09.24-01.48.59:629][  8]LogMaterial: Display: Missing cached shader map for material Material_056, compiling. 
+[2024.09.24-01.48.59:630][  8]LogMaterial: Warning: C:\Users\markr\MarilaOutbreak\ManilaOutbreak-Game\MarilaOubreaks\Content\Assets\Prefabs\Environment\Material_056.uasset: Failed to compile Material for platform PCD3D_SM4, Default Material will be used in game.
+[2024.09.24-01.48.59:630][  8]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2024.09.24-01.48.59:632][  8]LogMaterial: Display: Missing cached shader map for material Material_056, compiling. 
+[2024.09.24-01.48.59:633][  8]LogMaterial: Warning: C:\Users\markr\MarilaOutbreak\ManilaOutbreak-Game\MarilaOubreaks\Content\Assets\Prefabs\Environment\Material_056.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2024.09.24-01.48.59:633][  8]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2024.09.24-01.48.59:636][  8]LogMaterial: Display: Missing cached shader map for material Material_057, compiling. 
+[2024.09.24-01.48.59:637][  8]LogMaterial: Warning: C:\Users\markr\MarilaOutbreak\ManilaOutbreak-Game\MarilaOubreaks\Content\Assets\Prefabs\Environment\Material_057.uasset: Failed to compile Material for platform PCD3D_SM4, Default Material will be used in game.
+[2024.09.24-01.48.59:637][  8]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2024.09.24-01.48.59:639][  8]LogMaterial: Display: Missing cached shader map for material Material_057, compiling. 
+[2024.09.24-01.48.59:640][  8]LogMaterial: Warning: C:\Users\markr\MarilaOutbreak\ManilaOutbreak-Game\MarilaOubreaks\Content\Assets\Prefabs\Environment\Material_057.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2024.09.24-01.48.59:640][  8]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2024.09.24-01.48.59:643][  8]LogMaterial: Display: Missing cached shader map for material Material_058, compiling. 
+[2024.09.24-01.48.59:643][  8]LogMaterial: Warning: C:\Users\markr\MarilaOutbreak\ManilaOutbreak-Game\MarilaOubreaks\Content\Assets\Prefabs\Environment\Material_058.uasset: Failed to compile Material for platform PCD3D_SM4, Default Material will be used in game.
+[2024.09.24-01.48.59:643][  8]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2024.09.24-01.48.59:645][  8]LogMaterial: Display: Missing cached shader map for material Material_058, compiling. 
+[2024.09.24-01.48.59:645][  8]LogMaterial: Warning: C:\Users\markr\MarilaOutbreak\ManilaOutbreak-Game\MarilaOubreaks\Content\Assets\Prefabs\Environment\Material_058.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2024.09.24-01.48.59:645][  8]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2024.09.24-01.48.59:647][  8]LogMaterial: Display: Missing cached shader map for material Material_059, compiling. 
+[2024.09.24-01.48.59:648][  8]LogMaterial: Warning: C:\Users\markr\MarilaOutbreak\ManilaOutbreak-Game\MarilaOubreaks\Content\Assets\Prefabs\Environment\Material_059.uasset: Failed to compile Material for platform PCD3D_SM4, Default Material will be used in game.
+[2024.09.24-01.48.59:648][  8]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2024.09.24-01.48.59:650][  8]LogMaterial: Display: Missing cached shader map for material Material_059, compiling. 
+[2024.09.24-01.48.59:650][  8]LogMaterial: Warning: C:\Users\markr\MarilaOutbreak\ManilaOutbreak-Game\MarilaOubreaks\Content\Assets\Prefabs\Environment\Material_059.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2024.09.24-01.48.59:650][  8]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2024.09.24-01.49.05:937][  8]LogMaterial: Display: Missing cached shader map for material Material_004, compiling. 
+[2024.09.24-01.49.05:937][  8]LogMaterial: Warning: C:\Users\markr\MarilaOutbreak\ManilaOutbreak-Game\MarilaOubreaks\Content\Assets\Prefabs\Environment\Material_004.uasset: Failed to compile Material for platform PCD3D_SM4, Default Material will be used in game.
+[2024.09.24-01.49.05:938][  8]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2024.09.24-01.49.05:941][  8]LogMaterial: Display: Missing cached shader map for material Material_004, compiling. 
+[2024.09.24-01.49.05:941][  8]LogMaterial: Warning: C:\Users\markr\MarilaOutbreak\ManilaOutbreak-Game\MarilaOubreaks\Content\Assets\Prefabs\Environment\Material_004.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2024.09.24-01.49.05:941][  8]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2024.09.24-01.49.05:945][  8]LogMaterial: Display: Missing cached shader map for material Material_015, compiling. 
+[2024.09.24-01.49.05:947][  8]LogMaterial: Warning: C:\Users\markr\MarilaOutbreak\ManilaOutbreak-Game\MarilaOubreaks\Content\Assets\Prefabs\Environment\Material_015.uasset: Failed to compile Material for platform PCD3D_SM4, Default Material will be used in game.
+[2024.09.24-01.49.05:947][  8]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2024.09.24-01.49.05:953][  8]LogMaterial: Display: Missing cached shader map for material Material_015, compiling. 
+[2024.09.24-01.49.05:954][  8]LogMaterial: Warning: C:\Users\markr\MarilaOutbreak\ManilaOutbreak-Game\MarilaOubreaks\Content\Assets\Prefabs\Environment\Material_015.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2024.09.24-01.49.05:954][  8]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2024.09.24-01.49.05:958][  8]LogMaterial: Display: Missing cached shader map for material Material_027, compiling. 
+[2024.09.24-01.49.05:958][  8]LogMaterial: Warning: C:\Users\markr\MarilaOutbreak\ManilaOutbreak-Game\MarilaOubreaks\Content\Assets\Prefabs\Environment\Material_027.uasset: Failed to compile Material for platform PCD3D_SM4, Default Material will be used in game.
+[2024.09.24-01.49.05:958][  8]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2024.09.24-01.49.05:963][  8]LogMaterial: Display: Missing cached shader map for material Material_027, compiling. 
+[2024.09.24-01.49.05:964][  8]LogMaterial: Warning: C:\Users\markr\MarilaOutbreak\ManilaOutbreak-Game\MarilaOubreaks\Content\Assets\Prefabs\Environment\Material_027.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2024.09.24-01.49.05:964][  8]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2024.09.24-01.49.05:968][  8]LogMaterial: Display: Missing cached shader map for material Material_028, compiling. 
+[2024.09.24-01.49.05:968][  8]LogMaterial: Warning: C:\Users\markr\MarilaOutbreak\ManilaOutbreak-Game\MarilaOubreaks\Content\Assets\Prefabs\Environment\Material_028.uasset: Failed to compile Material for platform PCD3D_SM4, Default Material will be used in game.
+[2024.09.24-01.49.05:968][  8]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2024.09.24-01.49.05:973][  8]LogMaterial: Display: Missing cached shader map for material Material_028, compiling. 
+[2024.09.24-01.49.05:974][  8]LogMaterial: Warning: C:\Users\markr\MarilaOutbreak\ManilaOutbreak-Game\MarilaOubreaks\Content\Assets\Prefabs\Environment\Material_028.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2024.09.24-01.49.05:974][  8]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2024.09.24-01.49.05:981][  8]LogMaterial: Display: Missing cached shader map for material Material_029, compiling. 
+[2024.09.24-01.49.05:982][  8]LogMaterial: Warning: C:\Users\markr\MarilaOutbreak\ManilaOutbreak-Game\MarilaOubreaks\Content\Assets\Prefabs\Environment\Material_029.uasset: Failed to compile Material for platform PCD3D_SM4, Default Material will be used in game.
+[2024.09.24-01.49.05:982][  8]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2024.09.24-01.49.05:986][  8]LogMaterial: Display: Missing cached shader map for material Material_029, compiling. 
+[2024.09.24-01.49.05:986][  8]LogMaterial: Warning: C:\Users\markr\MarilaOutbreak\ManilaOutbreak-Game\MarilaOubreaks\Content\Assets\Prefabs\Environment\Material_029.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2024.09.24-01.49.05:986][  8]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2024.09.24-01.49.05:991][  8]LogMaterial: Display: Missing cached shader map for material Material_030, compiling. 
+[2024.09.24-01.49.05:992][  8]LogMaterial: Warning: C:\Users\markr\MarilaOutbreak\ManilaOutbreak-Game\MarilaOubreaks\Content\Assets\Prefabs\Environment\Material_030.uasset: Failed to compile Material for platform PCD3D_SM4, Default Material will be used in game.
+[2024.09.24-01.49.05:992][  8]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2024.09.24-01.49.05:995][  8]LogMaterial: Display: Missing cached shader map for material Material_030, compiling. 
+[2024.09.24-01.49.05:996][  8]LogMaterial: Warning: C:\Users\markr\MarilaOutbreak\ManilaOutbreak-Game\MarilaOubreaks\Content\Assets\Prefabs\Environment\Material_030.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2024.09.24-01.49.05:996][  8]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2024.09.24-01.49.06:000][  8]LogMaterial: Display: Missing cached shader map for material Material_043, compiling. 
+[2024.09.24-01.49.06:002][  8]LogMaterial: Warning: C:\Users\markr\MarilaOutbreak\ManilaOutbreak-Game\MarilaOubreaks\Content\Assets\Prefabs\Environment\Material_043.uasset: Failed to compile Material for platform PCD3D_SM4, Default Material will be used in game.
+[2024.09.24-01.49.06:002][  8]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2024.09.24-01.49.06:006][  8]LogMaterial: Display: Missing cached shader map for material Material_043, compiling. 
+[2024.09.24-01.49.06:007][  8]LogMaterial: Warning: C:\Users\markr\MarilaOutbreak\ManilaOutbreak-Game\MarilaOubreaks\Content\Assets\Prefabs\Environment\Material_043.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2024.09.24-01.49.06:007][  8]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2024.09.24-01.49.50:321][  8]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2024.09.24-01.49.50:349][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.09.24-01.49.50:374][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.09.24-01.49.50:401][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2024.09.24-01.49.50:426][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.09.24-01.49.50:451][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2024.09.24-01.49.50:483][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.09.24-01.49.50:511][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2024.09.24-01.49.50:536][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2024.09.24-01.49.50:561][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2024.09.24-01.49.50:586][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2024.09.24-01.49.50:613][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2024.09.24-01.49.50:640][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2024.09.24-01.49.50:665][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2024.09.24-01.49.50:693][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.09.24-01.49.50:719][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2024.09.24-01.49.50:746][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2024.09.24-01.49.50:772][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.09.24-01.49.50:798][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.09.24-01.49.50:823][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2024.09.24-01.49.50:848][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2024.09.24-01.49.50:875][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2024.09.24-01.49.50:903][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2024.09.24-01.49.50:928][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.09.24-01.49.50:954][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2024.09.24-01.49.50:978][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2024.09.24-01.49.51:005][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.09.24-01.49.51:031][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2024.09.24-01.49.51:056][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.09.24-01.49.51:080][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.09.24-01.49.51:106][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2024.09.24-01.49.51:131][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2024.09.24-01.49.51:157][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2024.09.24-01.49.51:184][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2024.09.24-01.49.51:214][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.09.24-01.49.51:238][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.09.24-01.49.51:261][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2024.09.24-01.49.51:287][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2024.09.24-01.49.51:316][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2024.09.24-01.49.51:340][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.09.24-01.49.51:367][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.09.24-01.49.51:394][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.09.24-01.49.51:420][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.09.24-01.49.51:445][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2024.09.24-01.49.51:471][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2024.09.24-01.49.51:496][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.09.24-01.49.51:521][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2024.09.24-01.49.51:547][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2024.09.24-01.49.51:571][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2024.09.24-01.49.51:598][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2024.09.24-01.49.51:624][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2024.09.24-01.49.51:648][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2024.09.24-01.49.51:675][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2024.09.24-01.49.51:701][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2024.09.24-01.49.51:730][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2024.09.24-01.49.51:755][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.09.24-01.49.51:781][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.09.24-01.49.51:805][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2024.09.24-01.49.51:830][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.09.24-01.49.51:855][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2024.09.24-01.49.51:881][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2024.09.24-01.49.51:907][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.09.24-01.49.51:935][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.09.24-01.49.51:962][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2024.09.24-01.49.51:986][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.09.24-01.49.52:012][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.09.24-01.49.52:038][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.09.24-01.49.52:063][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2024.09.24-01.49.52:090][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2024.09.24-01.49.52:116][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.09.24-01.49.52:145][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2024.09.24-01.49.52:170][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.09.24-01.49.52:197][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2024.09.24-01.49.52:223][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2024.09.24-01.49.52:248][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.09.24-01.49.52:272][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.09.24-01.49.52:297][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.09.24-01.49.52:324][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2024.09.24-01.49.52:352][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.09.24-01.49.52:376][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2024.09.24-01.49.52:402][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.09.24-01.49.52:430][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2024.09.24-01.49.52:455][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2024.09.24-01.49.52:482][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2024.09.24-01.49.52:506][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2024.09.24-01.49.52:531][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2024.09.24-01.49.52:559][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.09.24-01.49.52:586][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2024.09.24-01.49.52:612][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2024.09.24-01.49.52:637][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.09.24-01.49.52:664][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2024.09.24-01.49.52:689][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.09.24-01.49.52:714][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.09.24-01.49.52:739][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2024.09.24-01.49.52:771][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2024.09.24-01.49.52:796][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2024.09.24-01.49.52:823][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2024.09.24-01.49.52:848][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.09.24-01.49.52:876][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.09.24-01.49.52:901][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2024.09.24-01.49.52:926][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2024.09.24-01.49.52:951][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2024.09.24-01.49.52:981][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2024.09.24-01.49.53:006][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2024.09.24-01.49.53:032][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2024.09.24-01.49.53:059][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2024.09.24-01.49.53:082][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2024.09.24-01.49.53:109][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.09.24-01.49.53:135][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2024.09.24-01.49.53:158][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.09.24-01.49.53:185][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2024.09.24-01.49.53:210][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2024.09.24-01.49.53:237][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2024.09.24-01.49.53:262][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2024.09.24-01.49.53:289][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.09.24-01.49.53:315][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2024.09.24-01.49.53:340][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2024.09.24-01.49.53:367][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2024.09.24-01.49.53:394][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.09.24-01.49.53:420][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2024.09.24-01.49.53:447][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.09.24-01.49.53:472][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2024.09.24-01.49.53:500][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.09.24-01.49.53:526][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2024.09.24-01.49.53:549][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.09.24-01.49.53:575][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.09.24-01.49.53:602][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2024.09.24-01.49.53:627][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.09.24-01.49.53:654][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.09.24-01.49.53:681][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2024.09.24-01.49.53:707][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.09.24-01.49.53:731][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.09.24-01.49.53:756][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.09.24-01.49.53:781][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2024.09.24-01.49.53:810][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.09.24-01.49.53:837][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2024.09.24-01.49.53:861][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2024.09.24-01.49.53:887][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2024.09.24-01.49.53:913][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.09.24-01.49.53:938][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2024.09.24-01.49.53:964][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.09.24-01.49.53:990][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2024.09.24-01.49.54:017][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2024.09.24-01.49.54:041][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2024.09.24-01.49.54:069][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.09.24-01.49.54:094][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.09.24-01.49.54:120][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2024.09.24-01.49.54:146][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.09.24-01.49.54:174][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2024.09.24-01.49.54:199][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.09.24-01.49.54:225][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2024.09.24-01.49.54:251][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.09.24-01.49.54:278][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2024.09.24-01.49.54:304][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.09.24-01.49.54:331][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2024.09.24-01.49.54:357][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.09.24-01.49.54:383][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2024.09.24-01.49.54:408][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2024.09.24-01.49.54:437][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.09.24-01.49.54:463][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.09.24-01.49.54:489][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.09.24-01.49.54:514][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.09.24-01.49.54:540][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.09.24-01.49.54:568][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2024.09.24-01.49.54:594][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2024.09.24-01.49.54:621][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2024.09.24-01.49.54:647][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2024.09.24-01.49.54:672][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.09.24-01.49.54:697][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.09.24-01.49.54:723][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2024.09.24-01.49.54:748][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2024.09.24-01.49.54:774][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.09.24-01.49.54:800][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2024.09.24-01.49.54:826][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2024.09.24-01.49.54:854][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.09.24-01.49.54:881][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.09.24-01.49.54:906][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.09.24-01.49.54:933][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2024.09.24-01.49.54:958][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2024.09.24-01.49.54:985][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2024.09.24-01.49.55:011][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2024.09.24-01.49.55:037][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2024.09.24-01.49.55:066][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2024.09.24-01.49.55:092][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.09.24-01.49.55:118][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.09.24-01.49.55:143][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.09.24-01.49.55:167][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2024.09.24-01.49.55:194][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2024.09.24-01.49.55:220][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2024.09.24-01.49.55:246][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2024.09.24-01.49.55:275][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2024.09.24-01.49.55:301][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2024.09.24-01.49.55:327][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2024.09.24-01.49.55:354][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.09.24-01.49.55:378][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.09.24-01.49.55:404][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.09.24-01.49.55:428][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.09.24-01.49.55:453][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.09.24-01.49.55:481][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2024.09.24-01.49.55:505][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2024.09.24-01.49.55:531][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2024.09.24-01.49.55:556][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.09.24-01.49.55:582][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2024.09.24-01.49.55:607][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.09.24-01.49.55:632][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.09.24-01.49.55:657][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.09.24-01.49.55:687][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.09.24-01.49.55:714][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.09.24-01.49.55:739][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2024.09.24-01.49.55:764][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.09.24-01.49.55:788][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.09.24-01.49.55:815][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2024.09.24-01.49.55:841][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.09.24-01.49.55:868][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.09.24-01.49.55:895][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.09.24-01.49.55:920][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2024.09.24-01.49.55:948][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2024.09.24-01.49.55:975][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2024.09.24-01.49.56:001][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.09.24-01.49.56:028][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2024.09.24-01.49.56:054][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2024.09.24-01.49.56:080][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.09.24-01.49.56:109][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2024.09.24-01.49.56:133][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.09.24-01.49.56:158][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.09.24-01.49.56:186][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2024.09.24-01.49.56:211][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2024.09.24-01.49.56:236][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2024.09.24-01.49.56:263][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2024.09.24-01.49.56:288][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.09.24-01.49.56:318][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.09.24-01.49.56:342][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.09.24-01.49.56:367][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2024.09.24-01.49.56:393][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.09.24-01.49.56:420][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2024.09.24-01.49.56:446][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2024.09.24-01.49.56:470][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2024.09.24-01.49.56:498][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.09.24-01.49.56:525][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.09.24-01.49.56:551][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.09.24-01.49.56:576][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2024.09.24-01.49.56:603][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.09.24-01.49.56:627][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.09.24-01.49.56:654][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2024.09.24-01.49.56:681][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2024.09.24-01.49.56:706][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.09.24-01.49.56:735][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2024.09.24-01.49.56:761][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2024.09.24-01.49.56:786][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.09.24-01.49.56:813][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.09.24-01.49.56:839][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2024.09.24-01.49.56:865][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2024.09.24-01.49.56:889][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.09.24-01.49.56:916][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2024.09.24-01.49.56:943][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.09.24-01.49.56:968][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.09.24-01.49.56:994][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.09.24-01.49.57:020][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2024.09.24-01.49.57:046][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2024.09.24-01.49.57:071][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.09.24-01.49.57:098][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.09.24-01.49.57:125][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2024.09.24-01.49.57:153][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2024.09.24-01.49.57:178][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2024.09.24-01.49.57:205][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.09.24-01.49.57:232][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2024.09.24-01.49.57:256][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.09.24-01.49.57:282][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.09.24-01.49.57:309][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2024.09.24-01.49.57:336][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.09.24-01.49.57:365][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2024.09.24-01.49.57:392][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2024.09.24-01.49.57:416][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2024.09.24-01.49.57:441][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2024.09.24-01.49.57:466][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2024.09.24-01.49.57:492][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.09.24-01.49.57:518][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2024.09.24-01.49.57:542][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2024.09.24-01.49.57:569][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2024.09.24-01.49.57:595][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.09.24-01.49.57:620][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2024.09.24-01.49.57:644][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2024.09.24-01.49.57:670][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2024.09.24-01.49.57:694][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.09.24-01.49.57:721][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2024.09.24-01.49.57:747][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2024.09.24-01.49.57:771][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2024.09.24-01.49.57:797][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2024.09.24-01.49.57:824][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2024.09.24-01.49.57:848][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.09.24-01.49.57:874][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.09.24-01.49.57:899][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.09.24-01.49.57:926][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.09.24-01.49.57:951][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.09.24-01.49.57:981][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.09.24-01.49.58:007][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2024.09.24-01.49.58:033][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2024.09.24-01.49.58:060][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2024.09.24-01.49.58:085][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2024.09.24-01.49.58:111][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2024.09.24-01.49.58:138][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.09.24-01.49.58:163][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.09.24-01.49.58:193][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2024.09.24-01.49.58:218][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.09.24-01.49.58:243][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.09.24-01.49.58:268][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2024.09.24-01.49.58:294][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.09.24-01.49.58:319][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.09.24-01.49.58:346][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2024.09.24-01.49.58:373][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2024.09.24-01.49.58:401][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.09.24-01.49.58:427][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.09.24-01.49.58:452][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.09.24-01.49.58:479][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2024.09.24-01.49.58:505][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2024.09.24-01.49.58:532][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2024.09.24-01.49.58:556][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.09.24-01.49.58:583][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2024.09.24-01.49.58:611][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2024.09.24-01.49.58:639][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2024.09.24-01.49.58:666][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2024.09.24-01.49.58:692][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.09.24-01.49.58:716][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2024.09.24-01.49.58:742][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2024.09.24-01.49.58:767][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.09.24-01.49.58:793][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.09.24-01.49.58:819][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2024.09.24-01.49.58:846][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.09.24-01.49.58:873][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2024.09.24-01.49.58:898][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.09.24-01.49.58:925][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2024.09.24-01.49.58:949][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2024.09.24-01.49.58:975][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2024.09.24-01.49.58:999][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.09.24-01.49.59:027][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.09.24-01.49.59:052][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2024.09.24-01.49.59:077][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.09.24-01.49.59:104][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.09.24-01.49.59:129][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.09.24-01.49.59:157][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2024.09.24-01.49.59:182][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.09.24-01.49.59:207][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.09.24-01.49.59:236][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2024.09.24-01.49.59:261][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2024.09.24-01.49.59:286][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2024.09.24-01.49.59:313][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.09.24-01.49.59:339][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2024.09.24-01.49.59:366][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2024.09.24-01.49.59:392][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.09.24-01.49.59:417][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.09.24-01.49.59:444][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.09.24-01.49.59:470][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.09.24-01.49.59:496][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.09.24-01.49.59:521][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.09.24-01.49.59:547][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2024.09.24-01.49.59:574][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.09.24-01.49.59:600][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.09.24-01.49.59:626][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2024.09.24-01.49.59:653][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2024.09.24-01.49.59:679][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.09.24-01.49.59:702][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2024.09.24-01.49.59:728][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.09.24-01.49.59:755][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.09.24-01.49.59:781][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2024.09.24-01.49.59:810][  8]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2024.09.24-01.49.59:837][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2024.09.24-01.49.59:987][  9]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2024.09.24-01.49.59:987][  9]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2024.09.24-01.50.05:328][248]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2024.09.24-01.50.05:484][248]LogSlate: Window 'MarilaOubreaks - Unreal Editor' being destroyed
+[2024.09.24-01.50.05:753][249]Cmd: QUIT_EDITOR
+[2024.09.24-01.50.05:799][249]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2024.09.24-01.50.05:814][249]LogExit: Preparing to exit.
+[2024.09.24-01.50.06:311][249]LogExit: Editor shut down
+[2024.09.24-01.50.06:317][249]LogExit: Transaction tracking system shut down
+[2024.09.24-01.50.06:718][249]LogExit: Object subsystem successfully closed.
+[2024.09.24-01.50.06:756][249]LogShaderCompilers: Display: Shaders left to compile 0
+[2024.09.24-01.50.06:774][249]LogD3D11RHI: Shutdown
+[2024.09.24-01.50.06:774][249]LogD3D11RHI: CleanupD3DDevice
+[2024.09.24-01.50.06:775][249]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2024.09.24-01.50.06:775][249]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2024.09.24-01.50.06:776][249]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2024.09.24-01.50.06:776][249]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2024.09.24-01.50.06:776][249]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2024.09.24-01.50.06:776][249]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2024.09.24-01.50.06:973][249]LogD3D11RHI: ~FD3D11DynamicRHI
+[2024.09.24-01.50.07:038][249]LogModuleManager: Shutting down and abandoning module MeshBuilder (654)
+[2024.09.24-01.50.07:038][249]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (652)
+[2024.09.24-01.50.07:038][249]LogModuleManager: Shutting down and abandoning module SceneOutliner (650)
+[2024.09.24-01.50.07:038][249]LogModuleManager: Shutting down and abandoning module AddContentDialog (648)
+[2024.09.24-01.50.07:041][249]LogModuleManager: Shutting down and abandoning module WidgetCarousel (647)
+[2024.09.24-01.50.07:041][249]LogModuleManager: Shutting down and abandoning module EditorWidgets (644)
+[2024.09.24-01.50.07:041][249]LogModuleManager: Shutting down and abandoning module CollectionManager (642)
+[2024.09.24-01.50.07:042][249]LogModuleManager: Shutting down and abandoning module FoliageEdit (640)
+[2024.09.24-01.50.07:042][249]LogModuleManager: Shutting down and abandoning module LandscapeEditor (638)
+[2024.09.24-01.50.07:043][249]LogModuleManager: Shutting down and abandoning module MeshPaintMode (636)
+[2024.09.24-01.50.07:044][249]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (634)
+[2024.09.24-01.50.07:044][249]LogModuleManager: Shutting down and abandoning module ActorPickerMode (632)
+[2024.09.24-01.50.07:044][249]LogModuleManager: Shutting down and abandoning module GeometryMode (630)
+[2024.09.24-01.50.07:044][249]LogModuleManager: Shutting down and abandoning module TextureAlignMode (628)
+[2024.09.24-01.50.07:044][249]LogModuleManager: Shutting down and abandoning module BspMode (626)
+[2024.09.24-01.50.07:044][249]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (624)
+[2024.09.24-01.50.07:044][249]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (622)
+[2024.09.24-01.50.07:045][249]LogModuleManager: Shutting down and abandoning module AutomationWorker (620)
+[2024.09.24-01.50.07:045][249]LogModuleManager: Shutting down and abandoning module OculusMR (618)
+[2024.09.24-01.50.07:045][249]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (616)
+[2024.09.24-01.50.07:045][249]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (614)
+[2024.09.24-01.50.07:045][249]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (612)
+[2024.09.24-01.50.07:046][249]LogModuleManager: Shutting down and abandoning module PlacementMode (611)
+[2024.09.24-01.50.07:046][249]LogModuleManager: Shutting down and abandoning module MaterialEditor (610)
+[2024.09.24-01.50.07:048][249]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (606)
+[2024.09.24-01.50.07:048][249]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (604)
+[2024.09.24-01.50.07:048][249]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (602)
+[2024.09.24-01.50.07:048][249]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (600)
+[2024.09.24-01.50.07:048][249]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (598)
+[2024.09.24-01.50.07:048][249]LogModuleManager: Shutting down and abandoning module WebMMedia (596)
+[2024.09.24-01.50.07:048][249]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (594)
+[2024.09.24-01.50.07:049][249]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (592)
+[2024.09.24-01.50.07:050][249]LogModuleManager: Shutting down and abandoning module SequenceRecorder (591)
+[2024.09.24-01.50.07:050][249]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (588)
+[2024.09.24-01.50.07:050][249]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (586)
+[2024.09.24-01.50.07:050][249]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (584)
+[2024.09.24-01.50.07:050][249]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (582)
+[2024.09.24-01.50.07:050][249]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (580)
+[2024.09.24-01.50.07:050][249]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (578)
+[2024.09.24-01.50.07:050][249]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (576)
+[2024.09.24-01.50.07:050][249]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (574)
+[2024.09.24-01.50.07:050][249]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (572)
+[2024.09.24-01.50.07:050][249]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (570)
+[2024.09.24-01.50.07:050][249]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (568)
+[2024.09.24-01.50.07:050][249]LogModuleManager: Shutting down and abandoning module CharacterAI (566)
+[2024.09.24-01.50.07:050][249]LogModuleManager: Shutting down and abandoning module SmartSnapping (564)
+[2024.09.24-01.50.07:050][249]LogModuleManager: Shutting down and abandoning module SessionServices (562)
+[2024.09.24-01.50.07:050][249]LogModuleManager: Shutting down and abandoning module MeshPaint (560)
+[2024.09.24-01.50.07:050][249]LogModuleManager: Shutting down and abandoning module ViewportSnapping (558)
+[2024.09.24-01.50.07:050][249]LogModuleManager: Shutting down and abandoning module ViewportInteraction (556)
+[2024.09.24-01.50.07:050][249]LogModuleManager: Shutting down and abandoning module ClothPainter (554)
+[2024.09.24-01.50.07:060][249]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (553)
+[2024.09.24-01.50.07:180][249]LogModuleManager: Shutting down and abandoning module LogVisualizer (550)
+[2024.09.24-01.50.07:181][249]LogModuleManager: Shutting down and abandoning module IntroTutorials (548)
+[2024.09.24-01.50.07:183][249]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (547)
+[2024.09.24-01.50.07:184][249]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (544)
+[2024.09.24-01.50.07:184][249]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (542)
+[2024.09.24-01.50.07:184][249]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (540)
+[2024.09.24-01.50.07:184][249]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (538)
+[2024.09.24-01.50.07:184][249]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (537)
+[2024.09.24-01.50.07:480][249]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (534)
+[2024.09.24-01.50.07:481][249]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (532)
+[2024.09.24-01.50.07:481][249]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (530)
+[2024.09.24-01.50.07:481][249]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (528)
+[2024.09.24-01.50.07:481][249]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (526)
+[2024.09.24-01.50.07:481][249]LogModuleManager: Shutting down and abandoning module InputBindingEditor (524)
+[2024.09.24-01.50.07:481][249]LogModuleManager: Shutting down and abandoning module MergeActors (522)
+[2024.09.24-01.50.07:483][249]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (520)
+[2024.09.24-01.50.07:483][249]LogModuleManager: Shutting down and abandoning module LocalizationService (519)
+[2024.09.24-01.50.07:483][249]LogModuleManager: Shutting down and abandoning module HardwareTargeting (516)
+[2024.09.24-01.50.07:483][249]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (514)
+[2024.09.24-01.50.07:484][249]LogModuleManager: Shutting down and abandoning module UndoHistory (512)
+[2024.09.24-01.50.07:484][249]LogModuleManager: Shutting down and abandoning module XmlParser (510)
+[2024.09.24-01.50.07:484][249]LogModuleManager: Shutting down and abandoning module Blutility (508)
+[2024.09.24-01.50.07:484][249]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (506)
+[2024.09.24-01.50.07:484][249]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (505)
+[2024.09.24-01.50.07:484][249]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (502)
+[2024.09.24-01.50.07:484][249]LogModuleManager: Shutting down and abandoning module SettingsEditor (500)
+[2024.09.24-01.50.07:485][249]LogModuleManager: Shutting down and abandoning module ProjectLauncher (498)
+[2024.09.24-01.50.07:485][249]LogModuleManager: Shutting down and abandoning module SessionFrontend (496)
+[2024.09.24-01.50.07:485][249]LogModuleManager: Shutting down and abandoning module ProfilerClient (494)
+[2024.09.24-01.50.07:485][249]LogModuleManager: Shutting down and abandoning module DeviceManager (492)
+[2024.09.24-01.50.07:486][249]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (491)
+[2024.09.24-01.50.07:517][249]LogModuleManager: Shutting down and abandoning module AutomationController (488)
+[2024.09.24-01.50.07:518][249]LogModuleManager: Shutting down and abandoning module AutomationWindow (486)
+[2024.09.24-01.50.07:519][249]LogModuleManager: Shutting down and abandoning module Layers (484)
+[2024.09.24-01.50.07:521][249]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (482)
+[2024.09.24-01.50.07:521][249]LogModuleManager: Shutting down and abandoning module DetailCustomizations (480)
+[2024.09.24-01.50.07:523][249]LogModuleManager: Shutting down and abandoning module PackagesDialog (478)
+[2024.09.24-01.50.07:524][249]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (476)
+[2024.09.24-01.50.07:525][249]LogModuleManager: Shutting down and abandoning module Persona (474)
+[2024.09.24-01.50.07:527][249]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (473)
+[2024.09.24-01.50.07:527][249]LogModuleManager: Shutting down and abandoning module AnimGraph (471)
+[2024.09.24-01.50.07:527][249]LogModuleManager: Shutting down and abandoning module Kismet (468)
+[2024.09.24-01.50.07:528][249]LogModuleManager: Shutting down and abandoning module GraphEditor (466)
+[2024.09.24-01.50.07:530][249]LogModuleManager: Shutting down and abandoning module ClassViewer (464)
+[2024.09.24-01.50.07:530][249]LogModuleManager: Shutting down and abandoning module Toolbox (462)
+[2024.09.24-01.50.07:530][249]LogModuleManager: Shutting down and abandoning module ModuleUI (460)
+[2024.09.24-01.50.07:531][249]LogModuleManager: Shutting down and abandoning module MovieSceneTools (458)
+[2024.09.24-01.50.07:531][249]LogModuleManager: Shutting down and abandoning module OutputLog (456)
+[2024.09.24-01.50.07:531][249]LogModuleManager: Shutting down and abandoning module GammaUI (454)
+[2024.09.24-01.50.07:532][249]LogModuleManager: Shutting down and abandoning module Documentation (452)
+[2024.09.24-01.50.07:532][249]LogModuleManager: Shutting down and abandoning module LiveCoding (450)
+[2024.09.24-01.50.07:532][249]LogModuleManager: Shutting down and abandoning module LevelSequence (448)
+[2024.09.24-01.50.07:532][249]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (446)
+[2024.09.24-01.50.07:532][249]LogModuleManager: Shutting down and abandoning module MovieScene (444)
+[2024.09.24-01.50.07:533][249]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (442)
+[2024.09.24-01.50.07:533][249]LogModuleManager: Shutting down and abandoning module LauncherPlatform (440)
+[2024.09.24-01.50.07:533][249]LogModuleManager: Shutting down and abandoning module AnalyticsET (438)
+[2024.09.24-01.50.07:533][249]LogModuleManager: Shutting down and abandoning module PortalServices (436)
+[2024.09.24-01.50.07:533][249]LogModuleManager: Shutting down and abandoning module PortalRpc (434)
+[2024.09.24-01.50.07:533][249]LogModuleManager: Shutting down and abandoning module MessagingRpc (432)
+[2024.09.24-01.50.07:533][249]LogModuleManager: Shutting down and abandoning module AIModule (430)
+[2024.09.24-01.50.07:533][249]LogModuleManager: Shutting down and abandoning module GameplayDebugger (429)
+[2024.09.24-01.50.07:534][249]LogModuleManager: Shutting down and abandoning module AITestSuite (427)
+[2024.09.24-01.50.07:534][249]LogModuleManager: Shutting down and abandoning module NavigationSystem (425)
+[2024.09.24-01.50.07:534][249]LogModuleManager: Shutting down and abandoning module DesktopPlatform (422)
+[2024.09.24-01.50.07:534][249]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (420)
+[2024.09.24-01.50.07:540][249]LogModuleManager: Shutting down and abandoning module ProfilerService (418)
+[2024.09.24-01.50.07:584][249]LogModuleManager: Shutting down and abandoning module TaskGraph (416)
+[2024.09.24-01.50.07:585][249]LogModuleManager: Shutting down and abandoning module SteamVRController (414)
+[2024.09.24-01.50.07:586][249]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (412)
+[2024.09.24-01.50.07:586][249]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (410)
+[2024.09.24-01.50.07:587][249]LogModuleManager: Shutting down and abandoning module OculusEditor (408)
+[2024.09.24-01.50.07:587][249]LogModuleManager: Shutting down and abandoning module OculusInput (406)
+[2024.09.24-01.50.07:587][249]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (404)
+[2024.09.24-01.50.07:587][249]LogModuleManager: Shutting down and abandoning module EditableMesh (402)
+[2024.09.24-01.50.07:588][249]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (400)
+[2024.09.24-01.50.07:588][249]LogModuleManager: Shutting down and abandoning module CableComponent (398)
+[2024.09.24-01.50.07:588][249]LogModuleManager: Shutting down and abandoning module AudioCapture (396)
+[2024.09.24-01.50.07:588][249]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (394)
+[2024.09.24-01.50.07:588][249]LogModuleManager: Shutting down and abandoning module AndroidPermission (392)
+[2024.09.24-01.50.07:588][249]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (390)
+[2024.09.24-01.50.07:589][249]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (388)
+[2024.09.24-01.50.07:591][249]LogModuleManager: Shutting down and abandoning module MediaCompositing (386)
+[2024.09.24-01.50.07:591][249]LogModuleManager: Shutting down and abandoning module LinearTimecode (384)
+[2024.09.24-01.50.07:591][249]LogModuleManager: Shutting down and abandoning module ImgMedia (382)
+[2024.09.24-01.50.07:591][249]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (380)
+[2024.09.24-01.50.07:591][249]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (378)
+[2024.09.24-01.50.07:591][249]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (376)
+[2024.09.24-01.50.07:592][249]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (374)
+[2024.09.24-01.50.07:593][249]LogModuleManager: Shutting down and abandoning module NiagaraEditor (372)
+[2024.09.24-01.50.07:594][249]LogModuleManager: Shutting down and abandoning module HTML5Networking (370)
+[2024.09.24-01.50.07:594][249]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (368)
+[2024.09.24-01.50.07:594][249]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (366)
+[2024.09.24-01.50.07:594][249]LogModuleManager: Shutting down and abandoning module BackChannel (364)
+[2024.09.24-01.50.07:596][249]LogModuleManager: Shutting down and abandoning module AppleVision (362)
+[2024.09.24-01.50.07:596][249]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (360)
+[2024.09.24-01.50.07:596][249]LogModuleManager: Shutting down and abandoning module AppleImageUtils (358)
+[2024.09.24-01.50.07:596][249]LogModuleManager: Shutting down and abandoning module AlembicImporter (356)
+[2024.09.24-01.50.07:596][249]LogModuleManager: Shutting down and abandoning module AlembicLibrary (355)
+[2024.09.24-01.50.07:596][249]LogModuleManager: Shutting down and abandoning module GeometryCache (354)
+[2024.09.24-01.50.07:596][249]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (353)
+[2024.09.24-01.50.07:596][249]LogModuleManager: Shutting down and abandoning module VariantManagerContent (348)
+[2024.09.24-01.50.07:596][249]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (346)
+[2024.09.24-01.50.07:596][249]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (344)
+[2024.09.24-01.50.07:596][249]LogModuleManager: Shutting down and abandoning module PluginBrowser (342)
+[2024.09.24-01.50.07:598][249]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (340)
+[2024.09.24-01.50.07:600][249]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (338)
+[2024.09.24-01.50.07:601][249]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (336)
+[2024.09.24-01.50.07:601][249]LogModuleManager: Shutting down and abandoning module CryptoKeys (334)
+[2024.09.24-01.50.07:601][249]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (332)
+[2024.09.24-01.50.07:602][249]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (330)
+[2024.09.24-01.50.07:602][249]LogModuleManager: Shutting down and abandoning module UObjectPlugin (328)
+[2024.09.24-01.50.07:602][249]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (326)
+[2024.09.24-01.50.07:603][249]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (324)
+[2024.09.24-01.50.07:605][249]LogModuleManager: Shutting down and abandoning module GitSourceControl (322)
+[2024.09.24-01.50.07:605][249]LogModuleManager: Shutting down and abandoning module SourceControl (321)
+[2024.09.24-01.50.07:606][249]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (318)
+[2024.09.24-01.50.07:606][249]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (316)
+[2024.09.24-01.50.07:606][249]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (314)
+[2024.09.24-01.50.07:606][249]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (312)
+[2024.09.24-01.50.07:606][249]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (310)
+[2024.09.24-01.50.07:606][249]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (308)
+[2024.09.24-01.50.07:606][249]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (306)
+[2024.09.24-01.50.07:606][249]LogModuleManager: Shutting down and abandoning module Paper2DEditor (304)
+[2024.09.24-01.50.07:607][249]LogModuleManager: Shutting down and abandoning module SignificanceManager (302)
+[2024.09.24-01.50.07:607][249]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (300)
+[2024.09.24-01.50.07:607][249]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (298)
+[2024.09.24-01.50.07:607][249]LogModuleManager: Shutting down and abandoning module PhysXVehicles (296)
+[2024.09.24-01.50.07:607][249]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (294)
+[2024.09.24-01.50.07:607][249]LogModuleManager: Shutting down and abandoning module ActorSequence (292)
+[2024.09.24-01.50.07:607][249]LogModuleManager: Shutting down and abandoning module UdpMessaging (290)
+[2024.09.24-01.50.07:709][249]LogModuleManager: Shutting down and abandoning module TcpMessaging (288)
+[2024.09.24-01.50.07:823][249]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (286)
+[2024.09.24-01.50.07:823][249]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (284)
+[2024.09.24-01.50.07:823][249]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (282)
+[2024.09.24-01.50.07:823][249]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (280)
+[2024.09.24-01.50.07:823][249]LogModuleManager: Shutting down and abandoning module MagicLeapController (278)
+[2024.09.24-01.50.07:824][249]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2024.09.24-01.50.07:824][249]LogModuleManager: Shutting down and abandoning module MagicLeapAR (276)
+[2024.09.24-01.50.07:824][249]LogModuleManager: Shutting down and abandoning module AugmentedReality (275)
+[2024.09.24-01.50.07:824][249]LogModuleManager: Shutting down and abandoning module Niagara (272)
+[2024.09.24-01.50.07:824][249]LogModuleManager: Shutting down and abandoning module NiagaraCore (270)
+[2024.09.24-01.50.07:824][249]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (268)
+[2024.09.24-01.50.07:825][249]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (266)
+[2024.09.24-01.50.07:825][249]LogModuleManager: Shutting down and abandoning module FacialAnimation (264)
+[2024.09.24-01.50.07:825][249]LogModuleManager: Shutting down and abandoning module DataValidation (262)
+[2024.09.24-01.50.07:825][249]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (260)
+[2024.09.24-01.50.07:825][249]LogModuleManager: Shutting down and abandoning module LevelEditor (259)
+[2024.09.24-01.50.07:827][249]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (258)
+[2024.09.24-01.50.07:827][249]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (256)
+[2024.09.24-01.50.07:828][249]LogModuleManager: Shutting down and abandoning module MainFrame (254)
+[2024.09.24-01.50.07:828][249]LogModuleManager: Shutting down and abandoning module HotReload (253)
+[2024.09.24-01.50.07:829][249]LogModuleManager: Shutting down and abandoning module ContentBrowser (249)
+[2024.09.24-01.50.07:830][249]LogModuleManager: Shutting down and abandoning module TreeMap (247)
+[2024.09.24-01.50.07:830][249]LogModuleManager: Shutting down and abandoning module AnimationSharing (244)
+[2024.09.24-01.50.07:830][249]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (242)
+[2024.09.24-01.50.07:830][249]LogModuleManager: Shutting down and abandoning module AISupportModule (240)
+[2024.09.24-01.50.07:830][249]LogModuleManager: Shutting down and abandoning module Paper2D (238)
+[2024.09.24-01.50.07:830][249]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (236)
+[2024.09.24-01.50.07:831][249]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (234)
+[2024.09.24-01.50.07:831][249]LogModuleManager: Shutting down and abandoning module PacketHandler (232)
+[2024.09.24-01.50.07:831][249]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (230)
+[2024.09.24-01.50.07:831][249]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (228)
+[2024.09.24-01.50.07:831][249]LogModuleManager: Shutting down and abandoning module MediaAssets (226)
+[2024.09.24-01.50.07:831][249]LogModuleManager: Shutting down and abandoning module Overlay (224)
+[2024.09.24-01.50.07:831][249]LogModuleManager: Shutting down and abandoning module OverlayEditor (223)
+[2024.09.24-01.50.07:831][249]LogModuleManager: Shutting down and abandoning module VREditor (220)
+[2024.09.24-01.50.07:832][249]LogModuleManager: Shutting down and abandoning module StringTableEditor (218)
+[2024.09.24-01.50.07:832][249]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (216)
+[2024.09.24-01.50.07:832][249]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (214)
+[2024.09.24-01.50.07:834][249]LogModuleManager: Shutting down and abandoning module FunctionalTesting (212)
+[2024.09.24-01.50.07:835][249]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (210)
+[2024.09.24-01.50.07:835][249]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (209)
+[2024.09.24-01.50.07:836][249]LogModuleManager: Shutting down and abandoning module UMG (206)
+[2024.09.24-01.50.07:836][249]LogModuleManager: Shutting down and abandoning module UMGEditor (205)
+[2024.09.24-01.50.07:837][249]LogModuleManager: Shutting down and abandoning module Sequencer (204)
+[2024.09.24-01.50.07:839][249]LogModuleManager: Shutting down and abandoning module MessageLog (201)
+[2024.09.24-01.50.07:839][249]LogModuleManager: Shutting down and abandoning module SlateReflector (196)
+[2024.09.24-01.50.07:840][249]LogModuleManager: Shutting down and abandoning module Slate (194)
+[2024.09.24-01.50.07:840][249]LogModuleManager: Shutting down and abandoning module EditorStyle (192)
+[2024.09.24-01.50.07:841][249]LogModuleManager: Shutting down and abandoning module UnrealEd (190)
+[2024.09.24-01.50.07:842][249]LogModuleManager: Shutting down and abandoning module MRMesh (188)
+[2024.09.24-01.50.07:842][249]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (186)
+[2024.09.24-01.50.07:842][249]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (184)
+[2024.09.24-01.50.07:842][249]LogModuleManager: Shutting down and abandoning module XAudio2 (182)
+[2024.09.24-01.50.07:842][249]LogModuleManager: Shutting down and abandoning module Networking (180)
+[2024.09.24-01.50.07:842][249]LogModuleManager: Shutting down and abandoning module Core (178)
+[2024.09.24-01.50.07:842][249]LogModuleManager: Shutting down and abandoning module KismetCompiler (176)
+[2024.09.24-01.50.07:842][249]LogModuleManager: Shutting down and abandoning module MeshUtilities (174)
+[2024.09.24-01.50.07:842][249]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (173)
+[2024.09.24-01.50.07:842][249]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (172)
+[2024.09.24-01.50.07:842][249]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (171)
+[2024.09.24-01.50.07:842][249]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (169)
+[2024.09.24-01.50.07:843][249]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (167)
+[2024.09.24-01.50.07:844][249]LogModuleManager: Shutting down and abandoning module MaterialBaking (163)
+[2024.09.24-01.50.07:844][249]LogModuleManager: Shutting down and abandoning module DerivedDataCache (158)
+[2024.09.24-01.50.07:936][249]LogDerivedDataCache: Shutdown
+[2024.09.24-01.50.07:936][249]LogModuleManager: Shutting down and abandoning module XGEController (156)
+[2024.09.24-01.50.07:943][249]LogModuleManager: Shutting down and abandoning module TargetPlatform (154)
+[2024.09.24-01.50.07:944][249]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (153)
+[2024.09.24-01.50.07:944][249]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (151)
+[2024.09.24-01.50.07:944][249]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (149)
+[2024.09.24-01.50.07:944][249]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (147)
+[2024.09.24-01.50.07:945][249]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (145)
+[2024.09.24-01.50.07:947][249]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (143)
+[2024.09.24-01.50.07:947][249]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (141)
+[2024.09.24-01.50.07:947][249]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (139)
+[2024.09.24-01.50.07:947][249]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (137)
+[2024.09.24-01.50.07:948][249]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (135)
+[2024.09.24-01.50.07:948][249]LogModuleManager: Shutting down and abandoning module ImageWrapper (134)
+[2024.09.24-01.50.07:948][249]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (131)
+[2024.09.24-01.50.07:948][249]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (129)
+[2024.09.24-01.50.07:949][249]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (127)
+[2024.09.24-01.50.07:949][249]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (125)
+[2024.09.24-01.50.07:949][249]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (123)
+[2024.09.24-01.50.07:951][249]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (121)
+[2024.09.24-01.50.07:951][249]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (119)
+[2024.09.24-01.50.07:951][249]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (117)
+[2024.09.24-01.50.07:952][249]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (115)
+[2024.09.24-01.50.07:952][249]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (113)
+[2024.09.24-01.50.07:953][249]LogModuleManager: Shutting down and abandoning module Messaging (111)
+[2024.09.24-01.50.07:953][249]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (109)
+[2024.09.24-01.50.07:954][249]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (107)
+[2024.09.24-01.50.07:954][249]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (105)
+[2024.09.24-01.50.07:959][249]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (103)
+[2024.09.24-01.50.07:959][249]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (101)
+[2024.09.24-01.50.07:959][249]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (99)
+[2024.09.24-01.50.07:959][249]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (97)
+[2024.09.24-01.50.07:960][249]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (95)
+[2024.09.24-01.50.07:960][249]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (93)
+[2024.09.24-01.50.07:960][249]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (91)
+[2024.09.24-01.50.07:960][249]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (89)
+[2024.09.24-01.50.07:960][249]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (87)
+[2024.09.24-01.50.07:960][249]LogModuleManager: Shutting down and abandoning module InputCore (84)
+[2024.09.24-01.50.07:960][249]LogModuleManager: Shutting down and abandoning module Settings (82)
+[2024.09.24-01.50.07:960][249]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (80)
+[2024.09.24-01.50.07:960][249]LogModuleManager: Shutting down and abandoning module PhysXCooking (78)
+[2024.09.24-01.50.07:960][249]LogModuleManager: Shutting down and abandoning module SteamVR (76)
+[2024.09.24-01.50.07:960][249]LogHMD: Freeing OpenVRDLLHandle.
+[2024.09.24-01.50.07:960][249]LogModuleManager: Shutting down and abandoning module OculusHMD (74)
+[2024.09.24-01.50.07:961][249]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (72)
+[2024.09.24-01.50.07:961][249]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (70)
+[2024.09.24-01.50.07:961][249]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (68)
+[2024.09.24-01.50.07:961][249]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (64)
+[2024.09.24-01.50.07:963][249]LogModuleManager: Shutting down and abandoning module XMPP (59)
+[2024.09.24-01.50.07:964][249]LogModuleManager: Shutting down and abandoning module WebSockets (58)
+[2024.09.24-01.50.07:972][249]LogModuleManager: Shutting down and abandoning module HTTP (55)
+[2024.09.24-01.50.07:972][249]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2024.09.24-01.50.07:972][249]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B57F3B956-4AE2-0B0D-6E81-0CA426648520%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=61a20e894c191ddc0bc1d9921c3993e3%7C5e24b9ba359d4348bc12cee7976f4f09%7C2eec299e-b4e7-48e1-9029-50d08f7b00c9&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2024.09.24-01.50.07:982][249]LogModuleManager: Shutting down and abandoning module SSL (54)
+[2024.09.24-01.50.07:984][249]LogModuleManager: Shutting down and abandoning module WmfMedia (50)
+[2024.09.24-01.50.07:986][249]LogModuleManager: Shutting down and abandoning module Media (49)
+[2024.09.24-01.50.07:993][249]LogModuleManager: Shutting down and abandoning module MagicLeap (46)
+[2024.09.24-01.50.07:993][249]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (44)
+[2024.09.24-01.50.07:993][249]LogModuleManager: Shutting down and abandoning module NiagaraShader (42)
+[2024.09.24-01.50.07:993][249]LogModuleManager: Shutting down and abandoning module DatasmithContent (40)
+[2024.09.24-01.50.07:995][249]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2024.09.24-01.50.07:996][249]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2024.09.24-01.50.07:998][249]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2024.09.24-01.50.08:000][249]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2024.09.24-01.50.08:001][249]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2024.09.24-01.50.08:001][249]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2024.09.24-01.50.08:001][249]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2024.09.24-01.50.08:003][249]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2024.09.24-01.50.08:004][249]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2024.09.24-01.50.08:004][249]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2024.09.24-01.50.08:004][249]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2024.09.24-01.50.08:004][249]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2024.09.24-01.50.08:004][249]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2024.09.24-01.50.08:004][249]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2024.09.24-01.50.08:006][249]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2024.09.24-01.50.08:006][249]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2024.09.24-01.50.08:007][249]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2024.09.24-01.50.08:007][249]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2024.09.24-01.50.08:007][249]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2024.09.24-01.50.08:027][249]LogExit: Exiting.
+[2024.09.24-01.50.08:036][249]Log file closed, 09/24/24 09:50:08
