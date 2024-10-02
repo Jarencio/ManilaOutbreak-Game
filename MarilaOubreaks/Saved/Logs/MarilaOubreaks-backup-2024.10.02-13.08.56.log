@@ -1,0 +1,1230 @@
+﻿Log file open, 10/02/24 21:00:08
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: MarilaOubreaks
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.552512
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +8:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 2009) (), CPU: AMD Ryzen 5 5500U with Radeon Graphics         , GPU: AMD Radeon(TM) Graphics
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2024.10.02-13.00.09:201][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2024.10.02-13.00.09:201][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2024.10.02-13.00.09:201][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/markr/MarilaOutbreak/ManilaOutbreak-Game/MarilaOubreaks/Saved/Config/Windows/Engine.ini]
+[2024.10.02-13.00.09:201][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2024.10.02-13.00.09:201][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/markr/MarilaOutbreak/ManilaOutbreak-Game/MarilaOubreaks/Saved/Config/Windows/Engine.ini]
+[2024.10.02-13.00.09:201][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/markr/MarilaOutbreak/ManilaOutbreak-Game/MarilaOubreaks/Saved/Config/Windows/Engine.ini]
+[2024.10.02-13.00.09:201][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2024.10.02-13.00.09:201][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2024.10.02-13.00.09:201][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2024.10.02-13.00.09:201][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2024.10.02-13.00.09:201][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2024.10.02-13.00.09:201][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2024.10.02-13.00.09:201][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2024.10.02-13.00.09:201][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2024.10.02-13.00.09:201][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2024.10.02-13.00.09:201][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2024.10.02-13.00.09:201][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2024.10.02-13.00.09:201][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2024.10.02-13.00.09:201][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2024.10.02-13.00.09:201][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/markr/MarilaOutbreak/ManilaOutbreak-Game/MarilaOubreaks/Saved/Config/Windows/Engine.ini]
+[2024.10.02-13.00.09:201][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2024.10.02-13.00.09:201][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2024.10.02-13.00.09:201][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2024.10.02-13.00.09:201][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2024.10.02-13.00.09:201][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2024.10.02-13.00.09:201][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2024.10.02-13.00.09:201][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2024.10.02-13.00.09:201][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2024.10.02-13.00.09:201][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2024.10.02-13.00.09:201][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2024.10.02-13.00.09:201][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2024.10.02-13.00.09:201][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2024.10.02-13.00.09:201][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2024.10.02-13.00.09:201][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/markr/MarilaOutbreak/ManilaOutbreak-Game/MarilaOubreaks/Saved/Config/Windows/Engine.ini]
+[2024.10.02-13.00.09:201][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/markr/MarilaOutbreak/ManilaOutbreak-Game/MarilaOubreaks/Saved/Config/Windows/Engine.ini]
+[2024.10.02-13.00.09:203][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/markr/MarilaOutbreak/ManilaOutbreak-Game/MarilaOubreaks/Saved/Config/Windows/Scalability.ini]
+[2024.10.02-13.00.09:203][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2024.10.02-13.00.09:203][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2024.10.02-13.00.09:203][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/markr/MarilaOutbreak/ManilaOutbreak-Game/MarilaOubreaks/Saved/Config/Windows/Scalability.ini]
+[2024.10.02-13.00.09:203][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2024.10.02-13.00.09:203][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/markr/MarilaOutbreak/ManilaOutbreak-Game/MarilaOubreaks/Saved/Config/Windows/Scalability.ini]
+[2024.10.02-13.00.09:203][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2024.10.02-13.00.09:203][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2024.10.02-13.00.09:203][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2024.10.02-13.00.09:203][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2024.10.02-13.00.09:203][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2024.10.02-13.00.09:203][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2024.10.02-13.00.09:203][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2024.10.02-13.00.09:203][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2024.10.02-13.00.09:203][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2024.10.02-13.00.09:203][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2024.10.02-13.00.09:203][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2024.10.02-13.00.09:203][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2024.10.02-13.00.09:203][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2024.10.02-13.00.09:203][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2024.10.02-13.00.09:203][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2024.10.02-13.00.09:203][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2024.10.02-13.00.09:203][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2024.10.02-13.00.09:203][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2024.10.02-13.00.09:203][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/markr/MarilaOutbreak/ManilaOutbreak-Game/MarilaOubreaks/Saved/Config/Windows/Scalability.ini]
+[2024.10.02-13.00.09:203][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2024.10.02-13.00.09:203][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2024.10.02-13.00.09:203][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2024.10.02-13.00.09:203][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2024.10.02-13.00.09:203][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2024.10.02-13.00.09:203][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2024.10.02-13.00.09:203][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2024.10.02-13.00.09:203][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2024.10.02-13.00.09:203][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2024.10.02-13.00.09:203][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2024.10.02-13.00.09:203][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2024.10.02-13.00.09:203][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2024.10.02-13.00.09:203][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2024.10.02-13.00.09:203][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2024.10.02-13.00.09:203][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2024.10.02-13.00.09:203][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2024.10.02-13.00.09:203][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2024.10.02-13.00.09:203][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2024.10.02-13.00.09:203][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2024.10.02-13.00.09:203][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2024.10.02-13.00.09:203][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2024.10.02-13.00.09:203][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2024.10.02-13.00.09:203][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2024.10.02-13.00.09:203][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2024.10.02-13.00.09:203][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2024.10.02-13.00.09:203][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2024.10.02-13.00.09:203][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2024.10.02-13.00.09:203][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2024.10.02-13.00.09:203][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2024.10.02-13.00.09:203][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2024.10.02-13.00.09:203][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/markr/MarilaOutbreak/ManilaOutbreak-Game/MarilaOubreaks/Saved/Config/Windows/Scalability.ini]
+[2024.10.02-13.00.09:203][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2024.10.02-13.00.09:203][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2024.10.02-13.00.09:203][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2024.10.02-13.00.09:203][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2024.10.02-13.00.09:203][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2024.10.02-13.00.09:203][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2024.10.02-13.00.09:203][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2024.10.02-13.00.09:203][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2024.10.02-13.00.09:203][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/markr/MarilaOutbreak/ManilaOutbreak-Game/MarilaOubreaks/Saved/Config/Windows/Scalability.ini]
+[2024.10.02-13.00.09:203][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2024.10.02-13.00.09:203][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2024.10.02-13.00.09:203][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2024.10.02-13.00.09:203][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2024.10.02-13.00.09:203][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2024.10.02-13.00.09:203][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2024.10.02-13.00.09:203][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2024.10.02-13.00.09:203][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2024.10.02-13.00.09:203][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2024.10.02-13.00.09:203][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2024.10.02-13.00.09:203][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2024.10.02-13.00.09:203][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2024.10.02-13.00.09:203][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2024.10.02-13.00.09:203][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/markr/MarilaOutbreak/ManilaOutbreak-Game/MarilaOubreaks/Saved/Config/Windows/Scalability.ini]
+[2024.10.02-13.00.09:203][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2024.10.02-13.00.09:204][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2024.10.02-13.00.09:204][  0]LogInit: Selected Device Profile: [Windows]
+[2024.10.02-13.00.09:204][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2024.10.02-13.00.09:214][  0]LogHAL: Display: Platform has ~ 8 GB [7879598080 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2024.10.02-13.00.09:214][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2024.10.02-13.00.09:214][  0]LogInit: Going up to parent DeviceProfile []
+[2024.10.02-13.00.09:214][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@1] File [C:/Users/markr/MarilaOutbreak/ManilaOutbreak-Game/MarilaOubreaks/Saved/Config/Windows/Scalability.ini]
+[2024.10.02-13.00.09:214][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:1]]
+[2024.10.02-13.00.09:214][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:0.6]]
+[2024.10.02-13.00.09:214][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@1] File [C:/Users/markr/MarilaOutbreak/ManilaOutbreak-Game/MarilaOubreaks/Saved/Config/Windows/Scalability.ini]
+[2024.10.02-13.00.09:214][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:2]]
+[2024.10.02-13.00.09:214][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@1] File [C:/Users/markr/MarilaOutbreak/ManilaOutbreak-Game/MarilaOubreaks/Saved/Config/Windows/Scalability.ini]
+[2024.10.02-13.00.09:214][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2024.10.02-13.00.09:214][  0]LogConfig: Setting CVar [[r.ShadowQuality:3]]
+[2024.10.02-13.00.09:214][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:1]]
+[2024.10.02-13.00.09:214][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:1024]]
+[2024.10.02-13.00.09:214][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:1024]]
+[2024.10.02-13.00.09:214][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.05]]
+[2024.10.02-13.00.09:214][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:0.7]]
+[2024.10.02-13.00.09:214][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:0.25]]
+[2024.10.02-13.00.09:214][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:0.5]]
+[2024.10.02-13.00.09:214][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:0]]
+[2024.10.02-13.00.09:214][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:0]]
+[2024.10.02-13.00.09:214][  0]LogConfig: Setting CVar [[r.VolumetricFog:0]]
+[2024.10.02-13.00.09:214][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:.5]]
+[2024.10.02-13.00.09:214][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2024.10.02-13.00.09:214][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@1] File [C:/Users/markr/MarilaOutbreak/ManilaOutbreak-Game/MarilaOubreaks/Saved/Config/Windows/Scalability.ini]
+[2024.10.02-13.00.09:214][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:3]]
+[2024.10.02-13.00.09:214][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:1.0]]
+[2024.10.02-13.00.09:214][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:60]]
+[2024.10.02-13.00.09:214][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2024.10.02-13.00.09:214][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.5]]
+[2024.10.02-13.00.09:214][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:1]]
+[2024.10.02-13.00.09:214][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:350]]
+[2024.10.02-13.00.09:214][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2024.10.02-13.00.09:214][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2024.10.02-13.00.09:214][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:0]]
+[2024.10.02-13.00.09:214][  0]LogConfig: Setting CVar [[r.BloomQuality:4]]
+[2024.10.02-13.00.09:214][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:2]]
+[2024.10.02-13.00.09:214][  0]LogConfig: Setting CVar [[r.Upscale.Quality:2]]
+[2024.10.02-13.00.09:214][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:0]]
+[2024.10.02-13.00.09:214][  0]LogConfig: Setting CVar [[r.LightShaftQuality:0]]
+[2024.10.02-13.00.09:214][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:0.7]]
+[2024.10.02-13.00.09:214][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:2]]
+[2024.10.02-13.00.09:214][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:0        ; lower gathering accumulator quality]]
+[2024.10.02-13.00.09:214][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:2          ; Max3x3 postfilering method]]
+[2024.10.02-13.00.09:214][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2024.10.02-13.00.09:214][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:3                 ; low number of samples when gathering]]
+[2024.10.02-13.00.09:214][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:0    ; no foreground scattering]]
+[2024.10.02-13.00.09:214][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:0    ; no foreground scattering]]
+[2024.10.02-13.00.09:214][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:0                ; no slight out of focus]]
+[2024.10.02-13.00.09:214][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:0                ; faster temporal accumulation]]
+[2024.10.02-13.00.09:215][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.006   ; required because low gathering and no scattering and not looking great at 1080p]]
+[2024.10.02-13.00.09:215][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.006   ; required because low gathering and no scattering and not looking great at 1080p]]
+[2024.10.02-13.00.09:215][  0]LogConfig: Applying CVar settings from Section [TextureQuality@1] File [C:/Users/markr/MarilaOutbreak/ManilaOutbreak-Game/MarilaOubreaks/Saved/Config/Windows/Scalability.ini]
+[2024.10.02-13.00.09:215][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:1]]
+[2024.10.02-13.00.09:215][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2024.10.02-13.00.09:215][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2024.10.02-13.00.09:215][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2024.10.02-13.00.09:215][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:2]]
+[2024.10.02-13.00.09:215][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:1]]
+[2024.10.02-13.00.09:215][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:600]]
+[2024.10.02-13.00.09:215][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2024.10.02-13.00.09:215][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@1] File [C:/Users/markr/MarilaOutbreak/ManilaOutbreak-Game/MarilaOubreaks/Saved/Config/Windows/Scalability.ini]
+[2024.10.02-13.00.09:215][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:32]]
+[2024.10.02-13.00.09:215][  0]LogConfig: Setting CVar [[r.RefractionQuality:0]]
+[2024.10.02-13.00.09:215][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2024.10.02-13.00.09:215][  0]LogConfig: Setting CVar [[r.SceneColorFormat:3]]
+[2024.10.02-13.00.09:215][  0]LogConfig: Setting CVar [[r.DetailMode:1]]
+[2024.10.02-13.00.09:215][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2024.10.02-13.00.09:215][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:2 ; Medium quality]]
+[2024.10.02-13.00.09:215][  0]LogConfig: Setting CVar [[r.SSS.Scale:0.75]]
+[2024.10.02-13.00.09:215][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:0]]
+[2024.10.02-13.00.09:215][  0]LogConfig: Setting CVar [[r.SSS.Quality:0]]
+[2024.10.02-13.00.09:215][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2024.10.02-13.00.09:215][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:0.25]]
+[2024.10.02-13.00.09:215][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:0]]
+[2024.10.02-13.00.09:215][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@1] File [C:/Users/markr/MarilaOutbreak/ManilaOutbreak-Game/MarilaOubreaks/Saved/Config/Windows/Scalability.ini]
+[2024.10.02-13.00.09:215][  0]LogConfig: Setting CVar [[foliage.DensityScale:0.4]]
+[2024.10.02-13.00.09:215][  0]LogConfig: Setting CVar [[grass.DensityScale:0.4]]
+[2024.10.02-13.00.09:215][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2024.10.02-13.00.09:215][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2024.10.02-13.00.09:215][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2024.10.02-13.00.09:215][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/markr/MarilaOutbreak/ManilaOutbreak-Game/MarilaOubreaks/Saved/Config/Windows/Engine.ini]
+[2024.10.02-13.00.09:215][  0]LogInit: Computer: FEEDER
+[2024.10.02-13.00.09:215][  0]LogInit: User: markr
+[2024.10.02-13.00.09:215][  0]LogInit: CPU Page size=4096, Cores=6
+[2024.10.02-13.00.09:215][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2024.10.02-13.00.09:216][  0]LogMemory: Memory total: Physical=7.3GB (8GB approx)
+[2024.10.02-13.00.09:216][  0]LogMemory: Platform Memory Stats for Windows
+[2024.10.02-13.00.09:216][  0]LogMemory: Process Physical Memory: 103.16 MB used, 103.16 MB peak
+[2024.10.02-13.00.09:216][  0]LogMemory: Process Virtual Memory: 101.48 MB used, 101.48 MB peak
+[2024.10.02-13.00.09:216][  0]LogMemory: Physical Memory: 5501.11 MB used,  2013.46 MB free, 7514.57 MB total
+[2024.10.02-13.00.09:216][  0]LogMemory: Virtual Memory: 4680.56 MB used,  134213048.00 MB free, 134217728.00 MB total
+[2024.10.02-13.00.09:252][  0]LogInit: Using OS detected language (en-US).
+[2024.10.02-13.00.09:252][  0]LogInit: Using OS detected locale (en-PH).
+[2024.10.02-13.00.09:253][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2024.10.02-13.00.09:470][  0]LogInit: Setting process to per monitor DPI aware
+[2024.10.02-13.00.09:504][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2024.10.02-13.00.09:504][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2024.10.02-13.00.09:687][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2024.10.02-13.00.09:687][  0]LogD3D11RHI: D3D11 adapters:
+[2024.10.02-13.00.09:827][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 3050 Laptop GPU' (Feature Level 11_0)
+[2024.10.02-13.00.09:827][  0]LogD3D11RHI:       3964/0/3757 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2024.10.02-13.00.09:874][  0]LogD3D11RHI:    1. 'AMD Radeon(TM) Graphics' (Feature Level 11_0)
+[2024.10.02-13.00.09:874][  0]LogD3D11RHI:       495/0/3757 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1002
+[2024.10.02-13.00.09:878][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2024.10.02-13.00.09:878][  0]LogD3D11RHI:       0/0/3757 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2024.10.02-13.00.09:878][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2024.10.02-13.00.09:884][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2024.10.02-13.00.09:884][  0]LogD3D11RHI:     GPU DeviceId: 0x25a2 (for the marketing name, search the web for "GPU Device Id")
+[2024.10.02-13.00.09:884][  0]LogWindows: EnumDisplayDevices:
+[2024.10.02-13.00.09:885][  0]LogWindows:    0. 'AMD Radeon(TM) Graphics' (P:1 D:1)
+[2024.10.02-13.00.09:886][  0]LogWindows:    1. 'AMD Radeon(TM) Graphics' (P:0 D:0)
+[2024.10.02-13.00.09:886][  0]LogWindows:    2. 'AMD Radeon(TM) Graphics' (P:0 D:0)
+[2024.10.02-13.00.09:886][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2024.10.02-13.00.09:887][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 3050 Laptop GPU
+[2024.10.02-13.00.09:887][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2024.10.02-13.00.09:887][  0]LogD3D11RHI:      Driver Date: Unknown
+[2024.10.02-13.00.09:887][  0]LogRHI: Texture pool is 2774 MB (70% of 3964 MB)
+[2024.10.02-13.00.09:968][  0]LogD3D11RHI: Async texture creation enabled
+[2024.10.02-13.00.09:975][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2024.10.02-13.00.09:975][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2024.10.02-13.00.09:976][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2024.10.02-13.00.09:983][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2024.10.02-13.00.10:270][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2024.10.02-13.00.10:285][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2024.10.02-13.00.10:299][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2024.10.02-13.00.10:314][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2024.10.02-13.00.10:327][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2024.10.02-13.00.10:342][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2024.10.02-13.00.10:356][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2024.10.02-13.00.10:370][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2024.10.02-13.00.10:378][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2024.10.02-13.00.10:460][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2024.10.02-13.00.10:460][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2024.10.02-13.00.10:460][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2024.10.02-13.00.10:460][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2024.10.02-13.00.10:460][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2024.10.02-13.00.10:460][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2024.10.02-13.00.10:460][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2024.10.02-13.00.10:460][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2024.10.02-13.00.10:460][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2024.10.02-13.00.10:460][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2024.10.02-13.00.10:460][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2024.10.02-13.00.10:460][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2024.10.02-13.00.10:460][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2024.10.02-13.00.10:460][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2024.10.02-13.00.10:460][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2024.10.02-13.00.10:460][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2024.10.02-13.00.10:460][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2024.10.02-13.00.10:460][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2024.10.02-13.00.10:463][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2024.10.02-13.00.10:516][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2024.10.02-13.00.10:517][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2024.10.02-13.00.10:540][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2024.10.02-13.00.10:540][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2024.10.02-13.00.10:553][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2024.10.02-13.00.10:566][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2024.10.02-13.00.10:579][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2024.10.02-13.00.10:592][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2024.10.02-13.00.10:641][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2024.10.02-13.00.10:641][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2024.10.02-13.00.10:641][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2024.10.02-13.00.10:651][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2024.10.02-13.00.10:702][  0]LogShaderCompilers: Guid format shader working directory is -34 characters bigger than the processId version (../../../../../../Users/markr/MarilaOutbreak/ManilaOutbreak-Game/MarilaOubreaks/Intermediate/Shaders/WorkingDirectory/14672/).
+[2024.10.02-13.00.10:703][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/markr/AppData/Local/Temp/UnrealShaderWorkingDir/9794206A43C17F8FA284D2BEDC12F2A3/'.
+[2024.10.02-13.00.10:705][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2024.10.02-13.00.10:705][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2024.10.02-13.00.10:705][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2024.10.02-13.00.11:191][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2024.10.02-13.00.11:246][  0]LogDerivedDataCache: Loaded boot cache 0.05s 79MB C:/Users/markr/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2024.10.02-13.00.11:246][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/markr/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2024.10.02-13.00.11:246][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/markr/MarilaOutbreak/ManilaOutbreak-Game/MarilaOubreaks/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2024.10.02-13.00.11:246][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2024.10.02-13.00.11:246][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/markr/MarilaOutbreak/ManilaOutbreak-Game/MarilaOubreaks/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2024.10.02-13.00.11:246][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2024.10.02-13.00.11:259][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2024.10.02-13.00.11:259][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2024.10.02-13.00.11:259][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2024.10.02-13.00.11:273][  0]LogDerivedDataCache: Using Local data cache path C:/Users/markr/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2024.10.02-13.00.11:273][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2024.10.02-13.00.11:273][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2024.10.02-13.00.11:295][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2024.10.02-13.00.11:296][  0]LogSlate: Using FreeType 2.6.0
+[2024.10.02-13.00.11:296][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2024.10.02-13.00.11:382][  0]LogAssetRegistry: FAssetRegistry took 0.0347 seconds to start up
+[2024.10.02-13.00.11:755][  0]LogInit: Selected Device Profile: [Windows]
+[2024.10.02-13.00.11:896][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2024.10.02-13.00.11:896][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2024.10.02-13.00.11:896][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2024.10.02-13.00.11:896][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2024.10.02-13.00.11:896][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2024.10.02-13.00.11:908][  0]LogNetVersion: MarilaOubreaks 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 2523874334)
+[2024.10.02-13.00.12:539][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 1 prioritized culture(s) in 0.078284 seconds
+[2024.10.02-13.00.12:559][  0]LogUObjectArray: 42218 objects as part of root set at end of initial load.
+[2024.10.02-13.00.12:559][  0]LogUObjectAllocator: 7328024 out of 0 bytes used by permanent object pool.
+[2024.10.02-13.00.12:559][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2024.10.02-13.00.13:750][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2024.10.02-13.00.13:765][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2024.10.02-13.00.13:890][  0]SourceControl: Source control is disabled
+[2024.10.02-13.00.13:890][  0]SourceControl: Source control is disabled
+[2024.10.02-13.00.13:892][  0]SourceControl: Source control is disabled
+[2024.10.02-13.00.13:893][  0]SourceControl: Source control is disabled
+[2024.10.02-13.00.14:077][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2024.10.02-13.00.14:171][  0]LogOcInput: OculusInput pre-init called
+[2024.10.02-13.00.14:860][  0]LogEngine: Initializing Engine...
+[2024.10.02-13.00.14:861][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2024.10.02-13.00.14:862][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2024.10.02-13.00.15:120][  0]LogInit: Initializing FReadOnlyCVARCache
+[2024.10.02-13.00.15:144][  0]LogAIModule: Creating AISystem for world Untitled
+[2024.10.02-13.00.15:174][  0]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2024.10.02-13.00.15:197][  0]LogInit: FAudioDevice initialized.
+[2024.10.02-13.00.15:197][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2024.10.02-13.00.15:273][  0]LogDerivedDataCache: Saved boot cache 0.08s 79MB C:/Users/markr/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2024.10.02-13.00.15:277][  0]LogInit: Texture streaming: Enabled
+[2024.10.02-13.00.15:299][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2024.10.02-13.00.17:008][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM4
+[2024.10.02-13.00.17:009][  0]LogInit: Transaction tracking system initialized
+[2024.10.02-13.00.17:033][  0]BlueprintLog: New page: Editor Load
+[2024.10.02-13.00.17:136][  0]LocalizationService: Localization service is disabled
+[2024.10.02-13.00.17:810][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2024.10.02-13.00.17:810][  0]LogCook: Display: Mobile HDR setting 1
+[2024.10.02-13.00.17:914][  0]LogFileCache: Scanning file cache for directory 'C:/Users/markr/MarilaOutbreak/ManilaOutbreak-Game/MarilaOubreaks/Content/' took 0.08s
+[2024.10.02-13.00.18:128][  0]SourceControl: Source control is disabled
+[2024.10.02-13.00.18:128][  0]Cmd: MAP LOAD FILE="../../../../../../Users/markr/MarilaOutbreak/ManilaOutbreak-Game/MarilaOubreaks/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2024.10.02-13.00.18:128][  0]LogEditorServer: Warning: Can't find file '../../../../../../Users/markr/MarilaOutbreak/ManilaOutbreak-Game/MarilaOubreaks/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2024.10.02-13.00.18:128][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.10.02-13.00.18:128][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.137ms to complete.
+[2024.10.02-13.00.18:128][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.001
+[2024.10.02-13.00.18:226][  0]LogWorld: Changing Feature Level (Enum) from 3 to 2
+[2024.10.02-13.00.18:353][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.02-13.00.18:362][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.02-13.00.18:372][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.02-13.00.18:379][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.02-13.00.18:400][  0]LogCollectionManager: Loaded 0 collections in 0.002851 seconds
+[2024.10.02-13.00.18:453][  0]LogFileCache: Scanning file cache for directory 'C:/Users/markr/MarilaOutbreak/ManilaOutbreak-Game/MarilaOubreaks/Saved/Collections/' took 0.01s
+[2024.10.02-13.00.18:453][  0]LogFileCache: Scanning file cache for directory 'C:/Users/markr/MarilaOutbreak/ManilaOutbreak-Game/MarilaOubreaks/Content/Developers/markr/Collections/' took 0.00s
+[2024.10.02-13.00.18:453][  0]LogFileCache: Scanning file cache for directory 'C:/Users/markr/MarilaOutbreak/ManilaOutbreak-Game/MarilaOubreaks/Content/Collections/' took 0.01s
+[2024.10.02-13.00.18:453][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000003 seconds
+[2024.10.02-13.00.18:471][  0]LogContentBrowser: Native class hierarchy populated in 0.0160 seconds. Added 2853 classes and 675 folders.
+[2024.10.02-13.00.18:487][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2024.10.02-13.00.18:500][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.10.02-13.00.18:524][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.10.02-13.00.18:552][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.10.02-13.00.18:581][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.10.02-13.00.18:603][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.10.02-13.00.18:611][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.10.02-13.00.18:621][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.10.02-13.00.18:629][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.10.02-13.00.18:640][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.10.02-13.00.18:653][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.10.02-13.00.18:662][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.10.02-13.00.18:671][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.10.02-13.00.18:680][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.10.02-13.00.18:689][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.10.02-13.00.18:699][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.10.02-13.00.18:709][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.10.02-13.00.18:749][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.10.02-13.00.18:760][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.10.02-13.00.18:780][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.10.02-13.00.18:793][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.10.02-13.00.18:808][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.10.02-13.00.18:819][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.10.02-13.00.18:832][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.10.02-13.00.18:842][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.10.02-13.00.18:855][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.10.02-13.00.18:864][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2024.10.02-13.00.19:139][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2024.10.02-13.00.19:152][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2024.10.02-13.00.19:221][  0]LogSlate: Took 0.000435 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2024.10.02-13.00.19:226][  0]LogSlate: Took 0.000424 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2024.10.02-13.00.19:244][  0]LogSlate: Took 0.009247 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2024.10.02-13.00.19:400][  0]LogRenderer: Reallocating scene render targets to support 1096x444 Format 9 NumSamples 1 (Frame:1).
+[2024.10.02-13.00.19:719][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2024.10.02-13.00.19:719][  0]LogLoad: (Engine Initialization) Total time: 12.86 seconds
+[2024.10.02-13.00.19:719][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2024.10.02-13.00.19:810][  0]LogContentStreaming: Texture pool size now 600 MB
+[2024.10.02-13.00.19:859][  1]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/markr/MarilaOutbreak/ManilaOutbreak-Game/MarilaOubreaks/Content/' took 0.10s
+[2024.10.02-13.00.19:953][  2]LogAssetRegistry: Asset discovery search completed in 8.5939 seconds
+[2024.10.02-13.00.19:955][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2024.10.02-13.00.19:955][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000070 seconds (updated 0 objects)
+[2024.10.02-13.01.27:633][318]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2024.10.02-13.01.27:754][324]LogSlate: Took 0.007807 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.10.02-13.01.53:279][820]LogSlate: Took 0.000222 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.10.02-13.01.53:309][820]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\markr\Downloads\SCREAMER2 (1).fbx)
+[2024.10.02-13.01.53:355][820]LogFbx: Loading FBX Scene from C:\Users\markr\Downloads\SCREAMER2 (1).fbx
+[2024.10.02-13.01.53:450][820]LogFbx: FBX Scene Loaded Succesfully
+[2024.10.02-13.01.55:520][820]LogSlate: Window 'FBX Import Options' being destroyed
+[2024.10.02-13.01.55:581][820]LogFbx: =================================================
+[2024.10.02-13.01.55:581][820]LogFbx: Dumping Node START [Cube.042] 
+[2024.10.02-13.01.55:581][820]LogFbx: 	Total Deformer Count -382700328.
+[2024.10.02-13.01.55:581][820]LogFbx: 		[Node 1] Skin (Type Skin).
+[2024.10.02-13.01.55:581][820]LogFbx: =================================================
+[2024.10.02-13.01.55:581][820]LogFbx: 	Attribute (Cube.120) Type (4).
+[2024.10.02-13.01.55:581][820]LogFbx: 		[Node Attribute Child 1] Cube.042 (Type Mesh).
+[2024.10.02-13.01.55:581][820]LogFbx: Dumping Node END [Cube.042]
+[2024.10.02-13.01.55:582][820]LogFbx: =================================================
+[2024.10.02-13.01.55:582][820]LogFbx: Dumping Node START [Cube.042] 
+[2024.10.02-13.01.55:582][820]LogFbx: 	Total Deformer Count -382709288.
+[2024.10.02-13.01.55:582][820]LogFbx: 		[Node 1] Skin (Type Skin).
+[2024.10.02-13.01.55:582][820]LogFbx: =================================================
+[2024.10.02-13.01.55:583][820]LogFbx: 	Attribute (Cube.120) Type (4).
+[2024.10.02-13.01.55:583][820]LogFbx: 		[Node Attribute Child 1] Cube.042 (Type Mesh).
+[2024.10.02-13.01.55:583][820]LogFbx: Dumping Node END [Cube.042]
+[2024.10.02-13.01.55:584][820]LogFbx: Valid bind pose for Pose (BindPose) - Cube.042
+[2024.10.02-13.01.56:724][820]LogMaterial: Warning: Material /Game/Animations/Base/Screamer/Material_001.Material_001 needed to have new flag set bUsedWithSkeletalMesh !
+[2024.10.02-13.01.56:728][820]LogMaterial: Display: Missing cached shader map for material Material_001, compiling. 
+[2024.10.02-13.01.56:779][820]LogMaterial: Display: Missing cached shader map for material Material_001, compiling. 
+[2024.10.02-13.01.56:838][820]LogShaderCompilers: Display: Shaders left to compile 60
+[2024.10.02-13.01.56:838][820]LogShaderCompilers: Display: Shaders left to compile 50
+[2024.10.02-13.01.56:838][820]LogShaderCompilers: Display: Shaders left to compile 40
+[2024.10.02-13.01.56:838][820]LogShaderCompilers: Display: Shaders left to compile 30
+[2024.10.02-13.01.56:846][820]LogMaterial: Display: Missing cached shader map for material Material_001, compiling. 
+[2024.10.02-13.01.56:880][820]LogMaterial: Display: Missing cached shader map for material Material_001, compiling. 
+[2024.10.02-13.01.56:931][820]LogMaterial: Warning: Material /Game/Animations/Base/Screamer/Material_003.Material_003 needed to have new flag set bUsedWithSkeletalMesh !
+[2024.10.02-13.01.56:936][820]LogMaterial: Display: Missing cached shader map for material Material_003, compiling. 
+[2024.10.02-13.01.56:969][820]LogMaterial: Display: Missing cached shader map for material Material_003, compiling. 
+[2024.10.02-13.01.57:005][820]LogMaterial: Display: Missing cached shader map for material Material_003, compiling. 
+[2024.10.02-13.01.57:030][820]LogMaterial: Display: Missing cached shader map for material Material_003, compiling. 
+[2024.10.02-13.01.57:107][820]LogMaterial: Warning: Material /Game/Animations/Base/Screamer/Material_006.Material_006 needed to have new flag set bUsedWithSkeletalMesh !
+[2024.10.02-13.01.57:111][820]LogMaterial: Display: Missing cached shader map for material Material_006, compiling. 
+[2024.10.02-13.01.57:149][820]LogMaterial: Display: Missing cached shader map for material Material_006, compiling. 
+[2024.10.02-13.01.57:215][820]LogMaterial: Display: Missing cached shader map for material Material_006, compiling. 
+[2024.10.02-13.01.57:275][820]LogMaterial: Display: Missing cached shader map for material Material_006, compiling. 
+[2024.10.02-13.01.57:362][820]LogMaterial: Warning: Material /Game/Animations/Base/Screamer/Material_007.Material_007 needed to have new flag set bUsedWithSkeletalMesh !
+[2024.10.02-13.01.57:369][820]LogMaterial: Display: Missing cached shader map for material Material_007, compiling. 
+[2024.10.02-13.01.57:424][820]LogMaterial: Display: Missing cached shader map for material Material_007, compiling. 
+[2024.10.02-13.01.57:520][820]LogMaterial: Display: Missing cached shader map for material Material_007, compiling. 
+[2024.10.02-13.01.57:579][820]LogMaterial: Display: Missing cached shader map for material Material_007, compiling. 
+[2024.10.02-13.01.57:650][820]LogMaterial: Warning: Material /Game/Animations/Base/Screamer/Material_004.Material_004 needed to have new flag set bUsedWithSkeletalMesh !
+[2024.10.02-13.01.57:657][820]LogMaterial: Display: Missing cached shader map for material Material_004, compiling. 
+[2024.10.02-13.01.57:715][820]LogMaterial: Display: Missing cached shader map for material Material_004, compiling. 
+[2024.10.02-13.01.57:794][820]LogMaterial: Display: Missing cached shader map for material Material_004, compiling. 
+[2024.10.02-13.01.57:848][820]LogMaterial: Display: Missing cached shader map for material Material_004, compiling. 
+[2024.10.02-13.01.57:919][820]LogMaterial: Warning: Material /Game/Animations/Base/Screamer/Material_010.Material_010 needed to have new flag set bUsedWithSkeletalMesh !
+[2024.10.02-13.01.57:926][820]LogMaterial: Display: Missing cached shader map for material Material_010, compiling. 
+[2024.10.02-13.01.57:988][820]LogMaterial: Display: Missing cached shader map for material Material_010, compiling. 
+[2024.10.02-13.01.58:074][820]LogMaterial: Display: Missing cached shader map for material Material_010, compiling. 
+[2024.10.02-13.01.58:133][820]LogMaterial: Display: Missing cached shader map for material Material_010, compiling. 
+[2024.10.02-13.01.58:212][820]LogMaterial: Warning: Material /Game/Animations/Base/Screamer/Material_008.Material_008 needed to have new flag set bUsedWithSkeletalMesh !
+[2024.10.02-13.01.58:219][820]LogMaterial: Display: Missing cached shader map for material Material_008, compiling. 
+[2024.10.02-13.01.58:274][820]LogMaterial: Display: Missing cached shader map for material Material_008, compiling. 
+[2024.10.02-13.01.58:347][820]LogMaterial: Display: Missing cached shader map for material Material_008, compiling. 
+[2024.10.02-13.01.58:394][820]LogMaterial: Display: Missing cached shader map for material Material_008, compiling. 
+[2024.10.02-13.01.58:477][820]LogMaterial: Warning: Material /Game/Animations/Base/Screamer/Material_009.Material_009 needed to have new flag set bUsedWithSkeletalMesh !
+[2024.10.02-13.01.58:484][820]LogMaterial: Display: Missing cached shader map for material Material_009, compiling. 
+[2024.10.02-13.01.58:549][820]LogMaterial: Display: Missing cached shader map for material Material_009, compiling. 
+[2024.10.02-13.01.58:640][820]LogMaterial: Display: Missing cached shader map for material Material_009, compiling. 
+[2024.10.02-13.01.58:702][820]LogMaterial: Display: Missing cached shader map for material Material_009, compiling. 
+[2024.10.02-13.01.58:780][820]LogMaterial: Warning: Material /Game/Animations/Base/Screamer/Material_002.Material_002 needed to have new flag set bUsedWithSkeletalMesh !
+[2024.10.02-13.01.58:790][820]LogMaterial: Display: Missing cached shader map for material Material_002, compiling. 
+[2024.10.02-13.01.58:861][820]LogMaterial: Display: Missing cached shader map for material Material_002, compiling. 
+[2024.10.02-13.01.58:959][820]LogMaterial: Display: Missing cached shader map for material Material_002, compiling. 
+[2024.10.02-13.01.59:021][820]LogMaterial: Display: Missing cached shader map for material Material_002, compiling. 
+[2024.10.02-13.01.59:099][820]LogMaterial: Warning: Material /Game/Animations/Base/Screamer/Material_005.Material_005 needed to have new flag set bUsedWithSkeletalMesh !
+[2024.10.02-13.01.59:106][820]LogMaterial: Display: Missing cached shader map for material Material_005, compiling. 
+[2024.10.02-13.01.59:160][820]LogMaterial: Display: Missing cached shader map for material Material_005, compiling. 
+[2024.10.02-13.01.59:240][820]LogMaterial: Display: Missing cached shader map for material Material_005, compiling. 
+[2024.10.02-13.01.59:315][820]LogMaterial: Display: Missing cached shader map for material Material_005, compiling. 
+[2024.10.02-13.01.59:404][820]LogMaterial: Warning: Material /Game/Animations/Base/Screamer/Material_011.Material_011 needed to have new flag set bUsedWithSkeletalMesh !
+[2024.10.02-13.01.59:412][820]LogMaterial: Display: Missing cached shader map for material Material_011, compiling. 
+[2024.10.02-13.01.59:475][820]LogMaterial: Display: Missing cached shader map for material Material_011, compiling. 
+[2024.10.02-13.01.59:554][820]LogMaterial: Display: Missing cached shader map for material Material_011, compiling. 
+[2024.10.02-13.01.59:630][820]LogMaterial: Display: Missing cached shader map for material Material_011, compiling. 
+[2024.10.02-13.01.59:805][820]LogMaterial: Warning: Material /Game/Animations/Base/Screamer/Material_012.Material_012 needed to have new flag set bUsedWithSkeletalMesh !
+[2024.10.02-13.01.59:810][820]LogMaterial: Display: Missing cached shader map for material Material_012, compiling. 
+[2024.10.02-13.01.59:893][820]LogMaterial: Display: Missing cached shader map for material Material_012, compiling. 
+[2024.10.02-13.02.00:052][820]LogMaterial: Display: Missing cached shader map for material Material_012, compiling. 
+[2024.10.02-13.02.00:156][820]LogMaterial: Display: Missing cached shader map for material Material_012, compiling. 
+[2024.10.02-13.02.00:275][820]LogMaterial: Warning: Material /Game/Animations/Base/Screamer/skin.skin needed to have new flag set bUsedWithSkeletalMesh !
+[2024.10.02-13.02.00:282][820]LogMaterial: Display: Missing cached shader map for material skin, compiling. 
+[2024.10.02-13.02.00:382][820]LogMaterial: Display: Missing cached shader map for material skin, compiling. 
+[2024.10.02-13.02.00:545][820]LogMaterial: Display: Missing cached shader map for material skin, compiling. 
+[2024.10.02-13.02.00:638][820]LogMaterial: Display: Missing cached shader map for material skin, compiling. 
+[2024.10.02-13.02.00:719][820]LogMaterial: Warning: Material /Game/Animations/Base/Screamer/Material_018.Material_018 needed to have new flag set bUsedWithSkeletalMesh !
+[2024.10.02-13.02.00:728][820]LogMaterial: Display: Missing cached shader map for material Material_018, compiling. 
+[2024.10.02-13.02.00:836][820]LogMaterial: Display: Missing cached shader map for material Material_018, compiling. 
+[2024.10.02-13.02.00:932][820]LogMaterial: Display: Missing cached shader map for material Material_018, compiling. 
+[2024.10.02-13.02.01:062][820]LogMaterial: Display: Missing cached shader map for material Material_018, compiling. 
+[2024.10.02-13.02.01:169][820]LogMaterial: Warning: Material /Game/Animations/Base/Screamer/Material_014.Material_014 needed to have new flag set bUsedWithSkeletalMesh !
+[2024.10.02-13.02.01:178][820]LogMaterial: Display: Missing cached shader map for material Material_014, compiling. 
+[2024.10.02-13.02.01:245][820]LogMaterial: Display: Missing cached shader map for material Material_014, compiling. 
+[2024.10.02-13.02.01:338][820]LogMaterial: Display: Missing cached shader map for material Material_014, compiling. 
+[2024.10.02-13.02.01:425][820]LogMaterial: Display: Missing cached shader map for material Material_014, compiling. 
+[2024.10.02-13.02.01:525][820]LogMaterial: Warning: Material /Game/Animations/Base/Screamer/Material_017.Material_017 needed to have new flag set bUsedWithSkeletalMesh !
+[2024.10.02-13.02.01:535][820]LogMaterial: Display: Missing cached shader map for material Material_017, compiling. 
+[2024.10.02-13.02.01:633][820]LogMaterial: Display: Missing cached shader map for material Material_017, compiling. 
+[2024.10.02-13.02.01:751][820]LogMaterial: Display: Missing cached shader map for material Material_017, compiling. 
+[2024.10.02-13.02.01:812][820]LogMaterial: Display: Missing cached shader map for material Material_017, compiling. 
+[2024.10.02-13.02.01:897][820]LogMaterial: Warning: Material /Game/Animations/Base/Screamer/Material_013.Material_013 needed to have new flag set bUsedWithSkeletalMesh !
+[2024.10.02-13.02.01:904][820]LogMaterial: Display: Missing cached shader map for material Material_013, compiling. 
+[2024.10.02-13.02.01:958][820]LogMaterial: Display: Missing cached shader map for material Material_013, compiling. 
+[2024.10.02-13.02.02:043][820]LogMaterial: Display: Missing cached shader map for material Material_013, compiling. 
+[2024.10.02-13.02.02:102][820]LogMaterial: Display: Missing cached shader map for material Material_013, compiling. 
+[2024.10.02-13.02.02:176][820]LogMaterial: Warning: Material /Game/Animations/Base/Screamer/Material_015.Material_015 needed to have new flag set bUsedWithSkeletalMesh !
+[2024.10.02-13.02.02:182][820]LogMaterial: Display: Missing cached shader map for material Material_015, compiling. 
+[2024.10.02-13.02.02:242][820]LogMaterial: Display: Missing cached shader map for material Material_015, compiling. 
+[2024.10.02-13.02.02:316][820]LogMaterial: Display: Missing cached shader map for material Material_015, compiling. 
+[2024.10.02-13.02.02:368][820]LogMaterial: Display: Missing cached shader map for material Material_015, compiling. 
+[2024.10.02-13.02.02:459][820]LogMaterial: Warning: Material /Game/Animations/Base/Screamer/Material_016.Material_016 needed to have new flag set bUsedWithSkeletalMesh !
+[2024.10.02-13.02.02:471][820]LogMaterial: Display: Missing cached shader map for material Material_016, compiling. 
+[2024.10.02-13.02.02:549][820]LogMaterial: Display: Missing cached shader map for material Material_016, compiling. 
+[2024.10.02-13.02.02:632][820]LogMaterial: Display: Missing cached shader map for material Material_016, compiling. 
+[2024.10.02-13.02.02:689][820]LogMaterial: Display: Missing cached shader map for material Material_016, compiling. 
+[2024.10.02-13.02.02:774][820]LogMaterial: Warning: Material /Game/Animations/Base/Screamer/damit_yellow_.damit_yellow_ needed to have new flag set bUsedWithSkeletalMesh !
+[2024.10.02-13.02.02:779][820]LogMaterial: Display: Missing cached shader map for material damit_yellow_, compiling. 
+[2024.10.02-13.02.02:834][820]LogMaterial: Display: Missing cached shader map for material damit_yellow_, compiling. 
+[2024.10.02-13.02.02:912][820]LogMaterial: Display: Missing cached shader map for material damit_yellow_, compiling. 
+[2024.10.02-13.02.02:979][820]LogMaterial: Display: Missing cached shader map for material damit_yellow_, compiling. 
+[2024.10.02-13.02.03:046][820]LogShaderCompilers: Display: Shaders left to compile 1840
+[2024.10.02-13.02.03:052][820]LogMaterial: Warning: Material /Game/Animations/Base/Screamer/short_brown_.short_brown_ needed to have new flag set bUsedWithSkeletalMesh !
+[2024.10.02-13.02.03:059][820]LogMaterial: Display: Missing cached shader map for material short_brown_, compiling. 
+[2024.10.02-13.02.03:113][820]LogMaterial: Display: Missing cached shader map for material short_brown_, compiling. 
+[2024.10.02-13.02.03:188][820]LogMaterial: Display: Missing cached shader map for material short_brown_, compiling. 
+[2024.10.02-13.02.03:244][820]LogMaterial: Display: Missing cached shader map for material short_brown_, compiling. 
+[2024.10.02-13.02.03:305][820]LogFbx: Triangulating skeletal mesh Cube.042
+[2024.10.02-13.02.11:803][820]LogFbx: Warning: Bones digested - 65  Depth of hierarchy - 12
+[2024.10.02-13.02.20:193][820]LogSkeletalMesh: Section 0: 1149 vertices, 3 active bones
+[2024.10.02-13.02.20:194][820]LogSkeletalMesh: Section 1: 774 vertices, 12 active bones
+[2024.10.02-13.02.20:194][820]LogSkeletalMesh: Section 2: 887 vertices, 6 active bones
+[2024.10.02-13.02.20:195][820]LogSkeletalMesh: Section 3: 1198 vertices, 6 active bones
+[2024.10.02-13.02.20:195][820]LogSkeletalMesh: Section 4: 580 vertices, 9 active bones
+[2024.10.02-13.02.20:196][820]LogSkeletalMesh: Section 5: 1174 vertices, 6 active bones
+[2024.10.02-13.02.20:196][820]LogSkeletalMesh: Section 6: 784 vertices, 4 active bones
+[2024.10.02-13.02.20:197][820]LogSkeletalMesh: Section 7: 1631 vertices, 4 active bones
+[2024.10.02-13.02.20:200][820]LogSkeletalMesh: Section 8: 4219 vertices, 6 active bones
+[2024.10.02-13.02.20:203][820]LogSkeletalMesh: Section 9: 2280 vertices, 18 active bones
+[2024.10.02-13.02.20:206][820]LogSkeletalMesh: Section 10: 2260 vertices, 18 active bones
+[2024.10.02-13.02.20:207][820]LogSkeletalMesh: Section 11: 1268 vertices, 2 active bones
+[2024.10.02-13.02.20:208][820]LogSkeletalMesh: Section 12: 1276 vertices, 2 active bones
+[2024.10.02-13.02.20:210][820]LogSkeletalMesh: Section 13: 2358 vertices, 1 active bones
+[2024.10.02-13.02.20:223][820]LogSkeletalMesh: Section 14: 8699 vertices, 1 active bones
+[2024.10.02-13.02.20:225][820]LogSkeletalMesh: Section 15: 2361 vertices, 1 active bones
+[2024.10.02-13.02.20:227][820]LogSkeletalMesh: Section 16: 1687 vertices, 2 active bones
+[2024.10.02-13.02.20:235][820]LogSkeletalMesh: Section 17: 5291 vertices, 2 active bones
+[2024.10.02-13.02.20:280][820]LogSkeletalMesh: Section 18: 35121 vertices, 1 active bones
+[2024.10.02-13.02.20:289][820]LogSkeletalMesh: Section 19: 7610 vertices, 14 active bones
+[2024.10.02-13.02.20:291][820]LogSkeletalMesh: Section 20: 1958 vertices, 9 active bones
+[2024.10.02-13.02.20:355][820]LogSkeletalMesh: Section 0: Material=0, 1408 triangles
+[2024.10.02-13.02.20:355][820]LogSkeletalMesh: Section 1: Material=1, 896 triangles
+[2024.10.02-13.02.20:355][820]LogSkeletalMesh: Section 2: Material=2, 960 triangles
+[2024.10.02-13.02.20:355][820]LogSkeletalMesh: Section 3: Material=3, 1280 triangles
+[2024.10.02-13.02.20:355][820]LogSkeletalMesh: Section 4: Material=4, 704 triangles
+[2024.10.02-13.02.20:355][820]LogSkeletalMesh: Section 5: Material=5, 1408 triangles
+[2024.10.02-13.02.20:355][820]LogSkeletalMesh: Section 6: Material=6, 1024 triangles
+[2024.10.02-13.02.20:356][820]LogSkeletalMesh: Section 7: Material=7, 2048 triangles
+[2024.10.02-13.02.20:356][820]LogSkeletalMesh: Section 8: Material=8, 5632 triangles
+[2024.10.02-13.02.20:356][820]LogSkeletalMesh: Section 9: Material=9, 2560 triangles
+[2024.10.02-13.02.20:356][820]LogSkeletalMesh: Section 10: Material=10, 2560 triangles
+[2024.10.02-13.02.20:356][820]LogSkeletalMesh: Section 11: Material=11, 1792 triangles
+[2024.10.02-13.02.20:356][820]LogSkeletalMesh: Section 12: Material=12, 1792 triangles
+[2024.10.02-13.02.20:356][820]LogSkeletalMesh: Section 13: Material=13, 3068 triangles
+[2024.10.02-13.02.20:356][820]LogSkeletalMesh: Section 14: Material=14, 15872 triangles
+[2024.10.02-13.02.20:356][820]LogSkeletalMesh: Section 15: Material=15, 3072 triangles
+[2024.10.02-13.02.20:356][820]LogSkeletalMesh: Section 16: Material=16, 2336 triangles
+[2024.10.02-13.02.20:356][820]LogSkeletalMesh: Section 17: Material=17, 6432 triangles
+[2024.10.02-13.02.20:356][820]LogSkeletalMesh: Section 18: Material=18, 63232 triangles
+[2024.10.02-13.02.20:356][820]LogSkeletalMesh: Section 19: Material=19, 10189 triangles
+[2024.10.02-13.02.20:356][820]LogSkeletalMesh: Section 20: Material=20, 2678 triangles
+[2024.10.02-13.02.20:387][820]LogSkeletalMesh: Building Skeletal Mesh SCREAMER2__1_...
+[2024.10.02-13.02.21:418][820]LogSkeletalMesh: Built Skeletal Mesh [1.03s] /Game/Animations/Base/Screamer/SCREAMER2__1_.SCREAMER2__1_
+[2024.10.02-13.02.21:663][820]LogLinker: Can't find file '/Game/Animations/Base/Screamer/SCREAMER2__1__Skeleton'
+[2024.10.02-13.02.21:666][820]LogLinker: Can't find file '/Game/Animations/Base/Screamer/SCREAMER2__1__Skeleton'
+[2024.10.02-13.02.21:677][820]LogLinker: Can't find file '/Game/Animations/Base/Screamer/SCREAMER2__1__PhysicsAsset'
+[2024.10.02-13.02.21:678][820]LogLinker: Can't find file '/Game/Animations/Base/Screamer/SCREAMER2__1__PhysicsAsset'
+[2024.10.02-13.02.21:879][820]LogFbx: =================================================
+[2024.10.02-13.02.21:879][820]LogFbx: Dumping Node START [Cube.042] 
+[2024.10.02-13.02.21:879][820]LogFbx: 	Total Deformer Count -2060491216.
+[2024.10.02-13.02.21:879][820]LogFbx: 		[Node 1] Skin (Type Skin).
+[2024.10.02-13.02.21:879][820]LogFbx: =================================================
+[2024.10.02-13.02.21:879][820]LogFbx: 	Attribute (Cube.120) Type (4).
+[2024.10.02-13.02.21:879][820]LogFbx: 		[Node Attribute Child 1] Cube.042 (Type Mesh).
+[2024.10.02-13.02.21:879][820]LogFbx: Dumping Node END [Cube.042]
+[2024.10.02-13.02.21:882][820]LogFbx: =================================================
+[2024.10.02-13.02.21:882][820]LogFbx: Dumping Node START [Cube.042] 
+[2024.10.02-13.02.21:882][820]LogFbx: 	Total Deformer Count -2060491440.
+[2024.10.02-13.02.21:882][820]LogFbx: 		[Node 1] Skin (Type Skin).
+[2024.10.02-13.02.21:882][820]LogFbx: =================================================
+[2024.10.02-13.02.21:882][820]LogFbx: 	Attribute (Cube.120) Type (4).
+[2024.10.02-13.02.21:882][820]LogFbx: 		[Node Attribute Child 1] Cube.042 (Type Mesh).
+[2024.10.02-13.02.21:882][820]LogFbx: Dumping Node END [Cube.042]
+[2024.10.02-13.02.21:885][820]LogFbx: SortedLinks :(0) Hips
+[2024.10.02-13.02.21:886][820]LogFbx: SortedLinks :(1) Spine
+[2024.10.02-13.02.21:886][820]LogFbx: SortedLinks :(2) Spine1
+[2024.10.02-13.02.21:886][820]LogFbx: SortedLinks :(3) Spine2
+[2024.10.02-13.02.21:886][820]LogFbx: SortedLinks :(4) Neck
+[2024.10.02-13.02.21:886][820]LogFbx: SortedLinks :(5) Head
+[2024.10.02-13.02.21:886][820]LogFbx: SortedLinks :(6) HeadTop_End
+[2024.10.02-13.02.21:886][820]LogFbx: SortedLinks :(7) LeftShoulder
+[2024.10.02-13.02.21:886][820]LogFbx: SortedLinks :(8) LeftArm
+[2024.10.02-13.02.21:886][820]LogFbx: SortedLinks :(9) LeftForeArm
+[2024.10.02-13.02.21:886][820]LogFbx: SortedLinks :(10) LeftHand
+[2024.10.02-13.02.21:886][820]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2024.10.02-13.02.21:886][820]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2024.10.02-13.02.21:886][820]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2024.10.02-13.02.21:886][820]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2024.10.02-13.02.21:886][820]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2024.10.02-13.02.21:886][820]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2024.10.02-13.02.21:886][820]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2024.10.02-13.02.21:886][820]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2024.10.02-13.02.21:886][820]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2024.10.02-13.02.21:886][820]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2024.10.02-13.02.21:886][820]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2024.10.02-13.02.21:886][820]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2024.10.02-13.02.21:887][820]LogFbx: SortedLinks :(23) LeftHandRing1
+[2024.10.02-13.02.21:887][820]LogFbx: SortedLinks :(24) LeftHandRing2
+[2024.10.02-13.02.21:887][820]LogFbx: SortedLinks :(25) LeftHandRing3
+[2024.10.02-13.02.21:887][820]LogFbx: SortedLinks :(26) LeftHandRing4
+[2024.10.02-13.02.21:887][820]LogFbx: SortedLinks :(27) LeftHandPinky1
+[2024.10.02-13.02.21:887][820]LogFbx: SortedLinks :(28) LeftHandPinky2
+[2024.10.02-13.02.21:887][820]LogFbx: SortedLinks :(29) LeftHandPinky3
+[2024.10.02-13.02.21:887][820]LogFbx: SortedLinks :(30) LeftHandPinky4
+[2024.10.02-13.02.21:887][820]LogFbx: SortedLinks :(31) RightShoulder
+[2024.10.02-13.02.21:887][820]LogFbx: SortedLinks :(32) RightArm
+[2024.10.02-13.02.21:887][820]LogFbx: SortedLinks :(33) RightForeArm
+[2024.10.02-13.02.21:887][820]LogFbx: SortedLinks :(34) RightHand
+[2024.10.02-13.02.21:887][820]LogFbx: SortedLinks :(35) RightHandThumb1
+[2024.10.02-13.02.21:887][820]LogFbx: SortedLinks :(36) RightHandThumb2
+[2024.10.02-13.02.21:887][820]LogFbx: SortedLinks :(37) RightHandThumb3
+[2024.10.02-13.02.21:887][820]LogFbx: SortedLinks :(38) RightHandThumb4
+[2024.10.02-13.02.21:887][820]LogFbx: SortedLinks :(39) RightHandIndex1
+[2024.10.02-13.02.21:887][820]LogFbx: SortedLinks :(40) RightHandIndex2
+[2024.10.02-13.02.21:887][820]LogFbx: SortedLinks :(41) RightHandIndex3
+[2024.10.02-13.02.21:887][820]LogFbx: SortedLinks :(42) RightHandIndex4
+[2024.10.02-13.02.21:887][820]LogFbx: SortedLinks :(43) RightHandMiddle1
+[2024.10.02-13.02.21:887][820]LogFbx: SortedLinks :(44) RightHandMiddle2
+[2024.10.02-13.02.21:887][820]LogFbx: SortedLinks :(45) RightHandMiddle3
+[2024.10.02-13.02.21:887][820]LogFbx: SortedLinks :(46) RightHandMiddle4
+[2024.10.02-13.02.21:887][820]LogFbx: SortedLinks :(47) RightHandRing1
+[2024.10.02-13.02.21:887][820]LogFbx: SortedLinks :(48) RightHandRing2
+[2024.10.02-13.02.21:887][820]LogFbx: SortedLinks :(49) RightHandRing3
+[2024.10.02-13.02.21:887][820]LogFbx: SortedLinks :(50) RightHandRing4
+[2024.10.02-13.02.21:887][820]LogFbx: SortedLinks :(51) RightHandPinky1
+[2024.10.02-13.02.21:887][820]LogFbx: SortedLinks :(52) RightHandPinky2
+[2024.10.02-13.02.21:887][820]LogFbx: SortedLinks :(53) RightHandPinky3
+[2024.10.02-13.02.21:887][820]LogFbx: SortedLinks :(54) RightHandPinky4
+[2024.10.02-13.02.21:887][820]LogFbx: SortedLinks :(55) LeftUpLeg
+[2024.10.02-13.02.21:887][820]LogFbx: SortedLinks :(56) LeftLeg
+[2024.10.02-13.02.21:887][820]LogFbx: SortedLinks :(57) LeftFoot
+[2024.10.02-13.02.21:887][820]LogFbx: SortedLinks :(58) LeftToeBase
+[2024.10.02-13.02.21:887][820]LogFbx: SortedLinks :(59) LeftToe_End
+[2024.10.02-13.02.21:887][820]LogFbx: SortedLinks :(60) RightUpLeg
+[2024.10.02-13.02.21:887][820]LogFbx: SortedLinks :(61) RightLeg
+[2024.10.02-13.02.21:887][820]LogFbx: SortedLinks :(62) RightFoot
+[2024.10.02-13.02.21:887][820]LogFbx: SortedLinks :(63) RightToeBase
+[2024.10.02-13.02.21:887][820]LogFbx: SortedLinks :(64) RightToe_End
+[2024.10.02-13.02.21:892][820]LogFbx: Parsing AnimStack mixamo.com
+[2024.10.02-13.02.21:895][820]LogLinker: Can't find file '/Game/Animations/Base/Screamer/SCREAMER2__1__Anim'
+[2024.10.02-13.02.21:896][820]LogLinker: Can't find file '/Game/Animations/Base/Screamer/SCREAMER2__1__Anim'
+[2024.10.02-13.02.22:646][820]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animations/Base/Screamer/SCREAMER2__1__Anim.SCREAMER2__1__Anim
+[2024.10.02-13.02.22:656][820]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.SCREAMER2__1__Anim) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2024.10.02-13.02.22:678][820]LogSkeletalMesh: Building Skeletal Mesh SCREAMER2__1_...
+[2024.10.02-13.02.23:711][820]LogSkeletalMesh: Built Skeletal Mesh [1.04s] /Game/Animations/Base/Screamer/SCREAMER2__1_.SCREAMER2__1_
+[2024.10.02-13.02.23:845][820]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2024.10.02-13.02.23:845][820]FBXImport: Warning: Warning skeletal mesh influence count of 9 exceeds max count of 8. Influence truncation will occur. Maximum Ignored Weight 0 
+[2024.10.02-13.02.23:905][820]LogSkeletalMesh: Building Skeletal Mesh SCREAMER2__1_...
+[2024.10.02-13.02.25:023][820]LogSkeletalMesh: Built Skeletal Mesh [1.12s] /Game/Animations/Base/Screamer/SCREAMER2__1_.SCREAMER2__1_
+[2024.10.02-13.03.06:193][596]LogSlate: Window 'Message Log' being destroyed
+[2024.10.02-13.03.06:227][596]LogSlate: Window 'Message Log' being destroyed
+[2024.10.02-13.03.07:940][631]LogAssetEditorManager: Opening Asset editor for SkeletalMesh /Game/Animations/Base/Screamer/SCREAMER2__1_.SCREAMER2__1_
+[2024.10.02-13.03.07:986][631]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0027 seconds. Added 1 classes and 2 folders.
+[2024.10.02-13.03.08:675][631]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.10.02-13.03.08:696][631]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0026 seconds. Added 1 classes and 0 folders.
+[2024.10.02-13.03.08:836][631]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2024.10.02-13.03.08:862][631]LogWorld: Changing Feature Level (Enum) from 3 to 2
+[2024.10.02-13.03.10:744][631]LogRenderer: Reallocating scene render targets to support 1096x712 Format 9 NumSamples 1 (Frame:1).
+[2024.10.02-13.03.17:755][741]LogSlate: Window 'SCREAMER2__1_' being destroyed
+[2024.10.02-13.03.17:788][741]LogSlate: Window 'SCREAMER2__1_' being destroyed
+[2024.10.02-13.08.02:443][181]LogAssetEditorManager: Opening Asset editor for SkeletalMesh /Game/Animations/Base/Screamer/SCREAMER2__1_.SCREAMER2__1_
+[2024.10.02-13.08.02:454][181]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.10.02-13.08.02:483][181]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_6:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2024.10.02-13.08.02:488][181]LogWorld: Changing Feature Level (Enum) from 3 to 2
+[2024.10.02-13.08.12:602][574]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2024.10.02-13.08.12:752][583]LogSlate: Window 'SCREAMER2__1_' being destroyed
+[2024.10.02-13.08.12:765][583]LogSlate: Window 'SCREAMER2__1_' being destroyed
+[2024.10.02-13.08.47:573][952]LogAssetEditorManager: Opening Asset editor for SkeletalMesh /Game/Animations/Base/Screamer/SCREAMER2__1_.SCREAMER2__1_
+[2024.10.02-13.08.47:585][952]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.10.02-13.08.47:614][952]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_7:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2024.10.02-13.08.47:620][952]LogWorld: Changing Feature Level (Enum) from 3 to 2
+[2024.10.02-13.08.49:300][ 19]LogSlate: Window 'SCREAMER2__1_' being destroyed
+[2024.10.02-13.08.50:243][ 60]LogUObjectHash: Compacting FUObjectHashTables data took  12.44ms
+[2024.10.02-13.08.51:423][ 60]LogSlate: Window 'Save Content' being destroyed
+[2024.10.02-13.08.51:523][ 60]LogSavePackage: Moving '../../../../../../Users/markr/MarilaOutbreak/ManilaOutbreak-Game/MarilaOubreaks/Saved/damit_yellow_9B000916416428E3EC8974B05A549A10.tmp' to '../../../../../../Users/markr/MarilaOutbreak/ManilaOutbreak-Game/MarilaOubreaks/Content/Animations/Base/Screamer/damit_yellow_.uasset'
+[2024.10.02-13.08.51:566][ 60]LogSavePackage: Moving '../../../../../../Users/markr/MarilaOutbreak/ManilaOutbreak-Game/MarilaOubreaks/Saved/Material_001864EDE9F45499713CE2E84A4A993C434.tmp' to '../../../../../../Users/markr/MarilaOutbreak/ManilaOutbreak-Game/MarilaOubreaks/Content/Animations/Base/Screamer/Material_001.uasset'
+[2024.10.02-13.08.51:603][ 60]LogSavePackage: Moving '../../../../../../Users/markr/MarilaOutbreak/ManilaOutbreak-Game/MarilaOubreaks/Saved/Material_002CD8A9A324AF43C3ED6155E928A631C48.tmp' to '../../../../../../Users/markr/MarilaOutbreak/ManilaOutbreak-Game/MarilaOubreaks/Content/Animations/Base/Screamer/Material_002.uasset'
+[2024.10.02-13.08.51:641][ 60]LogSavePackage: Moving '../../../../../../Users/markr/MarilaOutbreak/ManilaOutbreak-Game/MarilaOubreaks/Saved/Material_0032414A6D14B0A8A80973A2089CF9C65C0.tmp' to '../../../../../../Users/markr/MarilaOutbreak/ManilaOutbreak-Game/MarilaOubreaks/Content/Animations/Base/Screamer/Material_003.uasset'
+[2024.10.02-13.08.51:677][ 60]LogSavePackage: Moving '../../../../../../Users/markr/MarilaOutbreak/ManilaOutbreak-Game/MarilaOubreaks/Saved/Material_00476EC01EB4465E259C7D365940938B77D.tmp' to '../../../../../../Users/markr/MarilaOutbreak/ManilaOutbreak-Game/MarilaOubreaks/Content/Animations/Base/Screamer/Material_004.uasset'
+[2024.10.02-13.08.51:714][ 60]LogSavePackage: Moving '../../../../../../Users/markr/MarilaOutbreak/ManilaOutbreak-Game/MarilaOubreaks/Saved/Material_00560A0B5CB43C2CA8CBEDEC29F1C436BFE.tmp' to '../../../../../../Users/markr/MarilaOutbreak/ManilaOutbreak-Game/MarilaOubreaks/Content/Animations/Base/Screamer/Material_005.uasset'
+[2024.10.02-13.08.51:752][ 60]LogSavePackage: Moving '../../../../../../Users/markr/MarilaOutbreak/ManilaOutbreak-Game/MarilaOubreaks/Saved/Material_006B1CC7CD547867C3B201096B89A378DE4.tmp' to '../../../../../../Users/markr/MarilaOutbreak/ManilaOutbreak-Game/MarilaOubreaks/Content/Animations/Base/Screamer/Material_006.uasset'
+[2024.10.02-13.08.51:787][ 60]LogSavePackage: Moving '../../../../../../Users/markr/MarilaOutbreak/ManilaOutbreak-Game/MarilaOubreaks/Saved/Material_007A6E3E8224A20FC7C351DC6A5C132304F.tmp' to '../../../../../../Users/markr/MarilaOutbreak/ManilaOutbreak-Game/MarilaOubreaks/Content/Animations/Base/Screamer/Material_007.uasset'
+[2024.10.02-13.08.51:823][ 60]LogSavePackage: Moving '../../../../../../Users/markr/MarilaOutbreak/ManilaOutbreak-Game/MarilaOubreaks/Saved/Material_0082F6652A24E6CE5D1ECD3B281567A2677.tmp' to '../../../../../../Users/markr/MarilaOutbreak/ManilaOutbreak-Game/MarilaOubreaks/Content/Animations/Base/Screamer/Material_008.uasset'
+[2024.10.02-13.08.51:860][ 60]LogSavePackage: Moving '../../../../../../Users/markr/MarilaOutbreak/ManilaOutbreak-Game/MarilaOubreaks/Saved/Material_0095D79899643AC6EAEF46E6DB2A186C2A9.tmp' to '../../../../../../Users/markr/MarilaOutbreak/ManilaOutbreak-Game/MarilaOubreaks/Content/Animations/Base/Screamer/Material_009.uasset'
+[2024.10.02-13.08.51:897][ 60]LogSavePackage: Moving '../../../../../../Users/markr/MarilaOutbreak/ManilaOutbreak-Game/MarilaOubreaks/Saved/Material_0102E0A147B43FDA0F40D7E18889B97E861.tmp' to '../../../../../../Users/markr/MarilaOutbreak/ManilaOutbreak-Game/MarilaOubreaks/Content/Animations/Base/Screamer/Material_010.uasset'
+[2024.10.02-13.08.51:933][ 60]LogSavePackage: Moving '../../../../../../Users/markr/MarilaOutbreak/ManilaOutbreak-Game/MarilaOubreaks/Saved/Material_01118012A674A19A817EFBC22A474FD65B9.tmp' to '../../../../../../Users/markr/MarilaOutbreak/ManilaOutbreak-Game/MarilaOubreaks/Content/Animations/Base/Screamer/Material_011.uasset'
+[2024.10.02-13.08.51:969][ 60]LogSavePackage: Moving '../../../../../../Users/markr/MarilaOutbreak/ManilaOutbreak-Game/MarilaOubreaks/Saved/Material_0123D91266D42C993C319A1848C8CF9852E.tmp' to '../../../../../../Users/markr/MarilaOutbreak/ManilaOutbreak-Game/MarilaOubreaks/Content/Animations/Base/Screamer/Material_012.uasset'
+[2024.10.02-13.08.52:003][ 60]LogSavePackage: Moving '../../../../../../Users/markr/MarilaOutbreak/ManilaOutbreak-Game/MarilaOubreaks/Saved/Material_01376B01F2F4DA685DAE1B1349E6FCE7056.tmp' to '../../../../../../Users/markr/MarilaOutbreak/ManilaOutbreak-Game/MarilaOubreaks/Content/Animations/Base/Screamer/Material_013.uasset'
+[2024.10.02-13.08.52:037][ 60]LogSavePackage: Moving '../../../../../../Users/markr/MarilaOutbreak/ManilaOutbreak-Game/MarilaOubreaks/Saved/Material_014E0898639423A47021F9D2EA40FB78476.tmp' to '../../../../../../Users/markr/MarilaOutbreak/ManilaOutbreak-Game/MarilaOubreaks/Content/Animations/Base/Screamer/Material_014.uasset'
+[2024.10.02-13.08.52:070][ 60]LogSavePackage: Moving '../../../../../../Users/markr/MarilaOutbreak/ManilaOutbreak-Game/MarilaOubreaks/Saved/Material_015189067DB4C70A78231940E93B85E433F.tmp' to '../../../../../../Users/markr/MarilaOutbreak/ManilaOutbreak-Game/MarilaOubreaks/Content/Animations/Base/Screamer/Material_015.uasset'
+[2024.10.02-13.08.52:107][ 60]LogSavePackage: Moving '../../../../../../Users/markr/MarilaOutbreak/ManilaOutbreak-Game/MarilaOubreaks/Saved/Material_0169C2C036E4B2BB61A04D425A3409FE7F8.tmp' to '../../../../../../Users/markr/MarilaOutbreak/ManilaOutbreak-Game/MarilaOubreaks/Content/Animations/Base/Screamer/Material_016.uasset'
+[2024.10.02-13.08.52:141][ 60]LogSavePackage: Moving '../../../../../../Users/markr/MarilaOutbreak/ManilaOutbreak-Game/MarilaOubreaks/Saved/Material_0178220C49244D761731A8362843110245E.tmp' to '../../../../../../Users/markr/MarilaOutbreak/ManilaOutbreak-Game/MarilaOubreaks/Content/Animations/Base/Screamer/Material_017.uasset'
+[2024.10.02-13.08.52:177][ 60]LogSavePackage: Moving '../../../../../../Users/markr/MarilaOutbreak/ManilaOutbreak-Game/MarilaOubreaks/Saved/Material_01813FB33354DDBA022D08224966ED2DB68.tmp' to '../../../../../../Users/markr/MarilaOutbreak/ManilaOutbreak-Game/MarilaOubreaks/Content/Animations/Base/Screamer/Material_018.uasset'
+[2024.10.02-13.08.52:386][ 60]LogSavePackage: Moving '../../../../../../Users/markr/MarilaOutbreak/ManilaOutbreak-Game/MarilaOubreaks/Saved/SCREAMER2__1_4FF4FE1A4BCCF818071753A221B4BE8A.tmp' to '../../../../../../Users/markr/MarilaOutbreak/ManilaOutbreak-Game/MarilaOubreaks/Content/Animations/Base/Screamer/SCREAMER2__1_.uasset'
+[2024.10.02-13.08.52:424][ 60]LogSavePackage: Moving '../../../../../../Users/markr/MarilaOutbreak/ManilaOutbreak-Game/MarilaOubreaks/Saved/SCREAMER2__1__Anim7EAFEFB94D88CA2991F26ABF77253CCC.tmp' to '../../../../../../Users/markr/MarilaOutbreak/ManilaOutbreak-Game/MarilaOubreaks/Content/Animations/Base/Screamer/SCREAMER2__1__Anim.uasset'
+[2024.10.02-13.08.52:470][ 60]LogSavePackage: Moving '../../../../../../Users/markr/MarilaOutbreak/ManilaOutbreak-Game/MarilaOubreaks/Saved/SCREAMER2__1__PhysicsAssetDFD1D1064C31E9686A3B90B0F74DE509.tmp' to '../../../../../../Users/markr/MarilaOutbreak/ManilaOutbreak-Game/MarilaOubreaks/Content/Animations/Base/Screamer/SCREAMER2__1__PhysicsAsset.uasset'
+[2024.10.02-13.08.52:485][ 60]LogSavePackage: Moving '../../../../../../Users/markr/MarilaOutbreak/ManilaOutbreak-Game/MarilaOubreaks/Saved/SCREAMER2__1__SkeletonD51A045F43781CB1011FFFA71CB520BF.tmp' to '../../../../../../Users/markr/MarilaOutbreak/ManilaOutbreak-Game/MarilaOubreaks/Content/Animations/Base/Screamer/SCREAMER2__1__Skeleton.uasset'
+[2024.10.02-13.08.52:525][ 60]LogSavePackage: Moving '../../../../../../Users/markr/MarilaOutbreak/ManilaOutbreak-Game/MarilaOubreaks/Saved/short_brown_DF9AEAEC4FFDD58BBE27B4B0F5441F83.tmp' to '../../../../../../Users/markr/MarilaOutbreak/ManilaOutbreak-Game/MarilaOubreaks/Content/Animations/Base/Screamer/short_brown_.uasset'
+[2024.10.02-13.08.52:560][ 60]LogSavePackage: Moving '../../../../../../Users/markr/MarilaOutbreak/ManilaOutbreak-Game/MarilaOubreaks/Saved/skin5D2B5E4C4482CF11FBA5679A42045E33.tmp' to '../../../../../../Users/markr/MarilaOutbreak/ManilaOutbreak-Game/MarilaOubreaks/Content/Animations/Base/Screamer/skin.uasset'
+[2024.10.02-13.08.52:745][ 60]LogSlate: Window 'MarilaOubreaks - Unreal Editor' being destroyed
+[2024.10.02-13.08.53:123][ 61]Cmd: QUIT_EDITOR
+[2024.10.02-13.08.53:163][ 61]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2024.10.02-13.08.53:183][ 61]LogExit: Preparing to exit.
+[2024.10.02-13.08.53:876][ 61]LogDirectoryWatcher: A directory notification failed for 'C:/Users/markr/MarilaOutbreak/ManilaOutbreak-Game/MarilaOubreaks/Content/', and we were unable to create a new request.
+[2024.10.02-13.08.53:994][ 61]LogExit: Editor shut down
+[2024.10.02-13.08.54:001][ 61]LogExit: Transaction tracking system shut down
+[2024.10.02-13.08.54:534][ 61]LogExit: Object subsystem successfully closed.
+[2024.10.02-13.08.54:612][ 61]LogShaderCompilers: Display: Shaders left to compile 0
+[2024.10.02-13.08.54:631][ 61]LogD3D11RHI: Shutdown
+[2024.10.02-13.08.54:631][ 61]LogD3D11RHI: CleanupD3DDevice
+[2024.10.02-13.08.54:637][ 61]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2024.10.02-13.08.54:637][ 61]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2024.10.02-13.08.54:638][ 61]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2024.10.02-13.08.54:638][ 61]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2024.10.02-13.08.54:638][ 61]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2024.10.02-13.08.54:638][ 61]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2024.10.02-13.08.54:869][ 61]LogD3D11RHI: ~FD3D11DynamicRHI
+[2024.10.02-13.08.54:975][ 61]LogModuleManager: Shutting down and abandoning module PinnedCommandList (656)
+[2024.10.02-13.08.54:975][ 61]LogModuleManager: Shutting down and abandoning module SkeletonEditor (654)
+[2024.10.02-13.08.54:975][ 61]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (652)
+[2024.10.02-13.08.54:975][ 61]LogModuleManager: Shutting down and abandoning module SceneOutliner (650)
+[2024.10.02-13.08.54:975][ 61]LogModuleManager: Shutting down and abandoning module AddContentDialog (648)
+[2024.10.02-13.08.54:981][ 61]LogModuleManager: Shutting down and abandoning module WidgetCarousel (647)
+[2024.10.02-13.08.54:981][ 61]LogModuleManager: Shutting down and abandoning module EditorWidgets (644)
+[2024.10.02-13.08.54:981][ 61]LogModuleManager: Shutting down and abandoning module CollectionManager (642)
+[2024.10.02-13.08.54:983][ 61]LogModuleManager: Shutting down and abandoning module FoliageEdit (640)
+[2024.10.02-13.08.54:983][ 61]LogModuleManager: Shutting down and abandoning module LandscapeEditor (638)
+[2024.10.02-13.08.54:984][ 61]LogModuleManager: Shutting down and abandoning module MeshPaintMode (636)
+[2024.10.02-13.08.54:985][ 61]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (634)
+[2024.10.02-13.08.54:985][ 61]LogModuleManager: Shutting down and abandoning module ActorPickerMode (632)
+[2024.10.02-13.08.54:985][ 61]LogModuleManager: Shutting down and abandoning module GeometryMode (630)
+[2024.10.02-13.08.54:985][ 61]LogModuleManager: Shutting down and abandoning module TextureAlignMode (628)
+[2024.10.02-13.08.54:985][ 61]LogModuleManager: Shutting down and abandoning module BspMode (626)
+[2024.10.02-13.08.54:985][ 61]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (624)
+[2024.10.02-13.08.54:986][ 61]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (622)
+[2024.10.02-13.08.54:986][ 61]LogModuleManager: Shutting down and abandoning module AutomationWorker (620)
+[2024.10.02-13.08.54:986][ 61]LogModuleManager: Shutting down and abandoning module OculusMR (618)
+[2024.10.02-13.08.54:986][ 61]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (616)
+[2024.10.02-13.08.54:986][ 61]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (614)
+[2024.10.02-13.08.54:988][ 61]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (612)
+[2024.10.02-13.08.54:989][ 61]LogModuleManager: Shutting down and abandoning module PlacementMode (611)
+[2024.10.02-13.08.54:989][ 61]LogModuleManager: Shutting down and abandoning module MaterialEditor (610)
+[2024.10.02-13.08.54:990][ 61]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (606)
+[2024.10.02-13.08.54:991][ 61]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (604)
+[2024.10.02-13.08.54:991][ 61]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (602)
+[2024.10.02-13.08.54:991][ 61]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (600)
+[2024.10.02-13.08.54:991][ 61]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (598)
+[2024.10.02-13.08.54:991][ 61]LogModuleManager: Shutting down and abandoning module WebMMedia (596)
+[2024.10.02-13.08.54:991][ 61]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (594)
+[2024.10.02-13.08.54:992][ 61]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (592)
+[2024.10.02-13.08.54:993][ 61]LogModuleManager: Shutting down and abandoning module SequenceRecorder (591)
+[2024.10.02-13.08.54:993][ 61]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (588)
+[2024.10.02-13.08.54:993][ 61]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (586)
+[2024.10.02-13.08.54:993][ 61]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (584)
+[2024.10.02-13.08.54:993][ 61]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (582)
+[2024.10.02-13.08.54:993][ 61]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (580)
+[2024.10.02-13.08.54:993][ 61]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (578)
+[2024.10.02-13.08.54:993][ 61]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (576)
+[2024.10.02-13.08.54:993][ 61]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (574)
+[2024.10.02-13.08.54:993][ 61]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (572)
+[2024.10.02-13.08.54:993][ 61]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (570)
+[2024.10.02-13.08.54:993][ 61]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (568)
+[2024.10.02-13.08.54:993][ 61]LogModuleManager: Shutting down and abandoning module CharacterAI (566)
+[2024.10.02-13.08.54:993][ 61]LogModuleManager: Shutting down and abandoning module SmartSnapping (564)
+[2024.10.02-13.08.54:993][ 61]LogModuleManager: Shutting down and abandoning module SessionServices (562)
+[2024.10.02-13.08.54:993][ 61]LogModuleManager: Shutting down and abandoning module MeshPaint (560)
+[2024.10.02-13.08.54:993][ 61]LogModuleManager: Shutting down and abandoning module ViewportSnapping (558)
+[2024.10.02-13.08.54:993][ 61]LogModuleManager: Shutting down and abandoning module ViewportInteraction (556)
+[2024.10.02-13.08.54:993][ 61]LogModuleManager: Shutting down and abandoning module ClothPainter (554)
+[2024.10.02-13.08.54:993][ 61]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (553)
+[2024.10.02-13.08.54:993][ 61]LogModuleManager: Shutting down and abandoning module LogVisualizer (550)
+[2024.10.02-13.08.54:995][ 61]LogModuleManager: Shutting down and abandoning module IntroTutorials (548)
+[2024.10.02-13.08.54:996][ 61]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (547)
+[2024.10.02-13.08.54:997][ 61]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (544)
+[2024.10.02-13.08.54:997][ 61]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (542)
+[2024.10.02-13.08.54:997][ 61]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (540)
+[2024.10.02-13.08.54:997][ 61]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (538)
+[2024.10.02-13.08.54:997][ 61]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (537)
+[2024.10.02-13.08.55:454][ 61]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (534)
+[2024.10.02-13.08.55:454][ 61]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (532)
+[2024.10.02-13.08.55:454][ 61]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (530)
+[2024.10.02-13.08.55:454][ 61]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (528)
+[2024.10.02-13.08.55:454][ 61]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (526)
+[2024.10.02-13.08.55:454][ 61]LogModuleManager: Shutting down and abandoning module InputBindingEditor (524)
+[2024.10.02-13.08.55:455][ 61]LogModuleManager: Shutting down and abandoning module MergeActors (522)
+[2024.10.02-13.08.55:456][ 61]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (520)
+[2024.10.02-13.08.55:458][ 61]LogModuleManager: Shutting down and abandoning module LocalizationService (519)
+[2024.10.02-13.08.55:458][ 61]LogModuleManager: Shutting down and abandoning module HardwareTargeting (516)
+[2024.10.02-13.08.55:458][ 61]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (514)
+[2024.10.02-13.08.55:459][ 61]LogModuleManager: Shutting down and abandoning module UndoHistory (512)
+[2024.10.02-13.08.55:459][ 61]LogModuleManager: Shutting down and abandoning module XmlParser (510)
+[2024.10.02-13.08.55:460][ 61]LogModuleManager: Shutting down and abandoning module Blutility (508)
+[2024.10.02-13.08.55:461][ 61]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (506)
+[2024.10.02-13.08.55:461][ 61]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (505)
+[2024.10.02-13.08.55:461][ 61]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (502)
+[2024.10.02-13.08.55:461][ 61]LogModuleManager: Shutting down and abandoning module SettingsEditor (500)
+[2024.10.02-13.08.55:462][ 61]LogModuleManager: Shutting down and abandoning module ProjectLauncher (498)
+[2024.10.02-13.08.55:463][ 61]LogModuleManager: Shutting down and abandoning module SessionFrontend (496)
+[2024.10.02-13.08.55:463][ 61]LogModuleManager: Shutting down and abandoning module ProfilerClient (494)
+[2024.10.02-13.08.55:464][ 61]LogModuleManager: Shutting down and abandoning module DeviceManager (492)
+[2024.10.02-13.08.55:465][ 61]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (491)
+[2024.10.02-13.08.55:497][ 61]LogModuleManager: Shutting down and abandoning module AutomationController (488)
+[2024.10.02-13.08.55:498][ 61]LogModuleManager: Shutting down and abandoning module AutomationWindow (486)
+[2024.10.02-13.08.55:499][ 61]LogModuleManager: Shutting down and abandoning module Layers (484)
+[2024.10.02-13.08.55:501][ 61]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (482)
+[2024.10.02-13.08.55:501][ 61]LogModuleManager: Shutting down and abandoning module DetailCustomizations (480)
+[2024.10.02-13.08.55:501][ 61]LogModuleManager: Shutting down and abandoning module PackagesDialog (478)
+[2024.10.02-13.08.55:502][ 61]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (476)
+[2024.10.02-13.08.55:504][ 61]LogModuleManager: Shutting down and abandoning module Persona (474)
+[2024.10.02-13.08.55:504][ 61]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (473)
+[2024.10.02-13.08.55:504][ 61]LogModuleManager: Shutting down and abandoning module AnimGraph (471)
+[2024.10.02-13.08.55:504][ 61]LogModuleManager: Shutting down and abandoning module Kismet (468)
+[2024.10.02-13.08.55:510][ 61]LogModuleManager: Shutting down and abandoning module GraphEditor (466)
+[2024.10.02-13.08.55:511][ 61]LogModuleManager: Shutting down and abandoning module ClassViewer (464)
+[2024.10.02-13.08.55:511][ 61]LogModuleManager: Shutting down and abandoning module Toolbox (462)
+[2024.10.02-13.08.55:511][ 61]LogModuleManager: Shutting down and abandoning module ModuleUI (460)
+[2024.10.02-13.08.55:513][ 61]LogModuleManager: Shutting down and abandoning module MovieSceneTools (458)
+[2024.10.02-13.08.55:513][ 61]LogModuleManager: Shutting down and abandoning module OutputLog (456)
+[2024.10.02-13.08.55:513][ 61]LogModuleManager: Shutting down and abandoning module GammaUI (454)
+[2024.10.02-13.08.55:514][ 61]LogModuleManager: Shutting down and abandoning module Documentation (452)
+[2024.10.02-13.08.55:514][ 61]LogModuleManager: Shutting down and abandoning module LiveCoding (450)
+[2024.10.02-13.08.55:515][ 61]LogModuleManager: Shutting down and abandoning module LevelSequence (448)
+[2024.10.02-13.08.55:515][ 61]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (446)
+[2024.10.02-13.08.55:515][ 61]LogModuleManager: Shutting down and abandoning module MovieScene (444)
+[2024.10.02-13.08.55:516][ 61]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (442)
+[2024.10.02-13.08.55:517][ 61]LogModuleManager: Shutting down and abandoning module LauncherPlatform (440)
+[2024.10.02-13.08.55:517][ 61]LogModuleManager: Shutting down and abandoning module AnalyticsET (438)
+[2024.10.02-13.08.55:517][ 61]LogModuleManager: Shutting down and abandoning module PortalServices (436)
+[2024.10.02-13.08.55:517][ 61]LogModuleManager: Shutting down and abandoning module PortalRpc (434)
+[2024.10.02-13.08.55:517][ 61]LogModuleManager: Shutting down and abandoning module MessagingRpc (432)
+[2024.10.02-13.08.55:517][ 61]LogModuleManager: Shutting down and abandoning module AIModule (430)
+[2024.10.02-13.08.55:517][ 61]LogModuleManager: Shutting down and abandoning module GameplayDebugger (429)
+[2024.10.02-13.08.55:517][ 61]LogModuleManager: Shutting down and abandoning module AITestSuite (427)
+[2024.10.02-13.08.55:517][ 61]LogModuleManager: Shutting down and abandoning module NavigationSystem (425)
+[2024.10.02-13.08.55:519][ 61]LogModuleManager: Shutting down and abandoning module DesktopPlatform (422)
+[2024.10.02-13.08.55:519][ 61]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (420)
+[2024.10.02-13.08.55:526][ 61]LogModuleManager: Shutting down and abandoning module ProfilerService (418)
+[2024.10.02-13.08.55:578][ 61]LogModuleManager: Shutting down and abandoning module TaskGraph (416)
+[2024.10.02-13.08.55:580][ 61]LogModuleManager: Shutting down and abandoning module SteamVRController (414)
+[2024.10.02-13.08.55:580][ 61]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (412)
+[2024.10.02-13.08.55:580][ 61]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (410)
+[2024.10.02-13.08.55:580][ 61]LogModuleManager: Shutting down and abandoning module OculusEditor (408)
+[2024.10.02-13.08.55:581][ 61]LogModuleManager: Shutting down and abandoning module OculusInput (406)
+[2024.10.02-13.08.55:581][ 61]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (404)
+[2024.10.02-13.08.55:581][ 61]LogModuleManager: Shutting down and abandoning module EditableMesh (402)
+[2024.10.02-13.08.55:581][ 61]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (400)
+[2024.10.02-13.08.55:581][ 61]LogModuleManager: Shutting down and abandoning module CableComponent (398)
+[2024.10.02-13.08.55:581][ 61]LogModuleManager: Shutting down and abandoning module AudioCapture (396)
+[2024.10.02-13.08.55:581][ 61]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (394)
+[2024.10.02-13.08.55:581][ 61]LogModuleManager: Shutting down and abandoning module AndroidPermission (392)
+[2024.10.02-13.08.55:581][ 61]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (390)
+[2024.10.02-13.08.55:582][ 61]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (388)
+[2024.10.02-13.08.55:583][ 61]LogModuleManager: Shutting down and abandoning module MediaCompositing (386)
+[2024.10.02-13.08.55:583][ 61]LogModuleManager: Shutting down and abandoning module LinearTimecode (384)
+[2024.10.02-13.08.55:583][ 61]LogModuleManager: Shutting down and abandoning module ImgMedia (382)
+[2024.10.02-13.08.55:583][ 61]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (380)
+[2024.10.02-13.08.55:583][ 61]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (378)
+[2024.10.02-13.08.55:583][ 61]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (376)
+[2024.10.02-13.08.55:583][ 61]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (374)
+[2024.10.02-13.08.55:584][ 61]LogModuleManager: Shutting down and abandoning module NiagaraEditor (372)
+[2024.10.02-13.08.55:585][ 61]LogModuleManager: Shutting down and abandoning module HTML5Networking (370)
+[2024.10.02-13.08.55:585][ 61]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (368)
+[2024.10.02-13.08.55:585][ 61]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (366)
+[2024.10.02-13.08.55:585][ 61]LogModuleManager: Shutting down and abandoning module BackChannel (364)
+[2024.10.02-13.08.55:585][ 61]LogModuleManager: Shutting down and abandoning module AppleVision (362)
+[2024.10.02-13.08.55:585][ 61]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (360)
+[2024.10.02-13.08.55:585][ 61]LogModuleManager: Shutting down and abandoning module AppleImageUtils (358)
+[2024.10.02-13.08.55:585][ 61]LogModuleManager: Shutting down and abandoning module AlembicImporter (356)
+[2024.10.02-13.08.55:585][ 61]LogModuleManager: Shutting down and abandoning module AlembicLibrary (355)
+[2024.10.02-13.08.55:585][ 61]LogModuleManager: Shutting down and abandoning module GeometryCache (354)
+[2024.10.02-13.08.55:585][ 61]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (353)
+[2024.10.02-13.08.55:585][ 61]LogModuleManager: Shutting down and abandoning module VariantManagerContent (348)
+[2024.10.02-13.08.55:585][ 61]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (346)
+[2024.10.02-13.08.55:586][ 61]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (344)
+[2024.10.02-13.08.55:586][ 61]LogModuleManager: Shutting down and abandoning module PluginBrowser (342)
+[2024.10.02-13.08.55:587][ 61]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (340)
+[2024.10.02-13.08.55:588][ 61]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (338)
+[2024.10.02-13.08.55:589][ 61]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (336)
+[2024.10.02-13.08.55:589][ 61]LogModuleManager: Shutting down and abandoning module CryptoKeys (334)
+[2024.10.02-13.08.55:589][ 61]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (332)
+[2024.10.02-13.08.55:589][ 61]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (330)
+[2024.10.02-13.08.55:589][ 61]LogModuleManager: Shutting down and abandoning module UObjectPlugin (328)
+[2024.10.02-13.08.55:589][ 61]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (326)
+[2024.10.02-13.08.55:590][ 61]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (324)
+[2024.10.02-13.08.55:591][ 61]LogModuleManager: Shutting down and abandoning module GitSourceControl (322)
+[2024.10.02-13.08.55:591][ 61]LogModuleManager: Shutting down and abandoning module SourceControl (321)
+[2024.10.02-13.08.55:591][ 61]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (318)
+[2024.10.02-13.08.55:593][ 61]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (316)
+[2024.10.02-13.08.55:593][ 61]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (314)
+[2024.10.02-13.08.55:593][ 61]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (312)
+[2024.10.02-13.08.55:593][ 61]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (310)
+[2024.10.02-13.08.55:593][ 61]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (308)
+[2024.10.02-13.08.55:593][ 61]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (306)
+[2024.10.02-13.08.55:593][ 61]LogModuleManager: Shutting down and abandoning module Paper2DEditor (304)
+[2024.10.02-13.08.55:594][ 61]LogModuleManager: Shutting down and abandoning module SignificanceManager (302)
+[2024.10.02-13.08.55:594][ 61]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (300)
+[2024.10.02-13.08.55:595][ 61]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (298)
+[2024.10.02-13.08.55:595][ 61]LogModuleManager: Shutting down and abandoning module PhysXVehicles (296)
+[2024.10.02-13.08.55:595][ 61]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (294)
+[2024.10.02-13.08.55:595][ 61]LogModuleManager: Shutting down and abandoning module ActorSequence (292)
+[2024.10.02-13.08.55:595][ 61]LogModuleManager: Shutting down and abandoning module UdpMessaging (290)
+[2024.10.02-13.08.55:696][ 61]LogModuleManager: Shutting down and abandoning module TcpMessaging (288)
+[2024.10.02-13.08.55:797][ 61]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (286)
+[2024.10.02-13.08.55:797][ 61]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (284)
+[2024.10.02-13.08.55:797][ 61]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (282)
+[2024.10.02-13.08.55:797][ 61]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (280)
+[2024.10.02-13.08.55:797][ 61]LogModuleManager: Shutting down and abandoning module MagicLeapController (278)
+[2024.10.02-13.08.55:798][ 61]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2024.10.02-13.08.55:798][ 61]LogModuleManager: Shutting down and abandoning module MagicLeapAR (276)
+[2024.10.02-13.08.55:798][ 61]LogModuleManager: Shutting down and abandoning module AugmentedReality (275)
+[2024.10.02-13.08.55:798][ 61]LogModuleManager: Shutting down and abandoning module Niagara (272)
+[2024.10.02-13.08.55:800][ 61]LogModuleManager: Shutting down and abandoning module NiagaraCore (270)
+[2024.10.02-13.08.55:800][ 61]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (268)
+[2024.10.02-13.08.55:800][ 61]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (266)
+[2024.10.02-13.08.55:800][ 61]LogModuleManager: Shutting down and abandoning module FacialAnimation (264)
+[2024.10.02-13.08.55:800][ 61]LogModuleManager: Shutting down and abandoning module DataValidation (262)
+[2024.10.02-13.08.55:800][ 61]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (260)
+[2024.10.02-13.08.55:801][ 61]LogModuleManager: Shutting down and abandoning module LevelEditor (259)
+[2024.10.02-13.08.55:805][ 61]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (258)
+[2024.10.02-13.08.55:806][ 61]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (256)
+[2024.10.02-13.08.55:807][ 61]LogModuleManager: Shutting down and abandoning module MainFrame (254)
+[2024.10.02-13.08.55:807][ 61]LogModuleManager: Shutting down and abandoning module HotReload (253)
+[2024.10.02-13.08.55:808][ 61]LogModuleManager: Shutting down and abandoning module ContentBrowser (249)
+[2024.10.02-13.08.55:810][ 61]LogModuleManager: Shutting down and abandoning module TreeMap (247)
+[2024.10.02-13.08.55:810][ 61]LogModuleManager: Shutting down and abandoning module AnimationSharing (244)
+[2024.10.02-13.08.55:810][ 61]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (242)
+[2024.10.02-13.08.55:810][ 61]LogModuleManager: Shutting down and abandoning module AISupportModule (240)
+[2024.10.02-13.08.55:810][ 61]LogModuleManager: Shutting down and abandoning module Paper2D (238)
+[2024.10.02-13.08.55:811][ 61]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (236)
+[2024.10.02-13.08.55:812][ 61]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (234)
+[2024.10.02-13.08.55:812][ 61]LogModuleManager: Shutting down and abandoning module PacketHandler (232)
+[2024.10.02-13.08.55:812][ 61]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (230)
+[2024.10.02-13.08.55:812][ 61]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (228)
+[2024.10.02-13.08.55:813][ 61]LogModuleManager: Shutting down and abandoning module MediaAssets (226)
+[2024.10.02-13.08.55:813][ 61]LogModuleManager: Shutting down and abandoning module Overlay (224)
+[2024.10.02-13.08.55:813][ 61]LogModuleManager: Shutting down and abandoning module OverlayEditor (223)
+[2024.10.02-13.08.55:814][ 61]LogModuleManager: Shutting down and abandoning module VREditor (220)
+[2024.10.02-13.08.55:814][ 61]LogModuleManager: Shutting down and abandoning module StringTableEditor (218)
+[2024.10.02-13.08.55:815][ 61]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (216)
+[2024.10.02-13.08.55:815][ 61]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (214)
+[2024.10.02-13.08.55:816][ 61]LogModuleManager: Shutting down and abandoning module FunctionalTesting (212)
+[2024.10.02-13.08.55:816][ 61]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (210)
+[2024.10.02-13.08.55:817][ 61]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (209)
+[2024.10.02-13.08.55:817][ 61]LogModuleManager: Shutting down and abandoning module UMG (206)
+[2024.10.02-13.08.55:817][ 61]LogModuleManager: Shutting down and abandoning module UMGEditor (205)
+[2024.10.02-13.08.55:818][ 61]LogModuleManager: Shutting down and abandoning module Sequencer (204)
+[2024.10.02-13.08.55:819][ 61]LogModuleManager: Shutting down and abandoning module MessageLog (201)
+[2024.10.02-13.08.55:819][ 61]LogModuleManager: Shutting down and abandoning module SlateReflector (196)
+[2024.10.02-13.08.55:820][ 61]LogModuleManager: Shutting down and abandoning module Slate (194)
+[2024.10.02-13.08.55:820][ 61]LogModuleManager: Shutting down and abandoning module EditorStyle (192)
+[2024.10.02-13.08.55:825][ 61]LogModuleManager: Shutting down and abandoning module UnrealEd (190)
+[2024.10.02-13.08.55:827][ 61]LogModuleManager: Shutting down and abandoning module MRMesh (188)
+[2024.10.02-13.08.55:827][ 61]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (186)
+[2024.10.02-13.08.55:827][ 61]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (184)
+[2024.10.02-13.08.55:827][ 61]LogModuleManager: Shutting down and abandoning module XAudio2 (182)
+[2024.10.02-13.08.55:827][ 61]LogModuleManager: Shutting down and abandoning module Networking (180)
+[2024.10.02-13.08.55:827][ 61]LogModuleManager: Shutting down and abandoning module Core (178)
+[2024.10.02-13.08.55:827][ 61]LogModuleManager: Shutting down and abandoning module KismetCompiler (176)
+[2024.10.02-13.08.55:827][ 61]LogModuleManager: Shutting down and abandoning module MeshUtilities (174)
+[2024.10.02-13.08.55:827][ 61]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (173)
+[2024.10.02-13.08.55:828][ 61]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (172)
+[2024.10.02-13.08.55:828][ 61]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (171)
+[2024.10.02-13.08.55:828][ 61]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (169)
+[2024.10.02-13.08.55:830][ 61]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (167)
+[2024.10.02-13.08.55:831][ 61]LogModuleManager: Shutting down and abandoning module MaterialBaking (163)
+[2024.10.02-13.08.55:831][ 61]LogModuleManager: Shutting down and abandoning module DerivedDataCache (158)
+[2024.10.02-13.08.55:933][ 61]LogDerivedDataCache: Shutdown
+[2024.10.02-13.08.55:933][ 61]LogModuleManager: Shutting down and abandoning module XGEController (156)
+[2024.10.02-13.08.55:934][ 61]LogModuleManager: Shutting down and abandoning module TargetPlatform (154)
+[2024.10.02-13.08.55:935][ 61]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (153)
+[2024.10.02-13.08.55:937][ 61]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (151)
+[2024.10.02-13.08.55:937][ 61]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (149)
+[2024.10.02-13.08.55:937][ 61]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (147)
+[2024.10.02-13.08.55:937][ 61]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (145)
+[2024.10.02-13.08.55:938][ 61]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (143)
+[2024.10.02-13.08.55:938][ 61]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (141)
+[2024.10.02-13.08.55:938][ 61]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (139)
+[2024.10.02-13.08.55:938][ 61]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (137)
+[2024.10.02-13.08.55:940][ 61]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (135)
+[2024.10.02-13.08.55:940][ 61]LogModuleManager: Shutting down and abandoning module ImageWrapper (134)
+[2024.10.02-13.08.55:940][ 61]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (131)
+[2024.10.02-13.08.55:940][ 61]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (129)
+[2024.10.02-13.08.55:940][ 61]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (127)
+[2024.10.02-13.08.55:940][ 61]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (125)
+[2024.10.02-13.08.55:940][ 61]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (123)
+[2024.10.02-13.08.55:963][ 61]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (121)
+[2024.10.02-13.08.55:963][ 61]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (119)
+[2024.10.02-13.08.55:963][ 61]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (117)
+[2024.10.02-13.08.55:963][ 61]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (115)
+[2024.10.02-13.08.55:963][ 61]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (113)
+[2024.10.02-13.08.55:972][ 61]LogModuleManager: Shutting down and abandoning module Messaging (111)
+[2024.10.02-13.08.55:972][ 61]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (109)
+[2024.10.02-13.08.55:981][ 61]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (107)
+[2024.10.02-13.08.55:982][ 61]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (105)
+[2024.10.02-13.08.56:032][ 61]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (103)
+[2024.10.02-13.08.56:033][ 61]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (101)
+[2024.10.02-13.08.56:033][ 61]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (99)
+[2024.10.02-13.08.56:033][ 61]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (97)
+[2024.10.02-13.08.56:033][ 61]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (95)
+[2024.10.02-13.08.56:034][ 61]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (93)
+[2024.10.02-13.08.56:034][ 61]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (91)
+[2024.10.02-13.08.56:034][ 61]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (89)
+[2024.10.02-13.08.56:034][ 61]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (87)
+[2024.10.02-13.08.56:035][ 61]LogModuleManager: Shutting down and abandoning module InputCore (84)
+[2024.10.02-13.08.56:035][ 61]LogModuleManager: Shutting down and abandoning module Settings (82)
+[2024.10.02-13.08.56:036][ 61]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (80)
+[2024.10.02-13.08.56:036][ 61]LogModuleManager: Shutting down and abandoning module PhysXCooking (78)
+[2024.10.02-13.08.56:036][ 61]LogModuleManager: Shutting down and abandoning module SteamVR (76)
+[2024.10.02-13.08.56:036][ 61]LogHMD: Freeing OpenVRDLLHandle.
+[2024.10.02-13.08.56:036][ 61]LogModuleManager: Shutting down and abandoning module OculusHMD (74)
+[2024.10.02-13.08.56:036][ 61]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (72)
+[2024.10.02-13.08.56:036][ 61]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (70)
+[2024.10.02-13.08.56:036][ 61]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (68)
+[2024.10.02-13.08.56:036][ 61]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (64)
+[2024.10.02-13.08.56:040][ 61]LogModuleManager: Shutting down and abandoning module XMPP (59)
+[2024.10.02-13.08.56:040][ 61]LogModuleManager: Shutting down and abandoning module WebSockets (58)
+[2024.10.02-13.08.56:077][ 61]LogModuleManager: Shutting down and abandoning module HTTP (55)
+[2024.10.02-13.08.56:077][ 61]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2024.10.02-13.08.56:077][ 61]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BDB91E92F-4549-867B-77E0-12845BDE7DDD%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=61a20e894c191ddc0bc1d9921c3993e3%7C5e24b9ba359d4348bc12cee7976f4f09%7C2eec299e-b4e7-48e1-9029-50d08f7b00c9&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2024.10.02-13.08.56:107][ 61]LogModuleManager: Shutting down and abandoning module SSL (54)
+[2024.10.02-13.08.56:110][ 61]LogModuleManager: Shutting down and abandoning module WmfMedia (50)
+[2024.10.02-13.08.56:115][ 61]LogModuleManager: Shutting down and abandoning module Media (49)
+[2024.10.02-13.08.56:123][ 61]LogModuleManager: Shutting down and abandoning module MagicLeap (46)
+[2024.10.02-13.08.56:123][ 61]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (44)
+[2024.10.02-13.08.56:123][ 61]LogModuleManager: Shutting down and abandoning module NiagaraShader (42)
+[2024.10.02-13.08.56:123][ 61]LogModuleManager: Shutting down and abandoning module DatasmithContent (40)
+[2024.10.02-13.08.56:124][ 61]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2024.10.02-13.08.56:124][ 61]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2024.10.02-13.08.56:125][ 61]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2024.10.02-13.08.56:128][ 61]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2024.10.02-13.08.56:129][ 61]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2024.10.02-13.08.56:130][ 61]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2024.10.02-13.08.56:130][ 61]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2024.10.02-13.08.56:132][ 61]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2024.10.02-13.08.56:132][ 61]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2024.10.02-13.08.56:132][ 61]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2024.10.02-13.08.56:133][ 61]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2024.10.02-13.08.56:133][ 61]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2024.10.02-13.08.56:133][ 61]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2024.10.02-13.08.56:133][ 61]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2024.10.02-13.08.56:133][ 61]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2024.10.02-13.08.56:133][ 61]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2024.10.02-13.08.56:133][ 61]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2024.10.02-13.08.56:133][ 61]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2024.10.02-13.08.56:135][ 61]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2024.10.02-13.08.56:163][ 61]LogExit: Exiting.
+[2024.10.02-13.08.56:171][ 61]Log file closed, 10/02/24 21:08:56
